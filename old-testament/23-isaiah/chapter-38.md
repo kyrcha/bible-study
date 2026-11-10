@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the Lord, Set thine house in order: for thou shalt die, and not live.
 
+**HEB** בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּב֣וֹא אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן־אָמ֜וֹץ הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה־אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה׃
+
+**JPS** In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came to him, and said unto him: 'Thus saith HaShem: Set thy house in order; for thou shalt die, and not live.'
+
 ## 2
 
 **GRC** καὶ ἀπέστρεψεν Ἑζεκίας τὸ πρόσωπον αὐτοῦ πρὸς τὸν τοῖχον, καὶ προσεύξατο πρὸς Κύριον
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τότε έστρεψεν ο Εζεκίας το πρόσωπον αυτού προς τον τοίχον και προσηυχήθη εις τον Κύριον,
 
 **KJV** Then Hezekiah turned his face toward the wall, and prayed unto the Lord,
+
+**HEB** וַיַּסֵּ֧ב חִזְקִיָּ֛הוּ פָּנָ֖יו אֶל־הַקִּ֑יר וַיִּתְפַּלֵּ֖ל אֶל־יְהוָֽה׃
+
+**JPS** Then Hezekiah turned his face to the wall, and prayed unto HaShem,
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And said, Remember now, O Lord, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore.
 
+**HEB** וַיֹּאמַ֗ר אָנָּ֤ה יְהוָה֙ זְכָר־נָ֞א אֵ֣ת אֲשֶׁ֧ר הִתְהַלַּ֣כְתִּי לְפָנֶ֗יךָ בֶּֽאֱמֶת֙ וּבְלֵ֣ב שָׁלֵ֔ם וְהַטּ֥וֹב בְּעֵינֶ֖יךָ עָשִׂ֑יתִי וַיֵּ֥בְךְּ חִזְקִיָּ֖הוּ בְּכִ֥י גָדֽוֹל׃
+
+**JPS** and said: 'Remember now, O HaShem, I beseech Thee, how I have walked before Thee in truth and with a whole heart, and have done that which is good in Thy sight.' And Hezekiah wept sore.
+
 ## 4
 
 **GRC** καὶ ἐγένετο λόγος Κυρίου πρὸς Ἠσαίαν λέγων
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τότε έγεινε λόγος Κυρίου προς τον Ησαΐαν λέγων,
 
 **KJV** Then came the word of the Lord to Isaiah, saying,
+
+**HEB** וַֽיְהִי֙ דְּבַר־יְהוָ֔ה אֶֽל־יְשַׁעְיָ֖הוּ לֵאמֹֽר׃
+
+**JPS** Then came the word of HaShem to Isaiah, saying:
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Go, and say to Hezekiah, Thus saith the Lord, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.
 
+**HEB** הָל֞וֹךְ וְאָמַרְתָּ֣ אֶל־חִזְקִיָּ֗הוּ כֹּֽה־אָמַ֤ר יְהוָה֙ אֱלֹהֵי֙ דָּוִ֣ד אָבִ֔יךָ שָׁמַ֙עְתִּי֙ אֶת־תְּפִלָּתֶ֔ךָ רָאִ֖יתִי אֶת־דִּמְעָתֶ֑ךָ הִנְנִי֙ יוֹסִ֣ף עַל־יָמֶ֔יךָ חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃
+
+**JPS** 'Go, and say to Hezekiah: Thus saith HaShem, the G-d of David thy father: I have heard thy prayer, I have seen thy tears; behold, I will add unto thy days fifteen years.
+
 ## 6
 
 **GRC** καὶ ἐκ χειρὸς βασιλέως Ἀσσυρίων ῥύσομαί σε καὶ τὴν πόλιν ταύτην, καὶ ὑπερασπιῶ ὑπὲρ τῆς πόλεως ταύτης.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και θέλω ελευθερώσει σε και την πόλιν ταύτην εκ της χειρός του βασιλέως της Ασσυρίας και θέλω υπερασπισθή την πόλιν ταύτην·
 
 **KJV** And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.
+
+**HEB** וּמִכַּ֤ף מֶֽלֶךְ־אַשּׁוּר֙ אַצִּ֣ילְךָ֔ וְאֵ֖ת הָעִ֣יר הַזֹּ֑את וְגַנּוֹתִ֖י עַל־הָעִ֥יר הַזֹּֽאת׃
+
+**JPS** And I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And this shall be a sign unto thee from the Lord, that the Lord will do this thing that he hath spoken;
 
+**HEB** וְזֶה־לְּךָ֥ הָא֖וֹת מֵאֵ֣ת יְהוָ֑ה אֲשֶׁר֙ יַעֲשֶׂ֣ה יְהוָ֔ה אֶת־הַדָּבָ֥ר הַזֶּ֖ה אֲשֶׁ֥ר דִּבֵּֽר׃
+
+**JPS** And this shall be the sign unto thee from HaShem, that HaShem will do this thing that He hath spoken:
+
 ## 8
 
 **GRC** ἰδοὺ ἐγὼ στρέφω τὴν σκιὰν τῶν ἀναβαθμῶν οὓς κατέβη τοὺς δέκα ἀναβαθμοὺς τοῦ οἴκου τοῦ πατρός σου ὁ ἥλιος, ἀποστρέψω τὸν ἥλιον τοὺς δέκα ἀναβαθμούς. καὶ ἀνέβη ὁ ἥλιος τοὺς δέκα ἀναβαθμοὺς οὓς κατέβη ἡ σκιά.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** ιδού, θέλω στρέψει οπίσω δέκα βαθμούς την σκιάν των βαθμών, τους οποίους κατέβη εις το ηλιακόν ώρολόγιον του Άχαζ. Και εστράφη ο ήλιος δέκα βαθμούς, διά των οποίων είχε καταβή.
 
 **KJV** Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.
+
+**HEB** הִנְנִ֣י מֵשִׁ֣יב אֶת־צֵ֣ל הַֽמַּעֲל֡וֹת אֲשֶׁ֣ר יָרְדָה֩ בְמַעֲל֨וֹת אָחָ֥ז בַּשֶּׁ֛מֶשׁ אֲחֹרַנִּ֖ית עֶ֣שֶׂר מַעֲל֑וֹת וַתָּ֤שָׁב הַשֶּׁ֙מֶשׁ֙ עֶ֣שֶׂר מַעֲל֔וֹת בַּֽמַּעֲל֖וֹת אֲשֶׁ֥ר יָרָֽדָה׃
+
+**JPS** behold, I will cause the shadow of the dial, which is gone down on the sun-dial of Ahaz, to return backward ten degrees.' So the sun returned ten degrees, by which degrees it was gone down.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:
 
+**HEB** מִכְתָּ֖ב לְחִזְקִיָּ֣הוּ מֶֽלֶךְ־יְהוּדָ֑ה בַּחֲלֹת֕וֹ וַיְחִ֖י מֵחָלְיֽוֹ׃
+
+**JPS** The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness.
+
 ## 10
 
 **GRC** Ἐγὼ εἶπα Ἐν τῷ ὕψει τῶν ἡμερῶν μου ἐν πύλαις ᾅδου καταλείψω τὰ ἔτη τὰ ἐπίλοιπα.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εγώ είπα, Εν τη μεσημβρία των ημερών μου θέλω υπάγει εις τας πύλας του τάφου· εστερήθην το υπόλοιπον των ετών μου.
 
 **KJV** I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years.
+
+**HEB** אֲנִ֣י אָמַ֗רְתִּי בִּדְמִ֥י יָמַ֛י אֵלֵ֖כָה בְּשַׁעֲרֵ֣י שְׁא֑וֹל פֻּקַּ֖דְתִּי יֶ֥תֶר שְׁנוֹתָֽי׃
+
+**JPS** I said: In the noontide of my days I shall go, even to the gates of the nether-world; I am deprived of the residue of my years.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** I said, I shall not see the Lord, even the Lord, in the land of the living: I shall behold man no more with the inhabitants of the world.
 
+**HEB** אָמַ֙רְתִּי֙ לֹא־אֶרְאֶ֣ה יָ֔הּ יָ֖הּ בְּאֶ֣רֶץ הַחַיִּ֑ים לֹא־אַבִּ֥יט אָדָ֛ם ע֖וֹד עִם־י֥וֹשְׁבֵי חָֽדֶל׃
+
+**JPS** I said: I shall not see HaShem, even HaShem in the land of the living; I shall behold man no more with the inhabitants of the world.
+
 ## 12
 
 **GRC** ἐξέλιπεν ἐκ τῆς συγγενίας μου, κατέλιπον τὸ ἐπίλοιπον τῆς ζωῆς μου, ἐξῆλθεν καὶ ἀπῆλθεν ἀπ᾽ ἐμοῦ ὥσπερ ὁ σκηνὴν καταλύων πήξας· ὡς ἱστὸς τὸ πνεῦμά μου παρ᾽ ἐμοὶ ἐγένετο ἐρίθου ἐγγιζούσης ἐκτεμεῖν.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Η ζωή μου έφυγε και μετετοπίσθη απ' εμού ως ποιμένος σκηνή· εκόπη η ζωή μου ως υπό υφαντού· από του στημονίου θέλει με κόψει· από πρωΐας έως εσπέρας θέλεις με τελειώσει.
 
 **KJV** Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt thou make an end of me.
+
+**HEB** דּוֹרִ֗י נִסַּ֧ע וְנִגְלָ֛ה מִנִּ֖י כְּאֹ֣הֶל רֹעִ֑י קִפַּ֨דְתִּי כָאֹרֵ֤ג חַיַּי֙ מִדַּלָּ֣ה יְבַצְּעֵ֔נִי מִיּ֥וֹם עַד־לַ֖יְלָה תַּשְׁלִימֵֽנִי׃
+
+**JPS** My habitation is plucked up and carried away from me as a shepherd's tent; I have rolled up like a weaver my life; He will cut me off from the thrum; from day even to night wilt Thou make an end of me.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** I reckoned till morning, that, as a lion, so will he break all my bones: from day even to night wilt thou make an end of me.
 
+**HEB** שִׁוִּ֤יתִי עַד־בֹּ֙קֶר֙ כּֽ͏ָאֲרִ֔י כֵּ֥ן יְשַׁבֵּ֖ר כָּל־עַצְמוֹתָ֑י מִיּ֥וֹם עַד־לַ֖יְלָה תַּשְׁלִימֵֽנִי׃
+
+**JPS** The more I make myself like unto a lion until morning, the more it breaketh all my bones; from day even to night wilt Thou make an end of me.
+
 ## 14
 
 **GRC** ὡς χελιδών, οὕτως φωνήσω, καὶ ὡς περιστερά, οὕτως μελετῶ· ἐξέλιπον γάρ μου οἱ ὀφθαλμοὶ τοῦ βλέπειν εἰς τὸ ὕψος τοῦ οὐρανοῦ πρὸς τὸν κύριον, ὃς ἐξείλατό με καὶ ἀφείλατό μου τὴν ὀδύνην τῆς ψυχῆς.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ως γερανός, ως χελιδών, ούτω εψέλλιζον· ωδυρόμην ως τρυγών· οι οφθαλμοί μου απέκαμον ατενίζοντες εις τα άνω. Καταθλίβομαι, Κύριε· ανακούφισόν με.
 
 **KJV** Like a crane or a swallow, so did I chatter: I did mourn as a dove: mine eyes fail with looking upward: O Lord, I am oppressed; undertake for me.
+
+**HEB** כְּס֤וּס עָגוּר֙ כֵּ֣ן אֲצַפְצֵ֔ף אֶהְגֶּ֖ה כַּיּוֹנָ֑ה דַּלּ֤וּ עֵינַי֙ לַמָּר֔וֹם אֲדֹנָ֖י עָֽשְׁקָה־לִּ֥י עָרְבֵֽנִי׃
+
+**JPS** Like a swallow or a crane, so do I chatter, I do moan as a dove; mine eyes fail with looking upward. O HaShem, I am oppressed, be Thou my surety.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** What shall I say? he hath both spoken unto me, and himself hath done it: I shall go softly all my years in the bitterness of my soul.
 
+**HEB** מָֽה־אֲדַבֵּ֥ר וְאָֽמַר־לִ֖י וְה֣וּא עָשָׂ֑ה אֶדַּדֶּ֥ה כָל־שְׁנוֹתַ֖י עַל־מַ֥ר נַפְשִֽׁי׃
+
+**JPS** What shall I say? He hath both spoken unto me, and Himself hath done it; I shall go softly all my years for the bitterness of my soul.
+
 ## 16
 
 **GRC** Κύριε, περὶ αὐτῆς γὰρ ἀνηγγέλη σοι, καὶ ἐξήγειράς μου τὴν πνοήν, καὶ παρακληθεὶς ἔζησα.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εν τούτοις, Κύριε, ζώσιν οι άνθρωποι, και εν πάσι τούτοις υπάρχει ζωή του πνεύματός μου· συ βεβαίως με θεραπεύεις και με αναζωοποιείς.
 
 **KJV** O Lord, by these things men live, and in all these things is the life of my spirit: so wilt thou recover me, and make me to live.
+
+**HEB** אֲדֹנָ֖י עֲלֵיהֶ֣ם יִֽחְי֑וּ וּלְכָל־בָּהֶן֙ חַיֵּ֣י רוּחִ֔י וְתַחֲלִימֵ֖נִי וְהַחֲיֵֽנִי׃
+
+**JPS** O L-rd, by these things men live, and altogether therein is the life of my spirit; wherefore recover Thou me, and make me to live.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Behold, for peace I had great bitterness: but thou hast in love to my soul delivered it from the pit of corruption: for thou hast cast all my sins behind thy back.
 
+**HEB** הִנֵּ֥ה לְשָׁל֖וֹם מַר־לִ֣י מָ֑ר וְאַתָּ֞ה חָשַׁ֤קְתָּ נַפְשִׁי֙ מִשַּׁ֣חַת בְּלִ֔י כִּ֥י הִשְׁלַ֛כְתָּ אַחֲרֵ֥י גֵוְךָ֖ כָּל־חֲטָאָֽי׃
+
+**JPS** Behold, for my peace I had great bitterness; but Thou hast in love to my soul delivered it from the pit of corruption; for Thou hast cast all my sins behind Thy back.
+
 ## 18
 
 **GRC** οὐ γὰρ οἱ ἐν ᾅδου αἰνέσουσίν σε, οὐδὲ οἱ ἀποθανόντες εὐλογήσουσίν σε, οὐδὲ ἐλπιοῦσιν οἱ ἐν ᾅδου τὴν ἐλεημοσύνην σου.
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διότι ο τάφος δεν θέλει σε υμνήσει· ο θάνατος δεν θέλει σε δοξολογήσει· οι καταβαίνοντες εις τον λάκκον δεν θέλουσιν ελπίζει επί την αλήθειάν σου.
 
 **KJV** For the grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth.
+
+**HEB** כִּ֣י לֹ֥א שְׁא֛וֹל תּוֹדֶ֖ךָּ מָ֣וֶת יְהַלְלֶ֑ךָּ לֹֽא־יְשַׂבְּר֥וּ יֽוֹרְדֵי־ב֖וֹר אֶל־אֲמִתֶּֽךָ׃
+
+**JPS** For the nether-world cannot praise Thee, death cannot celebrate Thee; they that go down into the pit cannot hope for Thy truth.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The living, the living, he shall praise thee, as I do this day: the father to the children shall make known thy truth.
 
+**HEB** חַ֥י חַ֛י ה֥וּא יוֹדֶ֖ךָ כָּמ֣וֹנִי הַיּ֑וֹם אָ֣ב לְבָנִ֔ים יוֹדִ֖יעַ אֶל־אֲמִתֶּֽךָ׃
+
+**JPS** The living, the living, he shall praise Thee, as I do this day; the father to the children shall make known Thy truth.
+
 ## 20
 
 **GRC** θεὲ τῆς σωτηρίας μου· καὶ οὐ παύσομαι εὐλογῶν σε μετὰ ψαλτηρίου πάσας τὰς ἡμέρας τῆς ζωῆς μου κατέναντι τοῦ οἴκου τοῦ θεοῦ.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο Κύριος ήλθε να με σώση· διά τούτο θέλομεν ψάλλει το άσμά μου επί εντεταμένων οργάνων πάσας τας ημέρας της ζωής ημών εν τω οίκω του Κυρίου.
 
 **KJV** The Lord was ready to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the Lord.
+
+**HEB** יְהוָ֖ה לְהוֹשִׁיעֵ֑נִי וּנְגִנוֹתַ֧י נְנַגֵּ֛ן כָּל־יְמֵ֥י חַיֵּ֖ינוּ עַל־בֵּ֥ית יְהוָֽה׃
+
+**JPS** HaShem is ready to save me; therefore we will sing songs to the stringed instruments all the days of our life in the house of HaShem.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** For Isaiah had said, Let them take a lump of figs, and lay it for a plaister upon the boil, and he shall recover.
 
+**HEB** וַיֹּ֣אמֶר יְשַׁעְיָ֔הוּ יִשְׂא֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וְיִמְרְח֥וּ עַֽל־הַשְּׁחִ֖ין וְיֶֽחִי׃
+
+**JPS** And Isaiah said: 'Let them take a cake of figs, and lay it for a plaster upon the boil, and he shall recover.'
+
 ## 22
 
 **GRC** καὶ εἶπεν Ἑζεκίας Τοῦτο σημεῖον πρὸς Ἑζεκίαν ὅτι ἀναβήσομαι εἰς τὸν οἶκον τοῦ θεοῦ.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ο Εζεκίας είχεν ειπεί, Τι είναι το σημείον ότι εγώ θέλω αναβή εις τον οίκον του Κυρίου;
 
 **KJV** Hezekiah also had said, What is the sign that I shall go up to the house of the Lord?
+
+**HEB** וַיֹּ֥אמֶר חִזְקִיָּ֖הוּ מָ֣ה א֑וֹת כִּ֥י אֶעֱלֶ֖ה בֵּ֥ית יְהוָֽה׃
+
+**JPS** And Hezekiah said. 'What is the sign that I shall go up to the house of HaShem?'
 
 ## Notes
 

@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->

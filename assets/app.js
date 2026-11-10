@@ -8,11 +8,15 @@
 (() => {
   "use strict";
 
+  // `def` is whether a column is shown until the reader changes it; Hebrew and JPS start hidden.
   const COLS = [
-    { tag: "GRC", label: "Αρχαία Ελληνικά" },
-    { tag: "ELL", label: "Νέα Ελληνικά" },
-    { tag: "KJV", label: "English" },
+    { tag: "GRC", label: "Αρχαία Ελληνικά", lang: "grc", def: "1" },
+    { tag: "ELL", label: "Νέα Ελληνικά", lang: "el", def: "1" },
+    { tag: "KJV", label: "English", lang: "en", def: "1" },
+    { tag: "HEB", label: "עברית · Hebrew", lang: "he", def: "0" },
+    { tag: "JPS", label: "Jewish English", lang: "en", def: "0" },
   ];
+  const TAGS = COLS.map((c) => c.tag).join("|");
   const TESTAMENTS = [
     { root: "old-testament", title: "Παλαιά Διαθήκη", en: "Old Testament" },
     { root: "new-testament", title: "Καινή Διαθήκη", en: "New Testament" },
@@ -115,7 +119,7 @@
   // ---------- markdown chapter format ----------
   const VERSE_RE = /^##\s+(\d+)\s*$/;
   const NOTES_RE = /^##\s+Notes\s*$/i;
-  const LINE_RE = /^\*\*(GRC|ELL|KJV)\*\*\s?(.*)$/;
+  const LINE_RE = new RegExp(`^\\*\\*(${TAGS})\\*\\*\\s?(.*)$`);
 
   function parseChapter(md) {
     const lines = md.replace(/\r\n/g, "\n").split("\n");
@@ -129,7 +133,7 @@
       if (!out.title && /^#\s+/.test(line)) { out.title = line.replace(/^#\s+/, "").trim(); continue; }
       if (NOTES_RE.test(line)) { inNotes = true; cur = null; continue; }
       const vm = line.match(VERSE_RE);
-      if (vm) { cur = { n: +vm[1], GRC: "", ELL: "", KJV: "", extra: [] }; out.verses.push(cur); continue; }
+      if (vm) { cur = { n: +vm[1], extra: [] }; COLS.forEach((c) => (cur[c.tag] = "")); out.verses.push(cur); continue; }
       if (!cur) continue;
       const lm = line.match(LINE_RE);
       if (lm) cur[lm[1]] = lm[2].trim();
@@ -204,8 +208,16 @@
     statusEl.textContent = msg;
   }
 
+  /** Columns the current testament has (the Hebrew and JPS exist only for the Old Testament). */
+  function bookCols() {
+    return COLS.filter((c) => !state.book || state.book.testament.sources[c.tag]);
+  }
   function visibleCols() {
-    return COLS.filter((c) => store.get("col." + c.tag, "1") === "1");
+    return bookCols().filter((c) => store.get("col." + c.tag, c.def) === "1");
+  }
+  function updateToggles() {
+    const have = new Set(bookCols().map((c) => c.tag));
+    document.querySelectorAll("[data-col]").forEach((cb) => (cb.closest("label").hidden = !have.has(cb.dataset.col)));
   }
 
   // ---------- state ----------
@@ -214,7 +226,7 @@
 
   async function init() {
     document.querySelectorAll("[data-col]").forEach((cb) => {
-      cb.checked = store.get("col." + cb.dataset.col, "1") === "1";
+      cb.checked = store.get("col." + cb.dataset.col, COLS.find((c) => c.tag === cb.dataset.col).def) === "1";
       cb.addEventListener("change", () => { store.set("col." + cb.dataset.col, cb.checked ? "1" : "0"); renderChapter(); });
     });
     $("#settingsBtn").addEventListener("click", openSettings);
@@ -260,6 +272,7 @@
     const chapter = Math.min(Math.max(+ch || 1, 1), book.chapters);
     const same = state.book === book && state.chapter === chapter;
     Object.assign(state, { book, chapter, verse: +v || 0 });
+    updateToggles();
     $("#bookSelect").value = book.slug;
     $("#chapterSelect").innerHTML = Array.from({ length: book.chapters }, (_, i) => `<option value="${i + 1}">${i + 1}</option>`).join("");
     $("#chapterSelect").value = chapter;
@@ -302,6 +315,7 @@
   // ---------- views ----------
   function renderHome() {
     state.book = null; state.path = "";
+    updateToggles();
     $("#chapterSelect").innerHTML = "";
     view.innerHTML = `
       <div class="home">
@@ -361,7 +375,7 @@
     return `
       <div class="verse-row" id="v${v.n}">
         <a class="num" href="#/${state.book.slug}/${state.chapter}/${v.n}">${v.n}</a>
-        ${cols.map((c) => `<div class="txt ${v[c.tag] ? "" : "empty"}" lang="${c.tag === "KJV" ? "en" : c.tag === "GRC" ? "grc" : "el"}"><span class="lbl">${c.tag}</span>${mdInline(v[c.tag])}</div>`).join("")}
+        ${cols.map((c) => `<div class="txt ${v[c.tag] ? "" : "empty"}" lang="${c.lang}"${c.lang === "he" ? ' dir="rtl"' : ""}><span class="lbl">${c.tag}</span>${mdInline(v[c.tag])}</div>`).join("")}
         ${canEdit ? `<button class="edit-btn" data-v="${v.n}" title="Edit verse ${v.n}" aria-label="Edit verse ${v.n}">✎</button>` : "<span></span>"}
         ${v.extra ? `<div class="extra">${md(v.extra)}</div>` : ""}
       </div>`;
@@ -375,7 +389,7 @@
     row.innerHTML = `
       <span class="num">${n}</span>
       <div class="editor">
-        ${COLS.map((c) => `<label>${c.label}<textarea rows="3" data-tag="${c.tag}">${esc(v[c.tag])}</textarea></label>`).join("")}
+        ${bookCols().map((c) => `<label>${c.label}<textarea rows="3" data-tag="${c.tag}" lang="${c.lang}"${c.lang === "he" ? ' dir="rtl"' : ""}>${esc(v[c.tag])}</textarea></label>`).join("")}
         <div class="row"><button type="button" data-a="cancel">Cancel</button><button type="button" class="primary" data-a="save">Save</button></div>
       </div>`;
     row.querySelector("textarea").focus();

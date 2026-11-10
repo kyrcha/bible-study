@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the Lord had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
 
+**HEB** וַיְהִ֣י כִשְׁמֹ֣עַ כָּל־מַלְכֵ֣י הָאֱמֹרִ֡י אֲשֶׁר֩ בְּעֵ֨בֶר הַיַּרְדֵּ֜ן יָ֗מָּה וְכָל־מַלְכֵ֤י הַֽכְּנַעֲנִי֙ אֲשֶׁ֣ר עַל־הַיָּ֔ם אֵ֠ת אֲשֶׁר־הוֹבִ֨ישׁ יְהוָ֜ה אֶת־מֵ֧י הַיַּרְדֵּ֛ן מִפְּנֵ֥י בְנֵֽי־יִשְׂרָאֵ֖ל עַד־עברנו עָבְרָ֑ם וַיִּמַּ֣ס לְבָבָ֗ם וְלֹא־הָ֨יָה בָ֥ם עוֹד֙ ר֔וּחַ מִפְּנֵ֖י בְּנֵֽי־יִשְׂרָאֵֽל׃
+
+**JPS** And it came to pass, when all the kings of the Amorites, that were beyond the Jordan westward, and all the kings of the Canaanites, that were by the sea, heard how that HaShem had dried up the waters of the Jordan from before the children of Israel, until they were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
+
 ## 2
 
 **GRC** Ὑπὸ δὲ τοῦτον τὸν καιρὸν εἶπεν Κύριος τῷ Ἰησοῖ Ποίησον σεαυτῷ μαχαίρας πετρίνας ἐκ πέτρας ἀκροτόμου, καὶ καθίσας περίτεμε τοὺς υἱοὺς Ἰσραήλ.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Κατ' εκείνον τον καιρόν είπεν ο Κύριος προς τον Ιησούν, Κάμε εις σεαυτόν λιθίνας μαχαίρας κοπτεράς, και περίτεμε εκ δευτέρου τους υιούς Ισραήλ.
 
 **KJV** At that time the Lord said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.
+
+**HEB** בָּעֵ֣ת הַהִ֗יא אָמַ֤ר יְהוָה֙ אֶל־יְהוֹשֻׁ֔עַ עֲשֵׂ֥ה לְךָ֖ חַֽרְב֣וֹת צֻרִ֑ים וְשׁ֛וּב מֹ֥ל אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל שֵׁנִֽית׃
+
+**JPS** At that time HaShem said unto Joshua: 'Make thee knives of flint, and circumcise again the children of Israel the second time.'
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins.
 
+**HEB** וַיַּעַשׂ־ל֥וֹ יְהוֹשֻׁ֖עַ חַֽרְב֣וֹת צֻרִ֑ים וַיָּ֙מָל֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל אֶל־גִּבְעַ֖ת הָעֲרָלֽוֹת׃
+
+**JPS** And Joshua made him knives of flint, and circumcised the children of Israel at Gibeath-ha-araloth.
+
 ## 4
 
 **GRC** ὃν δὲ τρόπον περιεκάθαρεν Ἰησοῦς τοὺς υἱοὺς Ἰσραήλ· ὅσοι ποτὲ ἐγένοντο ἐν τῇ ὁδῷ, καὶ ὅσοι ποτὲ ἀπερίτμητοι ἦσαν τῶν ἐξεληλυθότων ἐξ Αἰγύπτου,
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και η αιτία, διά την οποίαν ο Ιησούς έκαμε την περιτομήν, είναι ότι πας ο λαός ο εξελθών εξ Αιγύπτου, τα αρσενικά, πάντες οι άνδρες του πολέμου, απέθανον εν τη ερήμω καθ' οδόν, αφού εξήλθον εξ Αιγύπτου.
 
 **KJV** And this is the cause why Joshua did circumcise: All the people that came out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came out of Egypt.
+
+**HEB** וְזֶ֥ה הַדָּבָ֖ר אֲשֶׁר־מָ֣ל יְהוֹשֻׁ֑עַ כָּל־הָעָ֣ם הַיֹּצֵא֩ מִמִּצְרַ֨יִם הַזְּכָרִ֜ים כֹּ֣ל ׀ אַנְשֵׁ֣י הַמִּלְחָמָ֗ה מֵ֤תוּ בַמִּדְבָּר֙ בַּדֶּ֔רֶךְ בְּצֵאתָ֖ם מִמִּצְרָֽיִם׃
+
+**JPS** And this is the cause why Joshua did circumcise: all the people that came forth out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came forth out of Egypt.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Now all the people that came out were circumcised: but all the people that were born in the wilderness by the way as they came forth out of Egypt, them they had not circumcised.
 
+**HEB** כִּֽי־מֻלִ֣ים הָי֔וּ כָּל־הָעָ֖ם הַיֹּֽצְאִ֑ים וְכָל־הָ֠עָם הַיִּלֹּדִ֨ים בַּמִּדְבָּ֥ר בַּדֶּ֛רֶךְ בְּצֵאתָ֥ם מִמִּצְרַ֖יִם לֹא־מָֽלוּ׃
+
+**JPS** For all the people that came out were circumcised; but all the people that were born in the wilderness by the way as they came forth out of Egypt, had not been circumcised.
+
 ## 6
 
 **GRC** διὸ οἱ ἀπερίτμητοι ἦσαν οἱ πλεῖστοι αὐτῶν τῶν μαχίμων τῶν ἐξεληλυθότων ἐκ γῆς Αἰγύπτου, οἱ ἀπειθήσαντες τῶν ἐντολῶν τοῦ θεοῦ, οἷς καὶ διώρισεν μὴ ἰδεῖν αὐτοὺς τὴν γῆν ἣν ὤμοσεν Κύριος τοῖς πατράσιν ἡμῶν δοῦναι, γῆν ῥέουσαν γάλα καὶ μέλι.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διότι τεσσαράκοντα έτη περιήρχοντο οι υιοί Ισραήλ εν τη ερήμω, εωσού ετελεύτησαν πας ο λαός, οι άνδρες του πολέμου, οι εξελθόντες εξ Αιγύπτου, επειδή δεν υπήκουσαν εις την φωνήν του Κυρίου· προς τους οποίους ο Κύριος ώμοσεν, ότι δεν θέλει αφήσει αυτούς να ίδωσι την γην, την οποίαν ώμοσεν ο Κύριος προς τους πατέρας αυτών ότι θέλει δώσει εις ημάς, γην ρέουσαν γάλα και μέλι.
 
 **KJV** For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the Lord: unto whom the Lord sware that he would not shew them the land, which the Lord sware unto their fathers that he would give us, a land that floweth with milk and honey.
+
+**HEB** כִּ֣י ׀ אַרְבָּעִ֣ים שָׁנָ֗ה הָלְכ֣וּ בְנֵֽי־יִשְׂרָאֵל֮ בַּמִּדְבָּר֒ עַד־תֹּ֨ם כָּל־הַגּ֜וֹי אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים מִמִּצְרַ֔יִם אֲשֶׁ֥ר לֹֽא־שָׁמְע֖וּ בְּק֣וֹל יְהוָ֑ה אֲשֶׁ֨ר נִשְׁבַּ֤ע יְהוָה֙ לָהֶ֔ם לְבִלְתִּ֞י הַרְאוֹתָ֣ם אֶת־הָאָ֗רֶץ אֲשֶׁר֩ נִשְׁבַּ֨ע יְהוָ֤ה לֽ͏ַאֲבוֹתָם֙ לָ֣תֶת לָ֔נוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃
+
+**JPS** For the children of Israel walked forty years in the wilderness, till all the nation, even the men of war that came forth out of Egypt, were consumed, because they hearkened not unto the voice of HaShem; unto whom HaShem swore that He would not let them see the land which HaShem swore unto their fathers that He would give us, a land flowing with milk and honey.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And their children, whom he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way.
 
+**HEB** וְאֶת־בְּנֵיהֶם֙ הֵקִ֣ים תַּחְתָּ֔ם אֹתָ֖ם מָ֣ל יְהוֹשֻׁ֑עַ כִּי־עֲרֵלִ֣ים הָי֔וּ כִּ֛י לֹא־מָ֥לוּ אוֹתָ֖ם בַּדָּֽרֶךְ׃
+
+**JPS** And He raised up their children in their stead; them did Joshua circumcise; for they were uncircumcised, because they had not been circumcised by the way.
+
 ## 8
 
 **GRC** περιτμηθέντες δὲ ἡσυχίαν εἶχον, αὐτόθι καθήμενοι ἐν τῇ παρεμβολῇ ἕως ὑγιάσθησαν.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και αφού ετελείωσαν περιτέμνοντες πάντα τον λαόν, εκάθηντο εις τους τόπους αυτών εν τω στρατοπέδω, εωσού ιατρεύθησαν.
 
 **KJV** And it came to pass, when they had done circumcising all the people, that they abode in their places in the camp, till they were whole.
+
+**HEB** וַיְהִ֛י כַּאֲשֶׁר־תַּ֥מּוּ כָל־הַגּ֖וֹי לְהִמּ֑וֹל וַיֵּשְׁב֥וּ תַחְתָּ֛ם בַּֽמַּחֲנֶ֖ה עַ֥ד חֲיוֹתָֽם׃
+
+**JPS** And it came to pass, when all the nation were circumcised, every one of them, that they abode in their places in the camp, till they were whole.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the Lord said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day.
 
+**HEB** וַיֹּ֤אמֶר יְהוָה֙ אֶל־יְהוֹשֻׁ֔עַ הַיּ֗וֹם גַּלּ֛וֹתִי אֶת־חֶרְפַּ֥ת מִצְרַ֖יִם מֵעֲלֵיכֶ֑ם וַיִּקְרָ֞א שֵׁ֣ם הַמָּק֤וֹם הַהוּא֙ גִּלְגָּ֔ל עַ֖ד הַיּ֥וֹם הַזֶּֽה׃
+
+**JPS** And HaShem said unto Joshua: 'This day have I rolled away the reproach of Egypt from off you.' Wherefore the name of that place was called Gilgal, unto this day.
+
 ## 10
 
 **GRC** Καὶ ἐποίησαν οἱ υἱοὶ Ἰσραὴλ τὸ πάσχα τῇ τεσσαρεσκαιδεκάτῃ ἡμέρᾳ τοῦ μηνὸς ἀπὸ ἑσπέρας, ἀπὸ δυσμῶν Ἰερειχὼ ἐν τῷ πέραν τοῦ Ἰορδάνου ἐν τῷ πεδίῳ·
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και οι υιοί Ισραήλ εστρατοπέδευσαν εν Γαλγάλοις και έκαμον το πάσχα τη δεκάτη τετάρτη του μηνός προς το εσπέρας, εις τας πεδιάδας της Ιεριχώ.
 
 **KJV** And the children of Israel encamped in Gilgal, and kept the passover on the fourteenth day of the month at even in the plains of Jericho.
+
+**HEB** וַיַּחֲנ֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל בַּגִּלְגָּ֑ל וַיַּעֲשׂ֣וּ אֶת־הַפֶּ֡סַח בְּאַרְבָּעָה֩ עָשָׂ֨ר י֥וֹם לַחֹ֛דֶשׁ בָּעֶ֖רֶב בְּעַֽרְב֥וֹת יְרִיחֽוֹ׃
+
+**JPS** And the children of Israel encamped in Gilgal; and they kept the passover on the fourteenth day of the month at even in the plains of Jericho.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they did eat of the old corn of the land on the morrow after the passover, unleavened cakes, and parched corn in the selfsame day.
 
+**HEB** וַיֹּ֨אכְל֜וּ מֵעֲב֥וּר הָאָ֛רֶץ מִמָּֽחֳרַ֥ת הַפֶּ֖סַח מַצּ֣וֹת וְקָל֑וּי בְּעֶ֖צֶם הַיּ֥וֹם הַזֶּֽה׃
+
+**JPS** And they did eat of the produce of the land on the morrow after the passover, unleavened cakes and parched corn, in the selfsame day.
+
 ## 12
 
 **GRC** ἐν ταύτῃ τῇ ἡμέρα ἐξέλιπεν τὸ μάννα μετὰ τὸ βεβρωκέναι αὐτοὺς ἐκ τοῦ σίτου τῆς γῆς, καὶ οὐκέτι ὑπῆρχεν τοῖς υἱοῖς Ἰσραὴλ μάννα· ἐκαρπίσαντο δὲ τὴν κουρὰν τῶν Φοινίκων ἐν τῷ ἐνιαυτῷ ἐκείνῳ.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και τη επαύριον αφού έφαγον από του σίτου της γης, εξέλιπε το μάννα· και δεν είχον πλέον μάννα οι υιοί Ισραήλ, αλλ' έτρωγον από των γεννημάτων της γης Χαναάν τον ενιαυτόν εκείνον.
 
 **KJV** And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.
+
+**HEB** וַיִּשְׁבֹּ֨ת הַמָּ֜ן מִֽמָּחֳרָ֗ת בְּאָכְלָם֙ מֵעֲב֣וּר הָאָ֔רֶץ וְלֹא־הָ֥יָה ע֛וֹד לִבְנֵ֥י יִשְׂרָאֵ֖ל מָ֑ן וַיֹּאכְל֗וּ מִתְּבוּאַת֙ אֶ֣רֶץ כְּנַ֔עַן בַּשָּׁנָ֖ה הַהִֽיא׃
+
+**JPS** And the manna ceased on the morrow, after they had eaten of the produce of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art thou for us, or for our adversaries?
 
+**HEB** וַיְהִ֗י בִּֽהְי֣וֹת יְהוֹשֻׁעַ֮ בִּירִיחוֹ֒ וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה־אִישׁ֙ עֹמֵ֣ד לְנֶגְדּ֔וֹ וְחַרְבּ֥וֹ שְׁלוּפָ֖ה בְּיָד֑וֹ וַיֵּ֨לֶךְ יְהוֹשֻׁ֤עַ אֵלָיו֙ וַיֹּ֣אמֶר ל֔וֹ הֲלָ֥נוּ אַתָּ֖ה אִם־לְצָרֵֽינוּ׃
+
+**JPS** And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand; and Joshua went unto him, and said unto him: 'Art thou for us, or for our adversaries?'
+
 ## 14
 
 **GRC** ὁ δὲ εἶπεν αὐτῷ Ἐγὼ ἀρχιστράτηγος δυνάμεως Κυρίου νυνὶ παραγέγονα. καὶ Ἰησοῦς ἔπεσεν ἐπὶ πρόσωπον ἐπὶ τὴν γῆν καὶ εἶπεν αὐτῷ Δέσποτα, τί προστάσσεις τῷ σῷ οἰκέτῃ;
@@ -121,6 +175,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he said, Nay; but as captain of the host of the Lord am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?
 
+**HEB** וַיֹּ֣אמֶר ׀ לֹ֗א כִּ֛י אֲנִ֥י שַׂר־צְבָֽא־יְהוָ֖ה עַתָּ֣ה בָ֑אתִי וַיִּפֹּל֩ יְהוֹשֻׁ֨עַ אֶל־פָּנָ֥יו אַ֙רְצָה֙ וַיִּשְׁתָּ֔חוּ וַיֹּ֣אמֶר ל֔וֹ מָ֥ה אֲדֹנִ֖י מְדַבֵּ֥ר אֶל־עַבְדּֽוֹ׃
+
+**JPS** And he said: 'Nay, but I am captain of the host of HaShem; I am now come.' And Joshua fell on his face to the earth, and bowed down, and said unto him: 'What saith my lord unto his servant?'
+
 ## 15
 
 **GRC** καὶ λέγει ὁ ἀρχιστράτηγος Κυρίου πρὸς Ἰησοῦν Λῦσαι τὸ ὑπόδημα ἐκ τῶν ποδῶν σου· ὁ γὰρ τόπος ἐφ᾽ ᾧ νῦν ἕστηκας ἅγιός ἐστιν.
@@ -128,6 +186,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ο Αρχιστράτηγος της δυνάμεως του Κυρίου είπε προς τον Ιησούν, Λύσον το υπόδημά σου εκ των ποδών σου· διότι ο τόπος, επί του οποίου ίστασαι, είναι άγιος. Και ο Ιησούς έκαμεν ούτω.
 
 **KJV** And the captain of the Lord’s host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so.
+
+**HEB** וַיֹּאמֶר֩ שַׂר־צְבָ֨א יְהוָ֜ה אֶל־יְהוֹשֻׁ֗עַ שַׁל־נַֽעֲלְךָ֙ מֵעַ֣ל רַגְלֶ֔ךָ כִּ֣י הַמָּק֗וֹם אֲשֶׁ֥ר אַתָּ֛ה עֹמֵ֥ד עָלָ֖יו קֹ֣דֶשׁ ה֑וּא וַיַּ֥עַשׂ יְהוֹשֻׁ֖עַ כֵּֽן׃
+
+**JPS** And the captain of HaShem'S host said unto Joshua: 'Put off thy shoe from off thy foot; for the place whereon thou standest is holy.' And Joshua did so.
 
 ## Notes
 

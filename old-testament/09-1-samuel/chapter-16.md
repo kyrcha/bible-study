@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the Lord said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth–lehemite: for I have provided me a king among his sons.
 
+**HEB** וַיֹּ֨אמֶר יְהוָ֜ה אֶל־שְׁמוּאֵ֗ל עַד־מָתַי֙ אַתָּה֙ מִתְאַבֵּ֣ל אֶל־שָׁא֔וּל וַאֲנִ֣י מְאַסְתִּ֔יו מִמְּלֹ֖ךְ עַל־יִשְׂרָאֵ֑ל מַלֵּ֨א קַרְנְךָ֜ שֶׁ֗מֶן וְלֵ֤ךְ אֶֽשְׁלָחֲךָ֙ אֶל־יִשַׁ֣י בֵּֽית־הַלַּחְמִ֔י כִּֽי־רָאִ֧יתִי בְּבָנָ֛יו לִ֖י מֶֽלֶךְ׃
+
+**JPS** And HaShem said unto Samuel: 'How long wilt thou mourn for Saul, seeing I have rejected him from being king over Israel? fill thy horn with oil, and go, I will send thee to Jesse the Beth-lehemite; for I have provided Me a king among his sons.'
+
 ## 2
 
 **GRC** καὶ εἶπεν Σαμουήλ Πῶς πορευθῶ; καὶ ἀκούσεται Σαοὺλ καὶ ἀποκτενεῖ με. καὶ εἶπεν Κύριος Δάμαλιν βοῶν λάβε ἐν τῇ χειρί σου καὶ ἐρεῖς Θῦσαι ἥκω τῷ κυρίῳ·
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και είπεν ο Σαμουήλ, Πως να υπάγω; διότι θέλει ακούσει τούτο ο Σαούλ και θέλει με θανατώσει. Και είπεν ο Κύριος, Λάβε μετά σου δάμαλιν και ειπέ, Ήλθον να θυσιάσω προς τον Κύριον.
 
 **KJV** And Samuel said, How can I go? if Saul hear it, he will kill me. And the Lord said, Take an heifer with thee, and say, I am come to sacrifice to the Lord.
+
+**HEB** וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֵ֣יךְ אֵלֵ֔ךְ וְשָׁמַ֥ע שָׁא֖וּל וַהֲרָגָ֑נִי וַיֹּ֣אמֶר יְהוָ֗ה עֶגְלַ֤ת בָּקָר֙ תִּקַּ֣ח בְּיָדֶ֔ךָ וְאָ֣מַרְתָּ֔ לִזְבֹּ֥חַ לַֽיהוָ֖ה בָּֽאתִי׃
+
+**JPS** And Samuel said: 'How can I go? if Saul hear it, he will kill me.' And HaShem said: 'Take a heifer with thee, and say: I am come to sacrifice to HaShem.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And call Jesse to the sacrifice, and I will shew thee what thou shalt do: and thou shalt anoint unto me him whom I name unto thee.
 
+**HEB** וְקָרָ֥אתָ לְיִשַׁ֖י בַּזָּ֑בַח וְאָֽנֹכִ֗י אוֹדִֽיעֲךָ֙ אֵ֣ת אֲשֶֽׁר־תַּעֲשֶׂ֔ה וּמָשַׁחְתָּ֣ לִ֔י אֵ֥ת אֲשֶׁר־אֹמַ֖ר אֵלֶֽיךָ׃
+
+**JPS** And call Jesse to the sacrifice, and I will tell thee what thou shalt do; and thou shalt anoint unto Me him whom I name unto thee.'
+
 ## 4
 
 **GRC** καὶ ἐποίησεν Σαμουὴλ πάντα ἃ ἐλάλησεν αὐτῷ Κύριος, καὶ ἦλθεν εἰς Βηθλέεμ. καὶ ἐξέστησαν οἱ πρεσβύτεροι τῆς πόλεως τῇ ἀπαντήσει αὐτοῦ καὶ εἶπαν Ἢ εἰρήνη ἡ εἴσοδός σου, ὁ βλέπων;
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έκαμεν ο Σαμουήλ εκείνο το οποίον είπεν ο Κύριος, και ήλθεν εις Βηθλεέμ. Ετρόμαξαν δε οι πρεσβύτεροι της πόλεως εις την συνάντησιν αυτού και είπον, Εν ειρήνη έρχεσαι;
 
 **KJV** And Samuel did that which the Lord spake, and came to Beth–lehem. And the elders of the town trembled at his coming, and said, Comest thou peaceably?
+
+**HEB** וַיַּ֣עַשׂ שְׁמוּאֵ֗ל אֵ֚ת אֲשֶׁ֣ר דִּבֶּ֣ר יְהוָ֔ה וַיָּבֹ֖א בֵּ֣ית לָ֑חֶם וַיֶּחֶרְד֞וּ זִקְנֵ֤י הָעִיר֙ לִקְרָאת֔וֹ וַיֹּ֖אמֶר שָׁלֹ֥ם בּוֹאֶֽךָ׃
+
+**JPS** And Samuel did that which HaShem spoke, and came to Beth-lehem. And the elders of the city came to meet him trembling, and said: 'Comest thou peaceably?'
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he said, Peaceably: I am come to sacrifice unto the Lord: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.
 
+**HEB** וַיֹּ֣אמֶר ׀ שָׁל֗וֹם לִזְבֹּ֤חַ לַֽיהוָה֙ בָּ֔אתִי הִֽתְקַדְּשׁ֔וּ וּבָאתֶ֥ם אִתִּ֖י בַּזָּ֑בַח וַיְקַדֵּ֤שׁ אֶת־יִשַׁי֙ וְאֶת־בָּנָ֔יו וַיִּקְרָ֥א לָהֶ֖ם לַזָּֽבַח׃
+
+**JPS** And he said: 'Peaceably; I am come to sacrifice unto HaShem; sanctify yourselves and come with me to the sacrifice.' And he sanctified Jesse and his sons, and called them to the sacrifice.
+
 ## 6
 
 **GRC** καὶ ἐγενήθη ἐν τῷ αὐτοὺς εἰσιέναι καὶ εἶδεν τὸν Ἐλιάβ, καὶ εἶπεν Ἀλλὰ καὶ ἐνώπιον Κυρίου χριστὸς αὐτοῦ.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ενώ εισήρχοντο, ιδών τον Ελιάβ, είπε, Βεβαίως έμπροσθεν του Κυρίου είναι ο κεχρισμένος αυτού.
 
 **KJV** And it came to pass, when they were come, that he looked on Eliab, and said, Surely the Lord’s anointed is before him.
+
+**HEB** וַיְהִ֣י בְּבוֹאָ֔ם וַיַּ֖רְא אֶת־אֱלִיאָ֑ב וַיֹּ֕אמֶר אַ֛ךְ נֶ֥גֶד יְהוָ֖ה מְשִׁיחֽוֹ׃
+
+**JPS** And it came to pass, when they were come, that he beheld Eliab, and said: 'Surely HaShem'S anointed is before Him.'
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** But the Lord said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the Lord seeth not as man seeth; for man looketh on the outward appearance, but the Lord looketh on the heart.
 
+**HEB** וַיֹּ֨אמֶר יְהוָ֜ה אֶל־שְׁמוּאֵ֗ל אַל־תַּבֵּ֧ט אֶל־מַרְאֵ֛הוּ וְאֶל־גְּבֹ֥הַּ קוֹמָת֖וֹ כִּ֣י מְאַסְתִּ֑יהוּ כִּ֣י ׀ לֹ֗א אֲשֶׁ֤ר יִרְאֶה֙ הָאָדָ֔ם כִּ֤י הָֽאָדָם֙ יִרְאֶ֣ה לַעֵינַ֔יִם וַיהוָ֖ה יִרְאֶ֥ה לַלֵּבָֽב׃
+
+**JPS** But HaShem said unto Samuel: 'Look not on his countenance, or on the height of his stature; because I have rejected him; for it is not as man seeth: for man looketh on the outward appearance, but HaShem looketh on the heart.'
+
 ## 8
 
 **GRC** καὶ ἐκάλεσεν Ἰεσσαὶ τὸν Ἀμειναδάβ, καὶ παρῆλθεν κατὰ πρόσωπον Σαμουήλ, καὶ εἶπεν Οὐδὲ τοῦτον ἐξελέξατο ὁ θεός.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τότε εκάλεσεν ο Ιεσσαί τον Αβιναδάβ και διεβίβασεν αυτόν ενώπιον του Σαμουήλ. Και είπεν, ουδέ τούτον δεν εξέλεξεν ο Κύριος.
 
 **KJV** Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the Lord chosen this.
+
+**HEB** וַיִּקְרָ֤א יִשַׁי֙ אֶל־אֲבִ֣ינָדָ֔ב וַיַּעֲבִרֵ֖הוּ לִפְנֵ֣י שְׁמוּאֵ֑ל וַיֹּ֕אמֶר גַּם־בָּזֶ֖ה לֹֽא־בָחַ֥ר יְהוָֽה׃
+
+**JPS** Then Jesse called Abinadab, and made him pass before Samuel. And he said: 'Neither hath HaShem chosen this.'
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then Jesse made Shammah to pass by. And he said, Neither hath the Lord chosen this.
 
+**HEB** וַיַּעֲבֵ֥ר יִשַׁ֖י שַׁמָּ֑ה וַיֹּ֕אמֶר גַּם־בָּזֶ֖ה לֹא־בָחַ֥ר יְהוָֽה׃
+
+**JPS** Then Jesse made Shammah to pass by. And he said: 'Neither hath HaShem chosen this.'
+
 ## 10
 
 **GRC** καὶ παρήγαγεν Ἰεσσαὶ τοὺς ἑπτὰ υἱοὺς αὐτοῦ ἐνώπιον Σαμουήλ· καὶ εἶπεν Σαμουήλ Οὐκ ἐξελέξατο Κύριος ἐν τούτοις.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και διεβίβασεν ο Ιεσσαί επτά εκ των υιών αυτού ενώπιον του Σαμουήλ. Και είπεν ο Σαμουήλ προς τον Ιεσσαί, Ο Κύριος δεν εξέλεξε τούτους.
 
 **KJV** Again, Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse, The Lord hath not chosen these.
+
+**HEB** וַיַּעֲבֵ֥ר יִשַׁ֛י שִׁבְעַ֥ת בָּנָ֖יו לִפְנֵ֣י שְׁמוּאֵ֑ל וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־יִשַׁ֔י לֹא־בָחַ֥ר יְהוָ֖ה בָּאֵֽלֶּה׃
+
+**JPS** And Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse: 'The HaShem hath not chosen these.'
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Samuel said unto Jesse, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither.
 
+**HEB** וַיֹּ֨אמֶר שְׁמוּאֵ֣ל אֶל־יִשַׁי֮ הֲתַ֣מּוּ הַנְּעָרִים֒ וַיֹּ֗אמֶר ע֚וֹד שָׁאַ֣ר הַקָּטָ֔ן וְהִנֵּ֥ה רֹעֶ֖ה בַּצֹּ֑אן וַיֹּ֨אמֶר שְׁמוּאֵ֤ל אֶל־יִשַׁי֙ שִׁלְחָ֣ה וְקָחֶ֔נּוּ כִּ֥י לֹא־נָסֹ֖ב עַד־בֹּא֥וֹ פֹֽה׃
+
+**JPS** And Samuel said unto Jesse: 'Are here all thy children?' And he said: 'There remaineth yet the youngest, and, behold, he keepeth the sheep.' And Samuel said unto Jesse: 'Send and fetch him; for we will not sit down till he come hither.'
+
 ## 12
 
 **GRC** καὶ ἀπέστειλεν καὶ εἰσήγαγεν αὐτόν· καὶ οὗτος πυρράκης μετὰ κάλλους ὀφθαλμῶν, καὶ ἀγαθὸς ὁράσει Κυρίῳ· καὶ εἶπεν Κύριος πρὸς Σαμουήλ Ἀνάστα καὶ χρίσον τὸν Δαυείδ, ὅτι οὗτος ἀγαθός ἐστιν.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έστειλε και έφερεν αυτόν. Ήτο δε ξανθός και ευόφθαλμος και ώραίος την όψιν. Και είπεν ο Κύριος, Σηκώθητι, χρίσον αυτόν· διότι ούτος είναι.
 
 **KJV** And he sent, and brought him in. Now he was ruddy, and withal of a beautiful countenance, and goodly to look to. And the Lord said, Arise, anoint him: for this is he.
+
+**HEB** וַיִּשְׁלַ֤ח וַיְבִיאֵ֙הוּ֙ וְה֣וּא אַדְמוֹנִ֔י עִם־יְפֵ֥ה עֵינַ֖יִם וְט֣וֹב רֹ֑אִי וַיֹּ֧אמֶר יְהוָ֛ה ק֥וּם מְשָׁחֵ֖הוּ כִּֽי־זֶ֥ה הֽוּא׃
+
+**JPS** And he sent, and brought him in. Now he was ruddy, and withal of beautiful eyes, and goodly to look upon. And HaShem said: 'Arise, anoint him; for this is he.'
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the Lord came upon David from that day forward. So Samuel rose up, and went to Ramah.
 
+**HEB** וַיִּקַּ֨ח שְׁמוּאֵ֜ל אֶת־קֶ֣רֶן הַשֶּׁ֗מֶן וַיִּמְשַׁ֣ח אֹתוֹ֮ בְּקֶ֣רֶב אֶחָיו֒ וַתִּצְלַ֤ח רֽוּחַ־יְהוָה֙ אֶל־דָּוִ֔ד מֵהַיּ֥וֹם הַה֖וּא וָמָ֑עְלָה וַיָּ֣קָם שְׁמוּאֵ֔ל וַיֵּ֖לֶךְ הָרָמָֽתָה׃
+
+**JPS** Then Samuel took the horn of oil, and anointed him in the midst of his brethren; and the spirit of HaShem came mightily upon David from that day forward. So Samuel rose up, and went to Ramah.
+
 ## 14
 
 **GRC** Καὶ πνεῦμα Κυρίου ἀπέστη ἀπὸ Σαούλ, καὶ ἔπνιγεν αὐτὸν πνεῦμα πονηρὸν παρὰ Κυρίου.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και το Πνεύμα του Κυρίου απεσύρθη από του Σαούλ, και πνεύμα πονηρόν παρά Κυρίου ετάραττεν αυτόν.
 
 **KJV** But the Spirit of the Lord departed from Saul, and an evil spirit from the Lord troubled him.
+
+**HEB** וְר֧וּחַ יְהוָ֛ה סָ֖רָה מֵעִ֣ם שָׁא֑וּל וּבִֽעֲתַ֥תּוּ רֽוּחַ־רָעָ֖ה מֵאֵ֥ת יְהוָֽה׃
+
+**JPS** Now the spirit of HaShem had departed from Saul, and an evil spirit from HaShem terrified him.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Saul’s servants said unto him, Behold now, an evil spirit from God troubleth thee.
 
+**HEB** וַיֹּאמְר֥וּ עַבְדֵֽי־שָׁא֖וּל אֵלָ֑יו הִנֵּה־נָ֧א רֽוּחַ־אֱלֹהִ֛ים רָעָ֖ה מְבַעִתֶּֽךָ׃
+
+**JPS** And Saul's servants said unto him: 'Behold now, an evil spirit from G-d terrifieth thee.
+
 ## 16
 
 **GRC** εἰπάτωσαν δὴ οἱ δοῦλοί σου ἐνώπιόν σου καὶ ζητησάτωσαν τῷ κυρίῳ ἡμῶν ἄνδρα εἰδότα ψάλλειν ἐν κινύρᾳ· καὶ ἔσται ἐν τῷ εἶναι πνεῦμα πονηρὸν ἐπὶ σοὶ καὶ ψαλεῖ ἐν τῇ κινύρᾳ αὐτοῦ, καὶ ἀγαθόν σοι ἔσται καὶ ἀναπαύσει σε.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** ας προστάξη τώρα ο κύριος ημών τους δούλους σου, τους έμπροσθέν σου, να ζητήσωσιν άνθρωπον ειδήμονα εις το να παίζη κιθάραν· και οπότε το πονηρόν πνεύμα παρά Θεού είναι επί σε, να παίζη με την χείρα αυτού, και καλόν θέλει είσθαι εις σε.
 
 **KJV** Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well.
+
+**HEB** יֹאמַר־נָ֤א אֲדֹנֵ֙נוּ֙ עֲבָדֶ֣יךָ לְפָנֶ֔יךָ יְבַקְשׁ֕וּ אִ֕ישׁ יֹדֵ֖עַ מְנַגֵּ֣ן בַּכִּנּ֑וֹר וְהָיָ֗ה בִּֽהְי֨וֹת עָלֶ֤יךָ רֽוּחַ־אֱלֹהִים֙ רָעָ֔ה וְנִגֵּ֥ן בְּיָד֖וֹ וְט֥וֹב לָֽךְ׃
+
+**JPS** Let our lord now command thy servants, that are before thee, to seek out a man who is a skilful player on the harp; and it shall be, when the evil spirit from G-d cometh upon thee, that he shall play with his hand, and thou shalt be well.'
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Saul said unto his servants, Provide me now a man that can play well, and bring him to me.
 
+**HEB** וַיֹּ֥אמֶר שָׁא֖וּל אֶל־עֲבָדָ֑יו רְאוּ־נָ֣א לִ֗י אִ֚ישׁ מֵיטִ֣יב לְנַגֵּ֔ן וַהֲבִיאוֹתֶ֖ם אֵלָֽי׃
+
+**JPS** And Saul said unto his servants: 'Provide me now a man that can play well, and bring him to me.'
+
 ## 18
 
 **GRC** καὶ ἀπεκρίθη εἷς τῶν παιδαρίων αὐτοῦ καὶ εἶπεν Ἰδοὺ ἑόρακα υἱὸν τῷ Ἰεσσαὶ Βηθλεεμείτην καὶ αὐτὸν εἰδότα ψαλμόν, καὶ ὁ ἀνὴρ συνετὸς καὶ ὁ ἀνὴρ πολεμιστὴς καὶ σοφὸς λόγῳ, καὶ ἀνὴρ ἀγαθὸς τῷ εἴδει, καὶ Κύριος μετ᾽ αὐτοῦ.
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τότε απεκρίθη εις εκ των δούλων και είπεν, Ιδού, είδον υιόν του Ιεσσαί του Βηθλεεμίτου, ειδήμονα εις το παίζειν και ανδρειότατον και άνδρα πολεμικόν και συνετόν εις λόγον και άνθρωπον ώραίον, και ο Κύριος είναι μετ' αυτού.
 
 **KJV** Then answered one of the servants, and said, Behold, I have seen a son of Jesse the Beth–lehemite, that is cunning in playing, and a mighty valiant man, and a man of war, and prudent in matters, and a comely person, and the Lord is with him.
+
+**HEB** וַיַּעַן֩ אֶחָ֨ד מֵהַנְּעָרִ֜ים וַיֹּ֗אמֶר הִנֵּ֨ה רָאִ֜יתִי בֵּ֣ן לְיִשַׁי֮ בֵּ֣ית הַלַּחְמִי֒ יֹדֵ֣עַ נַ֠גֵּן וְגִבּ֨וֹר חַ֜יִל וְאִ֧ישׁ מִלְחָמָ֛ה וּנְב֥וֹן דָּבָ֖ר וְאִ֣ישׁ תֹּ֑אַר וַיהוָ֖ה עִמּֽוֹ׃
+
+**JPS** Then answered one of the young men, and said: 'Behold, I have seen a son of Jesse the Beth-lehemite, that is skilful in playing, and a mighty man of valour, and a man of war, and prudent in affairs, and a comely person, and HaShem is with him.'
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son, which is with the sheep.
 
+**HEB** וַיִּשְׁלַ֥ח שָׁא֛וּל מַלְאָכִ֖ים אֶל־יִשָׁ֑י וַיֹּ֕אמֶר שִׁלְחָ֥ה אֵלַ֛י אֶת־דָּוִ֥ד בִּנְךָ֖ אֲשֶׁ֥ר בַּצֹּֽאן׃
+
+**JPS** Wherefore Saul sent messengers unto Jesse, and said: 'Send me David thy son, who is with the sheep.'
+
 ## 20
 
 **GRC** καὶ ἔλαβεν Ἰεσσαὶ γόμορ ἄρτων καὶ ἀσκὸν οἴνου καὶ ἔριφον αἰγῶν ἕνα, καὶ ἐξαπέστειλεν ἐν χειρὶ Δαυεὶδ τοῦ υἱοῦ αὐτοῦ πρὸς Σαούλ.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έλαβεν ο Ιεσσαί όνον φορτωμένον με άρτους και ασκόν οίνου και εν ερίφιον εξ αιγών, και έπεμψεν αυτά διά του Δαβίδ του υιού αυτού προς τον Σαούλ.
 
 **KJV** And Jesse took an ass laden with bread, and a bottle of wine, and a kid, and sent them by David his son unto Saul.
+
+**HEB** וַיִּקַּ֨ח יִשַׁ֜י חֲמ֥וֹר לֶ֙חֶם֙ וְנֹ֣אד יַ֔יִן וּגְדִ֥י עִזִּ֖ים אֶחָ֑ד וַיִּשְׁלַ֛ח בְּיַד־דָּוִ֥ד בְּנ֖וֹ אֶל־שָׁאֽוּל׃
+
+**JPS** And Jesse took an ass laden with bread, and a bottle of wine, and a kid, and sent them by David his son unto Saul.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And David came to Saul, and stood before him: and he loved him greatly; and he became his armourbearer.
 
+**HEB** וַיָּבֹ֤א דָוִד֙ אֶל־שָׁא֔וּל וַֽיַּעֲמֹ֖ד לְפָנָ֑יו וַיֶּאֱהָבֵ֣הֽוּ מְאֹ֔ד וַֽיְהִי־ל֖וֹ נֹשֵׂ֥א כֵלִֽים׃
+
+**JPS** And David came to Saul, and stood before him; and he loved him greatly; and he became his armour-bearer.
+
 ## 22
 
 **GRC** καὶ ἀπέστειλεν Σαοὺλ πρὸς Ἰεσσαὶ λέγων Παριστάσθω δὴ Δαυεὶδ ἐνώπιον ἐμοῦ, ὅτι εὗρεν χάριν ἐν ὀφθαλμοῖς μου.
@@ -185,6 +271,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight.
 
+**HEB** וַיִּשְׁלַ֣ח שָׁא֔וּל אֶל־יִשַׁ֖י לֵאמֹ֑ר יַעֲמָד־נָ֤א דָוִד֙ לְפָנַ֔י כִּֽי־מָ֥צָא חֵ֖ן בְּעֵינָֽי׃
+
+**JPS** And Saul sent to Jesse, saying: 'Let David, I pray thee, stand before me; for he hath found favour in my sight.'
+
 ## 23
 
 **GRC** καὶ ἐγενήθη ἐν τῷ εἶναι πνεῦμα πονηρὸν ἐπὶ Σαοὺλ καὶ ἐλάμβανεν Δαυεὶδ τὴν κινύραν καὶ ἔψαλλεν ἐν τῇ χειρὶ αὐτοῦ, καὶ ἀνέψυχεν Σαοὺλ καὶ ἀγαθὸν αὐτῷ, καὶ ἀφίστατο ἀπ᾽ αὐτοῦ τὸ πνεῦμα τὸ πονηρόν.
@@ -192,6 +282,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και οπότε το πονηρόν πνεύμα παρά Θεού ήτο επί τον Σαούλ, ο Δαβίδ ελάμβανε την κιθάραν και έπαιζε διά της χειρός αυτού· τότε ανεκουφίζετο ο Σαούλ και ανεπαύετο και απεσύρετο απ' αυτού το πνεύμα το πονηρόν.
 
 **KJV** And it came to pass, when the evil spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him.
+
+**HEB** וְהָיָ֗ה בִּֽהְי֤וֹת רֽוּחַ־אֱלֹהִים֙ אֶל־שָׁא֔וּל וְלָקַ֥ח דָּוִ֛ד אֶת־הַכִּנּ֖וֹר וְנִגֵּ֣ן בְּיָד֑וֹ וְרָוַ֤ח לְשָׁאוּל֙ וְט֣וֹב ל֔וֹ וְסָ֥רָה מֵעָלָ֖יו ר֥וּחַ הָרָעָֽה׃
+
+**JPS** And it came to pass, when the evil spirit from G-d was upon Saul, that David took the harp, and played with his hand; so Saul found relief, and it was well with him, and the evil spirit departed from him.
 
 ## Notes
 

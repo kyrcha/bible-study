@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the word of the Lord came unto me, saying,
 
+**HEB** וַיְהִ֥י דְבַר־יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃
+
+**JPS** And the word of HaShem came unto me, saying:
+
 ## 2
 
 **GRC** Υἱὲ ἀνθρώπου, στήρισον τὸ πρόσωπόν σου ἐπὶ τὰ ὄρη Ἰσραὴλ καὶ προφήτευσον ἐπ᾽ αὐτά,
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Υιέ ανθρώπου, στήριξον το πρόσωπόν σου προς τα όρη του Ισραήλ και προφήτευσον εναντίον αυτών,
 
 **KJV** Son of man, set thy face toward the mountains of Israel, and prophesy against them,
+
+**HEB** בֶּן־אָדָ֕ם שִׂ֥ים פָּנֶ֖יךָ אֶל־הָרֵ֣י יִשְׂרָאֵ֑ל וְהִנָּבֵ֖א אֲלֵיהֶֽם׃
+
+**JPS** 'Son of man, set thy face toward the mountains of Israel, and prophesy against them,
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And say, Ye mountains of Israel, hear the word of the Lord God; Thus saith the Lord God to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, even I, will bring a sword upon you, and I will destroy your high places.
 
+**HEB** וְאָ֣מַרְתָּ֔ הָרֵי֙ יִשְׂרָאֵ֔ל שִׁמְע֖וּ דְּבַר־אֲדֹנָ֣י יְהוִ֑ה כֹּה־אָמַ֣ר אֲדֹנָ֣י יְ֠הוִה לֶהָרִ֨ים וְלַגְּבָע֜וֹת לָאֲפִיקִ֣ים ולגאית וְלַגֵּאָי֗וֹת הִנְנִ֨י אֲנִ֜י מֵבִ֤יא עֲלֵיכֶם֙ חֶ֔רֶב וְאִבַּדְתִּ֖י בָּמֽוֹתֵיכֶֽם׃
+
+**JPS** and say: Ye mountains of Israel, hear the word of the L-rd GOD: Thus saith the L-rd GOD concerning the mountains and concerning the hills, concerning the ravines and concerning the valleys: Behold, I, even I, will bring a sword upon you, and I will destroy your high places.
+
 ## 4
 
 **GRC** καὶ συντριβήσονται τὰ θυσιαστήρια ὑμῶν καὶ τὰ τεμένη ὑμῶν, καὶ καταβαλῶ τραυματίας ὑμῶν ἐνώπιον τῶν εἰδώλων ὑμῶν,
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και τα θυσιαστήριά σας θέλουσιν αφανισθή και τα είδωλά σας θέλουσι συντριφθή, και τους τετραυματισμένους σας θέλω καταβάλει έμπροσθεν των ξοάνων σας.
 
 **KJV** And your altars shall be desolate, and your images shall be broken: and I will cast down your slain men before your idols.
+
+**HEB** וְנָשַׁ֙מּוּ֙ מִזְבְּח֣וֹתֵיכֶ֔ם וְנִשְׁבְּר֖וּ חַמָּֽנֵיכֶ֑ם וְהִפַּלְתִּי֙ חַלְלֵיכֶ֔ם לִפְנֵ֖י גִּלּוּלֵיכֶֽם׃
+
+**JPS** And your altars shall become desolate, and your sun-images shall be broken; and I will cast down your slain men before your idols.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And I will lay the dead carcases of the children of Israel before their idols; and I will scatter your bones round about your altars.
 
+**HEB** וְנָתַתִּ֗י אֶת־פִּגְרֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לִפְנֵ֖י גִּלּֽוּלֵיהֶ֑ם וְזֵרִיתִי֙ אֶת־עַצְמ֣וֹתֵיכֶ֔ם סְבִיב֖וֹת מִזְבְּחוֹתֵיכֶֽם׃
+
+**JPS** And I will lay the carcasses of the children of Israel before their idols; and I will scatter your bones round about your altars.
+
 ## 6
 
 **GRC** ἐν πάσῃ τῇ κατοικίᾳ ὑμῶν αἱ πόλεις ἐξερημωθήσονται καὶ τὰ ὑψηλὰ ἀφανισθήσεται, ὅπως ἐξολεθρευθῇ τὰ θυσιαστήρια ὑμῶν καὶ συντριβήσονται τὰ εἴδωλα ὑμῶν καὶ ἐξαρθῇ τὰ τεμένη ὑμῶν,
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** κατά πάσαν κατοίκησίν σας αι πόλεις θέλουσιν ερημωθή, και οι υψηλοί τόποι θέλουσιν αφανισθή, ώστε τα θυσιαστήριά σας να ερημωθώσι και να αφανισθώσι, και τα ξόανά σας να συντριφθώσι και να εκλείψωσι, και τα είδωλά σας να πέσωσι κατακεκομμένα, και τα έργα σας να εξαλειφθώσι.
 
 **KJV** In all your dwellingplaces the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished.
+
+**HEB** בְּכֹל֙ מוֹשְׁב֣וֹתֵיכֶ֔ם הֶעָרִ֣ים תֶּחֱרַ֔בְנָה וְהַבָּמ֖וֹת תִּישָׁ֑מְנָה לְמַעַן֩ יֶחֶרְב֨וּ וְיֶאְשְׁמ֜וּ מִזְבְּחֽוֹתֵיכֶ֗ם וְנִשְׁבְּר֤וּ וְנִשְׁבְּתוּ֙ גִּלּ֣וּלֵיכֶ֔ם וְנִגְדְּעוּ֙ חַמָּ֣נֵיכֶ֔ם וְנִמְח֖וּ מַעֲשֵׂיכֶֽם׃
+
+**JPS** In all your dwelling-places the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your sun-images may be hewn down, and your works may be blotted out.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the slain shall fall in the midst of you, and ye shall know that I am the Lord.
 
+**HEB** וְנָפַ֥ל חָלָ֖ל בְּתֽוֹכְכֶ֑ם וִֽידַעְתֶּ֖ם כִּֽי־אֲנִ֥י יְהוָֽה׃
+
+**JPS** And the slain shall fall in the midst of you, and ye shall know that I am HaShem.
+
 ## 8
 
 **GRC** ἐν τῷ γενέσθαι ἐξ ὑμῶν ἀνασωζομένους ἐκ ῥομφαίας ἐν τοῖς ἔθνεσιν, καὶ ἐν τῷ διασκορπισμῷ ὑμῶν ἐν ταῖς χώραις,
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Θέλω όμως αφήσει υπόλοιπον, διά να έχητε τινάς εκφυγόντας την μάχαιραν μεταξύ των εθνών, όταν διασκορπισθήτε εις τους τόπους.
 
 **KJV** Yet will I leave a remnant, that ye may have some that shall escape the sword among the nations, when ye shall be scattered through the countries.
+
+**HEB** וְהוֹתַרְתִּ֗י בִּהְי֥וֹת לָכֶ֛ם פְּלִ֥יטֵי חֶ֖רֶב בַּגּוֹיִ֑ם בְּהִזָּרֽוֹתֵיכֶ֖ם בָּאֲרָצֽוֹת׃
+
+**JPS** Yet will I leave a remnant, in that ye shall have some that escape the sword among the nations, when ye shall be scattered through the countries.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they that escape of you shall remember me among the nations whither they shall be carried captives, because I am broken with their whorish heart, which hath departed from me, and with their eyes, which go a whoring after their idols: and they shall lothe themselves for the evils which they have committed in all their abominations.
 
+**HEB** וְזָכְר֨וּ פְלִֽיטֵיכֶ֜ם אוֹתִ֗י בַּגּוֹיִם֮ אֲשֶׁ֣ר נִשְׁבּוּ־שָׁם֒ אֲשֶׁ֨ר נִשְׁבַּ֜רְתִּי אֶת־לִבָּ֣ם הַזּוֹנֶ֗ה אֲשֶׁר־סָר֙ מֵֽעָלַ֔י וְאֵת֙ עֵֽינֵיהֶ֔ם הַזֹּנ֕וֹת אַחֲרֵ֖י גִּלּֽוּלֵיהֶ֑ם וְנָקֹ֙טּוּ֙ בִּפְנֵיהֶ֔ם אֶל־הָֽרָעוֹת֙ אֲשֶׁ֣ר עָשׂ֔וּ לְכֹ֖ל תּוֹעֲבֹתֵיהֶֽם׃
+
+**JPS** And they that escape of you shall remember Me among the nations whither they shall be carried captives, how that I have been anguished with their straying heart, which hath departed from Me, and with their eyes, which are gone astray after their idols; and they shall loathe themselves in their own sight for the evils which they have committed in all their abominations.
+
 ## 10
 
 **GRC** καὶ ἐπιγνώσονται διότι ἐγὼ Κύριος λελάληκα.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλουσι γνωρίσει ότι εγώ ο Κύριος δεν ελάλησα ματαίως, ότι ήθελον κάμει εις αυτούς τα κακά ταύτα.
 
 **KJV** And they shall know that I am the Lord, and that I have not said in vain that I would do this evil unto them.
+
+**HEB** וְיָדְע֖וּ כִּֽי־אֲנִ֣י יְהוָ֑ה לֹ֤א אֶל־חִנָּם֙ דִּבַּ֔רְתִּי לַעֲשׂ֥וֹת לָהֶ֖ם הָרָעָ֥ה הַזֹּֽאת׃
+
+**JPS** And they shall know that I am HaShem; I have not said in vain that I would do this evil unto them.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thus saith the Lord God; Smite with thine hand, and stamp with thy foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence.
 
+**HEB** כֹּֽה־אָמַ֞ר אֲדֹנָ֣י יְהוִ֗ה הַכֵּ֨ה בְכַפְּךָ֜ וּרְקַ֤ע בְּרַגְלְךָ֙ וֶֽאֱמָר־אָ֔ח אֶ֛ל כָּל־תּוֹעֲב֥וֹת רָע֖וֹת בֵּ֣ית יִשְׂרָאֵ֑ל אֲשֶׁ֗ר בַּחֶ֛רֶב בָּרָעָ֥ב וּבַדֶּ֖בֶר יִפֹּֽלוּ׃
+
+**JPS** Thus saith the L-rd GOD: Smite with thy hand, and stamp with thy foot, and say: Alas! because of all the evil abominations of the house of Israel; for they shall fall by the sword, by the famine, and by the pestilence.
+
 ## 12
 
 **GRC** ὁ ἐγγὺς ἐν ῥομφαίᾳ πεσεῖται, ὁ δὲ μακρὰν ἐν θανάτῳ τελευτήσει, καὶ ὁ περιεχόμενος ἐν λιμῷ συντελεσθήσεται, καὶ συντελέσω τὴν ὀργήν μου ἐπ᾽ αὐτούς.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο μακράν θέλει αποθάνει υπό λοιμού και ο πλησίον θέλει πέσει υπό μαχαίρας, ο δε εναπολειφθείς και ο πολιορκούμενος θέλει αποθάνει υπό πείνης· ούτω θέλω συντελέσει την οργήν μου επ' αυτούς.
 
 **KJV** He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is besieged shall die by the famine: thus will I accomplish my fury upon them.
+
+**HEB** הָרָח֞וֹק בַּדֶּ֣בֶר יָמ֗וּת וְהַקָּרוֹב֙ בַּחֶ֣רֶב יִפּ֔וֹל וְהַנִּשְׁאָר֙ וְהַנָּצ֔וּר בָּרָעָ֖ב יָמ֑וּת וְכִלֵּיתִ֥י חֲמָתִ֖י בָּֽם׃
+
+**JPS** He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is besieged shall die by the famine; thus will I spend My fury upon them.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then shall ye know that I am the Lord, when their slain men shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every green tree, and under every thick oak, the place where they did offer sweet savour to all their idols.
 
+**HEB** וִֽידַעְתֶּם֙ כִּֽי־אֲנִ֣י יְהוָ֔ה בִּֽהְי֣וֹת חַלְלֵיהֶ֗ם בְּתוֹךְ֙ גִּלּ֣וּלֵיהֶ֔ם סְבִיב֖וֹת מִזְבְּחֽוֹתֵיהֶ֑ם אֶל֩ כָּל־גִּבְעָ֨ה רָמָ֜ה בְּכֹ֣ל ׀ רָאשֵׁ֣י הֶהָרִ֗ים וְתַ֨חַת כָּל־עֵ֤ץ רַֽעֲנָן֙ וְתַ֙חַת֙ כָּל־אֵלָ֣ה עֲבֻתָּ֔ה מְק֗וֹם אֲשֶׁ֤ר נָֽתְנוּ־שָׁם֙ רֵ֣יחַ נִיחֹ֔חַ לְכֹ֖ל גִּלּוּלֵיהֶֽם׃
+
+**JPS** And ye shall know that I am HaShem, when their slain men shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every leafy tree, and under every thick terebinth, the place where they did offer sweet savour to all their idols.
+
 ## 14
 
 **GRC** καὶ ἐκτενῶ τὴν χεῖρά μου ἐπ᾽ αὐτούς, καὶ θήσομαι τὴν γῆν εἰς ἀφανισμὸν καὶ εἰς ὄλεθρον ἀπὸ τῆς ἐρήμου Δεβλάθα ἐκ πάσης τῆς κατοικεσίας· καὶ ἐπιγνώσεσθε ὅτι ἐγὼ Κύριος.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλω εκτείνει την χείρα μου επ' αυτούς και καταστήσει έρημον την γην, ερημοτέραν μάλιστα παρά την έρημον Διβλαθά, εις πάσας αυτών τας κατοικήσεις· και θέλουσι γνωρίσει ότι εγώ είμαι ο Κύριος.
 
 **KJV** So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I am the Lord.
+
+**HEB** וְנָטִ֤יתִי אֶת־יָדִי֙ עֲלֵיהֶ֔ם וְנָתַתִּ֨י אֶת־הָאָ֜רֶץ שְׁמָמָ֤ה וּמְשַׁמָּה֙ מִמִּדְבַּ֣ר דִּבְלָ֔תָה בְּכֹ֖ל מוֹשְׁבֽוֹתֵיהֶ֑ם וְיָדְע֖וּ כִּֽי־אֲנִ֥י יְהוָֽה׃
+
+**JPS** And I will stretch out My hand upon them, and make the land desolate and waste, more than the wilderness of Diblah, throughout all their habitations; and they shall know that I am HaShem.'
 
 ## Notes
 

@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
 
+**HEB** בֵּלְשַׁאצַּ֣ר מַלְכָּ֗א עֲבַד֙ לְחֶ֣ם רַ֔ב לְרַבְרְבָנ֖וֹהִי אֲלַ֑ף וְלָקֳבֵ֥ל אַלְפָּ֖א חַמְרָ֥א שָׁתֵֽה׃
+
+**JPS** Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
+
 ## 2
 
 **GRC** καὶ πίνων Βαλτασὰρ εἶπεν ἐν τῇ γεύσει τοῦ οἴνου αὐτοῦ ἐνεγκεῖν τὰ σκεύη τὰ χρυσᾶ καὶ τὰ ἀργυρᾶ ἃ ἐξήνεγκεν Ναβουχοδονοσὸρ ὁ πατὴρ αὐτοῦ ἐκ τοῦ ναοῦ τοῦ ἐν Ἰερουσαλήμ, καὶ πιέτωσαν ἐν αὐτοῖς ὁ βασιλεὺς καὶ οἱ μεγιστᾶνες αὐτοῦ καὶ αἱ παλλακαὶ αὐτοῦ καὶ αἱ παράκοιτοι αὐτοῦ.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εν τη γεύσει του οίνου προσέταξεν ο Βαλτάσαρ να φέρωσι τα σκεύη τα χρυσά και τα αργυρά, τα οποία Ναβουχοδονόσορ ο πατήρ αυτού αφήρεσεν εκ του ναού του εν Ιερουσαλήμ, διά να πίωσιν εν αυτοίς ο βασιλεύς και οι μεγιστάνες αυτού, αι γυναίκες αυτού και αι παλλακαί αυτού.
 
 **KJV** Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.
+
+**HEB** בֵּלְשַׁאצַּ֞ר אֲמַ֣ר ׀ בִּטְעֵ֣ם חַמְרָ֗א לְהַיְתָיָה֙ לְמָאנֵי֙ דַּהֲבָ֣א וְכַסְפָּ֔א דִּ֤י הַנְפֵּק֙ נְבוּכַדְנֶצַּ֣ר אֲב֔וּהִי מִן־הֵיכְלָ֖א דִּ֣י בִירוּשְׁלֶ֑ם וְיִשְׁתּ֣וֹן בְּה֗וֹן מַלְכָּא֙ וְרַבְרְבָנ֔וֹהִי שֵׁגְלָתֵ֖הּ וּלְחֵנָתֵֽהּ׃
+
+**JPS** Belshazzar, while he tasted the wine, commanded to bring the golden and silver vessels which Nebuchadnezzar his father had taken out of the temple which was in Jerusalem; that the king and his lords, his consorts and his concubines, might drink therein.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then they brought the golden vessels that were taken out of the temple of the house of God which was at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.
 
+**HEB** בֵּאדַ֗יִן הַיְתִיו֙ מָאנֵ֣י דַהֲבָ֔א דִּ֣י הַנְפִּ֗קוּ מִן־הֵֽיכְלָ֛א דִּֽי־בֵ֥ית אֱלָהָ֖א דִּ֣י בִירֽוּשְׁלֶ֑ם וְאִשְׁתִּ֣יו בְּה֗וֹן מַלְכָּא֙ וְרַבְרְבָנ֔וֹהִי שֵׁגְלָתֵ֖הּ וּלְחֵנָתֵֽהּ׃
+
+**JPS** Then they brought the golden vessels that were taken out of the temple of the house of G-d which was at Jerusalem; and the king, and his lords, his consorts and his concubines, drank in them.
+
 ## 4
 
 **GRC** ἔπινον οἶνον, καὶ ᾔνεσαν τοὺς θεοὺς τοὺς χρυσοῦς καὶ ἀργυροῦς καὶ χαλκοῦς καὶ σιδηροῦς καὶ ξυλίνους καὶ λιθίνους.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Έπινον οίνον και ήνεσαν τους θεούς τους χρυσούς και αργυρούς, τους χαλκούς, τους σιδηρούς, τους ξυλίνους και τους λιθίνους.
 
 **KJV** They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.
+
+**HEB** אִשְׁתִּ֖יו חַמְרָ֑א וְ֠שַׁבַּחוּ לֵֽאלָהֵ֞י דַּהֲבָ֧א וְכַסְפָּ֛א נְחָשָׁ֥א פַרְזְלָ֖א אָעָ֥א וְאַבְנָֽא׃
+
+**JPS** They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote.
 
+**HEB** בַּהּ־שַׁעֲתָ֗ה נפקו נְפַ֙קָה֙ אֶצְבְּעָן֙ דִּ֣י יַד־אֱנָ֔שׁ וְכָֽתְבָן֙ לָקֳבֵ֣ל נֶבְרַשְׁתָּ֔א עַל־גִּירָ֕א דִּֽי־כְתַ֥ל הֵיכְלָ֖א דִּ֣י מַלְכָּ֑א וּמַלְכָּ֣א חָזֵ֔ה פַּ֥ס יְדָ֖ה דִּ֥י כָתְבָֽה׃
+
+**JPS** In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaster of the wall of the king's palace; and the king saw the palm of the hand that wrote.
+
 ## 6
 
 **GRC** τότε τοῦ βασιλέως ἡ μορφὴ ἠλλοιώθη, καὶ οἱ διαλογισμοὶ αὐτοῦ συνετάρασσον αὐτόν, καὶ οἱ σύνδεσμοι τῆς ὀσφύος αὐτοῦ διελύοντο, καὶ τὰ γόνατα αὐτοῦ συνεκροτοῦντο.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τότε η όψις του βασιλέως ηλλοιώθη και οι διαλογισμοί αυτού συνετάραττον αυτόν, ώστε οι σύνδεσμοι της οσφύος αυτού διελύοντο και τα γόνατα αυτού συνεκρούοντο.
 
 **KJV** Then the king’s countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.
+
+**HEB** אֱדַ֤יִן מַלְכָּא֙ זִיוֺ֣הִי שְׁנ֔וֹהִי וְרַעיֹנֹ֖הִי יְבַהֲלוּנֵּ֑הּ וְקִטְרֵ֤י חַרְצֵהּ֙ מִשְׁתָּרַ֔יִן וְאַ֨רְכֻבָּתֵ֔הּ דָּ֥א לְדָ֖א נָֽקְשָֽׁן׃
+
+**JPS** Then the king's countenance was changed in him, and his thoughts affrighted him; and the joints of his loins were loosed, and his knees smote one against another.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. And the king spake, and said to the wise men of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and have a chain of gold about his neck, and shall be the third ruler in the kingdom.
 
+**HEB** קָרֵ֤א מַלְכָּא֙ בְּחַ֔יִל לְהֶֽעָלָה֙ לְאָ֣שְׁפַיָּ֔א כשדיא כַּשְׂדָּאֵ֖י וְגָזְרַיָּ֑א עָנֵ֨ה מַלְכָּ֜א וְאָמַ֣ר ׀ לְחַכִּימֵ֣י בָבֶ֗ל דִּ֣י כָל־אֱ֠נָשׁ דִּֽי־יִקְרֵ֞ה כְּתָבָ֣ה דְנָ֗ה וּפִשְׁרֵהּ֙ יְחַוִּנַּ֔נִי אַרְגְּוָנָ֣א יִלְבַּ֗שׁ והמונכא וְהַֽמְנִיכָ֤א דִֽי־דַהֲבָא֙ עַֽל־צַוְּארֵ֔הּ וְתַלְתִּ֥י בְמַלְכוּתָ֖א יִשְׁלַֽט׃
+
+**JPS** The king cried aloud to bring in the enchanters, the Chaldeans, and the astrologers. The king spoke and said to the wise men of Babylon: 'Whosoever shall read this writing, and declare unto me the interpretation thereof, shall be clothed with purple, and have a chain of gold about his neck, and shall rule as one of three in the kingdom.'
+
 ## 8
 
 **GRC** καὶ εἰσεπορεύοντο πάντες οἱ σοφοὶ τοῦ βασιλέως, καὶ οὐκ ἠδύναντο τὴν γραφὴν ἀναγνῶναι οὐδὲ τὴν σύγκρισιν γνωρίσαι τῷ βασιλεῖ.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τότε εισήλθον πάντες οι σοφοί του βασιλέως· πλην δεν ηδύναντο να αναγνώσωσι την γραφήν ουδέ την ερμηνείαν αυτής να φανερώσωσι προς τον βασιλέα.
 
 **KJV** Then came in all the king’s wise men: but they could not read the writing, nor make known to the king the interpretation thereof.
+
+**HEB** אֱדַ֙יִן֙ עללין עֽ͏ָלִּ֔ין כֹּ֖ל חַכִּימֵ֣י מַלְכָּ֑א וְלָֽא־כָהֲלִ֤ין כְּתָבָא֙ לְמִקְרֵ֔א ופשרא וּפִשְׁרֵ֖הּ לְהוֹדָעָ֥ה לְמַלְכָּֽא׃
+
+**JPS** Then came in all the king's wise men: but they could not read the writing, nor make known to the king the interpretation.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.
 
+**HEB** אֱ֠דַיִן מַלְכָּ֤א בֵלְשַׁאצַּר֙ שַׂגִּ֣יא מִתְבָּהַ֔ל וְזִיוֺ֖הִי שָׁנַ֣יִן עֲל֑וֹהִי וְרַבְרְבָנ֖וֹהִי מִֽשְׁתַּבְּשִֽׁין׃
+
+**JPS** Then was king Belshazzar greatly affrighted, and his countenance was changed in him, and his lords were perplexed.
+
 ## 10
 
 **GRC** καὶ εἰσῆλθεν ἡ βασίλισσα εἰς τὸν οἶκον τοῦ πότου καὶ εἶπεν Βασιλεῦ, εἰς τὸν αἰῶνα ζῆθι· μὴ ταρασσέτωσάν σε οἱ διαλογισμοί σου, καὶ ἡ μορφή σου μὴ ἀλλοιούσθω.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Η βασίλισσα εκ των λόγων του βασιλέως και των μεγιστάνων αυτού εισήλθεν εις τον οίκον του συμποσίου· και ελάλησεν η βασίλισσα και είπε, Βασιλεύ, ζήθι εις τον αιώνα· μη σε ταράττωσιν οι διαλογισμοί σου και η όψις σου ας μη αλλοιούται.
 
 **KJV** Now the queen, by reason of the words of the king and his lords, came into the banquet house: and the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:
+
+**HEB** מַלְכְּתָ֕א לָקֳבֵ֨ל מִלֵּ֤י מַלְכָּא֙ וְרַבְרְבָנ֔וֹהִי לְבֵ֥ית מִשְׁתְּיָ֖א עללת עַלַּ֑ת עֲנָ֨ת מַלְכְּתָ֜א וַאֲמֶ֗רֶת מַלְכָּא֙ לְעָלְמִ֣ין חֱיִ֔י אַֽל־יְבַהֲלוּךְ֙ רַעְיוֹנָ֔ךְ וְזִיוָ֖יךְ אַל־יִשְׁתַּנּֽוֹ׃
+
+**JPS** Now the queen by reason of the words of the king and his lords came into the banquet house; the queen spoke and said: 'O king, live for ever! let not thy thoughts affright thee, nor let thy countenance be changed;
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;
 
+**HEB** אִיתַ֨י גְּבַ֜ר בְּמַלְכוּתָ֗ךְ דִּ֠י ר֣וּחַ אֱלָהִ֣ין קַדִּישִׁין֮ בֵּהּ֒ וּבְיוֹמֵ֣י אֲב֗וּךְ נַהִיר֧וּ וְשָׂכְלְתָנ֛וּ וְחָכְמָ֥ה כְּחָכְמַת־אֱלָהִ֖ין הִשְׁתְּכַ֣חַת בֵּ֑הּ וּמַלְכָּ֤א נְבֻֽכַדְנֶצַּר֙ אֲב֔וּךְ רַ֧ב חַרְטֻמִּ֣ין אָֽשְׁפִ֗ין כַּשְׂדָּאִין֙ גָּזְרִ֔ין הֲקִימֵ֖הּ אֲב֥וּךְ מַלְכָּֽא׃
+
+**JPS** there is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; and the king Nebuchadnezzar thy father, the king, I say, thy father, made him master of the magicians, enchanters, Chaldeans, and astrologers;
+
 ## 12
 
 **GRC** ὅτι πνεῦμα περισσὸν ἐν αὐτῷ καὶ φρόνησις καὶ σύνεσις· συνκρίνων ἐνύπνια καὶ ἀναγγέλλων κρατούμενα καὶ λύων συνδέσμους Δανιήλ, καὶ ὁ βασιλεὺς ἐπέθηκεν αὐτῷ ὄνομα Βαλτασάρ· νῦν οὖν κληθήτω, καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγελεῖ σοι.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διότι πνεύμα έξοχον και γνώσις και σύνεσις, ερμηνεία ενυπνίων και εξήγησις αινιγμάτων και λύσις αποριών, ευρέθησαν εν αυτώ τω Δανιήλ, τον οποίον ο βασιλεύς μετωνόμασε Βαλτασάσαρ· τώρα λοιπόν ας προσκληθή ο Δανιήλ, και θέλει δείξει την ερμηνείαν.
 
 **KJV** Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
+
+**HEB** כָּל־קֳבֵ֡ל דִּ֣י ר֣וּחַ ׀ יַתִּירָ֡ה וּמַנְדַּ֡ע וְשָׂכְלְתָנ֡וּ מְפַשַּׁ֣ר חֶלְמִין֩ וַֽאַֽחֲוָיַ֨ת אֲחִידָ֜ן וּמְשָׁרֵ֣א קִטְרִ֗ין הִשְׁתְּכַ֤חַת בֵּהּ֙ בְּדָ֣נִיֵּ֔אל דִּֽי־מַלְכָּ֥א שָׂם־שְׁמֵ֖הּ בֵּלְטְשַׁאצַּ֑ר כְּעַ֛ן דָּנִיֵּ֥אל יִתְקְרֵ֖י וּפִשְׁרָ֥ה יְהַֽחֲוֵֽה׃
+
+**JPS** forasmuch as a surpassing spirit, and knowledge, and understanding, interpreting of dreams, and declaring of riddles, and loosing of knots, were found in the same Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will declare the interpretation.'
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then was Daniel brought in before the king. And the king spake and said unto Daniel, Art thou that Daniel, which art of the children of the captivity of Judah, whom the king my father brought out of Jewry?
 
+**HEB** בֵּאדַ֙יִן֙ דָּֽנִיֵּ֔אל הֻעַ֖ל קֳדָ֣ם מַלְכָּ֑א עָנֵ֨ה מַלְכָּ֜א וְאָמַ֣ר לְדָנִיֵּ֗אל אנתה־אַנְתְּ־ה֤וּא דָנִיֵּאל֙ דִּֽי־מִן־בְּנֵ֤י גָלוּתָא֙ דִּ֣י יְה֔וּד דִּ֥י הַיְתִ֛י מַלְכָּ֥א אַ֖בִי מִן־יְהֽוּד׃
+
+**JPS** Then was Daniel brought in before the king. The king spoke and said unto Daniel: 'Art thou Daniel, who is of the children of the captivity of Judah, whom the king my father brought out of Judah?
+
 ## 14
 
 **GRC** ἤκουσα περὶ σοῦ ὅτι πνεῦμα θεοῦ ἐν σοί, καὶ γρηγόρησις καὶ σοφία περισσὴ εὑρέθη ἐν σοί.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ήκουσα τωόντι περί σου, ότι το πνεύμα των θεών είναι εν σοι και φως και σύνεσις και σοφία έξοχος ευρέθησαν εν σοι.
 
 **KJV** I have even heard of thee, that the spirit of the gods is in thee, and that light and understanding and excellent wisdom is found in thee.
+
+**HEB** וְשִׁמְעֵ֣ת עליך עֲלָ֔ךְ דִּ֛י ר֥וּחַ אֱלָהִ֖ין בָּ֑ךְ וְנַהִיר֧וּ וְשָׂכְלְתָנ֛וּ וְחָכְמָ֥ה יַתִּירָ֖ה הִשְׁתְּכַ֥חַת בָּֽךְ׃
+
+**JPS** I have heard of thee, that the spirit of the gods is in thee, and that light and understanding and surpassing wisdom is found in thee.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And now the wise men, the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:
 
+**HEB** וּכְעַ֞ן הֻעַ֣לּוּ קָֽדָמַ֗י חַכִּֽימַיָּא֙ אָֽשְׁפַיָּ֔א דִּֽי־כְתָבָ֤ה דְנָה֙ יִקְר֔וֹן וּפִשְׁרֵ֖הּ לְהוֹדָעֻתַ֑נִי וְלָֽא־כָהֲלִ֥ין פְּשַֽׁר־מִלְּתָ֖א לְהַחֲוָיָֽה׃
+
+**JPS** And now the wise men, the enchanters, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof; but they could not declare the interpretation of the thing.
+
 ## 16
 
 **GRC** καὶ ἐγὼ ἤκουσα περὶ σοῦ ὅτι δύνασαι κρίματα συνκρῖναι· νῦν οὖν ἐὰν δυνηθῇς τὴν γραφὴν ἀναγνῶναι καὶ τὴν σύγκρισιν αὐτῆς γνωρίσῃς μοι, πορφύραν ἐνδύσῃ, καὶ ὁ μανιάκης ὁ χρυσοῦς ἔσται ἐπὶ τῷ τραχήλῳ σου, καὶ τρίτος ἐν τῇ βασιλείᾳ μου ἄρξεις.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εγώ ήκουσα περί σου, ότι δύνασαι να ερμηνεύης και να λύης απορίας· τώρα λοιπόν, εάν δυνηθής να αναγνώσης την γραφήν και να φανερώσης προς εμέ την ερμηνείαν αυτής θέλεις ενδυθή πορφύραν και η άλυσος η χρυσή θέλει τεθή περί τον τράχηλόν σου και θέλεις είσθαι ο τρίτος άρχων του βασιλείου.
 
 **KJV** And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom.
+
+**HEB** וַאֲנָה֙ שִׁמְעֵ֣ת עליך עֲלָ֔ךְ דִּֽי־תוכל תִיכּ֥וּל פִּשְׁרִ֛ין לְמִפְשַׁ֖ר וְקִטְרִ֣ין לְמִשְׁרֵ֑א כְּעַ֡ן הֵן֩ תוכל תִּכ֨וּל כְּתָבָ֜א לְמִקְרֵ֗א וּפִשְׁרֵהּ֙ לְהוֹדָ֣עֻתַ֔נִי אַרְגְּוָנָ֣א תִלְבַּ֗שׁ והמונכא וְהַֽמְנִיכָ֤א דִֽי־דַהֲבָא֙ עַֽל־צַוְּארָ֔ךְ וְתַלְתָּ֥א בְמַלְכוּתָ֖א תִּשְׁלַֽט׃
+
+**JPS** But I have heard of thee, that thou canst give interpretations, and loose knots; now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with purple, and have a chain of gold about thy neck, and shalt rule as one of three in the kingdom.'
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation.
 
+**HEB** בֵּאדַ֜יִן עָנֵ֣ה דָנִיֵּ֗אל וְאָמַר֙ קֳדָ֣ם מַלְכָּ֔א מַתְּנָתָךְ֙ לָ֣ךְ לֶֽהֶוְיָ֔ן וּנְבָ֥זְבְּיָתָ֖ךְ לְאָחֳרָ֣ן הַ֑ב בְּרַ֗ם כְּתָבָא֙ אֶקְרֵ֣א לְמַלְכָּ֔א וּפִשְׁרָ֖א אֲהוֹדְעִנֵּֽהּ׃
+
+**JPS** Then Daniel answered and said before the king: 'Let thy gifts be to thyself, and give thy rewards to another; nevertheless I will read the writing unto the king, and make known to him the interpretation.
+
 ## 18
 
 **GRC** βασιλεῦ, ὁ θεὸς ὁ ὕψιστος τὴν βασιλείαν καὶ τὴν μεγαλωσύνην καὶ τὴν τιμὴν καὶ τὴν δόξαν ἔδωκεν Ναβουχοδονοσὸρ τῷ πατρί σου,
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Βασιλεύ, ο Θεός ο ύψιστος έδωκεν εις τον Ναβουχοδονόσορ τον πατέρα σου βασιλείαν και μεγαλειότητα και δόξαν και τιμήν.
 
 **KJV** O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:
+
+**HEB** אנתה אַ֖נְתְּ מַלְכָּ֑א אֱלָהָא֙ עליא עִלָּאָ֔ה מַלְכוּתָ֤א וּרְבוּתָא֙ וִיקָרָ֣א וְהַדְרָ֔ה יְהַ֖ב לִנְבֻכַדְנֶצַּ֥ר אֲבֽוּךְ׃
+
+**JPS** O thou king, G-d Most High gave Nebuchadnezzar thy father the kingdom, and greatness, and glory, and majesty;
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.
 
+**HEB** וּמִן־רְבוּתָא֙ דִּ֣י יְהַב־לֵ֔הּ כֹּ֣ל עַֽמְמַיָּ֗א אֻמַיָּא֙ וְלִשָּׁ֣נַיָּ֔א הֲו֛וֹ זאעין זָיְעִ֥ין וְדָחֲלִ֖ין מִן־קֳדָמ֑וֹהִי דִּֽי־הֲוָ֨ה צָבֵ֜א הֲוָ֣א קָטֵ֗ל וְדִֽי־הֲוָ֤ה צָבֵא֙ הֲוָ֣ה מַחֵ֔א וְדִֽי־הֲוָ֤ה צָבֵא֙ הֲוָ֣ה מָרִ֔ים וְדִֽי־הֲוָ֥ה צָבֵ֖א הֲוָ֥ה מַשְׁפִּֽיל׃
+
+**JPS** and because of the greatness that He gave him, all the peoples, nations, and languages trembled and feared before him: whom he would he slew, and whom he would he kept alive; and whom he would he raised up, and whom he would he put down.
+
 ## 20
 
 **GRC** καὶ ὅτε ὑψώθη ἡ καρδία αὐτοῦ καὶ τὸ πνεῦμα αὐτοῦ ἐκραταιώθη τοῦ ὑπερηφανεύσασθαι, κατηνέχθη ἀπὸ τοῦ θρόνου τῆς βασιλείας καὶ ἡ τιμὴ ἀφῃρέθη ἀπ᾽ αὐτοῦ,
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** αλλ' ότε η καρδία αυτού επήρθη και ο νούς αυτού εσκληρύνθη εν τη υπερηφανία, κατεβιβάσθη από του βασιλικού θρόνου αυτού και αφηρέθη η δόξα αυτού απ' αυτού·
 
 **KJV** But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:
+
+**HEB** וּכְדִי֙ רִ֣ם לִבְבֵ֔הּ וְרוּחֵ֖הּ תִּֽקְפַ֣ת לַהֲזָדָ֑ה הָנְחַת֙ מִן־כָּרְסֵ֣א מַלְכוּתֵ֔הּ וִֽיקָרָ֖ה הֶעְדִּ֥יו מִנֵּֽהּ׃
+
+**JPS** But when his heart was lifted up, and his spirit was hardened that he dealt proudly, he was deposed from his kingly throne, and his glory was taken from him;
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling was with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and that he appointeth over it whomsoever he will.
 
+**HEB** וּמִן־בְּנֵי֩ אֲנָשָׁ֨א טְרִ֜יד וְלִבְבֵ֣הּ ׀ עִם־חֵיוְתָ֣א שוי שַׁוִּ֗יְו וְעִם־עֲרָֽדַיָּא֙ מְדוֹרֵ֔הּ עִשְׂבָּ֤א כְתוֹרִין֙ יְטַ֣עֲמוּנֵּ֔הּ וּמִטַּ֥ל שְׁמַיָּ֖א גִּשְׁמֵ֣הּ יִצְטַבַּ֑ע עַ֣ד דִּֽי־יְדַ֗ע דִּֽי־שַׁלִּ֞יט אֱלָהָ֤א עליא עִלָּאָה֙ בְּמַלְכ֣וּת אֲנָשָׁ֔א וּלְמַן־דִּ֥י יִצְבֵּ֖ה יְהָקֵ֥ים עליה עֲלַֽהּ׃
+
+**JPS** and he was driven from the sons of men, and his heart was made like the beasts, and his dwelling was with the wild asses; he was fed with grass like oxen, and his body was wet with the dew of heaven; until he knew that G-d Most High ruleth in the kingdom of men, and that He setteth up over it whomsoever He will.
+
 ## 22
 
 **GRC** καὶ σὺ οὖν ὁ υἱὸς αὐτοῦ Βαλτασὰρ οὐκ ἐταπείνωσας τὴν καρδίαν σου κατενώπιον τοῦ θεοῦ· οὐ πάντα ταῦτα ἔγνως·
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και συ ο υιός αυτού, ο Βαλτάσαρ, δεν εταπείνωσας την καρδίαν σου, ενώ εγνώριζες πάντα ταύτα·
 
 **KJV** And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;
+
+**HEB** ואנתה וְאַ֤נְתְּ בְּרֵהּ֙ בֵּלְשַׁאצַּ֔ר לָ֥א הַשְׁפֵּ֖לְתְּ לִבְבָ֑ךְ כָּל־קֳבֵ֕ל דִּ֥י כָל־דְּנָ֖ה יְדַֽעְתָּ׃
+
+**JPS** And thou his son, O Belshazzar, hast not humbled thy heart, though thou knewest all this;
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath is, and whose are all thy ways, hast thou not glorified:
 
+**HEB** וְעַ֣ל מָרֵֽא־שְׁמַיָּ֣א ׀ הִתְרוֹמַ֡מְתָּ וּלְמָֽאנַיָּ֨א דִֽי־בַיְתֵ֜הּ הַיְתִ֣יו קדמיך קָֽדָמָ֗ךְ ואנתה וְאַ֨נְתְּ ורברבניך וְרַבְרְבָנָ֜ךְ שֵֽׁגְלָתָ֣ךְ וּלְחֵנָתָךְ֮ חַמְרָא֮ שָׁתַ֣יִן בְּהוֹן֒ וְלֵֽאלָהֵ֣י כַסְפָּֽא־וְ֠דַהֲבָא נְחָשָׁ֨א פַרְזְלָ֜א אָעָ֣א וְאַבְנָ֗א דִּ֠י לָֽא־חָזַ֧יִן וְלָא־שָׁמְעִ֛ין וְלָ֥א יָדְעִ֖ין שַׁבַּ֑חְתָּ וְלֵֽאלָהָ֞א דִּֽי־נִשְׁמְתָ֥ךְ בִּידֵ֛הּ וְכָל־אֹרְחָתָ֥ךְ לֵ֖הּ לָ֥א הַדַּֽרְתָּ׃
+
+**JPS** but hast lifted up thyself against the L-rd of heaven; and they have brought the vessels of His house before thee, and thou and thy lords, thy consorts and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know; and the G-d in whose hand thy breath is, and whose are all thy ways, hast thou not glorified;
+
 ## 24
 
 **GRC** διὰ τοῦτο ἐκ προσώπου αὐτοῦ ἀπεστάλη ἀστράγαλος χειρὸς καὶ τὴν γραφὴν ταύτην ἐνέταξεν.
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διά τούτο εστάλη απ' έμπροσθεν αυτού η παλάμη της χειρός και ενεχαράχθη η γραφή αύτη.
 
 **KJV** Then was the part of the hand sent from him; and this writing was written.
+
+**HEB** בֵּאדַ֙יִן֙ מִן־קֳדָמ֔וֹהִי שְׁלִ֖יַחַ פַּסָּ֣א דִֽי־יְדָ֑א וּכְתָבָ֥א דְנָ֖ה רְשִֽׁים׃
+
+**JPS** then was the palm of the hand sent from before Him, and this writing was inscribed.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And this is the writing that was written, MENE, MENE, TEKEL, UPHARSIN.
 
+**HEB** וּדְנָ֥ה כְתָבָ֖א דִּ֣י רְשִׁ֑ים מְנֵ֥א מְנֵ֖א תְּקֵ֥ל וּפַרְסִֽין׃
+
+**JPS** And this is the writing that was inscribed: MENE MENE, TEKEL UPHARSIN.
+
 ## 26
 
 **GRC** τοῦτο τὸ σύγκριμα τοῦ ῥήματος· μανή, ἐμέτρησεν ὁ θεὸς τὴν βασιλείαν σου καὶ ἐπλήρωσεν αὐτήν·
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Αύτη είναι η ερμηνεία του πράγματος· Μενέ, εμέτρησεν ο Θεός την βασιλείαν σου και ετελείωσεν αυτήν·
 
 **KJV** This is the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.
+
+**HEB** דְּנָ֖ה פְּשַֽׁר־מִלְּתָ֑א מְנֵ֕א מְנָֽה־אֱלָהָ֥א מַלְכוּתָ֖ךְ וְהַשְׁלְמַֽהּ׃
+
+**JPS** This is the interpretation of the thing: MENE, G-d hath numbered thy kingdom, and brought it to an end.
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** TEKEL; Thou art weighed in the balances, and art found wanting.
 
+**HEB** תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר׃
+
+**JPS** TEKEL, Thou art weighed in the balances, and art found wanting.
+
 ## 28
 
 **GRC** φαρές, διῄρηται ἡ βασιλεία σου καὶ ἐδόθη Μήδοις καὶ Πέρσαις.
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Φερές, διηρέθη η βασιλεία σου και εδόθη εις τους Μήδους και Πέρσας.
 
 **KJV** PERES; Thy kingdom is divided, and given to the Medes and Persians.
+
+**HEB** פְּרֵ֑ס פְּרִיסַת֙ מַלְכוּתָ֔ךְ וִיהִיבַ֖ת לְמָדַ֥י וּפָרָֽס׃
+
+**JPS** PERES, thy kingdom is divided, and given to the Medes and Persians.'
 
 ## 29
 
@@ -241,6 +355,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then commanded Belshazzar, and they clothed Daniel with scarlet, and put a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.
 
+**HEB** בֵּאדַ֣יִן ׀ אֲמַ֣ר בֵּלְשַׁאצַּ֗ר וְהַלְבִּ֤ישׁוּ לְדָֽנִיֵּאל֙ אַרְגְּוָנָ֔א והמונכא וְהַֽמְנִיכָ֥א דִֽי־דַהֲבָ֖א עַֽל־צַוְּארֵ֑הּ וְהַכְרִ֣זֽוּ עֲל֔וֹהִי דִּֽי־לֶהֱוֵ֥א שַׁלִּ֛יט תַּלְתָּ֖א בְּמַלְכוּתָֽא׃
+
+**JPS** Then commanded Belshazzar, and they clothed Daniel with purple, and put a chain of gold about his neck, and made proclamation concerning him, that he should rule as one of three in the kingdom.
+
 ## 30
 
 **GRC** ἐν αὐτῇ τῇ νυκτὶ ἀναιρέθη Βαλτασὰρ ὁ βασιλεὺς ὁ Χαλδαίων,
@@ -249,6 +367,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** In that night was Belshazzar the king of the Chaldeans slain.
 
+**HEB** בֵּ֚הּ בְּלֵ֣ילְיָ֔א קְטִ֕יל בֵּלְאשַׁצַּ֖ר מַלְכָּ֥א כשדיא כַשְׂדָּאָֽה׃
+
+**JPS** In that night Belshazzar the Chaldean king was slain.
+
 ## 31
 
 **GRC** καὶ Δαρεῖος ὁ Μῆδος παρέλαβεν τὴν βασιλείαν, ὢν ἐτῶν ἑξήκοντα δύο.
@@ -256,6 +378,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και Δαρείος ο Μήδος έλαβε την βασιλείαν, ων περίπου ετών εξήκοντα δύο.
 
 **KJV** And Darius the Median took the kingdom, being about threescore and two years old.
+
+**HEB** וְדָרְיָ֙וֶשׁ֙ מָֽדָיָ֔א קַבֵּ֖ל מַלְכוּתָ֑א כְּבַ֥ר שְׁנִ֖ין שִׁתִּ֥ין וְתַרְתֵּֽין׃
+
+**JPS** And Darius the Mede received the kingdom, being about threescore and two years old.
 
 ## Notes
 

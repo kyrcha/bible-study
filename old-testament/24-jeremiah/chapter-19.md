@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thus saith the Lord, Go and get a potter’s earthen bottle, and take of the ancients of the people, and of the ancients of the priests;
 
+**HEB** כֹּ֚ה אָמַ֣ר יְהוָ֔ה הָל֛וֹךְ וְקָנִ֥יתָ בַקְבֻּ֖ק יוֹצֵ֣ר חָ֑רֶשׂ וּמִזִּקְנֵ֣י הָעָ֔ם וּמִזִּקְנֵ֖י הַכֹּהֲנִֽים׃
+
+**JPS** Thus said HaShem: Go, and get a potter's earthen bottle, and take of the elders of the people, and of the elders of the priests;
+
 ## 2
 
 **GRC** καὶ ἐξελεύσῃ εἰς τὸ πολυάνδριον υἱῶν τῶν τέκνων αὐτῶν, ὅ ἐστιν ἐπὶ τῶν προθύρων πύλης τῆς θαρσείς, καὶ ἀνάγνωθι ἐκεῖ πάντας τοὺς λόγους τούτους οὓς ἂν λαλήσω πρὸς σέ,
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και έξελθε εις την φάραγγα του υιού Εννόμ, την πλησίον της εισόδου της ανατολικής πύλης, και διακήρυξον εκεί τους λόγους, τους οποίους θέλω λαλήσει προς σε.
 
 **KJV** And go forth unto the valley of the son of Hinnom, which is by the entry of the east gate, and proclaim there the words that I shall tell thee,
+
+**HEB** וְיָצָ֙אתָ֙ אֶל־גֵּ֣יא בֶן־הִנֹּ֔ם אֲשֶׁ֕ר פֶּ֖תַח שַׁ֣עַר החרסות הַֽחַרְסִ֑ית וְקָרָ֣אתָ שָּׁ֔ם אֶת־הַדְּבָרִ֖ים אֲשֶׁר־אֲדַבֵּ֥ר אֵלֶֽיךָ׃
+
+**JPS** and go forth unto the valley of the son of Hinnom, which is by the entry of the gate Harsith, and proclaim there the words that I shall tell thee;
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And say, Hear ye the word of the Lord, O kings of Judah, and inhabitants of Jerusalem; Thus saith the Lord of hosts, the God of Israel; Behold, I will bring evil upon this place, the which whosoever heareth, his ears shall tingle.
 
+**HEB** וְאָֽמַרְתָּ֙ שִׁמְע֣וּ דְבַר־יְהוָ֔ה מַלְכֵ֣י יְהוּדָ֔ה וְיֹשְׁבֵ֖י יְרֽוּשָׁלָ֑͏ִם כֹּֽה־אָמַר֩ יְהוָ֨ה צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל הִנְנִ֨י מֵבִ֤יא רָעָה֙ עַל־הַמָּק֣וֹם הַזֶּ֔ה אֲשֶׁ֥ר כָּל־שֹׁמְעָ֖הּ תִּצַּ֥לְנָה אָזְנָֽיו׃
+
+**JPS** and say: Hear ye the word of HaShem, O kings of Judah, and inhabitants of Jerusalem; thus saith HaShem of hosts, the G-d of Israel: Behold, I will bring evil upon this place, which whosoever heareth, his ears shall tingle;
+
 ## 4
 
 **GRC** ἀνθ᾽ ὧν ἐγκατέλιπόν με καὶ ἀπηλλοτρίωσαν τὸν τόπον τοῦτον, καὶ ἐθυμίασαν ἐν αὐτῷ θεοῖς ἀλλοτρίοις οἷς οὐκ ᾔδεισαν αὐτοὶ καὶ οἱ πατέρες αὐτῶν· καὶ οἱ βασιλεῖς Ἰούδα ἔπλησαν τὸν τόπον τοῦτον αἱμάτων ἀθῴων,
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διότι εγκατέλιπον εμέ και εβεβήλωσαν τον τόπον τούτον και εθυμίασαν εν αυτώ εις άλλους θεούς, τους οποίους δεν εγνώρισαν, αυτοί και οι πατέρες αυτών και οι βασιλείς Ιούδα, και εγέμισαν τον τόπον τούτον από αίματος αθώων.
 
 **KJV** Because they have forsaken me, and have estranged this place, and have burned incense in it unto other gods, whom neither they nor their fathers have known, nor the kings of Judah, and have filled this place with the blood of innocents;
+
+**HEB** יַ֣עַן ׀ אֲשֶׁ֣ר עֲזָבֻ֗נִי וַֽיְנַכְּר֞וּ אֶת־הַמָּק֤וֹם הַזֶּה֙ וַיְקַטְּרוּ־בוֹ֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים אֲשֶׁ֧ר לֹֽא־יְדָע֛וּם הֵ֥מָּה וַאֲבֽוֹתֵיהֶ֖ם וּמַלְכֵ֣י יְהוּדָ֑ה וּמָֽלְא֛וּ אֶת־הַמָּק֥וֹם הַזֶּ֖ה דַּ֥ם נְקִיִּֽם׃
+
+**JPS** because they have forsaken Me, and have estranged this place, and have offered in it unto other gods, whom neither they nor their fathers have known, nor the kings of Judah; and have filled this place with the blood of innocents;
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** They have built also the high places of Baal, to burn their sons with fire for burnt offerings unto Baal, which I commanded not, nor spake it, neither came it into my mind:
 
+**HEB** וּבָנ֞וּ אֶת־בָּמ֣וֹת הַבַּ֗עַל לִשְׂרֹ֧ף אֶת־בְּנֵיהֶ֛ם בָּאֵ֖שׁ עֹל֣וֹת לַבָּ֑עַל אֲשֶׁ֤ר לֹֽא־צִוִּ֙יתִי֙ וְלֹ֣א דִבַּ֔רְתִּי וְלֹ֥א עָלְתָ֖ה עַל־לִבִּֽי׃
+
+**JPS** and have built the high places of Baal, to burn their sons in the fire for burnt-offerings unto Baal; which I commanded not, nor spoke it, neither came it into My mind.
+
 ## 6
 
 **GRC** διὰ τοῦτο ἰδοὺ ἡμέραι ἔρχονται, λέγει Κύριος, καὶ οὐ κληθήσεται τῷ τόπῳ τούτῳ Διάπτωσις καὶ Πολυάνδριον υἱοῦ Ἑννόμ, ἀλλ᾽ ἢ Πολυάνδριον τῆς σφαγῆς.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διά τούτο, ιδού, έρχονται ημέραι, λέγει Κύριος, και ο τόπος ούτος δεν θέλει καλείσθαι πλέον Τοφέθ ουδέ Φάραγξ του υιού Εννόμ, αλλ' Η φάραγξ της σφαγής.
 
 **KJV** Therefore, behold, the days come, saith the Lord, that this place shall no more be called Tophet, nor The valley of the son of Hinnom, but The valley of slaughter.
+
+**HEB** לָכֵ֞ן הִנֵּֽה־יָמִ֤ים בָּאִים֙ נְאֻם־יְהוָ֔ה וְלֹא־יִקָּרֵא֩ לַמָּק֨וֹם הַזֶּ֥ה ע֛וֹד הַתֹּ֖פֶת וְגֵ֣יא בֶן־הִנֹּ֑ם כִּ֖י אִם־גֵּ֥יא הַהֲרֵגָֽה׃
+
+**JPS** Therefore, behold, the days come, saith HaShem, that this place shall no more be called Topheth, nor The valley of the son of Hinnom, but The valley of slaughter;
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hands of them that seek their lives: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth.
 
+**HEB** וּ֠בַקֹּתִי אֶת־עֲצַ֨ת יְהוּדָ֤ה וִירוּשָׁלִַ֙ם֙ בַּמָּק֣וֹם הַזֶּ֔ה וְהִפַּלְתִּ֤ים בַּחֶ֙רֶב֙ לִפְנֵ֣י אֹֽיְבֵיהֶ֔ם וּבְיַ֖ד מְבַקְשֵׁ֣י נַפְשָׁ֑ם וְנָתַתִּ֤י אֶת־נִבְלָתָם֙ לְמַֽאֲכָ֔ל לְע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֥ת הָאָֽרֶץ׃
+
+**JPS** and I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hand of them that seek their life; and their carcasses will I give to be food for the fowls of the heaven, and for the beasts of the earth;
+
 ## 8
 
 **GRC** καὶ κατάξω τὴν πόλιν ταύτην εἰς ἀφανισμὸν καὶ εἰς συριγμόν· πᾶς ὁ παραπορευόμενος ἐπ᾽ αὐτῆς σκυθρωπάσει καὶ συριεῖ ὑπὲρ πάσης τῆς πληγῆς αὐτῆς.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλω καταστήσει την πόλιν ταύτην ερήμωσιν και συριγμόν· πας ο διαβαίνων δι' αυτής θέλει μένει έκθαμβος και θέλει συρίξει διά πάσας τας πληγάς αυτής.
 
 **KJV** And I will make this city desolate, and an hissing; every one that passeth thereby shall be astonished and hiss because of all the plagues thereof.
+
+**HEB** וְשַׂמְתִּי֙ אֶת־הָעִ֣יר הַזֹּ֔את לְשַׁמָּ֖ה וְלִשְׁרֵקָ֑ה כֹּ֚ל עֹבֵ֣ר עָלֶ֔יהָ יִשֹּׁ֥ם וְיִשְׁרֹ֖ק עַל־כָּל־מַכֹּתֶֽהָ׃
+
+**JPS** and I will make this city an astonishment, and a hissing; every one that passeth thereby shall be astonished and hiss because of all the plagues thereof;
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And I will cause them to eat the flesh of their sons and the flesh of their daughters, and they shall eat every one the flesh of his friend in the siege and straitness, wherewith their enemies, and they that seek their lives, shall straiten them.
 
+**HEB** וְהַֽאֲכַלְתִּ֞ים אֶת־בְּשַׂ֣ר בְּנֵיהֶ֗ם וְאֵת֙ בְּשַׂ֣ר בְּנֹתֵיהֶ֔ם וְאִ֥ישׁ בְּשַׂר־רֵעֵ֖הוּ יֹאכֵ֑לוּ בְּמָצוֹר֙ וּבְמָצ֔וֹק אֲשֶׁ֨ר יָצִ֧יקוּ לָהֶ֛ם אֹיְבֵיהֶ֖ם וּמְבַקְשֵׁ֥י נַפְשָֽׁם׃
+
+**JPS** and I will cause them to eat the flesh of their sons and the flesh of their daughters, and they shall eat every one the flesh of his friend, in the siege and in the straitness, wherewith their enemies, and they that seek their life, shall straiten them.
+
 ## 10
 
 **GRC** καὶ συντρίψεις τὸν βικὸν κατ᾽ ὀφθαλμοὺς τῶν ἀνδρῶν τῶν ἐκπορευομένων μετὰ σοῦ,
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τότε θέλεις συντρίψει την λάγηνον έμπροσθεν των ανδρών των εξελθόντων μετά σού·
 
 **KJV** Then shalt thou break the bottle in the sight of the men that go with thee,
+
+**HEB** וְשָׁבַרְתָּ֖ הַבַּקְבֻּ֑ק לְעֵינֵי֙ הָֽאֲנָשִׁ֔ים הַהֹלְכִ֖ים אוֹתָֽךְ׃
+
+**JPS** Then shalt thou break the bottle in the sight of the men that go with thee,
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And shalt say unto them, Thus saith the Lord of hosts; Even so will I break this people and this city, as one breaketh a potter’s vessel, that cannot be made whole again: and they shall bury them in Tophet, till there be no place to bury.
 
+**HEB** וְאָמַרְתָּ֨ אֲלֵיהֶ֜ם כֹּה־אָמַ֣ר ׀ יְהוָ֣ה צְבָא֗וֹת כָּ֣כָה אֶשְׁבֹּ֞ר אֶת־הָעָ֤ם הַזֶּה֙ וְאֶת־הָעִ֣יר הַזֹּ֔את כַּאֲשֶׁ֤ר יִשְׁבֹּר֙ אֶת־כְּלִ֣י הַיּוֹצֵ֔ר אֲשֶׁ֛ר לֹֽא־יוּכַ֥ל לְהֵרָפֵ֖ה ע֑וֹד וּבְתֹ֣פֶת יִקְבְּר֔וּ מֵאֵ֥ין מָק֖וֹם לִקְבּֽוֹר׃
+
+**JPS** and shalt say unto them: Thus saith HaShem of hosts: Even so will I break this people and this city, as one breaketh a potter's vessel, that cannot be made whole again; and they shall bury in Topheth, for want of room to bury.
+
 ## 12
 
 **GRC** ὅτι οὕτως ποιήσω, λέγει Κύριος, τῷ τόπῳ τούτῳ καὶ τοῖς κατοικοῦσιν ἐν αὐτῷ, τοῦ δοθῆναι τὴν πόλιν ταύτην ὡς τὴν διαπίπτουσαν.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ούτω θέλω κάμει εις τον τόπον τούτον, λέγει Κύριος, και εις τους κατοίκους αυτού, και θέλω κάμει την πόλιν ταύτην ως την Τοφέθ·
 
 **KJV** Thus will I do unto this place, saith the Lord, and to the inhabitants thereof, and even make this city as Tophet:
+
+**HEB** כֵּֽן־אֶעֱשֶׂ֞ה לַמָּק֥וֹם הַזֶּ֛ה נְאֻם־יְהוָ֖ה וּלְיֽוֹשְׁבָ֑יו וְלָתֵ֛ת אֶת־הָעִ֥יר הַזֹּ֖את כְּתֹֽפֶת׃
+
+**JPS** Thus will I do unto this place, saith HaShem, and to the inhabitants thereof, even making this city as Topheth;
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the houses of Jerusalem, and the houses of the kings of Judah, shall be defiled as the place of Tophet, because of all the houses upon whose roofs they have burned incense unto all the host of heaven, and have poured out drink offerings unto other gods.
 
+**HEB** וְהָי֞וּ בָּתֵּ֣י יְרוּשָׁלִַ֗ם וּבָתֵּי֙ מַלְכֵ֣י יְהוּדָ֔ה כִּמְק֥וֹם הַתֹּ֖פֶת הַטְּמֵאִ֑ים לְכֹ֣ל הַבָּתִּ֗ים אֲשֶׁ֨ר קִטְּר֜וּ עַל־גַּגֹּֽתֵיהֶם֙ לְכֹל֙ צְבָ֣א הַשָּׁמַ֔יִם וְהַסֵּ֥ךְ נְסָכִ֖ים לֵאלֹהִ֥ים אֲחֵרִֽים׃
+
+**JPS** and the houses of Jerusalem, and the houses of the kings of Judah, which are defiled, shall be as the place of Topheth, even all the houses upon whose roofs they have offered unto all the host of heaven, and have poured out drink-offerings unto other gods.
+
 ## 14
 
 **GRC** Καὶ ἦλθεν Ἰερεμίας ἀπὸ τῆς διαπτώσεως, οὗ ἀπέστειλεν αὐτὸν Κύριος ἐκεῖ τοῦ προφητεῦσαι, καὶ ἔστη ἐν τῇ αὐλῇ οἴκου Κυρίου καὶ εἶπε πρὸς πάντα τὸν λαόν
@@ -121,6 +175,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then came Jeremiah from Tophet, whither the Lord had sent him to prophesy; and he stood in the court of the Lord’s house; and said to all the people,
 
+**HEB** וַיָּבֹ֤א יִרְמְיָ֙הוּ֙ מֵֽהַתֹּ֔פֶת אֲשֶׁ֨ר שְׁלָח֧וֹ יְהוָ֛ה שָׁ֖ם לְהִנָּבֵ֑א וַֽיַּעֲמֹד֙ בַּחֲצַ֣ר בֵּית־יְהוָ֔ה וַיֹּ֖אמֶר אֶל־כָּל־הָעָֽם׃
+
+**JPS** Then came Jeremiah from Topheth, whither HaShem had sent him to prophesy; and he stood in the court of HaShem'S house, and said to all the people:
+
 ## 15
 
 **GRC** Τάδε λέγει Κύριος Ἰδοὺ ἐγὼ ἐπάγω ἐπὶ τὴν πόλιν ταύτην καὶ ἐπὶ πάσας τὰς πόλεις αὐτῆς καὶ ἐπὶ τὰς κώμας αὐτῆς ἅπαντα τὰ κακὰ ἃ ἐλάλησα ἐπ᾽ αὐτήν, ὅτι ἐσκλήρυναν τὸν τράχηλον αὐτῶν τοῦ μὴ εἰσακούειν τῶν ἐντολῶν μου.
@@ -128,6 +186,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ούτω λέγει ο Κύριος των δυνάμεων, ο Θεός του Ισραήλ· Ιδού, θέλω φέρει επί την πόλιν ταύτην και επί πάσας τας κώμας αυτής πάντα τα κακά όσα ελάλησα κατ' αυτής· διότι εσκλήρυναν τον τράχηλον αυτών, ώστε να μη ακούσωσι τους λόγους μου.
 
 **KJV** Thus saith the Lord of hosts, the God of Israel; Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it, because they have hardened their necks, that they might not hear my words.
+
+**HEB** כֹּֽה־אָמַ֞ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֨י מבי מֵבִ֜יא אֶל־הָעִ֤יר הַזֹּאת֙ וְעַל־כָּל־עָרֶ֔יהָ אֵ֚ת כָּל־הָ֣רָעָ֔ה אֲשֶׁ֥ר דִּבַּ֖רְתִּי עָלֶ֑יהָ כִּ֤י הִקְשׁוּ֙ אֶת־עָרְפָּ֔ם לְבִלְתִּ֖י שְׁמ֥וֹעַ אֶת־דְּבָרָֽי׃
+
+**JPS** 'Thus saith HaShem of hosts, the G-d of Israel: Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it; because they have made their neck stiff, that they might not hear My words.'
 
 ## Notes
 

@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Moreover Josiah kept a passover unto the Lord in Jerusalem: and they killed the passover on the fourteenth day of the first month.
 
+**HEB** וַיַּ֨עַשׂ יֹאשִׁיָּ֧הוּ בִֽירוּשָׁלַ֛͏ִם פֶּ֖סַח לַיהוָ֑ה וַיִּשְׁחֲט֣וּ הַפֶּ֔סַח בְּאַרְבָּעָ֥ה עָשָׂ֖ר לַחֹ֥דֶשׁ הָרִאשֽׁוֹן׃
+
+**JPS** And Josiah kept a passover unto HaShem in Jerusalem; and they killed the passover lamb on the fourteenth day of the first month.
+
 ## 2
 
 **GRC** καὶ ἔστησεν τοὺς ἱερεῖς ἐπὶ τὰς φυλακὰς αὐτῶν, καὶ κατίσχυσεν αὐτοὺς εἰς τὰ ἔργα οἴκου Κυρίου.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έστησε τους ιερείς εις τας φυλακάς αυτών και ενίσχυσεν αυτούς εις την υπηρεσίαν του οίκου του Κυρίου·
 
 **KJV** And he set the priests in their charges, and encouraged them to the service of the house of the Lord,
+
+**HEB** וַיַּעֲמֵ֥ד הַכֹּהֲנִ֖ים עַל־מִשְׁמְרוֹתָ֑ם וַֽיְחַזְּקֵ֔ם לַעֲבוֹדַ֖ת בֵּ֥ית יְהוָֽה׃
+
+**JPS** And he set the priests in their charges, and encouraged them to the service of the house of HaShem.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And said unto the Levites that taught all Israel, which were holy unto the Lord, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the Lord your God, and his people Israel,
 
+**HEB** וַיֹּ֣אמֶר לַ֠לְוִיִּם המבונים הַמְּבִינִ֨ים לְכָל־יִשְׂרָאֵ֜ל הַקְּדוֹשִׁ֣ים לַיהוָ֗ה תְּנ֤וּ אֶת־אֲרוֹן־הַקֹּ֙דֶשׁ֙ בַּ֠בַּיִת אֲשֶׁ֨ר בָּנָ֜ה שְׁלֹמֹ֤ה בֶן־דָּוִיד֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל אֵין־לָכֶ֥ם מַשָּׂ֖א בַּכָּתֵ֑ף עַתָּ֗ה עִבְדוּ֙ אֶת־יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וְאֵ֖ת עַמּ֥וֹ יִשְׂרָאֵֽל׃
+
+**JPS** And he said unto the Levites that taught all Israel, that were holy unto HaShem: 'Put the holy ark in the house which Solomon the son of David king of Israel did build; there shall no more be a burden upon your shoulders; now serve HaShem your G-d, and His people Israel.
+
 ## 4
 
 **GRC** καὶ ἑτοιμάσθητε κατ᾽ οἴκους πατριῶν ὑμῶν καὶ κατὰ τὰς ἐφημερίας ὑμῶν, κατὰ τὴν γραφὴν Δαυεὶδ βασιλέως Ἰσραὴλ καὶ διὰ χειρὸς βασιλέως Σαλωμὼν υἱοῦ αὐτοῦ·
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και ετοιμάσθητε κατά τους οίκους των πατριών σας, κατά τας διαιρέσεις σας, κατά το γεγραμμένον Δαβίδ του βασιλέως του Ισραήλ, και κατά το γεγραμμένον Σολομώντος του υιού αυτού.
 
 **KJV** And prepare yourselves by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
+
+**HEB** וְהָכִ֥ונוּ לְבֵית־אֲבוֹתֵיכֶ֖ם כְּמַחְלְקוֹתֵיכֶ֑ם בִּכְתָ֗ב דָּוִיד֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל וּבְמִכְתַּ֖ב שְׁלֹמֹ֥ה בְנֽוֹ׃
+
+**JPS** And prepare ye after your fathers' houses by your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And stand in the holy place according to the divisions of the families of the fathers of your brethren the people, and after the division of the families of the Levites.
 
+**HEB** וְעִמְד֣וּ בַקֹּ֗דֶשׁ לִפְלֻגּוֹת֙ בֵּ֣ית הָֽאָב֔וֹת לַאֲחֵיכֶ֖ם בְּנֵ֣י הָעָ֑ם וַחֲלֻקַּ֥ת בֵּֽית־אָ֖ב לַלְוִיִּֽם׃
+
+**JPS** And stand in the holy place according to the divisions of the fathers' houses of your brethren the children of the people, and let there be for each a portion of a father's house of the Levites.
+
 ## 6
 
 **GRC** καὶ θύσατε τὸ φάσεχ, καὶ ἑτοιμάσατε τοῖς ἀδελφοῖς ὑμῶν τοῦ ποιῆσαι κατὰ τὸν λόγον Κυρίου διὰ χειρὸς Μωυσῆ.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θυσιάσατε το πάσχα και αγιάσθητε και ετοιμάσατε αυτό εις τους αδελφούς σας, διά να κάμωσι κατά τον λόγον του Κυρίου, τον δοθέντα διά χειρός του Μωϋσέως.
 
 **KJV** So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the Lord by the hand of Moses.
+
+**HEB** וְשַׁחֲט֖וּ הַפָּ֑סַח וְהִתְקַדְּשׁוּ֙ וְהָכִ֣ינוּ לַאֲחֵיכֶ֔ם לַעֲשׂ֥וֹת כִּדְבַר־יְהוָ֖ה בְּיַד־מֹשֶֽׁה׃
+
+**JPS** And kill the passover lamb, and sanctify yourselves, and prepare for your brethren, to do according to the word of HaShem by the hand of Moses.'
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Josiah gave to the people, of the flock, lambs and kids, all for the passover offerings, for all that were present, to the number of thirty thousand, and three thousand bullocks: these were of the king’s substance.
 
+**HEB** וַיָּ֣רֶם יֹאשִׁיָּ֣הוּ לִבְנֵ֪י הָעָ֟ם צֹ֞אן כְּבָשִׂ֣ים וּבְנֵֽי־עִזִּים֮ הַכֹּ֣ל לַפְּסָחִים֒ לְכָל־הַנִּמְצָ֗א לְמִסְפַּר֙ שְׁלֹשִׁ֣ים אֶ֔לֶף וּבָקָ֖ר שְׁלֹ֣שֶׁת אֲלָפִ֑ים אֵ֖לֶּה מֵרְכ֥וּשׁ הַמֶּֽלֶךְ׃
+
+**JPS** And Josiah gave to the children of the people, of the flock, lambs and kids, all of them for the passover-offerings, unto all that were present, to the number of thirty thousand, and three thousand bullocks; these were of the king's substance.
+
 ## 8
 
 **GRC** καὶ οἱ ἄρχοντες αὐτοῦ ἀπήρξαντο τῷ λαῷ καὶ τοῖς ἱερεῦσιν καὶ Λευείταις· ἔδωκεν Χελκείας καὶ Ζαχαρίας καὶ Ἰειὴλ οἱ ἄρχοντες οἴκου θεοῦ τοῖς ἱερεῦσιν, καὶ ἔδωκαν εἰς τὸ φάσεχ πρόβατα καὶ ἀμνοὺς καὶ ἐρίφους δισχίλια ἑξακόσια καὶ μόσχους τριακοσίους.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και οι άρχοντες αυτού προσέφεραν αυτοπροαιρέτως εις τον λαόν, εις τους ιερείς, και εις τους Λευΐτας. Ο Χελκίας και ο Ζαχαρίας και ο Ιεχιήλ, οι άρχοντες του οίκου του Θεού έδωκαν εις τους ιερείς, διά τας θυσίας του πάσχα, δισχίλια και εξακόσια αρνία και ερίφια, και τριακοσίους βόας.
 
 **KJV** And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen.
+
+**HEB** וְשָׂרָ֞יו לִנְדָבָ֥ה לָעָ֛ם לַכֹּהֲנִ֥ים וְלַלְוִיִּ֖ם הֵרִ֑ימוּ חִלְקִיָּ֨ה וּזְכַרְיָ֜הוּ וִֽיחִיאֵ֗ל נְגִידֵי֙ בֵּ֣ית הָאֱלֹהִ֔ים לַכֹּהֲנִ֞ים נָתְנ֣וּ לַפְּסָחִ֗ים אַלְפַּ֙יִם֙ וְשֵׁ֣שׁ מֵא֔וֹת וּבָקָ֖ר שְׁלֹ֥שׁ מֵאֽוֹת׃
+
+**JPS** And his princes gave willingly unto the people, to the priests, and to the Levites. Hilkiah and Zechariah and Jehiel, the rulers of the house of G-d, gave unto the priests for the passover-offerings two thousand and six hundred small cattle, and three hundred oxen.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand small cattle, and five hundred oxen.
 
+**HEB** וכונניהו וְ֠כָֽנַנְיָהוּ וּשְׁמַֽעְיָ֨הוּ וּנְתַנְאֵ֜ל אֶחָ֗יו וַחֲשַׁבְיָ֧הוּ וִיעִיאֵ֛ל וְיוֹזָבָ֖ד שָׂרֵ֣י הַלְוִיִּ֑ם הֵרִ֨ימוּ לַלְוִיִּ֤ם לַפְּסָחִים֙ חֲמֵ֣שֶׁת אֲלָפִ֔ים וּבָקָ֖ר חֲמֵ֥שׁ מֵאֽוֹת׃
+
+**JPS** Conaniah also, and Shemaiah and Nethanel, his brethren, and Hashabiah and Jeiel and Jozabad, the chiefs of the Levites, gave unto the Levites for the passover-offerings five thousand small cattle, and five hundred oxen.
+
 ## 10
 
 **GRC** καὶ κατορθώθη ἡ λειτουργία, καὶ ἔστησαν οἱ ἱερεῖς ἐπὶ τὴν στάσιν αὐτῶν καὶ οἱ Λευεῖται ἐπὶ τὰς διαιρέσεις αὐτῶν κατὰ τὴν ἐντολὴν τοῦ βασιλέως.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ητοιμάσθη η υπηρεσία, και οι ιερείς εστάθησαν εν τω τόπω αυτών και οι Λευΐται εις τας διαιρέσεις αυτών, κατά την προσταγήν του βασιλέως.
 
 **KJV** So the service was prepared, and the priests stood in their place, and the Levites in their courses, according to the king’s commandment.
+
+**HEB** וַתִּכּ֖וֹן הָעֲבוֹדָ֑ה וַיַּֽעַמְד֨וּ הַכֹּהֲנִ֧ים עַל־עָמְדָ֛ם וְהַלְוִיִּ֥ם עַל־מַחְלְקוֹתָ֖ם כְּמִצְוַ֥ת הַמֶּֽלֶךְ׃
+
+**JPS** So the service was prepared, and the priests stood in their place, and the Levites by their courses, according to the king's commandment.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they killed the passover, and the priests sprinkled the blood from their hands, and the Levites flayed them.
 
+**HEB** וַֽיִּשְׁחֲט֖וּ הַפָּ֑סַח וַיִּזְרְק֤וּ הַכֹּהֲנִים֙ מִיָּדָ֔ם וְהַלְוִיִּ֖ם מַפְשִׁיטִֽים׃
+
+**JPS** And they killed the passover lamb, and the priests dashed the blood, which they received of their hand, and the Levites flayed them.
+
 ## 12
 
 **GRC** καὶ ἡτοίμασαν τὴν ὁλοκαύτωσιν παραδοῦναι αὐτοῖς κατὰ τὴν διαίρεσιν κατ᾽ οἴκους πατριῶν τοῖς υἱοῖς τοῦ λαοῦ, τοῦ προσάγειν τῷ κυρίῳ, ὡς γέγραπται ἐν βιβλίῳ Μωυσῆ· καὶ οὕτως εἰς τὸ πρωί.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και διήρεσαν τα ολοκαυτώματα, διά να δώσωσιν αυτά κατά τας διαιρέσεις των οίκων των πατριών του λαού, διά να προσφέρωσιν εις τον Κύριον, κατά το γεγραμμένον εν τω βιβλίω του Μωϋσέως· και ωσαύτως περί των βοών.
 
 **KJV** And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the Lord, as it is written in the book of Moses. And so did they with the oxen.
+
+**HEB** וַיָּסִ֨ירוּ הָעֹלָ֜ה לְ֠תִתָּם לְמִפְלַגּ֤וֹת לְבֵית־אָבוֹת֙ לִבְנֵ֣י הָעָ֔ם לְהַקְרִיב֙ לַיהוָ֔ה כַּכָּת֖וּב בְּסֵ֣פֶר מֹשֶׁ֑ה וְכֵ֖ן לַבָּקָֽר׃
+
+**JPS** And they removed the portions that were to be burnt, that they might give them to the divisions of the fathers' houses of the children of the people, to present unto HaShem, as it is written in the book of Moses. And so did they with the oxen.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they roasted the passover with fire according to the ordinance: but the other holy offerings sod they in pots, and in caldrons, and in pans, and divided them speedily among all the people.
 
+**HEB** וַֽיְבַשְּׁל֥וּ הַפֶּ֛סַח בָּאֵ֖שׁ כַּמִּשְׁפָּ֑ט וְהַקֳּדָשִׁ֣ים בִּשְּׁל֗וּ בַּסִּיר֤וֹת וּבַדְּוָדִים֙ וּבַצֵּ֣לָח֔וֹת וַיָּרִ֖יצוּ לְכָל־בְּנֵ֥י הָעָֽם׃
+
+**JPS** And they roasted the passover with fire according to the ordinance; and the holy offerings sod they in pots, and in caldrons, and in pans, and carried them quickly to all the children of the people.
+
 ## 14
 
 **GRC** καὶ μετὰ τὸ ἑτοιμάσαι αὐτοῖς καὶ τοῖς ἱερεῦσιν, ὅτι οἱ ἱερεῖς ἐν τῷ ἀναφέρειν τὰ στέατα καὶ τὰ ὁλοκαυτώματα ἕως νυκτός, καὶ οἱ Λευεῖται ἡτοίμασαν αὑτοῖς καὶ τοῖς ἀδελφοῖς αὐτῶν υἱοῖς Ἀαρών.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έπειτα ητοίμασαν εις εαυτούς και εις τους ιερείς· διότι οι ιερείς οι υιοί Ααρών κατεγίνοντο εις το να προσφέρωσι τα ολοκαυτώματα και τα στέατα μέχρι νυκτός· διά τούτο οι Λευΐται ητοίμασαν εις εαυτούς και εις τους ιερείς τους υιούς Ααρών.
 
 **KJV** And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron were busied in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.
+
+**HEB** וְאַחַ֗ר הֵכִ֤ינוּ לָהֶם֙ וְלַכֹּ֣הֲנִ֔ים כִּ֤י הַכֹּהֲנִים֙ בְּנֵ֣י אַהֲרֹ֔ן בְּהַֽעֲל֛וֹת הָעוֹלָ֥ה וְהַחֲלָבִ֖ים עַד־לָ֑יְלָה וְהַלְוִיִּם֙ הֵכִ֣ינוּ לָהֶ֔ם וְלַכֹּהֲנִ֖ים בְּנֵ֥י אַהֲרֹֽן׃
+
+**JPS** And afterward they prepared for themselves, and for the priests; because the priests the sons of Aaron were busied in offering the portions that were to be burnt and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king’s seer; and the porters waited at every gate; they might not depart from their service; for their brethren the Levites prepared for them.
 
+**HEB** וְהַמְשֹֽׁרֲרִ֨ים בְּנֵי־אָסָ֜ף עַל־מַעֲמָדָ֗ם כְּמִצְוַ֤ת דָּוִיד֙ וְאָסָ֞ף וְהֵימָ֤ן וִֽידֻתוּן֙ חוֹזֵ֣ה הַמֶּ֔לֶךְ וְהַשֹּׁעֲרִ֖ים לְשַׁ֣עַר וָשָׁ֑עַר אֵ֣ין לָהֶ֗ם לָסוּר֙ מֵעַ֣ל עֲבֹֽדָתָ֔ם כִּֽי־אֲחֵיהֶ֥ם הַלְוִיִּ֖ם הֵכִ֥ינוּ לָהֶֽם׃
+
+**JPS** And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king's seer; and the porters were at every gate; they needed not to depart from their service, for their brethren the Levites prepared for them.
+
 ## 16
 
 **GRC** καὶ κατορθώθη καὶ ἡτοιμάσθη πᾶσα ἡ λειτουργία Κυρίου ἐν τῇ ἡμέρᾳ ἐκείνῃ, τοῦ ποιῆσαι τὸ φάσεχ καὶ ἐνεγκεῖν τὰ ὁλοκαυτώματα ἐπὶ τὸ θυσιαστήριον Κυρίου κατὰ τὴν ἐντολὴν τοῦ βασιλέως Ἰωσεία.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ητοιμάσθη πάσα η υπηρεσία του Κυρίου την αυτήν ημέραν, διά να κάμωσι το πάσχα και να προσφέρωσιν ολοκαυτώματα επί του θυσιαστηρίου του Κυρίου, κατά την προσταγήν του βασιλέως Ιωσία.
 
 **KJV** So all the service of the Lord was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the Lord, according to the commandment of king Josiah.
+
+**HEB** וַ֠תִּכּוֹן כָּל־עֲבוֹדַ֨ת יְהוָ֜ה בַּיּ֤וֹם הַהוּא֙ לַעֲשׂ֣וֹת הַפֶּ֔סַח וְהַעֲל֣וֹת עֹל֔וֹת עַ֖ל מִזְבַּ֣ח יְהוָ֑ה כְּמִצְוַ֖ת הַמֶּ֥לֶךְ יֹאשִׁיָּֽהוּ׃
+
+**JPS** So all the service of HaShem was prepared the same day, to keep the passover, and to offer burnt-offerings upon the altar of HaShem, according to the commandment of king Josiah.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days.
 
+**HEB** וַיַּעֲשׂ֨וּ בְנֵֽי־יִשְׂרָאֵ֧ל הַֽנִּמְצְאִ֛ים אֶת־הַפֶּ֖סַח בָּעֵ֣ת הַהִ֑יא וְאֶת־חַ֥ג הַמַּצּ֖וֹת שִׁבְעַ֥ת יָמִֽים׃
+
+**JPS** And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days.
+
 ## 18
 
 **GRC** καὶ οὐκ ἐγένετο φάσεχ ὅμοιον αὐτῷ ἐν Ἰσραήλ· ἀπό ἡμερῶν Σαμουὴλ τοῦ προφήτου καὶ παντὸς βασιλέως Ἰσραὴλ οὐκ ἐποίησαν ὡς τὸ φάσεχ ὃ ἐποίησεν Ἰωσείας καὶ οἱ ἱερεῖς καὶ οἱ Λευεῖται καὶ πᾶς Ἰουδὰ καὶ Ἰσραὴλ ὁ εὑρεθεὶς καὶ οἱ κατοικοῦντες ἐν Ἰερουσαλὴμ τῷ κυρίῳ
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και δεν έγεινε πάσχα ως εκείνο εν τω Ισραήλ, από των ημερών Σαμουήλ του προφήτου· ουδέ έκαμον πάντες οι βασιλείς του Ισραήλ ως το πάσχα, το οποίον έκαμεν ο Ιωσίας και οι ιερείς και οι Λευΐται και πας ο Ιούδας και ο Ισραήλ οι παρευρεθέντες, και οι κάτοικοι της Ιερουσαλήμ.
 
 **KJV** And there was no passover like to that kept in Israel from the days of Samuel the prophet; neither did all the kings of Israel keep such a passover as Josiah kept, and the priests, and the Levites, and all Judah and Israel that were present, and the inhabitants of Jerusalem.
+
+**HEB** וְלֹֽא־נַעֲשָׂ֨ה פֶ֤סַח כָּמֹ֙הוּ֙ בְּיִשְׂרָאֵ֔ל מִימֵ֖י שְׁמוּאֵ֣ל הַנָּבִ֑יא וְכָל־מַלְכֵ֣י יִשְׂרָאֵ֣ל ׀ לֹֽא־עָשׂ֡וּ כַּפֶּ֣סַח אֲשֶׁר־עָשָׂ֣ה יֹֽ֠אשִׁיָּהוּ וְהַכֹּהֲנִ֨ים וְהַלְוִיִּ֤ם וְכָל־יְהוּדָה֙ וְיִשְׂרָאֵ֣ל הַנִּמְצָ֔א וְיוֹשְׁבֵ֖י יְרוּשָׁלָֽ͏ִם׃
+
+**JPS** And there was no passover like to that kept in Israel from the days of Samuel the prophet; neither did any of the kings of Israel keep such a passover as Josiah kept, and the priests, and the Levites, and all Judah and Israel that were present, and the inhabitants of Jerusalem.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** In the eighteenth year of the reign of Josiah was this passover kept.
 
+**HEB** בִּשְׁמוֹנֶ֤ה עֶשְׂרֵה֙ שָׁנָ֔ה לְמַלְכ֖וּת יֹאשִׁיָּ֑הוּ נַעֲשָׂ֖ה הַפֶּ֥סַח הַזֶּֽה׃
+
+**JPS** In the eighteenth year of the reign of Josiah was this passover kept.
+
 ## 20
 
 **GRC** Καὶ ἀνέβη Φαραὼ Νεχαὼ βασιλεὺς Αἰγύπτου ἐπί τὸν βασιλέα Ἀσσυρίων ἐπὶ τὸν ποταμὸν Εὐφράτην, καὶ ἐπορεύθη βασιλεὺς Ἰωσείας εἰς συνάντησιν αὐτῷ.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Μετά δε ταύτα πάντα, αφού ο Ιωσίας ητοίμασε τον οίκον, ανέβη Νεχαώ ο βασιλεύς της Αιγύπτου διά να πολεμήση εν Χαρκεμίς επί τον Ευφράτην· και εξήλθεν ο Ιωσίας εναντίον αυτού.
 
 **KJV** After all this, when Josiah had prepared the temple, Necho king of Egypt came up to fight against Carchemish by Euphrates: and Josiah went out against him.
+
+**HEB** אַחֲרֵ֣י כָל־זֹ֗את אֲשֶׁ֨ר הֵכִ֤ין יֹֽאשִׁיָּ֙הוּ֙ אֶת־הַבַּ֔יִת עָלָ֞ה נְכ֧וֹ מֶֽלֶךְ־מִצְרַ֛יִם לְהִלָּחֵ֥ם בְּכַרְכְּמִ֖ישׁ עַל־פְּרָ֑ת וַיֵּצֵ֥א לִקְרָאת֖וֹ יֹאשִׁיָּֽהוּ׃
+
+**JPS** After all this, when Josiah had prepared the temple, Neco king of Egypt went up to fight against Carchemish by the Euphrates; and Josiah went out against him.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from meddling with God, who is with me, that he destroy thee not.
 
+**HEB** וַיִּשְׁלַ֣ח אֵלָ֣יו מַלְאָכִ֣ים ׀ לֵאמֹר֩ ׀ מַה־לִּ֨י וָלָ֜ךְ מֶ֣לֶךְ יְהוּדָ֗ה לֹא־עָלֶ֨יךָ אַתָּ֤ה הַיּוֹם֙ כִּ֚י אֶל־בֵּ֣ית מִלְחַמְתִּ֔י וֵאלֹהִ֖ים אָמַ֣ר לְבַֽהֲלֵ֑נִי חֲדַל־לְךָ֛ מֵאֱלֹהִ֥ים אֲשֶׁר־עִמִּ֖י וְאַל־יַשְׁחִיתֶֽךָ׃
+
+**JPS** But he sent ambassadors to him, saying: 'What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war; and G-d hath given command to speed me; forbear thee from meddling with G-d, who is with me, that He destroy thee not.'
+
 ## 22
 
 **GRC** καὶ οὐκ ἀπέστρεψεν Ἰωσείας τὸ πρόσωπον αὐτοῦ ἀπ᾽ αὐτοῦ, ἀλλ᾽ ἢ πολεμεῖν αὐτόν ἐκραταιώθη, καὶ οὐκ ἤκουσεν τῶν λόγων Νεχαὼ διὰ στόματος θεοῦ, καὶ ἦλθεν τοῦ πολεμῆσαι ἐν τῷ πεδίῳ Μαγεδών.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Πλην ο Ιωσίας δεν απέστρεψε το πρόσωπον αυτού απ' αυτού· αλλά μετεσχηματίσθη, διά να πολεμήση εναντίον αυτού, και δεν εισήκουσεν εις τους λόγους του Νεχαώ, τους εκ στόματος του Θεού, και ήλθε να πολεμήση εν τη κοιλάδι Μεγιδδώ.
 
 **KJV** Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.
+
+**HEB** וְלֹֽא־הֵסֵב֩ יֹאשִׁיָּ֨הוּ פָנָ֜יו מִמֶּ֗נּוּ כִּ֤י לְהִלָּחֵֽם־בּוֹ֙ הִתְחַפֵּ֔שׂ וְלֹ֥א שָׁמַ֛ע אֶל־דִּבְרֵ֥י נְכ֖וֹ מִפִּ֣י אֱלֹהִ֑ים וַיָּבֹ֕א לְהִלָּחֵ֖ם בְּבִקְעַ֥ת מְגִדּֽוֹ׃
+
+**JPS** Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Neco, from the mouth of G-d, and came to fight in the valley of Megiddo.
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the archers shot at king Josiah; and the king said to his servants, Have me away; for I am sore wounded.
 
+**HEB** וַיֹּרוּ֙ הַיֹּרִ֔ים לַמֶּ֖לֶךְ יֹאשִׁיָּ֑הוּ וַיֹּ֨אמֶר הַמֶּ֤לֶךְ לַעֲבָדָיו֙ הַעֲבִיר֔וּנִי כִּ֥י הָחֳלֵ֖יתִי מְאֹֽד׃
+
+**JPS** And the archers shot at king Josiah; and the king said to his servants: 'Have me away; for I am sore wounded.'
+
 ## 24
 
 **GRC** καὶ ἐξήγαγον αὐτὸν οἱ παῖδες αὐτοῦ ἀπὸ τοῦ ἅρματος καὶ ἀνεβίβασαν αὐτὸν ἐπὶ τὸ ἅρμα τὸ δευτερεῦον ὃ ἦν αὐτῷ, καὶ ἤγαγον αὐτὸν εἰς Ἰερουσαλήμ· καὶ ἀπέθανεν, καὶ ἐτάφη μετὰ τῶν πατέρων αὐτοῦ· καὶ πᾶς Ἰουδὰ καὶ Ἰερουσαλὴμ ἐπένθησαν ἐπὶ Ἰωσείαν.
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εξέβαλον αυτόν οι δούλοι αυτού εκ της αμάξης, και επεβίβασαν αυτόν εις την δευτέραν αυτού άμαξαν· και έφεραν αυτόν εις Ιερουσαλήμ, και απέθανε· και ετάφη εν τοις τάφοις των πατέρων αυτού. Και πας ο Ιούδας και η Ιερουσαλήμ επένθησαν επί τον Ιωσίαν.
 
 **KJV** His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in one of the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah.
+
+**HEB** וַיַּֽעֲבִירֻ֨הוּ עֲבָדָ֜יו מִן־הַמֶּרְכָּבָ֗ה וַֽיַּרְכִּיבֻהוּ֮ עַ֣ל רֶ֣כֶב הַמִּשְׁנֶה֮ אֲשֶׁר־לוֹ֒ וַיּוֹלִיכֻ֙הוּ֙ יְר֣וּשָׁלִַ֔ם וַיָּ֕מָת וַיִּקָּבֵ֖ר בְּקִבְר֣וֹת אֲבֹתָ֑יו וְכָל־יְהוּדָה֙ וִיר֣וּשָׁלִַ֔ם מִֽתְאַבְּלִ֖ים עַל־יֹאשִׁיָּֽהוּ׃
+
+**JPS** So his servants took him out of the chariot, and put him in the second chariot that he had, and brought him to Jerusalem; and he died, and was buried in the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Jeremiah lamented for Josiah: and all the singing men and the singing women spake of Josiah in their lamentations to this day, and made them an ordinance in Israel: and, behold, they are written in the lamentations.
 
+**HEB** וַיְקוֹנֵ֣ן יִרְמְיָהוּ֮ עַל־יֹאשִׁיָּהוּ֒ וַיֹּאמְר֣וּ כָֽל־הַשָּׁרִ֣ים ׀ וְ֠הַשָּׁרוֹת בְּקִינ֨וֹתֵיהֶ֤ם עַל־יֹאשִׁיָּ֙הוּ֙ עַד־הַיּ֔וֹם וַיִּתְּנ֥וּם לְחֹ֖ק עַל־יִשְׂרָאֵ֑ל וְהִנָּ֥ם כְּתוּבִ֖ים עַל־הַקִּינֽוֹת׃
+
+**JPS** And Jeremiah lamented for Josiah; and all the singing men and singing women spoke of Josiah in their lamentations, unto this day; and they made them an ordinance in Israel; and, behold, they are written in the lamentations.
+
 ## 26
 
 **GRC** καὶ ἦσαν λόγοι Ἰωσεία καὶ ἡ ἐλπὶς αὐτοῦ γεγραμμένα ἐν νόμῳ Κυρίου,
@@ -217,6 +319,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of the Lord,
 
+**HEB** וְיֶ֛תֶר דִּבְרֵ֥י יֹאשִׁיָּ֖הוּ וַחֲסָדָ֑יו כַּכָּת֖וּב בְּתוֹרַ֥ת יְהוָֽה׃
+
+**JPS** Now the rest of the acts of Josiah, and his good deeds, according to that which is written in the Law of HaShem,
+
 ## 27
 
 **GRC** καὶ οἱ λόγοι αὐτοῦ οἱ πρῶτοι καὶ οἱ ἔσχατοι, ἰδοὺ γεγραμμένοι ἐπὶ βιβλίῳ βασιλέων Ἰσραὴλ καὶ Ἰούδα.
@@ -224,6 +330,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και τα έργα αυτού, τα πρώτα και τα έσχατα, ιδού, είναι γεγραμμένα εν τω βιβλίω των βασιλέων του Ισραήλ και του Ιούδα.
 
 **KJV** And his deeds, first and last, behold, they are written in the book of the kings of Israel and Judah.
+
+**HEB** וּדְבָרָ֕יו הָרִאשֹׁנִ֖ים וְהָאַחֲרֹנִ֑ים הִנָּ֣ם כְּתוּבִ֔ים עַל־סֵ֥פֶר מַלְכֵֽי־יִשְׂרָאֵ֖ל וִיהוּדָֽה׃
+
+**JPS** and his acts, first and last, behold, they are written in the book of the kings of Israel and Judah.
 
 ## Notes
 

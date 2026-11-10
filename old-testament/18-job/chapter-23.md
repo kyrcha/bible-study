@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then Job answered and said,
 
+**HEB** וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃
+
+**JPS** Then Job answered and said:
+
 ## 2
 
 **GRC** Καὶ δὴ οἶδα ὅτι ἐκ χειρός μου ἡ ἔλεγξίς ἐστιν, καὶ ἡ χεὶρ αὐτοῦ βαρεῖα γέγονεν ἐπ᾽ ἐμῷ στεναγμῷ.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και την σήμερον το παράπονόν μου είναι πικρόν· η πληγή μου είναι βαρυτέρα του στεναγμού μου.
 
 **KJV** Even to day is my complaint bitter: my stroke is heavier than my groaning.
+
+**HEB** גַּם־הַ֭יּוֹם מְרִ֣י שִׂחִ֑י יָ֝דִ֗י כָּבְדָ֥ה עַל־אַנְחָתִֽי׃
+
+**JPS** Even to-day is my complaint bitter; my hand is become heavy because of my groaning.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Oh that I knew where I might find him! that I might come even to his seat!
 
+**HEB** מִֽי־יִתֵּ֣ן יָ֭דַעְתִּי וְאֶמְצָאֵ֑הוּ אָ֝ב֗וֹא עַד־תְּכוּנָתֽוֹ׃
+
+**JPS** Oh that I knew where I might find Him, that I might come even to His seat!
+
 ## 4
 
 **GRC** εἴποιμι δὲ ἐμαυτοῦ κρίμα, τὸ δὲ στόμα μου ἐμπλήσαι ἐλέγχων·
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** ήθελον εκθέσει κρίσιν ενώπιον αυτού, και ήθελον εμπλήσει το στόμα μου αποδείξεων·
 
 **KJV** I would order my cause before him, and fill my mouth with arguments.
+
+**HEB** אֶעֶרְכָ֣ה לְפָנָ֣יו מִשְׁפָּ֑ט וּ֝פִ֗י אֲמַלֵּ֥א תוֹכָחֽוֹת׃
+
+**JPS** I would order my cause before Him, and fill my mouth with arguments.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** I would know the words which he would answer me, and understand what he would say unto me.
 
+**HEB** אֵ֭דְעָה מִלִּ֣ים יַעֲנֵ֑נִי וְ֝אָבִ֗ינָה מַה־יֹּ֥אמַר לִֽי׃
+
+**JPS** I would know the words which He would answer me, and understand what He would say unto me.
+
 ## 6
 
 **GRC** καὶ ἐν πολλῇ ἰσχύι ἐπελεύσεταί μοι· εἶτα ἐν ἀπειλῇ μοι οὐ χρήσεται.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Μη εν πλήθει δυνάμεως θέλει διαμάχεσθαι μετ' εμού; ουχί· αλλ' ήθελε βάλει εις εμέ προσοχήν.
 
 **KJV** Will he plead against me with his great power? No; but he would put strength in me.
+
+**HEB** הַבְּרָב־כֹּ֭חַ יָרִ֣יב עִמָּדִ֑י לֹ֥א אַךְ־ה֝֗וּא יָשִׂ֥ם בִּֽי׃
+
+**JPS** Would He contend with me in His great power? Nay; but He would give heed unto me.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** There the righteous might dispute with him; so should I be delivered for ever from my judge.
 
+**HEB** שָׁ֗ם יָ֭שָׁר נוֹכָ֣ח עִמּ֑וֹ וַאֲפַלְּטָ֥ה לָ֝נֶ֗צַח מִשֹּׁפְטִֽי׃
+
+**JPS** There the upright might reason with Him; so should I be delivered for ever from my Judge.
+
 ## 8
 
 **GRC** εἰς γὰρ πρῶτα πορεύσομαι, καὶ οὐκ ἔτι εἰμί, τὰ δὲ ἐπ᾽ ἐσχάτοις, τί οἶδα;
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ιδού, υπάγω εμπρός, αλλά δεν είναι· και οπίσω, αλλά δεν βλέπω αυτόν·
 
 **KJV** Behold, I go forward, but he is not there; and backward, but I cannot perceive him:
+
+**HEB** הֵ֤ן קֶ֣דֶם אֶהֱלֹ֣ךְ וְאֵינֶ֑נּוּ וְ֝אָח֗וֹר וְֽלֹא־אָבִ֥ין לֽוֹ׃
+
+**JPS** Behold, I go forward, but He is not there, and backward, but I cannot perceive Him;
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** On the left hand, where he doth work, but I cannot behold him: he hideth himself on the right hand, that I cannot see him:
 
+**HEB** שְׂמֹ֣אול בַּעֲשֹׂת֣וֹ וְלֹא־אָ֑חַז יַעְטֹ֥ף יָ֝מִ֗ין וְלֹ֣א אֶרְאֶֽה׃
+
+**JPS** On the left hand, when He doth work, but I cannot behold Him, He turneth Himself to the right hand, but I cannot see Him.
+
 ## 10
 
 **GRC** οἶδεν γὰρ ἤδη ὁδόν μου, διέκρινεν δέ με ὥσπερ τὸ χρυσίον.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Γνωρίζει όμως την οδόν μου· με εδοκίμασε· θέλω εξέλθει ως χρυσίον.
 
 **KJV** But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.
+
+**HEB** כִּֽי־יָ֭דַע דֶּ֣רֶךְ עִמָּדִ֑י בְּ֝חָנַ֗נִי כַּזָּהָ֥ב אֵצֵֽא׃
+
+**JPS** For He knoweth the way that I take; when He hath tried me, I shall come forth as gold.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** My foot hath held his steps, his way have I kept, and not declined.
 
+**HEB** בַּ֭אֲשֻׁרוֹ אָחֲזָ֣ה רַגְלִ֑י דַּרְכּ֖וֹ שָׁמַ֣רְתִּי וְלֹא־אָֽט׃
+
+**JPS** My foot hath held fast to His steps, His way have I kept, and turned not aside.
+
 ## 12
 
 **GRC** ἀπὸ ἐνταλμάτων αὐτοῦ καὶ οὐ μὴ παρέλθω, ἐν δὲ κόλπῳ μου ἔκρυψα ῥήματα αὐτοῦ.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** την εντολήν των χειλέων αυτού, και δεν ωπισθοδρόμησα· διετήρησα τους λόγους του στόματος αυτού, μάλλον παρά την αναγκαίαν μου τροφήν.
 
 **KJV** Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food.
+
+**HEB** מִצְוַ֣ת שְׂ֭פָתָיו וְלֹ֣א אָמִ֑ישׁ מֵ֝חֻקִּ֗י צָפַ֥נְתִּי אִמְרֵי־פִֽיו׃
+
+**JPS** I have not gone back from the commandment of His lips; I have treasured up the words of His mouth more than my necessary food.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** But he is in one mind, and who can turn him? and what his soul desireth, even that he doeth.
 
+**HEB** וְה֣וּא בְ֭אֶחָד וּמִ֣י יְשִׁיבֶ֑נּוּ וְנַפְשׁ֖וֹ אִוְּתָ֣ה וַיָּֽעַשׂ׃
+
+**JPS** But He is at one with Himself, and who can turn Him? And what His soul desireth, even that He doeth.
+
 ## 14
 
 **GRC** διὰ τοῦτο ἐπ᾽ αὐτῷ ἐσπούδακα· νουθετούμενος δὲ ἐφρόντισα αὐτοῦ.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διότι εκτελεί το ορισθέν εις εμέ· και πολλά τοιαύτα είναι μετ' αυτού.
 
 **KJV** For he performeth the thing that is appointed for me: and many such things are with him.
+
+**HEB** כִּ֭י יַשְׁלִ֣ים חֻקִּ֑י וְכָהֵ֖נָּה רַבּ֣וֹת עִמּֽוֹ׃
+
+**JPS** For He will perform that which is appointed for me; and many such things are with Him.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Therefore am I troubled at his presence: when I consider, I am afraid of him.
 
+**HEB** עַל־כֵּ֭ן מִפָּנָ֣יו אֶבָּהֵ֑ל אֶ֝תְבּוֹנֵ֗ן וְאֶפְחַ֥ד מִמֶּֽנּוּ׃
+
+**JPS** Therefore am I affrighted at His presence; when I consider, I am afraid of Him.
+
 ## 16
 
 **GRC** Κύριος δὲ ἐμαλάκυνεν τὴν καρδίαν μου, ὁ δὲ παντοκράτωρ ἐσπούδασέν με.
@@ -137,6 +199,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** For God maketh my heart soft, and the Almighty troubleth me:
 
+**HEB** וְ֭אֵל הֵרַ֣ךְ לִבִּ֑י וְ֝שַׁדַּ֗י הִבְהִילָֽנִי׃
+
+**JPS** Yea, G-d hath made my heart faint, and the Almighty hath affrighted me;
+
 ## 17
 
 **GRC** οὐ γὰρ ᾔδειν ὅτι ἐπελεύσεταί μοι σκότος, πρὸ προσώπου δὲ μου ἐκάλυψεν γνόφος.
@@ -144,6 +210,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** επειδή δεν απεκόπην προ του σκότους, και δεν έκρυψε τον γνόφον από του προσώπου μου.
 
 **KJV** Because I was not cut off before the darkness, neither hath he covered the darkness from my face.
+
+**HEB** כִּֽי־לֹ֣א נִ֭צְמַתִּי מִפְּנֵי־חֹ֑שֶׁךְ וּ֝מִפָּנַ֗י כִּסָּה־אֹֽפֶל׃
+
+**JPS** Because I was not cut off before the darkness, neither did He cover the thick darkness from my face.
 
 ## Notes
 

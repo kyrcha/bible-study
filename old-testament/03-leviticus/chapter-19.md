@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the Lord spake unto Moses, saying,
 
+**HEB** וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר
+
+**JPS** And HaShem spoke unto Moses, saying:
+
 ## 2
 
 **GRC** Λάλησον τῇ συναγωγῇ τῶν υἱῶν Ἰσραὴλ καὶ ἐρεῖς πρὸς αὐτούς Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος Κύριος ὁ θεὸς ὑμῶν.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Λάλησον προς πάσαν την συναγωγήν των υιών Ισραήλ και ειπέ προς αυτούς, Άγιοι θέλετε είσθαι· διότι άγιος είμαι εγώ Κύριος ο Θεός σας.
 
 **KJV** Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the Lord your God am holy.
+
+**HEB** דַּבֵּ֞ר אֶל־כָּל־עֲדַ֧ת בְּנֵי־יִשְׂרָאֵ֛ל וְאָמַרְתָּ֥ אֲלֵהֶ֖ם קְדֹשִׁ֣ים תִּהְי֑וּ כִּ֣י קָד֔וֹשׁ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** Speak unto all the congregation of the children of Israel, and say unto them: Ye shall be holy; for I HaShem your G-d am holy.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the Lord your God.
 
+**HEB** אִ֣ישׁ אִמּ֤וֹ וְאָבִיו֙ תִּירָ֔אוּ וְאֶת־שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** Ye shall fear every man his mother, and his father, and ye shall keep My sabbaths: I am HaShem your G-d.
+
 ## 4
 
 **GRC** οὐκ ἐπακολουθήσετε εἰδώλοις, καὶ θεοὺς χωνευτοὺς οὐ ποιήσετε ὑμῖν· ἐγὼ Κύριος ὁ θεὸς ὑμῶν.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Μη στραφήτε εις είδωλα μηδέ κάμητε εις εαυτούς θεούς χωνευτούς. Εγώ είμαι Κύριος ο Θεός σας.
 
 **KJV** Turn ye not unto idols, nor make to yourselves molten gods: I am the Lord your God.
+
+**HEB** אַל־תִּפְנוּ֙ אֶל־הָ֣אֱלִילִ֔ים וֵֽאלֹהֵי֙ מַסֵּכָ֔ה לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** Turn ye not unto the idols, nor make to yourselves molten gods: I am HaShem your G-d.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And if ye offer a sacrifice of peace offerings unto the Lord, ye shall offer it at your own will.
 
+**HEB** וְכִ֧י תִזְבְּח֛וּ זֶ֥בַח שְׁלָמִ֖ים לַיהוָ֑ה לִֽרְצֹנְכֶ֖ם תִּזְבָּחֻֽהוּ׃
+
+**JPS** And when ye offer a sacrifice of peace-offerings unto HaShem, ye shall offer it that ye may be accepted.
+
 ## 6
 
 **GRC** ᾗ ἂν ἡμέρᾳ θύσητε βρωθήσεται καὶ τῇ αὔριον· καὶ ἐὰν καταλειφθῇ ἕως ἡμέρας τρίτης, ἐν πυρὶ κατακαυθήσεται.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Θέλει τρώγεσθαι την ημέραν καθ' ην προσφέρετε αυτήν, και την επαύριον· εάν δε μείνη τι έως της τρίτης ημέρας, με πυρ θέλει κατακαυθή.
 
 **KJV** It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.
+
+**HEB** בְּי֧וֹם זִבְחֲכֶ֛ם יֵאָכֵ֖ל וּמִֽמָּחֳרָ֑ת וְהַנּוֹתָר֙ עַד־י֣וֹם הַשְּׁלִישִׁ֔י בָּאֵ֖שׁ יִשָּׂרֵֽף׃
+
+**JPS** It shall be eaten the same day ye offer it, and on the morrow; and if aught remain until the third day, it shall be burnt with fire.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And if it be eaten at all on the third day, it is abominable; it shall not be accepted.
 
+**HEB** וְאִ֛ם הֵאָכֹ֥ל יֵאָכֵ֖ל בַּיּ֣וֹם הַשְּׁלִישִׁ֑י פִּגּ֥וּל ה֖וּא לֹ֥א יֵרָצֶֽה׃
+
+**JPS** And if it be eaten at all on the third day, it is a vile thing; it shall not be accepted.
+
 ## 8
 
 **GRC** ὁ δὲ ἔσθων αὐτὸ ἁμαρτίαν λήμψεται, ὅτι τὰ ἅγια Κυρίου ἐβεβήλωσεν· καὶ ἐξολεθρευθήσονται αἱ ψυχαὶ αἱ ἔσθουσαι ἐκ τοῦ λαοῦ αὐτῶν.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διά τούτο όστις φάγη αυτήν, θέλει βαστάσει την ανομίαν αυτού, διότι εβεβήλωσε τα άγια του Κυρίου· και η ψυχή αύτη θέλει εξολοθρευθή εκ του λαού αυτής.
 
 **KJV** Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the Lord: and that soul shall be cut off from among his people.
+
+**HEB** וְאֹֽכְלָיו֙ עֲוֺנ֣וֹ יִשָּׂ֔א כִּֽי־אֶת־קֹ֥דֶשׁ יְהוָ֖ה חִלֵּ֑ל וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃
+
+**JPS** But every one that eateth it shall bear his iniquity, because he hath profaned the holy thing of HaShem; and that soul shall be cut off from his people.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.
 
+**HEB** וּֽבְקֻצְרְכֶם֙ אֶת־קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖ לֹ֥א תְלַקֵּֽט׃
+
+**JPS** And when ye reap the harvest of your land, thou shalt not wholly reap the corner of thy field, neither shalt thou gather the gleaning of thy harvest.
+
 ## 10
 
 **GRC** καὶ τὸν ἀμπελῶνά σου οὐκ ἐπανατρυγήσεις, οὐδὲ τοὺς ῥῶγας τοῦ ἀμπελῶνός σου συλλέξεις· τῷ πτωχῷ καὶ τῷ προσηλύτῳ καταλείψεις αὐτά· ἐγώ εἰμι Κύριος ὁ θεὸς ὑμῶν.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και τον αμπελώνά σου δεν θέλεις επανατρυγήσει ούτε τας ρώγας του αμπελώνός σου θέλεις συλλέξει· εις τον πτωχόν και εις τον ξένον θέλεις αφήσει αυτάς. Εγώ είμαι Κύριος ο Θεός σας.
 
 **KJV** And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the Lord your God.
+
+**HEB** וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** And thou shalt not glean thy vineyard, neither shalt thou gather the fallen fruit of thy vineyard; thou shalt leave them for the poor and for the stranger: I am HaShem your G-d.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ye shall not steal, neither deal falsely, neither lie one to another.
 
+**HEB** לֹ֖א תִּגְנֹ֑בוּ וְלֹא־תְכַחֲשׁ֥וּ וְלֹֽא־תְשַׁקְּר֖וּ אִ֥ישׁ בַּעֲמִיתֽוֹ׃
+
+**JPS** Ye shall not steal; neither shall ye deal falsely, nor lie one to another.
+
 ## 12
 
 **GRC** καὶ οὐκ ὀμεῖσθε τῷ ὀνόματί μου ἐπ᾽ ἀδίκῳ, καὶ οὐ βεβηλώσετε τὸ ὄνομα τοῦ θεοῦ ὑμῶν· ἐγώ εἰμι Κύριος ὁ θεὸς ὑμῶν.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και δεν θέλετε ομνύει εις το όνομά μου ψευδώς και δεν θέλεις βεβηλόνει το όνομα του Θεού σου. Εγώ είμαι ο Κύριος.
 
 **KJV** And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the Lord.
+
+**HEB** וְלֹֽא־תִשָּׁבְע֥וּ בִשְׁמִ֖י לַשָּׁ֑קֶר וְחִלַּלְתָּ֛ אֶת־שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה׃
+
+**JPS** And ye shall not swear by My name falsely, so that thou profane the name of thy G-d: I am HaShem.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning.
 
+**HEB** לֹֽא־תַעֲשֹׁ֥ק אֶת־רֵֽעֲךָ֖ וְלֹ֣א תִגְזֹ֑ל לֹֽא־תָלִ֞ין פְּעֻלַּ֥ת שָׂכִ֛יר אִתְּךָ֖ עַד־בֹּֽקֶר׃
+
+**JPS** Thou shalt not oppress thy neighbour, nor rob him; the wages of a hired servant shall not abide with thee all night until the morning.
+
 ## 14
 
 **GRC** οὐ κακῶς ἐρεῖς κωφόν, καὶ ἀπέναντι τυφλοῦ οὐ προσθήσεις σκάνδαλον· καὶ φοβηθήσῃ Κύριον τὸν θεόν σου· ἐγώ εἰμι Κύριος ὁ θεὸς ὑμῶν.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Δεν θέλεις κακολογήσει τον κωφόν, και έμπροσθεν του τυφλού δεν θέλεις βάλει πρόσκομμα, αλλά θέλεις φοβηθή τον Θεόν σου. Εγώ είμαι ο Κύριος.
 
 **KJV** Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I am the Lord.
+
+**HEB** לֹא־תְקַלֵּ֣ל חֵרֵ֔שׁ וְלִפְנֵ֣י עִוֵּ֔ר לֹ֥א תִתֵּ֖ן מִכְשֹׁ֑ל וְיָרֵ֥אתָ מֵּאֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה׃
+
+**JPS** Thou shalt not curse the deaf, nor put a stumbling-block before the blind, but thou shalt fear thy G-d: I am HaShem.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour.
 
+**HEB** לֹא־תַעֲשׂ֥וּ עָ֙וֶל֙ בַּמִּשְׁפָּ֔ט לֹא־תִשָּׂ֣א פְנֵי־דָ֔ל וְלֹ֥א תֶהְדַּ֖ר פְּנֵ֣י גָד֑וֹל בְּצֶ֖דֶק תִּשְׁפֹּ֥ט עֲמִיתֶֽךָ׃
+
+**JPS** Ye shall do no unrighteousness in judgment; thou shalt not respect the person of the poor, nor favour the person of the mighty; but in righteousness shalt thou judge thy neighbour.
+
 ## 16
 
 **GRC** οὐ πορεύσῃ δόλῳ ἐν τῷ ἔθνει σου· οὐκ ἐπιστήσῃ ἐφ᾽ αἷμα τοῦ πλησίον σου· ἐγώ εἰμι Κύριος ὁ θεὸς ὑμῶν.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Δεν θέλεις περιφέρεσθαι συκοφαντών μεταξύ του λαού σου· ουδέ θέλεις σηκωθή κατά του αίματος του πλησίον σου. Εγώ είμαι ο Κύριος.
 
 **KJV** Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the Lord.
+
+**HEB** לֹא־תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל־דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה׃
+
+**JPS** Thou shalt not go up and down as a talebearer among thy people; neither shalt thou stand idly by the blood of thy neighbour: I am HaShem.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 
+**HEB** לֹֽא־תִשְׂנָ֥א אֶת־אָחִ֖יךָ בִּלְבָבֶ֑ךָ הוֹכֵ֤חַ תּוֹכִ֙יחַ֙ אֶת־עֲמִיתֶ֔ךָ וְלֹא־תִשָּׂ֥א עָלָ֖יו חֵֽטְא׃
+
+**JPS** Thou shalt not hate thy brother in thy heart; thou shalt surely rebuke thy neighbour, and not bear sin because of him.
+
 ## 18
 
 **GRC** καὶ οὐκ ἐκδικᾶταί σου ἡ χείρ, καὶ οὐ μηνιεῖς τοῖς υἱοῖς τοῦ λαοῦ σου, καὶ ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν· ἐγώ εἰμι Κύριος.
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Δεν θέλεις εκδικείσθαι ουδέ θέλεις μνησικακεί κατά των υιών του λαού σου· αλλά θέλεις αγαπά τον πλησίον σου ως σεαυτόν. Εγώ είμαι ο Κύριος.
 
 **KJV** Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
+
+**HEB** לֹֽא־תִקֹּ֤ם וְלֹֽא־תִטֹּר֙ אֶת־בְּנֵ֣י עַמֶּ֔ךָ וְאָֽהַבְתָּ֥ לְרֵעֲךָ֖ כָּמ֑וֹךָ אֲנִ֖י יְהוָֽה׃
+
+**JPS** Thou shalt not take vengeance, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am HaShem.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.
 
+**HEB** אֶֽת־חֻקֹּתַי֮ תִּשְׁמֹרוּ֒ בְּהֶמְתְּךָ֙ לֹא־תַרְבִּ֣יעַ כִּלְאַ֔יִם שָׂדְךָ֖ לֹא־תִזְרַ֣ע כִּלְאָ֑יִם וּבֶ֤גֶד כִּלְאַ֙יִם֙ שֽׁ͏ַעַטְנֵ֔ז לֹ֥א יַעֲלֶ֖ה עָלֶֽיךָ׃
+
+**JPS** Ye shall keep My statutes. Thou shalt not let thy cattle gender with a diverse kind; thou shalt not sow thy field with two kinds of seed; neither shall there come upon thee a garment of two kinds of stuff mingled together.
+
 ## 20
 
 **GRC** καὶ ἐάν τις κοιμηθῇ μετὰ γυναικὸς κοίτην σπέρματος, καὶ αὕτη οἰκέτις διαπεφυλαγμένη ἀνθρώπῳ, καὶ αὕτη λύτροις οὐ λελύτρωται ἢ ἐλευθερία οὐκ ἐδόθη αὐτῇ, ἐπισκοπὴ ἔσται αὐτοῖς· οὐκ ἀποθανοῦνται, ὅτι οὐκ ἀπηλευθερώθη.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εάν τις συνουσιασθή μετά γυναικός, ήτις είναι δούλη ηρραβωνισμένη μετά ανδρός και δεν είναι εξηγορασμένη, ουδέ εδόθη εις αυτήν η ελευθερία, θέλουσι μαστιγωθή· δεν θέλουσι φονευθή, διότι αυτή δεν ήτο ελευθέρα.
 
 **KJV** And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.
+
+**HEB** וְ֠אִישׁ כִּֽי־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה שִׁכְבַת־זֶ֗רַע וְהִ֤וא שִׁפְחָה֙ נֶחֱרֶ֣פֶת לְאִ֔ישׁ וְהָפְדֵּה֙ לֹ֣א נִפְדָּ֔תָה א֥וֹ חֻפְשָׁ֖ה לֹ֣א נִתַּן־לָ֑הּ בִּקֹּ֧רֶת תִּהְיֶ֛ה לֹ֥א יוּמְת֖וּ כִּי־לֹ֥א חֻפָּֽשָׁה׃
+
+**JPS** And whosoever lieth carnally with a woman, that is a bondmaid, designated for a man, and not at all redeemed, nor was freedom given her; there shall be inquisition; they shall not be put to death, because she was not free.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he shall bring his trespass offering unto the Lord, unto the door of the tabernacle of the congregation, even a ram for a trespass offering.
 
+**HEB** וְהֵבִ֤יא אֶת־אֲשָׁמוֹ֙ לַֽיהוָ֔ה אֶל־פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד אֵ֖יל אָשָֽׁם׃
+
+**JPS** And he shall bring his forfeit unto HaShem, unto the door of the tent of meeting, even a ram for a guilt-offering.
+
 ## 22
 
 **GRC** καὶ ἐξιλάσεται περὶ αὐτοῦ ὁ ἱερεὺς ἐν τῷ κριῷ τῆς πλημμελίας ἔναντι Κυρίου περὶ τῆς ἁμαρτίας ἧς ἥμαρτεν, καὶ ἀφεθήσεται αὐτῷ ἡ ἁμαρτία ἣν ἥμαρτεν.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλει κάμει ο ιερεύς εξιλέωσιν περί αυτού διά του κριού της περί ανομίας προσφοράς ενώπιον του Κυρίου, διά την αμαρτίαν αυτού την οποίαν ημάρτησε· και θέλει συγχωρηθή εις αυτόν η αμαρτία αυτού την οποίαν ημάρτησε.
 
 **KJV** And the priest shall make an atonement for him with the ram of the trespass offering before the Lord for his sin which he hath done: and the sin which he hath done shall be forgiven him.
+
+**HEB** וְכִפֶּר֩ עָלָ֨יו הַכֹּהֵ֜ן בְּאֵ֤יל הָֽאָשָׁם֙ לִפְנֵ֣י יְהוָ֔ה עַל־חַטָּאת֖וֹ אֲשֶׁ֣ר חָטָ֑א וְנִסְלַ֣ח ל֔וֹ מֵחַטָּאת֖וֹ אֲשֶׁ֥ר חָטָֽא׃
+
+**JPS** And the priest shall make atonement for him with the ram of the guilt-offering before HaShem for his sin which he hath sinned; and he shall be forgiven for his sin which he hath sinned.
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.
 
+**HEB** וְכִי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ וּנְטַעְתֶּם֙ כָּל־עֵ֣ץ מַאֲכָ֔ל וַעֲרַלְתֶּ֥ם עָרְלָת֖וֹ אֶת־פִּרְי֑וֹ שָׁלֹ֣שׁ שָׁנִ֗ים יִהְיֶ֥ה לָכֶ֛ם עֲרֵלִ֖ים לֹ֥א יֵאָכֵֽל׃
+
+**JPS** And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as forbidden; three years shall it be as forbidden unto you; it shall not be eaten.
+
 ## 24
 
 **GRC** καὶ τῷ ἔτει τῷ τετάρτῳ ἔσται πᾶς ὁ καρπὸς αὐτοῦ ἅγιος αἰνετὸς τῷ κυρίῳ,
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εις το τέταρτον έτος θέλει είσθαι όλος ο καρπός αυτού άγιος εις δόξαν του Κυρίου.
 
 **KJV** But in the fourth year all the fruit thereof shall be holy to praise the Lord withal.
+
+**HEB** וּבַשָּׁנָה֙ הָרְבִיעִ֔ת יִהְיֶ֖ה כָּל־פִּרְי֑וֹ קֹ֥דֶשׁ הִלּוּלִ֖ים לַיהוָֽה׃
+
+**JPS** And in the fourth year all the fruit thereof shall be holy, for giving praise unto HaShem.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the Lord your God.
 
+**HEB** וּבַשָּׁנָ֣ה הַחֲמִישִׁ֗ת תֹּֽאכְלוּ֙ אֶת־פִּרְי֔וֹ לְהוֹסִ֥יף לָכֶ֖ם תְּבוּאָת֑וֹ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** But in the fifth year may ye eat of the fruit thereof, that it may yield unto you more richly the increase thereof: I am HaShem your G-d.
+
 ## 26
 
 **GRC** Μὴ ἔσθετε ἐπὶ τῶν ὀρέων, καὶ οὐκ οἰωνιεῖσθε οὐδὲ ὀρνιθοσκοπήσεσθε.
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Δεν θέλετε τρώγει ουδέν μετά του αίματος αυτού· ουδέ θέλετε μεταχειρίζεσθαι μαντείας ουδέ θέλετε προμαντεύει καιρούς.
 
 **KJV** Ye shall not eat any thing with the blood: neither shall ye use enchantment, nor observe times.
+
+**HEB** לֹ֥א תֹאכְל֖וּ עַל־הַדָּ֑ם לֹ֥א תְנַחֲשׁ֖וּ וְלֹ֥א תְעוֹנֵֽנוּ׃
+
+**JPS** Ye shall not eat with the blood; neither shall ye practise divination nor soothsaying.
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.
 
+**HEB** לֹ֣א תַקִּ֔פוּ פְּאַ֖ת רֹאשְׁכֶ֑ם וְלֹ֣א תַשְׁחִ֔ית אֵ֖ת פְּאַ֥ת זְקָנֶֽךָ׃
+
+**JPS** Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.
+
 ## 28
 
 **GRC** καὶ ἐντομίδας ἐπὶ ψυχῇ οὐ ποιήσετε ἐν τῷ σώματι ὑμῶν, καὶ γράμματα στικτὰ οὐ ποιήσετε ἐν ὑμῖν. ἐγώ εἰμι Κύριος ὁ θεὸς ὑμῶν.
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Δεν θέλετε κάμει εντομίδας εις το σώμα σας διά νεκρόν, ουδέ γράμματα στικτά θέλετε εγχαράξει επάνω σας. Εγώ είμαι ο Κύριος.
 
 **KJV** Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the Lord.
+
+**HEB** וְשֶׂ֣רֶט לָנֶ֗פֶשׁ לֹ֤א תִתְּנוּ֙ בִּבְשַׂרְכֶ֔ם וּכְתֹ֣בֶת קֽ͏ַעֲקַ֔ע לֹ֥א תִתְּנ֖וּ בָּכֶ֑ם אֲנִ֖י יְהוָֽה׃
+
+**JPS** Ye shall not make any cuttings in your flesh for the dead, nor imprint any marks upon you: I am HaShem.
 
 ## 29
 
@@ -241,6 +355,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.
 
+**HEB** אַל־תְּחַלֵּ֥ל אֶֽת־בִּתְּךָ֖ לְהַזְנוֹתָ֑הּ וְלֹא־תִזְנֶ֣ה הָאָ֔רֶץ וּמָלְאָ֥ה הָאָ֖רֶץ זִמָּֽה׃
+
+**JPS** Profane not thy daughter, to make her a harlot, lest the land fall into harlotry, and the land become full of lewdness.
+
 ## 30
 
 **GRC** τὰ σάββατά μου φυλάξεσθε, καὶ ἀπὸ τῶν ἁγίων μου φοβηθήσεσθε· ἐγώ εἰμι Κύριος.
@@ -248,6 +366,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τα σάββατά μου θέλετε φυλάττει, και το αγιαστήριόν μου θέλετε σέβεσθαι. Εγώ είμαι ο Κύριος.
 
 **KJV** Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.
+
+**HEB** אֶת־שַׁבְּתֹתַ֣י תִּשְׁמֹ֔רוּ וּמִקְדָּשִׁ֖י תִּירָ֑אוּ אֲנִ֖י יְהוָֽה׃
+
+**JPS** Ye shall keep My sabbaths, and reverence My sanctuary: I am HaShem.
 
 ## 31
 
@@ -257,6 +379,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the Lord your God.
 
+**HEB** אַל־תִּפְנ֤וּ אֶל־הָאֹבֹת֙ וְאֶל־הַיִּדְּעֹנִ֔ים אַל־תְּבַקְשׁ֖וּ לְטָמְאָ֣ה בָהֶ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** Turn ye not unto the ghosts, nor unto familiar spirits; seek them not out, to be defiled by them: I am HaShem your G-d.
+
 ## 32
 
 **GRC** ἀπὸ προσώπου πολιοῦ ἐξαναστήσῃ, καὶ τιμήσεις πρόσωπον πρεσβυτέρου· καὶ φοβηθήσῃ τὸν θεόν σου· ἐγώ εἰμι Κύριος ὁ θεὸς ὑμῶν.
@@ -264,6 +390,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ενώπιον της πολιάς θέλεις προσηκόνεσθαι και θέλεις τιμήσει το πρόσωπον του γέροντος και θέλεις φοβηθή τον Θεόν σου. Εγώ είμαι ο Κύριος.
 
 **KJV** Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the Lord.
+
+**HEB** מִפְּנֵ֤י שֵׂיבָה֙ תָּק֔וּם וְהָדַרְתָּ֖ פְּנֵ֣י זָקֵ֑ן וְיָרֵ֥אתָ מֵּאֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה׃
+
+**JPS** Thou shalt rise up before the hoary head, and honour the face of the old man, and thou shalt fear thy G-d: I am HaShem.
 
 ## 33
 
@@ -273,6 +403,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And if a stranger sojourn with thee in your land, ye shall not vex him.
 
+**HEB** וְכִֽי־יָג֧וּר אִתְּךָ֛ גֵּ֖ר בְּאַרְצְכֶ֑ם לֹ֥א תוֹנ֖וּ אֹתֽוֹ׃
+
+**JPS** And if a stranger sojourn with thee in your land, ye shall not do him wrong.
+
 ## 34
 
 **GRC** ὡς ὁ αὐτόχθων ἐν ὑμῖν ἔσται ὁ προσήλυτος ὁ προσπορευόμενος πρὸς ὑμᾶς, καὶ ἀγαπήσεις αὐτὸν ὡς σεαυτόν· ὅτι προσήλυτοι ἐγενήθητε ἐν γῇ Αἰγύπτῳ· ἐγώ εἰμι Κύριος ὁ θεὸς ὑμῶν.
@@ -280,6 +414,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** ο ξένος, ο παροικών με σας, θέλει είσθαι εις εσάς ως ο αυτόχθων, και θέλεις αγαπά αυτόν ως σεαυτόν· διότι ξένοι εστάθητε εν γη Αιγύπτου. Εγώ είμαι Κύριος ο Θεός σας.
 
 **KJV** But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the Lord your God.
+
+**HEB** כְּאֶזְרָ֣ח מִכֶּם֩ יִהְיֶ֨ה לָכֶ֜ם הַגֵּ֣ר ׀ הַגָּ֣ר אִתְּכֶ֗ם וְאָהַבְתָּ֥ לוֹ֙ כָּמ֔וֹךָ כִּֽי־גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** The stranger that sojourneth with you shall be unto you as the home-born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am HaShem your G-d.
 
 ## 35
 
@@ -289,6 +427,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.
 
+**HEB** לֹא־תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה׃
+
+**JPS** Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.
+
 ## 36
 
 **GRC** ζυγὰ δίκαια καὶ στάθμια δίκαια καὶ χοῦς δίκαιος ἔσται ὑμῖν· ἐγώ εἰμι Κύριος ὁ θεὸς ὑμῶν ὁ ἐξαγαγὼν ὑμᾶς ἐκ γῆς Αἰγύπτου.
@@ -297,6 +439,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the Lord your God, which brought you out of the land of Egypt.
 
+**HEB** מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי־צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃
+
+**JPS** Just balances, just weights, a just ephah, and a just hin, shall ye have: I am HaShem your G-d, who brought you out of the land of Egypt.
+
 ## 37
 
 **GRC** καὶ φυλάξεσθε πάντα τὸν νόμον μου καὶ πάντα τὰ προστάγματά μου, καὶ ποιήσετε αὐτά· ἐγώ εἰμι Κύριος ὁ θεὸς ὑμῶν.
@@ -304,6 +450,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Θέλετε φυλάττει λοιπόν πάντα τα διατάγματά μου και πάσας τας κρίσεις μου και θέλετε κάμνει αυτά. Εγώ είμαι ο Κύριος.
 
 **KJV** Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the Lord.
+
+**HEB** וּשְׁמַרְתֶּ֤ם אֶת־כָּל־חֻקֹּתַי֙ וְאֶת־כָּל־מִשְׁפָּטַ֔י וַעֲשִׂיתֶ֖ם אֹתָ֑ם אֲנִ֖י יְהוָֽה׃
+
+**JPS** And ye shall observe all My statutes, and all Mine ordinances, and do them: I am HaShem.
 
 ## Notes
 

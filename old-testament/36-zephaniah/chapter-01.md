@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The word of the Lord which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 
+**HEB** דְּבַר־יְהוָ֣ה ׀ אֲשֶׁ֣ר הָיָ֗ה אֶל־צְפַנְיָה֙ בֶּן־כּוּשִׁ֣י בֶן־גְּדַלְיָ֔ה בֶּן־אֲמַרְיָ֖ה בֶּן־חִזְקִיָּ֑ה בִּימֵ֛י יֹאשִׁיָּ֥הוּ בֶן־אָמ֖וֹן מֶ֥לֶךְ יְהוּדָֽה׃
+
+**JPS** THE WORD of HaShem which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah the son of Amon, king of Judah.
+
 ## 2
 
 **GRC** Ἐκλείψει ἐκλιπέτω ἀπὸ προσώπου τῆς γῆς, λέγει Κύριος·
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Θέλω αφανίσει παντελώς τα πάντα από προσώπου της γης, λέγει Κύριος.
 
 **KJV** I will utterly consume all things from off the land, saith the Lord.
+
+**HEB** אָסֹ֨ף אָסֵ֜ף כֹּ֗ל מֵעַ֛ל פְּנֵ֥י הָאֲדָמָ֖ה נְאֻם־יְהוָֽה׃
+
+**JPS** I will utterly consume all things from off the face of the earth, saith HaShem.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the Lord.
 
+**HEB** אָסֵ֨ף אָדָ֜ם וּבְהֵמָ֗ה אָסֵ֤ף עוֹף־הַשָּׁמַ֙יִם֙ וּדְגֵ֣י הַיָּ֔ם וְהַמַּכְשֵׁל֖וֹת אֶת־הָרְשָׁעִ֑ים וְהִכְרַתִּ֣י אֶת־הָאָדָ֗ם מֵעַ֛ל פְּנֵ֥י הָאֲדָמָ֖ה נְאֻם־יְהוָֽה׃
+
+**JPS** I will consume man and beast, I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the face of the earth, saith HaShem.
+
 ## 4
 
 **GRC** καὶ ἐκτενῶ τὴν χεῖρά μου ἐπὶ Ἰούδαν καὶ ἐπὶ πάντας τοὺς κατοικοῦντας Ἰερουσαλήμ· καὶ ἐξαρῶ ἐκ τοῦ τόπου τούτου τὰ ὀνόματα τῆς Βάαλ καὶ τὰ ὀνόματα τῶν ἱερέων,
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλω εκτείνει την χείρα μου επί τον Ιούδαν και επί πάντας τους κατοίκους της Ιερουσαλήμ, και θέλω εξολοθρεύσει το υπόλοιπον του Βάαλ από του τόπου τούτου και το όνομα των ειδωλοθυτών μετά των ιερέων,
 
 **KJV** I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;
+
+**HEB** וְנָטִ֤יתִי יָדִי֙ עַל־יְהוּדָ֔ה וְעַ֖ל כָּל־יוֹשְׁבֵ֣י יְרוּשָׁלָ֑͏ִם וְהִכְרַתִּ֞י מִן־הַמָּק֤וֹם הַזֶּה֙ אֶת־שְׁאָ֣ר הַבַּ֔עַל אֶת־שֵׁ֥ם הַכְּמָרִ֖ים עִם־הַכֹּהֲנִֽים׃
+
+**JPS** And I will stretch out My hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the idolatrous priests with the priests;
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And them that worship the host of heaven upon the housetops; and them that worship and that swear by the Lord, and that swear by Malcham;
 
+**HEB** וְאֶת־הַמִּשְׁתַּחֲוִ֥ים עַל־הַגַּגּ֖וֹת לִצְבָ֣א הַשָּׁמָ֑יִם וְאֶת־הַמִּֽשְׁתַּחֲוִים֙ הַנִּשְׁבָּעִ֣ים לַֽיהוָ֔ה וְהַנִּשְׁבָּעִ֖ים בְּמַלְכָּֽם׃
+
+**JPS** And them that worship the host of heaven upon the housetops; and them that worship, that swear to HaShem and swear by Malcam;
+
 ## 6
 
 **GRC** καὶ τοὺς ἐκκλίνοντας ἀπὸ τοῦ κυρίου, καὶ τοὺς μὴ ζητοῦντας τὸν κύριον, καὶ τοὺς μὴ ἀντεχομένους τοῦ κυρίου.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και τους εκκλίνοντας από όπισθεν του Κυρίου και τους μη ζητούντας τον Κύριον μηδέ εξερευνώντας αυτόν.
 
 **KJV** And them that are turned back from the Lord; and those that have not sought the Lord, nor enquired for him.
+
+**HEB** וְאֶת־הַנְּסוֹגִ֖ים מֵאַחֲרֵ֣י יְהוָ֑ה וַאֲשֶׁ֛ר לֹֽא־בִקְשׁ֥וּ אֶת־יְהוָ֖ה וְלֹ֥א דְרָשֻֽׁהוּ׃
+
+**JPS** Them also that are turned back from following HaShem; and those that have not sought HaShem, nor inquired after Him.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Hold thy peace at the presence of the Lord God: for the day of the Lord is at hand: for the Lord hath prepared a sacrifice, he hath bid his guests.
 
+**HEB** הַ֕ס מִפְּנֵ֖י אֲדֹנָ֣י יְהוִ֑ה כִּ֤י קָרוֹב֙ י֣וֹם יְהוָ֔ה כִּֽי־הֵכִ֧ין יְהוָ֛ה זֶ֖בַח הִקְדִּ֥ישׁ קְרֻאָֽיו׃
+
+**JPS** Hold thy peace at the presence of the L-rd GOD; for the day of HaShem is at hand, for HaShem hath prepared a sacrifice, He hath consecrated His guests.
+
 ## 8
 
 **GRC** καὶ ἔσται ἐν ἡμέρᾳ θυσίας Κυρίου καὶ ἐκδικήσω ἐπὶ τοὺς ἄρχοντας καὶ ἐπὶ τὸν οἶκον τοῦ βασιλέως καὶ ἐπὶ πάντας τοὺς ἐνδεδυμένους ἐνδύματα ἀλλότρια·
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εν τη ημέρα της θυσίας του Κυρίου θέλω εκδικηθή τους άρχοντας και τα τέκνα του βασιλέως και πάντας τους ενδεδυμένους ενδύματα αλλότρια.
 
 **KJV** And it shall come to pass in the day of the Lord’s sacrifice, that I will punish the princes, and the king’s children, and all such as are clothed with strange apparel.
+
+**HEB** וְהָיָ֗ה בְּיוֹם֙ זֶ֣בַח יְהוָ֔ה וּפָקַדְתִּ֥י עַל־הַשָּׂרִ֖ים וְעַל־בְּנֵ֣י הַמֶּ֑לֶךְ וְעַ֥ל כָּל־הַלֹּבְשִׁ֖ים מַלְבּ֥וּשׁ נָכְרִֽי׃
+
+**JPS** And it shall come to pass in the day of HaShem'S sacrifice, that I will punish the princes, and the king's sons, and all such as are clothed with foreign apparel.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** In the same day also will I punish all those that leap on the threshold, which fill their masters’ houses with violence and deceit.
 
+**HEB** וּפָקַדְתִּ֗י עַ֧ל כָּל־הַדּוֹלֵ֛ג עַל־הַמִּפְתָּ֖ן בַּיּ֣וֹם הַה֑וּא הַֽמְמַלְאִ֛ים בֵּ֥ית אֲדֹנֵיהֶ֖ם חָמָ֥ס וּמִרְמָֽה׃
+
+**JPS** In the same day also will I punish all those that leap over the threshold, that fill their master's house with violence and deceit.
+
 ## 10
 
 **GRC** καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγει Κύριος, φωνὴ κραυγῆς ἀπὸ πύλης ἀποκεντούντων, καὶ ὀλολυγμὸς ἀπὸ τῆς δευτέρας, καὶ συντριμμὸς μέγας ἀπὸ τῶν βουνῶν.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εν τη ημέρα εκείνη, λέγει Κύριος, θέλει είσθαι θόρυβος κραυγής από της ιχθυϊκής πύλης και ολολυγμός από της πύλης της δευτέρας και συντριμμός μέγας από των λόφων.
 
 **KJV** And it shall come to pass in that day, saith the Lord, that there shall be the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills.
+
+**HEB** וְהָיָה֩ בַיּ֨וֹם הַה֜וּא נְאֻם־יְהוָ֗ה ק֤וֹל צְעָקָה֙ מִשַּׁ֣עַר הַדָּגִ֔ים וִֽילָלָ֖ה מִן־הַמִּשְׁנֶ֑ה וְשֶׁ֥בֶר גָּד֖וֹל מֵהַגְּבָעֽוֹת׃
+
+**JPS** And in that day, saith HaShem, Hark! a cry from the fish gate, and a wailing from the second quarter, and a great crashing from the hills.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.
 
+**HEB** הֵילִ֖ילוּ יֹשְׁבֵ֣י הַמַּכְתֵּ֑שׁ כִּ֤י נִדְמָה֙ כָּל־עַ֣ם כְּנַ֔עַן נִכְרְת֖וּ כָּל־נְטִ֥ילֵי כָֽסֶף׃
+
+**JPS** Wail, ye inhabitants of Maktesh, for all the merchant people are undone; all they that were laden with silver are cut off.
+
 ## 12
 
 **GRC** καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐξερευνήσω τὴν Ἰερυσαλὴμ μετὰ λύχνου, καὶ ἐκδικήσω ἐπὶ τοὺς ἄνδρας τοὺς καταφρονοῦντας ἐπὶ τὰ φυλάγματα αὐτῶν· οἱ δὲ λέγοντες ἐν ταῖς καρδίαις αὐτῶν Οὐ μὴ ἀγαθοποιήσῃ Κύριος οὐδὲ μὴ κακώσῃ,
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εν τω καιρώ εκείνω θέλω εξερευνήσει την Ιερουσαλήμ με λύχνους και εκδικηθή προς άνδρας τους αναπαυομένους επί την τρυγίαν αυτών, τους λέγοντας εν τη καρδία αυτών, Ο Κύριος δεν θέλει αγαθοποιήσει ουδέ θέλει κακοποιήσει.
 
 **KJV** And it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The Lord will not do good, neither will he do evil.
+
+**HEB** וְהָיָה֙ בָּעֵ֣ת הַהִ֔יא אֲחַפֵּ֥שׂ אֶת־יְרוּשָׁלַ֖͏ִם בַּנֵּר֑וֹת וּפָקַדְתִּ֣י עַל־הָאֲנָשִׁ֗ים הַקֹּֽפְאִים֙ עַל־שִׁמְרֵיהֶ֔ם הָאֹֽמְרִים֙ בִּלְבָבָ֔ם לֹֽא־יֵיטִ֥יב יְהוָ֖ה וְלֹ֥א יָרֵֽעַ׃
+
+**JPS** And it shall come to pass at that time, that I will search Jerusalem with lamps; and I will punish the men that are settled on their lees, that say in their heart: 'The HaShem will not do good, neither will He do evil.'
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit them; and they shall plant vineyards, but not drink the wine thereof.
 
+**HEB** וְהָיָ֤ה חֵילָם֙ לִמְשִׁסָּ֔ה וּבָתֵּיהֶ֖ם לִשְׁמָמָ֑ה וּבָנ֤וּ בָתִּים֙ וְלֹ֣א יֵשֵׁ֔בוּ וְנָטְע֣וּ כְרָמִ֔ים וְלֹ֥א יִשְׁתּ֖וּ אֶת־יֵינָֽם׃
+
+**JPS** Therefore their wealth shall become a booty, and their houses a desolation; yea, they shall build houses, but shall not inhabit them, and they shall plant vineyards, but shall not drink the wine thereof.
+
 ## 14
 
 **GRC** Ὅτι ἐγγὺς ἡμέρα Κυρίου ἡ μεγάλη, ἐγγὺς καὶ ταχεῖα σφόδρα· φωνὴ ἡμέρας Κυρίου πικρὰ καὶ σκληρὰ τέτακται, δυνατή.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εγγύς είναι η ημέρα του Κυρίου η μεγάλη, εγγύς, και σπεύδει σφόδρα· φωνή της ημέρας του Κυρίου· πικρώς θέλει φωνάξει εκεί ο ισχυρός.
 
 **KJV** The great day of the Lord is near, it is near, and hasteth greatly, even the voice of the day of the Lord: the mighty man shall cry there bitterly.
+
+**HEB** קָר֤וֹב יוֹם־יְהוָה֙ הַגָּד֔וֹל קָר֖וֹב וּמַהֵ֣ר מְאֹ֑ד ק֚וֹל י֣וֹם יְהוָ֔ה מַ֥ר צֹרֵ֖חַ שָׁ֥ם גִּבּֽוֹר׃
+
+**JPS** The great day of HaShem is near, it is near and hasteth greatly, even the voice of the day of HaShem, wherein the mighty man crieth bitterly.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,
 
+**HEB** י֥וֹם עֶבְרָ֖ה הַיּ֣וֹם הַה֑וּא י֧וֹם צָרָ֣ה וּמְצוּקָ֗ה י֤וֹם שֹׁאָה֙ וּמְשׁוֹאָ֔ה י֥וֹם חֹ֙שֶׁךְ֙ וַאֲפֵלָ֔ה י֥וֹם עָנָ֖ן וַעֲרָפֶֽל׃
+
+**JPS** That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,
+
 ## 16
 
 **GRC** ἡμέρα σάλπιγγος καὶ κραυγῆς ἐπὶ τὰς πόλεις τὰς ὀχυρὰς καὶ ἐπὶ τὰς γωνίας τὰς ὑψηλάς.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** ημέρα σάλπιγγος και αλαλαγμού κατά των οχυρών πόλεων και κατά των υψηλών πύργων.
 
 **KJV** A day of the trumpet and alarm against the fenced cities, and against the high towers.
+
+**HEB** י֥וֹם שׁוֹפָ֖ר וּתְרוּעָ֑ה עַ֚ל הֶעָרִ֣ים הַבְּצֻר֔וֹת וְעַ֖ל הַפִּנּ֥וֹת הַגְּבֹהֽוֹת׃
+
+**JPS** A day of the horn and alarm, against the fortified cities, and against the high towers.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the Lord: and their blood shall be poured out as dust, and their flesh as the dung.
 
+**HEB** וַהֲצֵרֹ֣תִי לָאָדָ֗ם וְהָֽלְכוּ֙ כַּֽעִוְרִ֔ים כִּ֥י לַֽיהוָ֖ה חָטָ֑אוּ וְשֻׁפַּ֤ךְ דָּמָם֙ כֶּֽעָפָ֔ר וּלְחֻמָ֖ם כַּגְּלָלִֽים׃
+
+**JPS** And I will bring distress upon men, that they shall walk like the blind, because they have sinned against HaShem; and their blood shall be poured out as dust, and their flesh as dung.
+
 ## 18
 
 **GRC** καὶ τὸ ἀργύριον αὐτῶν καὶ τὸ χρυσίον αὐτῶν οὐ μὴ δύνηται ἐξελέσθαι αὐτοὺς ἐν ἡμέρᾳ ὀργῆς Κυρίου. καὶ ἐν πυρί ζήλους αὐτοῦ καταναλωθήσεται πᾶσα ἡ γῆ, διότι συντέλειαν καὶ σπουδὴν ποιήσει ἐπὶ πάντας τούς κατοικοῦντας τὴν γῆν.
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Αλλ' ουδέ το αργύριον αυτών ουδέ το χρυσίον αυτών θέλει δυνηθή να λυτρώση αυτούς εν τη ημέρα της οργής του Κυρίου, και πάσα η γη θέλει καταναλωθή υπό του πυρός του ζήλου αυτού· διότι θέλει κάμει συντέλειαν, μάλιστα ταχείαν, επί πάντας τους κατοικούντας την γην.
 
 **KJV** Neither their silver nor their gold shall be able to deliver them in the day of the Lord’s wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land.
+
+**HEB** גַּם־כַּסְפָּ֨ם גַּם־זְהָבָ֜ם לֹֽא־יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה וּבְאֵשׁ֙ קִנְאָת֔וֹ תֵּאָכֵ֖ל כָּל־הָאָ֑רֶץ כִּֽי־כָלָ֤ה אַךְ־נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל־יֹשְׁבֵ֖י הָאָֽרֶץ׃
+
+**JPS** Neither their silver nor their gold shall be able to deliver them in the day of HaShem'S wrath; but the whole earth shall be devoured by the fire of His jealousy; for He will make and end, yea, a terrible end, of all them that dwell in the earth.
 
 ## Notes
 

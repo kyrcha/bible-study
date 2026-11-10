@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
 
+**HEB** שִׁמְע֥וּ דְבַר־יְהוָ֖ה בְּנֵ֣י יִשְׂרָאֵ֑ל כִּ֣י רִ֤יב לַֽיהוָה֙ עִם־יוֹשְׁבֵ֣י הָאָ֔רֶץ כִּ֠י אֵין־אֱמֶ֧ת וְֽאֵין־חֶ֛סֶד וְאֵֽין־דַּ֥עַת אֱלֹהִ֖ים בָּאָֽרֶץ׃
+
+**JPS** Hear the word of HaShem, ye children of Israel! for HaShem hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of G-d in the land.
+
 ## 2
 
 **GRC** ἀρὰ καὶ ψεῦδος καὶ φόνος καὶ κλοπὴ καὶ μοιχεία κέχυται ἐπὶ τῆς γῆς, καὶ αἵματα ἐφ᾽ αἵμασιν μίσγουσιν.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Επιορκία και ψεύδος και φόνος και κλοπή και μοιχεία επλημμύρησαν, και αίματα εγγίζουσιν επί αίματα.
 
 **KJV** By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
+
+**HEB** אָלֹ֣ה וְכַחֵ֔שׁ וְרָצֹ֥חַ וְגָנֹ֖ב וְנָאֹ֑ף פָּרָ֕צוּ וְדָמִ֥ים בְּדָמִ֖ים נָגָֽעוּ׃
+
+**JPS** Swearing and lying, and killing, and stealing, and committing adultery! they break all bounds, and blood toucheth blood.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.
 
+**HEB** עַל־כֵּ֣ן ׀ תֶּאֱבַ֣ל הָאָ֗רֶץ וְאֻמְלַל֙ כָּל־יוֹשֵׁ֣ב בָּ֔הּ בְּחַיַּ֥ת הַשָּׂדֶ֖ה וּבְע֣וֹף הַשָּׁמָ֑יִם וְגַם־דְּגֵ֥י הַיָּ֖ם יֵאָסֵֽפוּ׃
+
+**JPS** Therefore doth the land mourn, and every one that dwelleth therein doth languish, with the beasts of the field, and the fowls of heaven; yea, the fishes of the sea also are taken away.
+
 ## 4
 
 **GRC** ὅπως μηδεὶς μήτε δικάζηται μήτε ἐλέγχῃ μηδείς. ὁ δὲ λαός μου ὡς ἀντιλεγόμενος ἱερεύς,
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Πλην ας μη αντιλέγη μηδείς μηδ' ας ελέγχη τον άλλον· διότι ο λαός σου είναι ως οι αντιλέγοντες εις τον ιερέα.
 
 **KJV** Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.
+
+**HEB** אַ֥ךְ אִ֛ישׁ אַל־יָרֵ֖ב וְאַל־יוֹכַ֣ח אִ֑ישׁ וְעַמְּךָ֖ כִּמְרִיבֵ֥י כֹהֵֽן׃
+
+**JPS** Yet let no man strive, neither let any man reprove; for thy people are as they that strive with the priest.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.
 
+**HEB** וְכָשַׁלְתָּ֣ הַיּ֔וֹם וְכָשַׁ֧ל גַּם־נָבִ֛יא עִמְּךָ֖ לָ֑יְלָה וְדָמִ֖יתִי אִמֶּֽךָ׃
+
+**JPS** Therefore shalt thou stumble in the day, and the prophet also shall stumble with thee in the night; and I will destroy thy mother.
+
 ## 6
 
 **GRC** ὡμοιώθη ὁ λαός μου ὡς οὐκ ἔχων γνῶσιν· ὅτι σὺ ἐπίγνωσιν ἀπώσω, κἀγὼ ἀπώσομαι σὲ τοῦ ἱερατεύειν μοι· καὶ ἐπελάθου νόμον θεοῦ σου, κἀγὼ ἐπιλήσομαι τέκνων σου.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο λαός μου ηφανίσθη δι' έλλειψιν γνώσεως· επειδή συ απέρριψας την γνώσιν και εγώ απέρριψα σε από του να ιερατεύης εις εμέ· επειδή ελησμόνησας τον νόμον του Θεού σου, και εγώ θέλω λησμονήσει τα τέκνα σου.
 
 **KJV** My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.
+
+**HEB** נִדְמ֥וּ עַמִּ֖י מִבְּלִ֣י הַדָּ֑עַת כִּֽי־אַתָּ֞ה הַדַּ֣עַת מָאַ֗סְתָּ וְאֶמְאָֽסְאךָ֙ מִכַּהֵ֣ן לִ֔י וַתִּשְׁכַּח֙ תּוֹרַ֣ת אֱלֹהֶ֔יךָ אֶשְׁכַּ֥ח בָּנֶ֖יךָ גַּם־אָֽנִי׃
+
+**JPS** My people are destroyed for lack of knowledge; because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to Me; seeing thou hast forgotten the law of thy G-d, I also will forget thy children.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** As they were increased, so they sinned against me: therefore will I change their glory into shame.
 
+**HEB** כְּרֻבָּ֖ם כֵּ֣ן חָֽטְאוּ־לִ֑י כְּבוֹדָ֖ם בְּקָל֥וֹן אָמִֽיר׃
+
+**JPS** The more they were increased, the more they sinned against Me; I will change their glory into shame.
+
 ## 8
 
 **GRC** ἁμαρτίας λαοῦ μου φάγονται, καὶ ἐν ταῖς ἀδικίαις αὐτῶν λήμψονται τὰς ψυχὰς αὐτῶν.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τρώγουσι τας αμαρτίας του λαού μου και έχουσι προσηλωμένην την ψυχήν αυτών εις την ανομίαν αυτών.
 
 **KJV** They eat up the sin of my people, and they set their heart on their iniquity.
+
+**HEB** חַטַּ֥את עַמִּ֖י יֹאכֵ֑לוּ וְאֶל־עֲוֺנָ֖ם יִשְׂא֥וּ נַפְשֽׁוֹ׃
+
+**JPS** They feed on the sin of My people, and set their heart on their iniquity.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings.
 
+**HEB** וְהָיָ֥ה כָעָ֖ם כַּכֹּהֵ֑ן וּפָקַדְתִּ֤י עָלָיו֙ דְּרָכָ֔יו וּמַעֲלָלָ֖יו אָשִׁ֥יב לֽוֹ׃
+
+**JPS** And it is like people, like priest; and I will punish him for his ways, and will recompense him his doings.
+
 ## 10
 
 **GRC** καὶ φάγονται καὶ οὐ μὴ ἐμπλησθῶσιν, ἐπόρνευσαν καὶ οὐ μὴ κατευθύνωσιν, διότι τὸν κύριον ἐγκατέλιπον τοῦ φυλάξαι
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διότι θέλουσι τρώγει και δεν θέλουσι χορτάζεσθαι, θέλουσι πορνεύει και δεν θέλουσι πληθύνεσθαι· επειδή εγκατέλιπον το να λατρεύωσι τον Κύριον.
 
 **KJV** For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the Lord.
+
+**HEB** וְאָֽכְלוּ֙ וְלֹ֣א יִשְׂבָּ֔עוּ הִזְנ֖וּ וְלֹ֣א יִפְרֹ֑צוּ כִּֽי־אֶת־יְהוָ֥ה עָזְב֖וּ לִשְׁמֹֽר׃
+
+**JPS** And they shall eat, and not have enough, they shall commit harlotry, and shall not increase; because they have left off to take heed to HaShem.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Whoredom and wine and new wine take away the heart.
 
+**HEB** זְנ֛וּת וְיַ֥יִן וְתִיר֖וֹשׁ יִֽקַּֽח־לֵֽב׃
+
+**JPS** Harlotry, wine, and new wine take away the heart.
+
 ## 12
 
 **GRC** ἐν συμβόλοις ἐπηρώτων, καὶ ἐν ῥάβδοις αὐτοῦ ἀπήγγελλον αὐτῷ· πνεύματι πορνείας ἐπλανήθησαν καὶ ἐξεπόρνευσαν ἀπὸ τοῦ θεοῦ αὐτῶν.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο λαός μου ερωτά τα ξύλα αυτού, και η ράβδος αυτού αποκρίνεται προς αυτόν· διότι το πνεύμα της πορνείας επλάνησεν αυτούς και επόρνευσαν εκκλίνοντες από του Θεού αυτών.
 
 **KJV** My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God.
+
+**HEB** עַמִּי֙ בְּעֵצ֣וֹ יִשְׁאָ֔ל וּמַקְל֖וֹ יַגִּ֣יד ל֑וֹ כִּ֣י ר֤וּחַ זְנוּנִים֙ הִתְעָ֔ה וַיִּזְנ֖וּ מִתַּ֥חַת אֱלֹהֵיהֶֽם׃
+
+**JPS** My people ask counsel at their stock, and their staff declareth unto them; for the spirit of harlotry hath caused them to err, and they have gone astray from under their G-d.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery.
 
+**HEB** עַל־רָאשֵׁ֨י הֶהָרִ֜ים יְזַבֵּ֗חוּ וְעַל־הַגְּבָעוֹת֙ יְקַטֵּ֔רוּ תַּ֣חַת אַלּ֧וֹן וְלִבְנֶ֛ה וְאֵלָ֖ה כִּ֣י ט֣וֹב צִלָּ֑הּ עַל־כֵּ֗ן תִּזְנֶ֙ינָה֙ בְּנ֣וֹתֵיכֶ֔ם וְכַלּוֹתֵיכֶ֖ם תְּנָאַֽפְנָה׃
+
+**JPS** They sacrifice upon the tops of the mountains, and offer upon the hills, under oaks and poplars and terebinths, because the shadow thereof is good; therefore your daughters commit harlotry, and your daughters-in-law commit adultery.
+
 ## 14
 
 **GRC** καὶ οὐ μὴ ἐπισκέψωμαι ἐπὶ τὰς θυγατέρας ὑμῶν ὅταν πορνεύωσιν, καὶ ἐπὶ τὰς νύμφας ὑμῶν ὅταν μοιχεύωσιν· ὅτι αὐτοὶ μετὰ τῶν πορνῶν συνεφύροντο, καὶ μετὰ τῶν τετελεσμένων ἔθυον, καὶ ὁ λαὸς ὁ συνίων συνεπλέκετο μετὰ πόρνης.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Δεν θέλω τιμωρήσει τας θυγατέρας σας όταν πορνεύσωσιν ουδέ τας νύμφας σας όταν μοιχεύσωσι, διότι αυτοί αποχωρίζονται μετά των πορνών και θυσιάζουσι μετά των ασελγών· διά τούτο ο λαός ο ασύνετος θέλει κατακρημνισθή.
 
 **KJV** I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.
+
+**HEB** לֹֽא־אֶפְק֨וֹד עַל־בְּנוֹתֵיכֶ֜ם כִּ֣י תִזְנֶ֗ינָה וְעַל־כַּלּֽוֹתֵיכֶם֙ כִּ֣י תְנָאַ֔פְנָה כִּי־הֵם֙ עִם־הַזֹּנ֣וֹת יְפָרֵ֔דוּ וְעִם־הַקְּדֵשׁ֖וֹת יְזַבֵּ֑חוּ וְעָ֥ם לֹֽא־יָבִ֖ין יִלָּבֵֽט׃
+
+**JPS** I will not punish your daughters when they commit harlotry, nor your daughters-in-law when they commit adultery; for they themselves consort with lewd women, and they sacrifice with harlots; and the people that is without understanding is distraught.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth–aven, nor swear, The Lord liveth.
 
+**HEB** אִם־זֹנֶ֤ה אַתָּה֙ יִשְׂרָאֵ֔ל אַל־יֶאְשַׁ֖ם יְהוּדָ֑ה וְאַל־תָּבֹ֣אוּ הַגִּלְגָּ֗ל וְאַֽל־תַּעֲלוּ֙ בֵּ֣ית אָ֔וֶן וְאַל־תִּשָּׁבְע֖וּ חַי־יְהוָֽה׃
+
+**JPS** Though thou, Israel, play the harlot, yet let not Judah become guilty; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear: 'As HaShem liveth.'
+
 ## 16
 
 **GRC** διότι ὡς δάμαλις παροιστρῶσα παροίστρησεν Ἰσραήλ· νῦν νεμήσει αὐτοὺς Κύριος ὡς ἀμνὸν ἐν εὐρυχώρῳ.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διότι ο Ισραήλ απεσκίρτησεν ως δάμαλις αποσκιρτώσα· τώρα θέλει βοσκήσει αυτούς ο Κύριος ως αρνία εν τόπω πλατεί.
 
 **KJV** For Israel slideth back as a backsliding heifer: now the Lord will feed them as a lamb in a large place.
+
+**HEB** כִּ֚י כְּפָרָ֣ה סֹֽרֵרָ֔ה סָרַ֖ר יִשְׂרָאֵ֑ל עַתָּה֙ יִרְעֵ֣ם יְהוָ֔ה כְּכֶ֖בֶשׂ בַּמֶּרְחָֽב׃
+
+**JPS** For Israel is stubborn like a stubborn heifer; now shall HaShem feed them as a lamb in a large place?
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ephraim is joined to idols: let him alone.
 
+**HEB** חֲב֧וּר עֲצַבִּ֛ים אֶפְרָ֖יִם הַֽנַּֽח־לֽוֹ׃
+
+**JPS** Ephraim is joined to idols; let him alone.
+
 ## 18
 
 **GRC** ᾑρέτισεν Χαναναίους· πορνεύοντες ἐξεπόρνευσαν, ἠγάπησαν ἀτιμίαν ἐκ φρυάγματος αὐτῆς.
@@ -153,6 +223,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give ye.
 
+**HEB** סָ֖ר סָבְאָ֑ם הַזְנֵ֣ה הִזְנ֔וּ אָהֲב֥וּ הֵב֛וּ קָל֖וֹן מָגִנֶּֽיהָ׃
+
+**JPS** When their carouse is over, they take to harlotry; her rulers deeply love dishonour.
+
 ## 19
 
 **GRC** συστροφὴ πνεύματος σὺ εἶ ἐν ταῖς πτέρυξιν αὐτῆς, καὶ καταισχυνθήσονται ἐκ τῶν θυσιαστηρίων αὐτῶν.
@@ -160,6 +234,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο άνεμος θέλει συσφίγξει αυτήν εν ταις πτέρυξιν αυτού, και θέλουσι καταισχυνθή διά τας θυσίας αυτών.
 
 **KJV** The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.
+
+**HEB** צָרַ֥ר ר֛וּחַ אוֹתָ֖הּ בִּכְנָפֶ֑יהָ וְיֵבֹ֖שׁוּ מִזִּבְחוֹתָֽם
+
+**JPS** The wind hath bound her up in her skirts; and they shall be ashamed because of their sacrifices.
 
 ## Notes
 

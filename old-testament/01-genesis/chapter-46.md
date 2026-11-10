@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Israel took his journey with all that he had, and came to Beer–sheba, and offered sacrifices unto the God of his father Isaac.
 
+**HEB** וַיִּסַּ֤ע יִשְׂרָאֵל֙ וְכָל־אֲשֶׁר־ל֔וֹ וַיָּבֹ֖א בְּאֵ֣רָה שָּׁ֑בַע וַיִּזְבַּ֣ח זְבָחִ֔ים לֵאלֹהֵ֖י אָבִ֥יו יִצְחָֽק׃
+
+**JPS** And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the G-d of his father Isaac.
+
 ## 2
 
 **GRC** εἶπεν δὲ ὁ θεὸς Ἰσραὴλ ἐν ὁράματι τῆς νυκτὸς εἴπας Ἰακὼβ Ἰακώβ. ὁ δὲ εἶπεν Τί ἐστιν;
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και είπεν ο Θεός προς τον Ισραήλ δι' οράματος της νυκτός λέγων, Ιακώβ, Ιακώβ. Ο δε είπεν, Ιδού, εγώ.
 
 **KJV** And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I.
+
+**HEB** וַיֹּ֨אמֶר אֱלֹהִ֤ים ׀ לְיִשְׂרָאֵל֙ בְּמַרְאֹ֣ת הַלַּ֔יְלָה וַיֹּ֖אמֶר יַעֲקֹ֣ב ׀ יַעֲקֹ֑ב וַיֹּ֖אמֶר הִנֵּֽנִי׃
+
+**JPS** And G-d spoke unto Israel in the visions of the night, and said: 'Jacob, Jacob.' And he said: 'Here am I.'
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:
 
+**HEB** וַיֹּ֕אמֶר אָנֹכִ֥י הָאֵ֖ל אֱלֹהֵ֣י אָבִ֑יךָ אַל־תִּירָא֙ מֵרְדָ֣ה מִצְרַ֔יְמָה כִּֽי־לְג֥וֹי גָּד֖וֹל אֲשִֽׂימְךָ֥ שָֽׁם׃
+
+**JPS** And He said: 'I am G-d, the G-d of thy father; fear not to go down into Egypt; for I will there make of thee a great nation.
+
 ## 4
 
 **GRC** καὶ ἐγὼ καταβήσομαι μετὰ σοῦ εἰς Αἴγυπτον, καὶ ἐγὼ ἀναβιβάσω σε εἰς τέλος· καὶ Ἰωσὴφ ἐπιβαλεῖ τὰς χεῖρας ἐπὶ τοὺς ὀφθαλμούς σου.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** εγώ θέλω καταβή μετά σου εις Αίγυπτον και εγώ βεβαίως θέλω σε αναβιβάσει πάλιν· και ο Ιωσήφ θέλει βάλει τας χείρας αυτού επί τους οφθαλμούς σου.
 
 **KJV** I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes.
+
+**HEB** אָנֹכִ֗י אֵרֵ֤ד עִמְּךָ֙ מִצְרַ֔יְמָה וְאָנֹכִ֖י אַֽעַלְךָ֣ גַם־עָלֹ֑ה וְיוֹסֵ֕ף יָשִׁ֥ית יָד֖וֹ עַל־עֵינֶֽיךָ׃
+
+**JPS** I will go down with thee into Egypt; and I will also surely bring thee up again; and Joseph shall put his hand upon thine eyes.'
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Jacob rose up from Beer–sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
 
+**HEB** וַיָּ֥קָם יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע וַיִּשְׂא֨וּ בְנֵֽי־יִשְׂרָאֵ֜ל אֶת־יַעֲקֹ֣ב אֲבִיהֶ֗ם וְאֶת־טַפָּם֙ וְאֶת־נְשֵׁיהֶ֔ם בָּעֲגָל֕וֹת אֲשֶׁר־שָׁלַ֥ח פַּרְעֹ֖ה לָשֵׂ֥את אֹתֽוֹ׃
+
+**JPS** And Jacob rose up from Beer-sheba; and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
+
 ## 6
 
 **GRC** καὶ ἀναλαβόντες τὰ ὑπάρχοντα αὐτῶν καὶ πᾶσαν τὴν κτῆσιν ἣν ἐκτήσαντο ἐκ γῆς Χανάαν, καὶ εἰσῆλθεν Ἰακὼβ εἰς Αἴγυπτον, καὶ πᾶν τὸ σπέρμα αὐτοῦ μετ᾽ αὐτοῦ,
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και λαβόντες τα κτήνη αυτών και τα υπάρχοντα αυτών, τα οποία απέκτησαν εν τη γη Χαναάν, ήλθον εις Αίγυπτον, ο Ιακώβ και παν το σπέρμα αυτού μετ' αυτού·
 
 **KJV** And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:
+
+**HEB** וַיִּקְח֣וּ אֶת־מִקְנֵיהֶ֗ם וְאֶת־רְכוּשָׁם֙ אֲשֶׁ֤ר רָֽכְשׁוּ֙ בְּאֶ֣רֶץ כְּנַ֔עַן וַיָּבֹ֖אוּ מִצְרָ֑יְמָה יַעֲקֹ֖ב וְכָל־זַרְע֥וֹ אִתּֽוֹ׃
+
+**JPS** And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him;
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt.
 
+**HEB** בָּנָ֞יו וּבְנֵ֤י בָנָיו֙ אִתּ֔וֹ בְּנֹתָ֛יו וּבְנ֥וֹת בָּנָ֖יו וְכָל־זַרְע֑וֹ הֵבִ֥יא אִתּ֖וֹ מִצְרָֽיְמָה׃
+
+**JPS** his sons, and his sons' sons with him, his daughters, and his sons' daughters, and all his seed brought he with him into Egypt.
+
 ## 8
 
 **GRC** Ταῦτα δὲ τὰ ὀνόματα τῶν υἱῶν Ἰσραὴλ τῶν εἰσελθόντων εἰς Αἴγυπτον. Ἰακὼβ καὶ οἱ υἱοὶ αὐτοῦ· πρωτότοκος Ἰακὼβ Ῥουβήν·
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ταύτα δε είναι τα ονόματα των υιών Ισραήλ, των εισελθόντων εις Αίγυπτον, Ιακώβ και οι υιοί αυτού· Ρουβήν ο πρωτότοκος του Ιακώβ·
 
 **KJV** And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.
+
+**HEB** וְאֵ֨לֶּה שְׁמ֧וֹת בְּנֵֽי־יִשְׂרָאֵ֛ל הַבָּאִ֥ים מִצְרַ֖יְמָה יַעֲקֹ֣ב וּבָנָ֑יו בְּכֹ֥ר יַעֲקֹ֖ב רְאוּבֵֽן׃
+
+**JPS** And these are the names of the children of Israel, who came into Egypt, Jacob and his sons: Reuben, Jacob's first-born.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.
 
+**HEB** וּבְנֵ֖י רְאוּבֵ֑ן חֲנ֥וֹךְ וּפַלּ֖וּא וְחֶצְר֥וֹן וְכַרְמִֽי׃
+
+**JPS** And the sons of Reuben: Hanoch, and Pallu, and Hezron, and Carmi.
+
 ## 10
 
 **GRC** υἱοὶ δὲ Συμεών· Ἰεμουὴλ καὶ Ἰαμεὶν καὶ Ἄωδ καὶ Ἰαχεὶμ καὶ Σάαρ καὶ Σαμουὴλ υἱὸς τῆς Χανανίτιδος.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και οι υιοί του Συμεών, Ιεμουήλ και Ιαμείν και Αώδ και Ιαχείν και Σωάρ και Σαούλ, υιός Χανανίτιδος.
 
 **KJV** And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.
+
+**HEB** וּבְנֵ֣י שִׁמְע֗וֹן יְמוּאֵ֧ל וְיָמִ֛ין וְאֹ֖הַד וְיָכִ֣ין וְצֹ֑חַר וְשָׁא֖וּל בֶּן־הַֽכְּנַעֲנִֽית׃
+
+**JPS** And the sons of Simeon: Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the sons of Levi; Gershon, Kohath, and Merari.
 
+**HEB** וּבְנֵ֖י לֵוִ֑י גֵּרְשׁ֕וֹן קְהָ֖ת וּמְרָרִֽי׃
+
+**JPS** And the sons of Levi: Gershon, Kohath, and Merari.
+
 ## 12
 
 **GRC** υἱοὶ δὲ Ἰούδα· Ἢρ καὶ Αὐνὰν καὶ Σηλὼμ καὶ Φάρες καὶ Ζάρα· ἀπέθανεν δὲ Ἢρ καὶ Αὐνὰν ἐν γῇ Χανάαν· ἐγένοντο δὲ υἱοὶ Φάρες Ἁσρὼμ καὶ Ἰεμουήλ.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και οι υιοί του Ιούδα, Ηρ και Αυνάν και Σηλά και Φαρές και Ζαρά· ο Ηρ όμως και ο Αυνάν απέθανον εν τη γη Χαναάν. Και οι υιοί του Φαρές ήσαν Εσρών και Αμούλ.
 
 **KJV** And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.
+
+**HEB** וּבְנֵ֣י יְהוּדָ֗ה עֵ֧ר וְאוֹנָ֛ן וְשֵׁלָ֖ה וָפֶ֣רֶץ וָזָ֑רַח וַיָּ֨מָת עֵ֤ר וְאוֹנָן֙ בְּאֶ֣רֶץ כְּנַ֔עַן וַיִּהְי֥וּ בְנֵי־פֶ֖רֶץ חֶצְר֥וֹן וְחָמֽוּל׃
+
+**JPS** And the sons of Judah: Er, and Onan, and Shelah, and Perez, and Zerah; but Er and Onan died in the land of Canaan. And the sons of Perez were Hezron and Hamul.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.
 
+**HEB** וּבְנֵ֖י יִשָׂשכָ֑ר תּוֹלָ֥ע וּפֻוָּ֖ה וְי֥וֹב וְשִׁמְרֽוֹן׃
+
+**JPS** And the sons of Issachar: Tola, and Puvah, and Iob, and Shimron.
+
 ## 14
 
 **GRC** υἱοὶ δὲ Ζαβουλών· Σέρεδ καὶ Ἁσρὼν καὶ Ἁλοήλ.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και οι υιοί του Ζαβουλών, Σερέδ και Αιλών και Ιαλεήλ.
 
 **KJV** And the sons of Zebulun; Sered, and Elon, and Jahleel.
+
+**HEB** וּבְנֵ֖י זְבוּלֻ֑ן סֶ֥רֶד וְאֵל֖וֹן וְיַחְלְאֵֽל׃
+
+**JPS** And the sons of Zebulun: Sered, and Elon, and Jahleel.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** These be the sons of Leah, which she bare unto Jacob in Padan–aram, with his daughter Dinah: all the souls of his sons and his daughters were thirty and three.
 
+**HEB** אֵ֣לֶּה ׀ בְּנֵ֣י לֵאָ֗ה אֲשֶׁ֨ר יָֽלְדָ֤ה לְיַעֲקֹב֙ בְּפַדַּ֣ן אֲרָ֔ם וְאֵ֖ת דִּינָ֣ה בִתּ֑וֹ כָּל־נֶ֧פֶשׁ בָּנָ֛יו וּבְנוֹתָ֖יו שְׁלֹשִׁ֥ים וְשָׁלֹֽשׁ׃
+
+**JPS** These are the sons of Leah, whom she bore unto Jacob in Paddan-aram, with his daughter Dinah; all the souls of his sons and his daughters were thirty and three.
+
 ## 16
 
 **GRC** υἱοὶ δὲ Γάδ· Σαφὼν καὶ Ἁγγεὶς καὶ Σαυνὶς καὶ Θασοβὰν καὶ Ἀηδὶς καὶ Ἀροηδὶς καὶ Ἀροηλείς.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και οι υιοί του Γαδ, Σιφών και Αγγί, Σουνί και Εσβών, Ηρί και Αροδί και Αριηλί.
 
 **KJV** And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
+
+**HEB** וּבְנֵ֣י גָ֔ד צִפְי֥וֹן וְחַגִּ֖י שׁוּנִ֣י וְאֶצְבֹּ֑ן עֵרִ֥י וַֽאֲרוֹדִ֖י וְאַרְאֵלִֽי׃
+
+**JPS** And the sons of Gad: Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.
 
+**HEB** וּבְנֵ֣י אָשֵׁ֗ר יִמְנָ֧ה וְיִשְׁוָ֛ה וְיִשְׁוִ֥י וּבְרִיעָ֖ה וְשֶׂ֣רַח אֲחֹתָ֑ם וּבְנֵ֣י בְרִיעָ֔ה חֶ֖בֶר וּמַלְכִּיאֵֽל׃
+
+**JPS** And the sons of Asher: Imnah, and Ishvah, and Ishvi, and Beriah, and Serah their sister; and the sons of Beriah: Heber, and Malchiel.
+
 ## 18
 
 **GRC** οὗτοι υἱοὶ Ζέλφας, ἣν ἔδωκεν Λαβὰν Λείᾳ τῇ θυγατρὶ αὐτοῦ, ἣ ἔτεκεν τούτους τῷ Ἰακώβ, δέκα ἓξ ψυχάς.
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ούτοι είναι οι υιοί της Ζελφάς, την οποίαν έδωκεν ο Λάβαν εις την Λείαν την θυγατέρα αυτού· και τούτους εγέννησεν εις τον Ιακώβ, δεκαέξ ψυχάς.
 
 **KJV** These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls.
+
+**HEB** אֵ֚לֶּה בְּנֵ֣י זִלְפָּ֔ה אֲשֶׁר־נָתַ֥ן לָבָ֖ן לְלֵאָ֣ה בִתּ֑וֹ וַתֵּ֤לֶד אֶת־אֵ֙לֶּה֙ לְיַעֲקֹ֔ב שֵׁ֥שׁ עֶשְׂרֵ֖ה נָֽפֶשׁ׃
+
+**JPS** These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bore unto Jacob, even sixteen souls.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The sons of Rachel Jacob’s wife; Joseph, and Benjamin.
 
+**HEB** בְּנֵ֤י רָחֵל֙ אֵ֣שֶׁת יַֽעֲקֹ֔ב יוֹסֵ֖ף וּבִנְיָמִֽן׃
+
+**JPS** The sons of Rachel Jacob's wife: Joseph and Benjamin.
+
 ## 20
 
 **GRC** ἐγένοντο δὲ υἱοὶ Ἰωσὴφ ἐν γῇ Αἰγύπτῳ, οὓς ἔτεκεν αὐτῷ Ἀσεννὲθ θυγάτηρ Πετρεφῆ ἱερέως Ἡλίου πόλεως, τὸν Μαννασσὴ καὶ τὸν Ἐφράιμ. ἐγένοντο δὲ υἱοὶ Μαννασσή, οὓς ἔτεκεν αὐτῷ ἡ παλλακὴ ἡ Σύρα, τὸν Μαχείρ· Μαχεὶρ δὲ ἐγέννησεν τὸν Γαλαάδ. υἱοὶ δὲ Ἐφράιμ ἀδελφοῦ Μαννασσή· Σουτάλααμ καὶ Τάαμ. υἱοὶ δὲ Σουτάλααμ· Ἐδέμ.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εγεννήθησαν δε εις τον Ιωσήφ εν τη γη της Αιγύπτου Μανασσής και Εφραΐμ, τους οποίους εγέννησεν εις αυτόν Ασενέθ, η θυγάτηρ του Ποτιφερά ιερέως της Ων.
 
 **KJV** And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Poti–pherah priest of On bare unto him.
+
+**HEB** וַיִּוָּלֵ֣ד לְיוֹסֵף֮ בְּאֶ֣רֶץ מִצְרַיִם֒ אֲשֶׁ֤ר יָֽלְדָה־לּוֹ֙ אָֽסְנַ֔ת בַּת־פּ֥וֹטִי פֶ֖רַע כֹּהֵ֣ן אֹ֑ן אֶת־מְנַשֶּׁ֖ה וְאֶת־אֶפְרָֽיִם׃
+
+**JPS** And unto Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath the daughter of Poti-phera priest of On bore unto him.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
 
+**HEB** וּבְנֵ֣י בִנְיָמִ֗ן בֶּ֤לַע וָבֶ֙כֶר֙ וְאַשְׁבֵּ֔ל גֵּרָ֥א וְנַעֲמָ֖ן אֵחִ֣י וָרֹ֑אשׁ מֻפִּ֥ים וְחֻפִּ֖ים וָאָֽרְדְּ׃
+
+**JPS** And the sons of Benjamin: Bela, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
+
 ## 22
 
 **GRC** οὗτοι υἱοὶ Ῥαχήλ οὓς ἐγέννησεν Ἰακώβ· πᾶσαι ψυχαὶ δέκα ὀκτώ.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ούτοι είναι οι υιοί της Ραχήλ, οι γεννηθέντες εις τον Ιακώβ· πάσαι αι ψυχαί δεκατέσσαρες.
 
 **KJV** These are the sons of Rachel, which were born to Jacob: all the souls were fourteen.
+
+**HEB** אֵ֚לֶּה בְּנֵ֣י רָחֵ֔ל אֲשֶׁ֥ר יֻלַּ֖ד לְיַעֲקֹ֑ב כָּל־נֶ֖פֶשׁ אַרְבָּעָ֥ה עָשָֽׂר׃
+
+**JPS** These are the sons of Rachel, who were born to Jacob; all the souls were fourteen.
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the sons of Dan; Hushim.
 
+**HEB** וּבְנֵי־דָ֖ן חֻשִֽׁים׃
+
+**JPS** And the sons of Dan: Hushim.
+
 ## 24
 
 **GRC** καὶ υἱοὶ Νεφθαλί· Ἁσιὴλ καὶ Γωυνὶ καὶ Ἴσσααρ καὶ Συλλήμ.
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και οι υιοί του Νεφθαλί, Ιασιήλ και Γουνί και Ιεσέρ και Σιλλήμ.
 
 **KJV** And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.
+
+**HEB** וּבְנֵ֖י נַפְתָּלִ֑י יַחְצְאֵ֥ל וְגוּנִ֖י וְיֵ֥צֶר וְשִׁלֵּֽם׃
+
+**JPS** And the sons of Naphtali: Jahzeel, and Guni, and Jezer, and Shillem.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven.
 
+**HEB** אֵ֚לֶּה בְּנֵ֣י בִלְהָ֔ה אֲשֶׁר־נָתַ֥ן לָבָ֖ן לְרָחֵ֣ל בִּתּ֑וֹ וַתֵּ֧לֶד אֶת־אֵ֛לֶּה לְיַעֲקֹ֖ב כָּל־נֶ֥פֶשׁ שִׁבְעָֽה׃
+
+**JPS** These are the sons of Bilhah, whom Laban gave unto Rachel his daughter, and these she bore unto Jacob; all the souls were seven.
+
 ## 26
 
 **GRC** πᾶσαι δὲ ψυχαὶ αἱ εἰσελθοῦσαι μετὰ Ἰακὼβ εἰς Αἴγυπτον, οἱ ἐξελθόντες ἐκ τῶν μηρῶν αὐτοῦ, χωρὶς τῶν γυναικῶν υἱῶν Ἰακώβ, πᾶσαι ψυχαὶ ἑξήκοντα ἕξ.
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Πάσαι αι ψυχαί αι εισελθούσαι μετά του Ιακώβ εις Αίγυπτον, αίτινες εξήλθον εκ των μηρών αυτού, χωρίς των γυναικών των υιών του Ιακώβ, πάσαι αι ψυχαί ήσαν εξήκοντα εξ.
 
 **KJV** All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls were threescore and six;
+
+**HEB** כָּל־הַ֠נֶּפֶשׁ הַבָּאָ֨ה לְיַעֲקֹ֤ב מִצְרַ֙יְמָה֙ יֹצְאֵ֣י יְרֵכ֔וֹ מִלְּבַ֖ד נְשֵׁ֣י בְנֵי־יַעֲקֹ֑ב כָּל־נֶ֖פֶשׁ שִׁשִּׁ֥ים וָשֵֽׁשׁ׃
+
+**JPS** All the souls belonging to Jacob that came into Egypt, that came out of his loins, besides Jacob's sons' wives, all the souls were threescore and six.
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were threescore and ten.
 
+**HEB** וּבְנֵ֥י יוֹסֵ֛ף אֲשֶׁר־יֻלַּד־ל֥וֹ בְמִצְרַ֖יִם נֶ֣פֶשׁ שְׁנָ֑יִם כָּל־הַנֶּ֧פֶשׁ לְבֵֽית־יַעֲקֹ֛ב הַבָּ֥אָה מִצְרַ֖יְמָה שִׁבְעִֽים׃
+
+**JPS** And the sons of Joseph, who were born to him in Egypt, were two souls; all the souls of the house of Jacob, that came into Egypt, were threescore and ten.
+
 ## 28
 
 **GRC** Τὸν δὲ Ἰούδαν ἀπέστειλεν ἔμπροσθεν αὐτῶν πρὸς Ἰωσὴφ συναντῆσαι αὐτῷ καθ᾽ Ἡρώων πόλιν εἰς γῆν Ῥαμεσσή.
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Απέστειλε δε ο Ιακώβ τον Ιούδαν έμπροσθεν αυτού προς τον Ιωσήφ, διά να καταβή προ αυτού εις Γεσέν· και ήλθον εις την γην Γεσέν.
 
 **KJV** And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.
+
+**HEB** וְאֶת־יְהוּדָ֞ה שָׁלַ֤ח לְפָנָיו֙ אֶל־יוֹסֵ֔ף לְהוֹרֹ֥ת לְפָנָ֖יו גֹּ֑שְׁנָה וַיָּבֹ֖אוּ אַ֥רְצָה גֹּֽשֶׁן׃
+
+**JPS** And he sent Judah before him unto Joseph, to show the way before him unto Goshen; and they came into the land of Goshen.
 
 ## 29
 
@@ -241,6 +355,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.
 
+**HEB** וַיֶּאְסֹ֤ר יוֹסֵף֙ מֶרְכַּבְתּ֔וֹ וַיַּ֛עַל לִקְרַֽאת־יִשְׂרָאֵ֥ל אָבִ֖יו גֹּ֑שְׁנָה וַיֵּרָ֣א אֵלָ֗יו וַיִּפֹּל֙ עַל־צַוָּארָ֔יו וַיֵּ֥בְךְּ עַל־צַוָּארָ֖יו עֽוֹד׃
+
+**JPS** And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen; and he presented himself unto him, and fell on his neck, and wept on his neck a good while.
+
 ## 30
 
 **GRC** καὶ εἶπεν Ἰσραὴλ πρὸς Ἰωσήφ Ἀποθανοῦμαι ἀπὸ τοῦ νῦν, ἐπειδὴ ἑώρακα τὸ πρόσωπόν σου· ἔτι γὰρ σὺ ζῇς.
@@ -248,6 +366,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και είπεν ο Ισραήλ προς τον Ιωσήφ, Ας αποθάνω τώρα, αφού είδον το πρόσωπόν σου, διότι συ έτι ζης.
 
 **KJV** And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive.
+
+**HEB** וַיֹּ֧אמֶר יִשְׂרָאֵ֛ל אֶל־יוֹסֵ֖ף אָמ֣וּתָה הַפָּ֑עַם אַחֲרֵי֙ רְאוֹתִ֣י אֶת־פָּנֶ֔יךָ כִּ֥י עוֹדְךָ֖ חָֽי׃
+
+**JPS** And Israel said unto Joseph: 'Now let me die, since I have seen thy face, that thou art yet alive.'
 
 ## 31
 
@@ -257,6 +379,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which were in the land of Canaan, are come unto me;
 
+**HEB** וַיֹּ֨אמֶר יוֹסֵ֤ף אֶל־אֶחָיו֙ וְאֶל־בֵּ֣ית אָבִ֔יו אֶעֱלֶ֖ה וְאַגִּ֣ידָה לְפַרְעֹ֑ה וְאֹֽמְרָ֣ה אֵלָ֔יו אַחַ֧י וּבֵית־אָבִ֛י אֲשֶׁ֥ר בְּאֶֽרֶץ־כְּנַ֖עַן בָּ֥אוּ אֵלָֽי׃
+
+**JPS** And Joseph said unto his brethren, and unto his father's house: 'I will go up, and tell Pharaoh, and will say unto him: My brethren, and my father's house, who were in the land of Canaan, are come unto me;
+
 ## 32
 
 **GRC** οἱ δὲ ἄνδρες εἰσὶν ποιμένες· ἄνδρες γὰρ κτηνοτρόφοι ἦσαν· καὶ τὰ κτήνη καὶ τούς βόας καὶ πάντα τὰ αὐτῶν ἀγιόχασιν.
@@ -264,6 +390,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** οι δε άνθρωποι είναι ποιμένες, διότι άνδρες κτηνοτρόφοι είναι και έφεραν τα ποίμνια αυτών και τας αγέλας αυτών και πάντα όσα έχουσι.
 
 **KJV** And the men are shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.
+
+**HEB** וְהָאֲנָשִׁים֙ רֹ֣עֵי צֹ֔אן כִּֽי־אַנְשֵׁ֥י מִקְנֶ֖ה הָי֑וּ וְצֹאנָ֧ם וּבְקָרָ֛ם וְכָל־אֲשֶׁ֥ר לָהֶ֖ם הֵבִֽיאוּ׃
+
+**JPS** and the men are shepherds, for they have been keepers of cattle; and they have brought their flocks, and their herds, and all that they have.
 
 ## 33
 
@@ -273,6 +403,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?
 
+**HEB** וְהָיָ֕ה כִּֽי־יִקְרָ֥א לָכֶ֖ם פַּרְעֹ֑ה וְאָמַ֖ר מַה־מַּעֲשֵׂיכֶֽם׃
+
+**JPS** And it shall come to pass, when Pharaoh shall call you, and shall say: What is your occupation?
+
 ## 34
 
 **GRC** ἐρεῖτε Ἄνδρες κτηνοτρόφοι ἐσμὲν οἱ παῖδές σου ἐκ παιδὸς ἕως τοῦ νῦν, καὶ ἡμεῖς καὶ οἱ πατέρες ἡμῶν· ἵνα κατοικήσητε ἐν γῇ Γέσεμ Ἀραβίᾳ· βδέλυγμα γάρ ἐστιν Αἰγυπτίων πᾶς ποιμὴν προβάτων.
@@ -280,6 +414,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** θέλετε ειπεί, Άνδρες κτηνοτρόφοι είμεθα οι δούλοί σου εκ νεότητος ημών έως του νυν και ημείς και οι πατέρες ημών· διά να κατοικήσητε εν τη γη Γεσέν· διότι είναι βδέλυγμα εις τους Αιγυπτίους πας ποιμήν προβάτων.
 
 **KJV** That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
+
+**HEB** וַאֲמַרְתֶּ֗ם אַנְשֵׁ֨י מִקְנֶ֜ה הָי֤וּ עֲבָדֶ֙יךָ֙ מִנְּעוּרֵ֣ינוּ וְעַד־עַ֔תָּה גַּם־אֲנַ֖חְנוּ גַּם־אֲבֹתֵ֑ינוּ בַּעֲב֗וּר תֵּשְׁבוּ֙ בְּאֶ֣רֶץ גֹּ֔שֶׁן כִּֽי־תוֹעֲבַ֥ת מִצְרַ֖יִם כָּל־רֹ֥עֵה צֹֽאן׃
+
+**JPS** that ye shall say: Thy servants have been keepers of cattle from our youth even until now, both we, and our fathers; that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.'
 
 ## Notes
 

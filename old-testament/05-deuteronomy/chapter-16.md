@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Observe the month of Abib, and keep the passover unto the Lord thy God: for in the month of Abib the Lord thy God brought thee forth out of Egypt by night.
 
+**HEB** שָׁמוֹר֙ אֶת־חֹ֣דֶשׁ הָאָבִ֔יב וְעָשִׂ֣יתָ פֶּ֔סַח לַיהוָ֖ה אֱלֹהֶ֑יךָ כִּ֞י בְּחֹ֣דֶשׁ הָֽאָבִ֗יב הוֹצִ֨יאֲךָ֜ יְהוָ֧ה אֱלֹהֶ֛יךָ מִמִּצְרַ֖יִם לָֽיְלָה׃
+
+**JPS** Observe the month of Abib, and keep the passover unto HaShem thy G-d; for in the month of Abib HaShem thy G-d brought thee forth out of Egypt by night.
+
 ## 2
 
 **GRC** καὶ θύσεις τὸ πάσχα Κυρίῳ τῷ θεῷ σου, πρόβατα καὶ βόας, ἐν τῷ τόπῳ ᾧ ἐὰν ἐκλέξηται Κύριος ὁ θεός σου αὐτὸν ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Θέλεις λοιπόν θυσιάζει το πάσχα εις Κύριον τον Θεόν σου, πρόβατον και βουν, εν τω τόπω όντινα εκλέξη ο Κύριος διά να κατοικίση εκεί το όνομα αυτού.
 
 **KJV** Thou shalt therefore sacrifice the passover unto the Lord thy God, of the flock and the herd, in the place which the Lord shall choose to place his name there.
+
+**HEB** וְזָבַ֥חְתָּ פֶּ֛סַח לַיהוָ֥ה אֱלֹהֶ֖יךָ צֹ֣אן וּבָקָ֑ר בַּמָּקוֹם֙ אֲשֶׁר־יִבְחַ֣ר יְהוָ֔ה לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃
+
+**JPS** And thou shalt sacrifice the passover-offering unto HaShem thy G-d, of the flock and the herd, in the place which HaShem shall choose to cause His name to dwell there.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, even the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.
 
+**HEB** לֹא־תֹאכַ֤ל עָלָיו֙ חָמֵ֔ץ שִׁבְעַ֥ת יָמִ֛ים תֹּֽאכַל־עָלָ֥יו מַצּ֖וֹת לֶ֣חֶם עֹ֑נִי כִּ֣י בְחִפָּז֗וֹן יָצָ֙אתָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לְמַ֣עַן תִּזְכֹּר֔ אֶת־י֤וֹם צֵֽאתְךָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃
+
+**JPS** Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, even the bread of affliction; for in haste didst thou come forth out of the land of Egypt; that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.
+
 ## 4
 
 **GRC** οὐκ ὀφθήσεταί σοι ζύμη ἐν πᾶσι τοῖς ὁρίοις σου ἑπτὰ ἡμέρας, καὶ οὐ κοιμηθήσεται ἀπὸ τῶν κρεῶν ὧν ἐὰν θύσῃς τὸ ἑσπέρας τῇ ἡμέρᾳ τῇ πρώτῃ εἰς τὸ πρωί.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και δεν θέλει φανή προζύμιον εις σε, κατά πάντα τα όριά σου, επτά ημέρας· και από του κρέατος, το οποίον εθυσίασας την πρώτην ημέραν προς το εσπέρας, δεν θέλει μείνει ουδέν έως πρωΐ.
 
 **KJV** And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there any thing of the flesh, which thou sacrificedst the first day at even, remain all night until the morning.
+
+**HEB** וְלֹֽא־יֵרָאֶ֨ה לְךָ֥ שְׂאֹ֛ר בְּכָל־גְּבֻלְךָ֖ שִׁבְעַ֣ת יָמִ֑ים וְלֹא־יָלִ֣ין מִן־הַבָּשָׂ֗ר אֲשֶׁ֨ר תִּזְבַּ֥ח בָּעֶ֛רֶב בַּיּ֥וֹם הָרִאשׁ֖וֹן לַבֹּֽקֶר׃
+
+**JPS** And there shall be no leaven seen with thee in all they borders seven days; neither shall any of the flesh, which thou sacrificest the first day at even, remain all night until the morning.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou mayest not sacrifice the passover within any of thy gates, which the Lord thy God giveth thee:
 
+**HEB** לֹ֥א תוּכַ֖ל לִזְבֹּ֣חַ אֶת־הַפָּ֑סַח בְּאַחַ֣ד שְׁעָרֶ֔יךָ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃
+
+**JPS** Thou mayest not sacrifice the passover-offering within any of thy gates, which HaShem thy G-d giveth thee;
+
 ## 6
 
 **GRC** ἀλλ᾽ ἢ εἰς τὸν τόπον ὃν ἐὰν ἐκλέξηται Κύριος ὁ θεός σου ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ, θύσεις τὸ πάσχα ἑσπέρας πρὸς δυσμὰς ἡλίου ἐν τῷ καιρῷ ᾧ ἐξῆλθες ἐξ Αἰγύπτου·
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** αλλ' εν τω τόπω, όντινα εκλέξη Κύριος ο Θεός σου διά να κατοικίση εκεί το όνομα αυτού, θέλεις θυσιάζει το πάσχα την εσπέραν, προς την δύσιν του ηλίου, εν τω καιρώ καθ' ον εξήλθες εξ Αιγύπτου.
 
 **KJV** But at the place which the Lord thy God shall choose to place his name in, there thou shalt sacrifice the passover at even, at the going down of the sun, at the season that thou camest forth out of Egypt.
+
+**HEB** כִּ֠י אִֽם־אֶל־הַמָּק֞וֹם אֲשֶׁר־יִבְחַ֨ר יְהוָ֤ה אֱלֹהֶ֙יךָ֙ לְשַׁכֵּ֣ן שְׁמ֔וֹ שָׁ֛ם תִּזְבַּ֥ח אֶת־הַפֶּ֖סַח בָּעָ֑רֶב כְּב֣וֹא הַשֶּׁ֔מֶשׁ מוֹעֵ֖ד צֵֽאתְךָ֥ מִמִּצְרָֽיִם׃
+
+**JPS** but at the place which HaShem thy G-d shall choose to cause His name to dwell in, there thou shalt sacrifice the passover-offering at even, at the going down of the sun, at the season that thou camest forth out of Egypt.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt roast and eat it in the place which the Lord thy God shall choose: and thou shalt turn in the morning, and go unto thy tents.
 
+**HEB** וּבִשַּׁלְתָּ֙ וְאָ֣כַלְתָּ֔ בַּמָּק֕וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהוָ֥ה אֱלֹהֶ֖יךָ בּ֑וֹ וּפָנִ֣יתָ בַבֹּ֔קֶר וְהָלַכְתָּ֖ לְאֹהָלֶֽיךָ׃
+
+**JPS** And thou shalt roast and eat it in the place which HaShem thy G-d shall choose; and thou shalt turn in the morning, and go unto thy tents.
+
 ## 8
 
 **GRC** ἓξ ἡμέρας φάγῃ ἄζυμα, καὶ τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἐξόδιον, ἑορτὴ Κυρίῳ τῷ θεῷ σου· οὐ ποιήσεις ἐν αὐτῇ πᾶν ἔργον, πλὴν ὅσα ποιηθήσεται ψυχῇ.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εξ ημέρας θέλεις τρώγει άζυμα· και την ημέραν την εβδόμην θέλει είσθαι σύναξις επίσημος εις Κύριον τον Θεόν σου· δεν θέλεις κάμει εργασίαν.
 
 **KJV** Six days thou shalt eat unleavened bread: and on the seventh day shall be a solemn assembly to the Lord thy God: thou shalt do no work therein.
+
+**HEB** שֵׁ֥שֶׁת יָמִ֖ים תֹּאכַ֣ל מַצּ֑וֹת וּבַיּ֣וֹם הַשְּׁבִיעִ֗י עֲצֶ֙רֶת֙ לַיהוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א תַעֲשֶׂ֖ה מְלָאכָֽה׃
+
+**JPS** Six days thou shalt eat unleavened bread; and on the seventh day shall be a solemn assembly to HaShem thy G-d; thou shalt do no work therein.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Seven weeks shalt thou number unto thee: begin to number the seven weeks from such time as thou beginnest to put the sickle to the corn.
 
+**HEB** שִׁבְעָ֥ה שָׁבֻעֹ֖ת תִּסְפָּר־לָ֑ךְ מֵהָחֵ֤ל חֶרְמֵשׁ֙ בַּקָּמָ֔ה תָּחֵ֣ל לִסְפֹּ֔ר שִׁבְעָ֖ה שָׁבֻעֽוֹת׃
+
+**JPS** Seven weeks shalt thou number unto thee; from the time the sickle is first put to the standing corn shalt thou begin to number seven weeks.
+
 ## 10
 
 **GRC** Καὶ ποιήσεις ἑορτὴν ἑβδομάδων Κυρίῳ τῷ θεῷ σου καθότι ἡ χείρ σου ἰσχύει, ὅσα ἂν δῷ Κύριος ὁ θεός σου·
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλεις κάμει την εορτήν των εβδομάδων εις Κύριον τον Θεόν σου, μετά της ανηκούσης αυτοπροαιρέτου προσφοράς της χειρός σου, την οποίαν προσφέρης, όπως σε ευλόγησε Κύριος ο Θεός σου.
 
 **KJV** And thou shalt keep the feast of weeks unto the Lord thy God with a tribute of a freewill offering of thine hand, which thou shalt give unto the Lord thy God, according as the Lord thy God hath blessed thee:
+
+**HEB** וְעָשִׂ֜יתָ חַ֤ג שָׁבֻעוֹת֙ לַיהוָ֣ה אֱלֹהֶ֔יךָ מִסַּ֛ת נִדְבַ֥ת יָדְךָ֖ אֲשֶׁ֣ר תִּתֵּ֑ן כַּאֲשֶׁ֥ר יְבָרֶכְךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ׃
+
+**JPS** And thou shalt keep the feast of weeks unto HaShem thy G-d after the measure of the freewill-offering of thy hand, which thou shalt give, according as HaShem thy G-d blesseth thee.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt rejoice before the Lord thy God, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates, and the stranger, and the fatherless, and the widow, that are among you, in the place which the Lord thy God hath chosen to place his name there.
 
+**HEB** וְשָׂמַחְתָּ֞ לִפְנֵ֣י ׀ יְהוָ֣ה אֱלֹהֶ֗יךָ אַתָּ֨ה וּבִנְךָ֣ וּבִתֶּךָ֮ וְעַבְדְּךָ֣ וַאֲמָתֶךָ֒ וְהַלֵּוִי֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֣ר בְּקִרְבֶּ֑ךָ בַּמָּק֗וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃
+
+**JPS** And thou shalt rejoice before HaShem thy G-d, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite that is within they gates, and the stranger, and the fatherless, and the widow, that are in the midst of thee, in the place which HaShem thy G-d shall choose to cause His name to dwell there.
+
 ## 12
 
 **GRC** καὶ μνησθήσῃ ὅτι οἰκέτης ἐγένου ἐν γῇ Αἰγύπτῳ, καὶ φυλάξῃ καὶ ποιήσεις τὰς ἐντολὰς ταύτας.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλεις ενθυμείσθαι ότι δούλος εστάθης εν Αιγύπτω· και θέλεις φυλάττει και εκτελεί ταύτα τα διατάγματα.
 
 **KJV** And thou shalt remember that thou wast a bondman in Egypt: and thou shalt observe and do these statutes.
+
+**HEB** וְזָ֣כַרְתָּ֔ כִּי־עֶ֥בֶד הָיִ֖יתָ בְּמִצְרָ֑יִם וְשָׁמַרְתָּ֣ וְעָשִׂ֔יתָ אֶת־הֽ͏ַחֻקִּ֖ים הָאֵֽלֶּה׃
+
+**JPS** And thou shalt remember that thou wast a bondman in Egypt; and thou shalt observe and do these statutes.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine:
 
+**HEB** חַ֧ג הַסֻּכֹּ֛ת תַּעֲשֶׂ֥ה לְךָ֖ שִׁבְעַ֣ת יָמִ֑ים בְּאָ֨סְפְּךָ֔ מִֽגָּרְנְךָ֖ וּמִיִּקְבֶֽךָ׃
+
+**JPS** Thou shalt keep the feast of tabernacles seven days, after that thou hast gathered in from thy threshing-floor and from thy winepress.
+
 ## 14
 
 **GRC** καὶ εὐφρανθήσῃ ἐν τῇ ἑορτῇ σου, σὺ καὶ ὁ υἱός σου καὶ ἡ θυγάτηρ σου, ὁ παῖς σου καὶ ἡ παιδίσκη σου, καὶ ὁ Λευείτης καὶ ὁ προσήλυτος καὶ ὁ ὀρφανὸς καὶ ἡ χήρα ἡ οὖσα ἐν ταῖς πόλεσίν σου.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και θέλεις ευφρανθή εν τη εορτή σου, συ και ο υιός σου και η θυγάτηρ σου και ο δούλός σου και η δούλη σου και ο Λευΐτης και ο ξένος και ο ορφανός και η χήρα, οίτινες είναι εντός των πυλών σου.
 
 **KJV** And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite, the stranger, and the fatherless, and the widow, that are within thy gates.
+
+**HEB** וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֙ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֗י וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ׃
+
+**JPS** And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite, and the stranger, and the fatherless, and the widow, that are within thy gates.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Seven days shalt thou keep a solemn feast unto the Lord thy God in the place which the Lord shall choose: because the Lord thy God shall bless thee in all thine increase, and in all the works of thine hands, therefore thou shalt surely rejoice.
 
+**HEB** שִׁבְעַ֣ת יָמִ֗ים תָּחֹג֙ לַיהוָ֣ה אֱלֹהֶ֔יךָ בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהוָ֑ה כִּ֣י יְבָרֶכְךָ֞ יְהוָ֣ה אֱלֹהֶ֗יךָ בְּכֹ֤ל תְּבוּאָֽתְךָ֙ וּבְכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔יךָ וְהָיִ֖יתָ אַ֥ךְ שָׂמֵֽחַ׃
+
+**JPS** Seven days shalt thou keep a feast unto HaShem thy G-d in the place which HaShem shall choose; because HaShem thy G-d shall bless thee in all thine increase, and in all the work of thy hands, and thou shalt be altogether joyful.
+
 ## 16
 
 **GRC** τρεῖς καιροὺς τοῦ ἐνιαυτοῦ ὀφθήσεται πᾶν ἀρσενικόν σου ἐναντίον Κυρίου τοῦ θεοῦ σου ἐν τῷ τόπῳ ᾧ ἐὰν ἐκλέξηται αὐτὸν Κύριος, ἐν τῇ ἑορτῇ τῶν ἀζύμων, καὶ ἐν τῇ ἑορτῇ τῶν ἑβδομάδων, καὶ ἐν τῇ ἑορτῇ τῆς σκηνοπηγίας. οὐκ ὀφθήσῃ ἐνώπιον Κυρίου τοῦ θεοῦ σου κενός·
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τρίς του ενιαυτού θέλει εμφανίζεσθαι παν αρσενικόν σου ενώπιον Κυρίου του Θεού σου, εν τω τόπω όντινα εκλέξη· εν τη εορτή των αζύμων, και εν τη εορτή των εβδομάδων, και εν τη εορτή της σκηνοπηγίας· και δεν θέλουσιν εμφανίζεσθαι ενώπιον του Κυρίου κενοί.
 
 **KJV** Three times in a year shall all thy males appear before the Lord thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the Lord empty:
+
+**HEB** שָׁל֣וֹשׁ פְּעָמִ֣ים ׀ בַּשָּׁנָ֡ה יֵרָאֶ֨ה כָל־זְכוּרְךָ֜ אֶת־פְּנֵ֣י ׀ יְהוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙ אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת וְלֹ֧א יֵרָאֶ֛ה אֶת־פְּנֵ֥י יְהוָ֖ה רֵיקָֽם׃
+
+**JPS** Three times in a year shall all thy males appear before HaShem thy G-d in the place which He shall choose; on the feast of unleavened bread, and on the feast of weeks, and on the feast of tabernacles; and they shall not appear before HaShem empty;
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Every man shall give as he is able, according to the blessing of the Lord thy God which he hath given thee.
 
+**HEB** אִ֖ישׁ כְּמַתְּנַ֣ת יָד֑וֹ כְּבִרְכַּ֛ת יְהוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר נָֽתַן־לָֽךְ׃
+
+**JPS** every man shall give as he is able, according to the blessing of HaShem thy G-d which He hath given thee.
+
 ## 18
 
 **GRC** Κριτὰς καὶ γραμματοεισαγωγεῖς ποιήσεις σεαυτῷ ἐν ταῖς πόλεσίν σου αἷς Κύριος ὁ θεός σου δίδωσίν σοι κατὰ φυλάς, καὶ κρινοῦσιν τὸν λαὸν κρίσιν δικαίαν·
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Κριτάς και άρχοντας θέλεις καταστήσει εις σεαυτόν κατά πάσας τας πόλεις σου, τας οποίας Κύριος ο Θεός σου δίδει εις σε κατά τας φυλάς σου· και θέλουσι κρίνει τον λαόν εν κρίσει δικαία.
 
 **KJV** Judges and officers shalt thou make thee in all thy gates, which the Lord thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment.
+
+**HEB** שֹׁפְטִ֣ים וְשֹֽׁטְרִ֗ים תִּֽתֶּן־לְךָ֙ בְּכָל־שְׁעָרֶ֔יךָ אֲשֶׁ֨ר יְהוָ֧ה אֱלֹהֶ֛יךָ נֹתֵ֥ן לְךָ֖ לִשְׁבָטֶ֑יךָ וְשָׁפְט֥וּ אֶת־הָעָ֖ם מִשְׁפַּט־צֶֽדֶק׃
+
+**JPS** Judges and officers shalt thou make thee in all thy gates, which HaShem thy G-d giveth thee, tribe by tribe; and they shall judge the people with righteous judgment.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift: for a gift doth blind the eyes of the wise, and pervert the words of the righteous.
 
+**HEB** לֹא־תַטֶּ֣ה מִשְׁפָּ֔ט לֹ֥א תַכִּ֖יר פָּנִ֑ים וְלֹא־תִקַּ֣ח שֹׁ֔חַד כִּ֣י הַשֹּׁ֗חַד יְעַוֵּר֙ עֵינֵ֣י חֲכָמִ֔ים וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽם׃
+
+**JPS** Thou shalt not wrest judgment; thou shalt not respect persons; neither shalt thou take a gift; for a gift doth blind the eyes of the wise, and pervert the words of the righteous.
+
 ## 20
 
 **GRC** δικαίως τὸ δίκαιον διώξῃ, ἵνα ζῆτε καὶ εἰσελθόντες κληρονομήσητε τὴν γῆν ἣν Κύριος ὁ θεός σου δίδωσίν σοι.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Το δίκαιον, το δίκαιον θέλεις ακολουθεί· διά να ζήσης και να κληρονομήσης την γην, την οποίαν Κύριος ο Θεός σου δίδει εις σε.
 
 **KJV** That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the Lord thy God giveth thee.
+
+**HEB** צֶ֥דֶק צֶ֖דֶק תִּרְדֹּ֑ף לְמַ֤עַן תִּֽחְיֶה֙ וְיָרַשְׁתָּ֣ אֶת־הָאָ֔רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃
+
+**JPS** Justice, justice shalt thou follow, that thou mayest live, and inherit the land which HaShem thy G-d giveth thee.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou shalt not plant thee a grove of any trees near unto the altar of the Lord thy God, which thou shalt make thee.
 
+**HEB** לֹֽא־תִטַּ֥ע לְךָ֛ אֲשֵׁרָ֖ה כָּל־עֵ֑ץ אֵ֗צֶל מִזְבַּ֛ח יְהוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר תַּעֲשֶׂה־לָּֽךְ׃
+
+**JPS** Thou shalt not plant thee an Asherah of any kind of tree beside the altar of HaShem thy G-d, which thou shalt make thee.
+
 ## 22
 
 **GRC** οὐ στήσεις σεαυτῷ στήλην, ἃ ἐμίσησεν Κύριος ὁ θεός σου.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** ουδέ θέλεις στήσει εις σεαυτόν άγαλμα· τα οποία μισεί Κύριος ο Θεός σου.
 
 **KJV** Neither shalt thou set thee up any image; which the Lord thy God hateth.
+
+**HEB** וְלֹֽא־תָקִ֥ים לְךָ֖ מַצֵּבָ֑ה אֲשֶׁ֥ר שָׂנֵ֖א יְהוָ֥ה אֱלֹהֶֽיךָ׃
+
+**JPS** Neither shalt thou set thee up a pillar, which HaShem thy G-d hateth.
 
 ## Notes
 

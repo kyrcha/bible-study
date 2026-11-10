@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
 
+**HEB** בֶּן־שְׁתֵּ֥ים עֶשְׂרֵ֛ה שָׁנָ֖ה מְנַשֶּׁ֣ה בְמָלְכ֑וֹ וַחֲמִשִּׁ֤ים וְחָמֵשׁ֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלָֽ͏ִם׃
+
+**JPS** Manasseh was twelve years old when he began to reign; and he reigned fifty and five years in Jerusalem.
+
 ## 2
 
 **GRC** καὶ ἐποίησεν τὸ πονηρὸν ἐναντίον κυρίου, ἀπὸ πάντων τῶν βδελιγμάτων τῶν ἐθνῶν οὓς ἐξωλέθρευσεν Κύριος ἀπὸ προσώπου τῶν υἱῶν Ἰσραήλ.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έπραξε πονηρά ενώπιον του Κυρίου, κατά τα βδελύγματα των εθνών, τα οποία εξεδίωξεν ο Κύριος απ' έμπροσθεν των υιών Ισραήλ·
 
 **KJV** But did that which was evil in the sight of the Lord, like unto the abominations of the heathen, whom the Lord had cast out before the children of Israel.
+
+**HEB** וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה כְּתֽוֹעֲבוֹת֙ הַגּוֹיִ֔ם אֲשֶׁר֙ הוֹרִ֣ישׁ יְהוָ֔ה מִפְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** And he did that which was evil in the sight of HaShem, after the abominations of the nations, whom HaShem cast out before the children of Israel.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them.
 
+**HEB** וַיָּ֗שָׁב וַיִּ֙בֶן֙ אֶת־הַבָּמ֔וֹת אֲשֶׁ֥ר נִתַּ֖ץ יְחִזְקִיָּ֣הוּ אָבִ֑יו וַיָּ֨קֶם מִזְבְּח֤וֹת לַבְּעָלִים֙ וַיַּ֣עַשׂ אֲשֵׁר֔וֹת וַיִּשְׁתַּ֙חוּ֙ לְכָל־צְבָ֣א הַשָּׁמַ֔יִם וַֽיַּעֲבֹ֖ד אֹתָֽם׃
+
+**JPS** For he built again the high places which Hezekiah his father had broken down; and he reared up altars for the Baalim, and made Asheroth, and worshipped all the host of heaven, and served them.
+
 ## 4
 
 **GRC** καὶ ᾠκοδόμησεν θυσιαστήρια ἐν οἴκῳ Κυρίου οὗ εἶπεν Κύριος Ἐν Ἰερουσαλὴμ ἔσται τὸ ὄνομά μου εἰς τὸν αἰῶνα.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ωκοδόμησε θυσιαστήρια εν τω οίκω του Κυρίου, περί του οποίου ο Κύριος είπεν, Εν Ιερουσαλήμ θέλει είσθαι το όνομά μου εις τον αιώνα.
 
 **KJV** Also he built altars in the house of the Lord, whereof the Lord had said, In Jerusalem shall my name be for ever.
+
+**HEB** וּבָנָ֥ה מִזְבְּח֖וֹת בְּבֵ֣ית יְהוָ֑ה אֲשֶׁר֙ אָמַ֣ר יְהוָ֔ה בִּירוּשָׁלַ֥͏ִם יִֽהְיֶה־שְּׁמִ֖י לְעוֹלָֽם׃
+
+**JPS** And he built altars in the house of HaShem, whereof HaShem said: 'In Jerusalem shall My name be for ever.'
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he built altars for all the host of heaven in the two courts of the house of the Lord.
 
+**HEB** וַיִּ֥בֶן מִזְבְּח֖וֹת לְכָל־צְבָ֣א הַשָּׁמָ֑יִם בִּשְׁתֵּ֖י חַצְר֥וֹת בֵּית־יְהוָֽה׃
+
+**JPS** And he built altars for all the host of heaven in the two courts of the house of HaShem.
+
 ## 6
 
 **GRC** καὶ αὐτὸς διήγαγεν τὰ τέκνα αὐτοῦ ἐν πυρὶ ἐν γὲ βανὲ Ἑννόμ· καὶ ἐκληδονίζετο καὶ ἐφαρμακεύετο καὶ οἰωνίζετο, καὶ ἐποίησεν ἐνγαστριμύθους καὶ ἐπαοιδούς· ἐπλήθυνεν τοῦ ποιῆσαι τὸ πονηρὸν ἐναντίον Κυρίου τοῦ παροργίσαι αὐτόν.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και αυτός διεβίβασε τους υιούς αυτού διά του πυρός εν τη κοιλάδι του υιού του Εννόμ· και προεμάντευε καιρούς και έκαμνεν οιωνισμούς και μαγείας και εσύστησεν ανταποκριτάς δαιμονίων και επαοιδούς· πολλά πονηρά έπραξεν ενώπιον του Κυρίου, διά να παροργίση αυτόν.
 
 **KJV** And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the Lord, to provoke him to anger.
+
+**HEB** וְהוּא֩ הֶעֱבִ֨יר אֶת־בָּנָ֤יו בָּאֵשׁ֙ בְּגֵ֣י בֶן־הִנֹּ֔ם וְעוֹנֵ֤ן וְנִחֵשׁ֙ וְֽכִשֵּׁ֔ף וְעָ֥שָׂה א֖וֹב וְיִדְּעוֹנִ֑י הִרְבָּ֗ה לַעֲשׂ֥וֹת הָרַ֛ע בְּעֵינֵ֥י יְהוָ֖ה לְהַכְעִיסֽוֹ׃
+
+**JPS** He also made his children to pass through the fire in the valley of the son of Hinnom; and he practised soothsaying, and used enchantments, and practised sorcery, and appointed them that divined by a ghost or a familiar spirit; he wrought much evil in the sight of HaShem, to provoke Him.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he set a carved image, the idol which he had made, in the house of God, of which God had said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen before all the tribes of Israel, will I put my name for ever:
 
+**HEB** וַיָּ֕שֶׂם אֶת־פֶּ֥סֶל הַסֶּ֖מֶל אֲשֶׁ֣ר עָשָׂ֑ה בְּבֵ֣ית הָאֱלֹהִ֗ים אֲשֶׁ֨ר אָמַ֤ר אֱלֹהִים֙ אֶל־דָּוִיד֙ וְאֶל־שְׁלֹמֹ֣ה בְנ֔וֹ בַּבַּ֨יִת הַזֶּ֜ה וּבִֽירוּשָׁלִַ֗ם אֲשֶׁ֤ר בָּחַ֙רְתִּי֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל אָשִׂ֥ים אֶת־שְׁמִ֖י לְעֵילֽוֹם׃
+
+**JPS** And he set the graven image of the idol, which he had made, in the house of G-d, of which G-d said to David and to Solomon his son: 'In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, will I put My name for ever;
+
 ## 8
 
 **GRC** καὶ οὐ προσθήσω σαλεῦσαι τὸν πόδα Ἰσραὴλ ἀπὸ τῆς γῆς ἧς ἔδωκα τοῖς πατράσιν αὐτῶν, πλὴν ἐὰν φυλάσσωνται τοῦ ποιῆσαι πάντα ἃ ἐνετειλάμην αὐτοῖς κατὰ πάντα τὸν νόμον, τὰ προστάγματα καὶ τὰ κρίματα ἐν χειρὶ Μωυσῆ.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και δεν θέλω μετασαλεύσει τον πόδα του Ισραήλ από της γης, την οποίαν παρέδωκα εις τους πατέρας σας· εάν μόνον προσέξωσι να κάμνωσι πάντα όσα προσέταξα εις αυτούς, κατά πάντα τον νόμον και τα διατάγματα και τας κρίσεις τας δοθείσας διά του Μωϋσέως.
 
 **KJV** Neither will I any more remove the foot of Israel from out of the land which I have appointed for your fathers; so that they will take heed to do all that I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses.
+
+**HEB** וְלֹ֣א אוֹסִ֗יף לְהָסִיר֙ אֶת־רֶ֣גֶל יִשְׂרָאֵ֔ל מֵעַל֙ הֽ͏ָאֲדָמָ֔ה אֲשֶׁ֥ר הֶֽעֱמַ֖דְתִּי לַאֲבֹֽתֵיכֶ֑ם רַ֣ק ׀ אִם־יִשְׁמְר֣וּ לַעֲשׂ֗וֹת אֵ֚ת כָּל־אֲשֶׁ֣ר צִוִּיתִ֔ים לְכָל־הַתּוֹרָ֛ה וְהַֽחֻקִּ֥ים וְהַמִּשְׁפָּטִ֖ים בְּיַד־מֹשֶֽׁה׃
+
+**JPS** neither will I any more remove the foot of Israel from off the land which I have appointed for your fathers; if only they will observe to do all that I have commanded them, even all the law and the statutes and the ordinances by the hand of Moses.'
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the Lord had destroyed before the children of Israel.
 
+**HEB** וַיֶּ֣תַע מְנַשֶּׁ֔ה אֶת־יְהוּדָ֖ה וְיֹשְׁבֵ֣י יְרוּשָׁלָ֑͏ִם לַעֲשׂ֣וֹת רָ֔ע מִן־הַ֨גּוֹיִ֔ם אֲשֶׁר֙ הִשְׁמִ֣יד יְהוָ֔ה מִפְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** And Manasseh made Judah and the inhabitants of Jerusalem to err, so that they did evil more than did the nations, whom HaShem destroyed before the children of Israel.
+
 ## 10
 
 **GRC** καὶ ἐλάλησεν Κύριος ἐπὶ Μανασσὴ καὶ ἐπὶ τὸν λαὸν αὐτοῦ, καὶ οὐκ ἐπήκουσεν.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ελάλησε Κύριος προς τον Μανασσήν και προς τον λαόν αυτού· πλην δεν έδωκαν ακρόασιν.
 
 **KJV** And the Lord spake to Manasseh, and to his people: but they would not hearken.
+
+**HEB** וַיְדַבֵּ֧ר יְהוָ֛ה אֶל־מְנַשֶּׁ֥ה וְאֶל־עַמּ֖וֹ וְלֹ֥א הִקְשִֽׁיבוּ׃
+
+**JPS** And HaShem spoke to Manasseh, and to his people; but they gave no heed.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Wherefore the Lord brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon.
 
+**HEB** וַיָּבֵ֨א יְהוָ֜ה עֲלֵיהֶ֗ם אֶת־שָׂרֵ֤י הַצָּבָא֙ אֲשֶׁר֙ לְמֶ֣לֶךְ אַשּׁ֔וּר וַיִּלְכְּד֥וּ אֶת־מְנַשֶּׁ֖ה בַּחֹחִ֑ים וַיַּֽאַסְרֻ֙הוּ֙ בַּֽנְחֻשְׁתַּ֔יִם וַיּוֹלִיכֻ֖הוּ בָּבֶֽלָה׃
+
+**JPS** Wherefore HaShem brought upon them the captains of the host of the king of Assyria, who took Manasseh with hooks, and bound him with fetters, and carried him to Babylon.
+
 ## 12
 
 **GRC** καὶ ὡς ἐθλίβη, ἐζήτησεν τὸ πρόσωπον τοῦ κυρίου θεοῦ αὐτοῦ, καὶ ἐταπεινώθη σφόδρα ἀπὸ προσώπου θεοῦ τῶν πατέρων αὐτοῦ·
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ενώ ήτο εν θλίψει, ικέτευσε Κύριον τον Θεόν αυτού και εταπεινώθη σφόδρα ενώπιον του Θεού των πατέρων αυτού,
 
 **KJV** And when he was in affliction, he besought the Lord his God, and humbled himself greatly before the God of his fathers,
+
+**HEB** וּכְהָצֵ֣ר ל֔וֹ חִלָּ֕ה אֶת־פְּנֵ֖י יְהוָ֣ה אֱלֹהָ֑יו וַיִּכָּנַ֣ע מְאֹ֔ד מִלִּפְנֵ֖י אֱלֹהֵ֥י אֲבֹתָֽיו׃
+
+**JPS** And when he was in distress, he besought HaShem his G-d, and humbled himself greatly before the G-d of his fathers.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the Lord he was God.
 
+**HEB** וַיִּתְפַּלֵּ֣ל אֵלָ֗יו וַיֵּעָ֤תֶר לוֹ֙ וַיִּשְׁמַ֣ע תְּחִנָּת֔וֹ וַיְשִׁיבֵ֥הוּ יְרוּשָׁלַ֖͏ִם לְמַלְכוּת֑וֹ וַיֵּ֣דַע מְנַשֶּׁ֔ה כִּ֥י יְהוָ֖ה ה֥וּא הָֽאֱלֹהִֽים׃
+
+**JPS** And he prayed unto Him; and He was entreated of him, and heard his supplication, and brought him back to Jerusalem into his kingdom. Then Manasseh knew that HaShem He was G-d.
+
 ## 14
 
 **GRC** Καὶ ᾠκοδόμησεν μετὰ ταῦτα τεῖχος ἔξω τῆς πόλεως Δαυεὶδ ἀπὸ λιβὸς κατὰ Γιὸν ἐν τῷ χειμάρρῳ καὶ ἐκπορευομένων τὴν πύλην τὴν κυκλόθεν καὶ εἰς αὐτὸν Ὄπλα, καὶ ὕψωσεν σφόδρα· καὶ κατέστησεν ἄρχοντας τῆς δυνάμεως ἐν πάσαις ταῖς πόλεσιν ταῖς τειχήρεσιν ἐν Ἰούδᾳ.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Μετά δε ταύτα ωκοδόμησε τείχος έξω της πόλεως Δαβίδ, προς δυσμάς του Γιών, εν τη κοιλάδι, έως της εισόδου της πύλης της ιχθυϊκής, και περιεκύκλωσε το Οφήλ και ύψωσεν αυτό εις μέγα ύψος, και έβαλε πολεμάρχους εν πάσαις ταις ωχυρωμέναις πόλεσι του Ιούδα.
 
 **KJV** Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.
+
+**HEB** וְאַחֲרֵי־כֵ֡ן בָּנָ֣ה חוֹמָ֣ה חִֽיצוֹנָ֣ה ׀ לְעִיר־דָּוִ֡יד מַעְרָבָה֩ לְגִיח֨וֹן בַּנַּ֜חַל וְלָב֨וֹא בְשַׁ֤עַר הַדָּגִים֙ וְסָבַ֣ב לָעֹ֔פֶל וַיַּגְבִּיהֶ֖הָ מְאֹ֑ד וַיָּ֧שֶׂם שָֽׂרֵי־חַ֛יִל בְּכָל־הֶעָרִ֥ים הַבְּצֻר֖וֹת בִּיהוּדָֽה׃
+
+**JPS** Now after this he built an outer wall to the city of David, on the west side of Gihon, in the valley, even to the entrance at the fish gate; and he compassed about Ophel, and raised it up a very great height; and he put captains of the army in all the fortified cities of Judah.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he took away the strange gods, and the idol out of the house of the Lord, and all the altars that he had built in the mount of the house of the Lord, and in Jerusalem, and cast them out of the city.
 
+**HEB** וַ֠יָּסַר אֶת־אֱלֹהֵ֨י הַנֵּכָ֤ר וְאֶת־הַסֶּ֙מֶל֙ מִבֵּ֣ית יְהוָ֔ה וְכָל־הַֽמִּזְבְּח֗וֹת אֲשֶׁ֥ר בָּנָ֛ה בְּהַ֥ר בֵּית־יְהוָ֖ה וּבִירוּשָׁלָ֑͏ִם וַיַּשְׁלֵ֖ךְ ח֥וּצָה לָעִֽיר׃
+
+**JPS** And he took away the strange gods, and the idol out of the house of HaShem, and all the altars that he had built in the mount of the house of HaShem, and in Jerusalem, and cast them out of the city.
+
 ## 16
 
 **GRC** καὶ κατώρθωσεν τὸ θυσιαστήριον Κυρίου, καὶ ἐθυσίασεν ἐπ᾽ αὐτὸ θυσίαν σωτηρίου καὶ αἰνέσεως, καὶ εἶπεν τῷ Ἰούδᾳ τοῦ δουλεύειν Κυρίῳ θεῷ Ἰσραήλ.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ανώρθωσε το θυσιαστήριον του Κυρίου και εθυσίασεν επ' αυτού θυσίας ειρηνικάς και ευχαριστηρίους, και προσέταξε τον Ιούδαν να λατρεύη Κύριον τον Θεόν του Ισραήλ.
 
 **KJV** And he repaired the altar of the Lord, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the Lord God of Israel.
+
+**HEB** ויכן וַיִּ֙בֶן֙ אֶת־מִזְבַּ֣ח יְהוָ֔ה וַיִּזְבַּ֣ח עָלָ֔יו זִבְחֵ֥י שְׁלָמִ֖ים וְתוֹדָ֑ה וַיֹּ֙אמֶר֙ לִֽיהוּדָ֔ה לַעֲב֕וֹד אֶת־יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** And he built up the altar of HaShem, and offered thereon sacrifices of peace-offerings and of thanksgiving, and commanded Judah to serve HaShem, the G-d of Israel.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Nevertheless the people did sacrifice still in the high places, yet unto the Lord their God only.
 
+**HEB** אֲבָל֙ ע֣וֹד הָעָ֔ם זֹבְחִ֖ים בַּבָּמ֑וֹת רַ֖ק לַיהוָ֥ה אֱלֹהֵיהֶֽם׃
+
+**JPS** Nevertheless the people did sacrifice still in the high places, but only unto HaShem their G-d.
+
 ## 18
 
 **GRC** καὶ τὰ λοιπὰ τῶν λὸγων Μανασσὴ καὶ ἡ προσευχὴ αὐτοῦ πρὸς τὸν θεὸν καὶ λὸγοι τῶν ὁρώντων λαλούντων πρὸς αὐτὸν ἐπ᾽ ὀνόματι θεοῦ Ἰσραήλ,
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Αι δε λοιπαί πράξεις του Μανασσή και η προσευχή αυτού η προς τον Θεόν αυτού και οι λόγοι των βλεπόντων, οίτινες ελάλησαν προς αυτόν εν ονόματι Κυρίου του Θεού Ισραήλ, ιδού, είναι γεγραμμέναι εν τοις χρονικοίς των βασιλέων του Ισραήλ.
 
 **KJV** Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of the Lord God of Israel, behold, they are written in the book of the kings of Israel.
+
+**HEB** וְיֶ֨תֶר דִּבְרֵ֣י מְנַשֶּׁה֮ וּתְפִלָּת֣וֹ אֶל־אֱלֹהָיו֒ וְדִבְרֵי֙ הַֽחֹזִ֔ים הַֽמְדַבְּרִ֣ים אֵלָ֔יו בְּשֵׁ֥ם יְהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל הִנָּ֕ם עַל־דִּבְרֵ֖י מַלְכֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** Now the rest of the acts of Manasseh, and his prayer unto his G-d, and the words of the seers that spoke to him in the name of HaShem, the G-d of Israel, behold, they are written among the acts of the kings of Israel.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** His prayer also, and how God was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they are written among the sayings of the seers.
 
+**HEB** וּתְפִלָּת֣וֹ וְהֵֽעָתֶר־לוֹ֮ וְכָל־חַטָּאת֣וֹ וּמַעְלוֹ֒ וְהַמְּקֹמ֗וֹת אֲשֶׁר֩ בָּנָ֨ה בָהֶ֤ם בָּמוֹת֙ וְהֶעֱמִיד֙ הָאֲשֵׁרִ֣ים וְהַפְּסִלִ֔ים לִפְנֵ֖י הִכָּנְע֑וֹ הִנָּ֣ם כְּתוּבִ֔ים עַ֖ל דִּבְרֵ֥י חוֹזָֽי׃
+
+**JPS** His prayer also, and how G-d was entreated of him, and all his sin and his transgression, and the places wherein he built high places, and set up the Asherim and the graven images, before he humbled himself; behold, they are written in the history of the seers.
+
 ## 20
 
 **GRC** καὶ ἐκοιμήθη Μανασσῆς μετὰ τῶν πατέρων αὐτοῦ, καὶ ἔθαψαν αὐτὸν ἐν παραδείσῳ οἴκου αὐτοῦ· καὶ ἐβασίλευσεν ἀντ᾽ αὐτοῦ Ἀμὼς υἱὸς αὐτοῦ.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εκοιμήθη ο Μανασσής μετά των πατέρων αυτού, και έθαψαν αυτόν εν τω οίκω αυτού· εβασίλευσε δε αντ' αυτού Αμών ο υιός αυτού.
 
 **KJV** So Manasseh slept with his fathers, and they buried him in his own house: and Amon his son reigned in his stead.
+
+**HEB** וַיִּשְׁכַּ֤ב מְנַשֶּׁה֙ עִם־אֲבֹתָ֔יו וַֽיִּקְבְּרֻ֖הוּ בֵּית֑וֹ וַיִּמְלֹ֛ךְ אָמ֥וֹן בְּנ֖וֹ תַּחְתָּֽיו׃
+
+**JPS** So Manasseh slept with his fathers, and they buried him in his own house; and Amon his son reigned in his stead.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Amon was two and twenty years old when he began to reign, and reigned two years in Jerusalem.
 
+**HEB** בֶּן־עֶשְׂרִ֧ים וּשְׁתַּ֛יִם שָׁנָ֖ה אָמ֣וֹן בְּמָלְכ֑וֹ וּשְׁתַּ֣יִם שָׁנִ֔ים מָלַ֖ךְ בִּֽירוּשָׁלָֽ͏ִם׃
+
+**JPS** Amon was twenty and two years old when he began to reign; and he reigned two years in Jerusalem.
+
 ## 22
 
 **GRC** καὶ ἐποίησεν τὸ πονηρὸν ἐνὼπιον Κυρίου ὡς ἐποίησεν Μανασσῆς ὁ πατὴρ αὐτοῦ· καὶ πᾶσιν τοῖς εἰδώλοις οἷς ἐποίησεν Μανασσῆς ὁ πατὴρ αὐτοῦ ἔθυεν Ἀμὼς καὶ ἐδούλευσεν αὐτοῖς.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έπραξε πονηρά ενώπιον του Κυρίου, καθώς έπραξε Μανασσής ο πατήρ αυτού· και εθυσίαζεν ο Αμών εις πάντα τα γλυπτά, τα οποία Μανασσής ο πατήρ αυτού έκαμε, και ελάτρευεν αυτά·
 
 **KJV** But he did that which was evil in the sight of the Lord, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them;
+
+**HEB** וַיַּ֤עַשׂ הָרַע֙ בְּעֵינֵ֣י יְהוָ֔ה כַּאֲשֶׁ֥ר עָשָׂ֖ה מְנַשֶּׁ֣ה אָבִ֑יו וּֽלְכָל־הַפְּסִילִ֗ים אֲשֶׁ֤ר עָשָׂה֙ מְנַשֶּׁ֣ה אָבִ֔יו זִבַּ֥ח אָמ֖וֹן וַיַּֽעַבְדֵֽם׃
+
+**JPS** And he did that which was evil in the sight of HaShem, as did Manasseh his father; and Amon sacrificed unto all the graven images which Manasseh his father had made, and served them.
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And humbled not himself before the Lord, as Manasseh his father had humbled himself; but Amon trespassed more and more.
 
+**HEB** וְלֹ֤א נִכְנַע֙ מִלִּפְנֵ֣י יְהוָ֔ה כְּהִכָּנַ֖ע מְנַשֶּׁ֣ה אָבִ֑יו כִּ֛י ה֥וּא אָמ֖וֹן הִרְבָּ֥ה אַשְׁמָֽה׃
+
+**JPS** And he humbled not himself before HaShem, as Manasseh his father had humbled himself; but this same Amon became guilty more and more.
+
 ## 24
 
 **GRC** καὶ ἐπέθεντο αὐτῷ οἱ παῖδες αὐτοῦ, καὶ ἐπάταξαν αὐτὸν ἐν οἴκῳ αὐτοῦ.
@@ -201,6 +295,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And his servants conspired against him, and slew him in his own house.
 
+**HEB** וַיִּקְשְׁר֤וּ עָלָיו֙ עֲבָדָ֔יו וַיְמִיתֻ֖הוּ בְּבֵיתֽוֹ׃
+
+**JPS** And his servants conspired against him, and put him to death in his own house.
+
 ## 25
 
 **GRC** καὶ ἐπάταξεν ὁ λαὸς τῆς γῆς τοὺς ἐπιθεμένους ἐπὶ τὸν βασιλέα Ἀμώς· καὶ ἐβασίλευσεν ὁ λαὸς τῆς γῆς τὸν Ἰωσείαν υἱὸν αὐτοῦ ἀντ᾽ αὐτοῦ.
@@ -208,6 +306,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο δε λαός της γης εθανάτωσε πάντας τους συνομόσαντας κατά του βασιλέως Αμών· και έκαμεν ο λαός της γης βασιλέα αντ' αυτού Ιωσίαν τον υιόν αυτού.
 
 **KJV** But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.
+
+**HEB** וַיַּכּוּ֙ עַם־הָאָ֔רֶץ אֵ֥ת כָּל־הַקֹּֽשְׁרִ֖ים עַל־הַמֶּ֣לֶךְ אָמ֑וֹן וַיַּמְלִ֧יכוּ עַם־הָאָ֛רֶץ אֶת־יֹאשִׁיָּ֥הוּ בְנ֖וֹ תַּחְתָּֽיו׃
+
+**JPS** But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.
 
 ## Notes
 

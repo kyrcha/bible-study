@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Every wise woman buildeth her house: but the foolish plucketh it down with her hands.
 
+**HEB** חַכְמ֣וֹת נָ֭שִׁים בָּנְתָ֣ה בֵיתָ֑הּ וְ֝אִוֶּ֗לֶת בְּיָדֶ֥יהָ תֶהֶרְסֶֽנּוּ׃
+
+**JPS** Every wise woman buildeth her house; but the foolish plucketh it down with her hands.
+
 ## 2
 
 **GRC** ὁ πορευόμενος ὀρθῶς φοβεῖται τὸν κύριον, ὁ δὲ σκολιάζων ταῖς ὁδοῖς αὐτοῦ ἀτιμασθήσεται.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο περιπατών εν τη ευθύτητι αυτού φοβείται τον Κύριον· ο δε σκολιός τας οδούς αυτού καταφρονεί αυτόν.
 
 **KJV** He that walketh in his uprightness feareth the Lord: but he that is perverse in his ways despiseth him.
+
+**HEB** הוֹלֵ֣ךְ בְּ֭יָשְׁרוֹ יְרֵ֣א יְהוָ֑ה וּנְל֖וֹז דְּרָכָ֣יו בּוֹזֵֽהוּ׃
+
+**JPS** He that walketh in his uprightness feareth HaShem; but he that is perverse in his ways despiseth Him.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.
 
+**HEB** בְּֽפִי־אֱ֭וִיל חֹ֣טֶר גַּאֲוָ֑ה וְשִׂפְתֵ֥י חֲ֝כָמִ֗ים תִּשְׁמוּרֵֽם׃
+
+**JPS** In the mouth of the foolish is a rod of pride; but the lips of the wise shall preserve them.
+
 ## 4
 
 **GRC** οὗ μή εἰσιν βόες, φάτναι καθαραί· οὗ δὲ πολλὰ γενήματα, φανερὰ βοὸς ἰσχύς.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Όπου δεν είναι βόες, η αποθήκη είναι κενή· η δε αφθονία των γεννημάτων είναι εκ της δυνάμεως του βοός.
 
 **KJV** Where no oxen are, the crib is clean: but much increase is by the strength of the ox.
+
+**HEB** בְּאֵ֣ין אֲ֭לָפִים אֵב֣וּס בָּ֑ר וְרָב־תְּ֝בוּא֗וֹת בְּכֹ֣חַ שֽׁוֹר׃
+
+**JPS** Where no oxen are, the crib is clean; but much increase is by the strength of the ox.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** A faithful witness will not lie: but a false witness will utter lies.
 
+**HEB** עֵ֣ד אֱ֭מוּנִים לֹ֣א יְכַזֵּ֑ב וְיָפִ֥יחַ כְּ֝זָבִ֗ים עֵ֣ד שָֽׁקֶר׃
+
+**JPS** A faithful witness will not lie; but a false witness breatheth forth lies.
+
 ## 6
 
 **GRC** ζητήσεις σοφίαν παρὰ κακοῖς καὶ οὐχ εὑρήσεις, αἴσθησις δὲ παρὰ φρονίμοις εὐχερής.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο χλευαστής ζητεί σοφίαν και δεν ευρίσκει· εις δε τον συνετόν είναι εύκολος η μάθησις.
 
 **KJV** A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.
+
+**HEB** בִּקֶּשׁ־לֵ֣ץ חָכְמָ֣ה וָאָ֑יִן וְדַ֖עַת לְנָב֣וֹן נָקָֽל׃
+
+**JPS** A scorner seeketh wisdom, and findeth it not; but knowledge is easy unto him that hath discernment.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.
 
+**HEB** לֵ֣ךְ מִ֭נֶּגֶד לְאִ֣ישׁ כְּסִ֑יל וּבַל־יָ֝דַ֗עְתָּ שִׂפְתֵי־דָֽעַת׃
+
+**JPS** Go from the presence of a foolish man, for thou wilt not perceive the lips of knowledge.
+
 ## 8
 
 **GRC** σοφία πανούργων ἐπιγνώσεται τὰς ὁδοὺς αὐτῶν, ἄνοια δὲ ἀφρόνων ἐν πλάνῃ.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Η σοφία του φρονίμου είναι να γνωρίζη την οδόν αυτού· η δε μωρία των αφρόνων αποπλάνησις.
 
 **KJV** The wisdom of the prudent is to understand his way: but the folly of fools is deceit.
+
+**HEB** חָכְמַ֣ת עָ֭רוּם הָבִ֣ין דַּרְכּ֑וֹ וְאִוֶּ֖לֶת כְּסִילִ֣ים מִרְמָֽה׃
+
+**JPS** The wisdom of the prudent is to look well to his way; but the folly of fools is deceit.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Fools make a mock at sin: but among the righteous there is favour.
 
+**HEB** אֱ֭וִלִים יָלִ֣יץ אָשָׁ֑ם וּבֵ֖ין יְשָׁרִ֣ים רָצֽוֹן׃
+
+**JPS** Amends pleadeth for fools; but among the upright there is good will.
+
 ## 10
 
 **GRC** καρδία ἀνδρὸς αἰσθητική, λυπηρὰ ψυχὴ αὐτοῦ· ὅταν δὲ εὐφραίνηται, οὐκ ἐπιμίγνυται ὕβρει.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Η καρδία του ανθρώπου γνωρίζει την πικρίαν της ψυχής αυτού· και ξένος δεν συμμετέχει της χαράς αυτής.
 
 **KJV** The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.
+
+**HEB** לֵ֗ב י֭וֹדֵעַ מָרַּ֣ת נַפְשׁ֑וֹ וּ֝בְשִׂמְחָת֗וֹ לֹא־יִתְעָ֥רַב זָֽר׃
+
+**JPS** The heart knoweth its own bitterness; and with its joy no stranger can intermeddle.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.
 
+**HEB** בֵּ֣ית רְ֭שָׁעִים יִשָּׁמֵ֑ד וְאֹ֖הֶל יְשָׁרִ֣ים יַפְרִֽיחַ׃
+
+**JPS** The house of the wicked shall be overthrown; but the tent of the upright shall flourish.
+
 ## 12
 
 **GRC** ἔστιν ὁδὸς ἣ δοκεῖ παρὰ ἀνθρώποις ὀρθὴ εἶναι, τὰ δὲ τελευταῖα αὐτῆς ἔρχεται εἰς πυθμένα ᾅδου.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Υπάρχει οδός, ήτις φαίνεται ορθή εις τον άνθρωπον, αλλά τα τέλη αυτής φέρουσιν εις θάνατον.
 
 **KJV** There is a way which seemeth right unto a man, but the end thereof are the ways of death.
+
+**HEB** יֵ֤שׁ דֶּ֣רֶךְ יָ֭שָׁר לִפְנֵי־אִ֑ישׁ וְ֝אַחֲרִיתָ֗הּ דַּרְכֵי־מָֽוֶת׃
+
+**JPS** There is a way which seemeth right unto a man, but the end thereof are the ways of death.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.
 
+**HEB** גַּם־בִּשְׂח֥וֹק יִכְאַב־לֵ֑ב וְאַחֲרִיתָ֖הּ שִׂמְחָ֣ה תוּגָֽה׃
+
+**JPS** Even in laughter the heart acheth; and the end of mirth is heaviness.
+
 ## 14
 
 **GRC** τῶν ἑαυτοῦ ὁδῶν πλησθήσεται θρασυκάρδιος, ἀπὸ δὲ τῶν διανοημάτων αὐτοῦ ἀνὴρ ἀγαθός.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο διεφθαρμένος την καρδίαν θέλει εμπλησθή από των οδών αυτού· ο δε αγαθός άνθρωπος αφ' εαυτού.
 
 **KJV** The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.
+
+**HEB** מִדְּרָכָ֣יו יִ֭שְׂבַּע ס֣וּג לֵ֑ב וּ֝מֵעָלָ֗יו אִ֣ישׁ טֽוֹב׃
+
+**JPS** The dissembler in heart shall have his fill from his own ways; and a good man shall be satisfied from himself.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The simple believeth every word: but the prudent man looketh well to his going.
 
+**HEB** פֶּ֭תִי יַאֲמִ֣ין לְכָל־דָּבָ֑ר וְ֝עָר֗וּם יָבִ֥ין לַאֲשֻׁרֽוֹ׃
+
+**JPS** The thoughtless believeth every word; but the prudent man looketh well to his going.
+
 ## 16
 
 **GRC** σοφὸς φοβηθεὶς ἐξέκλινεν ἀπὸ κακοῦ, ὁ δὲ ἄφρων ἑαυτῷ πεποιθὼς μίγνυται ἀνόμῳ.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο σοφός φοβείται και φεύγει από του κακού· αλλ' ο άφρων προχωρεί και θρασύνεται.
 
 **KJV** A wise man feareth, and departeth from evil: but the fool rageth, and is confident.
+
+**HEB** חָכָ֣ם יָ֭רֵא וְסָ֣ר מֵרָ֑ע וּ֝כְסִ֗יל מִתְעַבֵּ֥ר וּבוֹטֵֽחַ׃
+
+**JPS** A wise man feareth, and departeth from evil; but the fool behaveth overbearingly, and is confident.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** He that is soon angry dealeth foolishly: and a man of wicked devices is hated.
 
+**HEB** קְֽצַר־אַ֭פַּיִם יַעֲשֶׂ֣ה אִוֶּ֑לֶת וְאִ֥ישׁ מְ֝זִמּ֗וֹת יִשָּׂנֵֽא׃
+
+**JPS** He that is soon angry dealeth foolishly; and a man of wicked devices is hated.
+
 ## 18
 
 **GRC** μεριοῦνται ἄφρονες κακίαν, οἱ δὲ πανοῦργοι κρατήσουσιν αἰσθήσεως.
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Οι άφρονες κληρονομούσι μωρίαν· οι δε φρόνιμοι στεφανούνται σύνεσιν.
 
 **KJV** The simple inherit folly: but the prudent are crowned with knowledge.
+
+**HEB** נָחֲל֣וּ פְתָאיִ֣ם אִוֶּ֑לֶת וַֽ֝עֲרוּמִ֗ים יַכְתִּ֥רוּ דָֽעַת׃
+
+**JPS** The thoughtless come into possession of folly; but the prudent are crowned with knowledge.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The evil bow before the good; and the wicked at the gates of the righteous.
 
+**HEB** שַׁח֣וּ רָ֭עִים לִפְנֵ֣י טוֹבִ֑ים וּ֝רְשָׁעִ֗ים עַֽל־שַׁעֲרֵ֥י צַדִּֽיק׃
+
+**JPS** The evil bow before the good, and the wicked at the gates of the righteous.
+
 ## 20
 
 **GRC** φίλοι μισήσουσιν φίλους πτωχούς, φίλοι δὲ πλουσίων πολλοί.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο πτωχός μισείται και υπό του πλησίον αυτού· του δε πλουσίου οι φίλοι πολλοί.
 
 **KJV** The poor is hated even of his own neighbour: but the rich hath many friends.
+
+**HEB** גַּם־לְ֭רֵעֵהוּ יִשָּׂ֣נֵא רָ֑שׁ וְאֹהֲבֵ֖י עָשִׁ֣יר רַבִּֽים׃
+
+**JPS** The poor is hated even of his own neighbour; but the rich hath many friends.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.
 
+**HEB** בָּז־לְרֵעֵ֥הוּ חוֹטֵ֑א וּמְחוֹנֵ֖ן עניים עֲנָוִ֣ים אַשְׁרָֽיו׃
+
+**JPS** He that despiseth his neighbour sinneth; but he that is gracious unto the humble, happy is he.
+
 ## 22
 
 **GRC** πλανώμενοι τεκταίνουσι κακά, ἔλεον δὲ καὶ ἀλήθειαν τεκταίνουσιν ἀγαθοί· οὐκ ἐπίστανται ἔλεον καὶ πίστιν τέκτονες κακῶν, ἐλεημοσύναι δὲ καὶ πίστεις παρὰ τέκτοσιν ἀγαθοῖς.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Δεν πλανώνται οι βουλευόμενοι κακόν; έλεος όμως και αλήθεια θέλει είσθαι εις τους βουλευομένους αγαθόν.
 
 **KJV** Do they not err that devise evil? but mercy and truth shall be to them that devise good.
+
+**HEB** הֲֽלוֹא־יִ֭תְעוּ חֹ֣רְשֵׁי רָ֑ע וְחֶ֥סֶד וֶ֝אֱמֶ֗ת חֹ֣רְשֵׁי טֽוֹב׃
+
+**JPS** Shall they not go astray that devise evil? But mercy and truth shall be for them that devise good.
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** In all labour there is profit: but the talk of the lips tendeth only to penury.
 
+**HEB** בְּכָל־עֶ֭צֶב יִהְיֶ֣ה מוֹתָ֑ר וּדְבַר־שְׂ֝פָתַ֗יִם אַךְ־לְמַחְסֽוֹר׃
+
+**JPS** In all labour there is profit; but the talk of the lips tendeth only to penury.
+
 ## 24
 
 **GRC** στέφανος σοφῶν πανοῦργος, ἡ δὲ διατριβὴ ἀφρόνων κακή.
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τα πλούτη των σοφών είναι στέφανος εις αυτούς· των δε αφρόνων η υπεροχή μωρία.
 
 **KJV** The crown of the wise is their riches: but the foolishness of fools is folly.
+
+**HEB** עֲטֶ֣רֶת חֲכָמִ֣ים עָשְׁרָ֑ם אִוֶּ֖לֶת כְּסִילִ֣ים אִוֶּֽלֶת׃
+
+**JPS** The crown of the wise is their riches; but the folly of fools remaineth folly.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** A true witness delivereth souls: but a deceitful witness speaketh lies.
 
+**HEB** מַצִּ֣יל נְ֭פָשׁוֹת עֵ֣ד אֱמֶ֑ת וְיָפִ֖חַ כְּזָבִ֣ים מִרְמָֽה׃
+
+**JPS** A true witness delivereth souls; but he that breatheth forth lies is all deceit.
+
 ## 26
 
 **GRC** ἐν φόβῳ Κυρίου ἐλπὶς ἰσχύος, τοῖς δὲ τέκνοις αὐτοῦ καταλείπει ἔρεισμα.
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εν τω φόβω του Κυρίου είναι ελπίς ισχυρά· και εις τα τέκνα αυτού θέλει υπάρχει καταφύγιον.
 
 **KJV** In the fear of the Lord is strong confidence: and his children shall have a place of refuge.
+
+**HEB** בְּיִרְאַ֣ת יְ֭הוָה מִבְטַח־עֹ֑ז וּ֝לְבָנָ֗יו יִהְיֶ֥ה מַחְסֶֽה׃
+
+**JPS** In the fear of HaShem a man hath strong confidence; and his children shall have a place of refuge.
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The fear of the Lord is a fountain of life, to depart from the snares of death.
 
+**HEB** יִרְאַ֣ת יְ֭הוָה מְק֣וֹר חַיִּ֑ים לָ֝ס֗וּר מִמֹּ֥קְשֵׁי מָֽוֶת׃
+
+**JPS** The fear of HaShem is a fountain of life, to depart from the snares of death.
+
 ## 28
 
 **GRC** ἐν πολλῷ ἔθνει δόξα βασιλέως, ἐν δὲ ἐκλείψει λαοῦ συντριβὴ δυνάστου.
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εν τω πλήθει του λαού είναι η δόξα του βασιλέως· εν δε τη ελλείψει του λαού ο αφανισμός του ηγεμονεύοντος.
 
 **KJV** In the multitude of people is the king’s honour: but in the want of people is the destruction of the prince.
+
+**HEB** בְּרָב־עָ֥ם הַדְרַת־מֶ֑לֶךְ וּבְאֶ֥פֶס לְ֝אֹ֗ם מְחִתַּ֥ת רָזֽוֹן׃
+
+**JPS** In the multitude of people is the king's glory; but in the want of people is the ruin of the prince.
 
 ## 29
 
@@ -241,6 +355,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.
 
+**HEB** אֶ֣רֶךְ אַ֭פַּיִם רַב־תְּבוּנָ֑ה וּקְצַר־ר֝֗וּחַ מֵרִ֥ים אִוֶּֽלֶת׃
+
+**JPS** He that is slow to anger is of great understanding; but he that is hasty of spirit exalteth folly.
+
 ## 30
 
 **GRC** πρᾳύθυμος ἀνὴρ καρδίας ἰατρός, σὴς δὲ ὀστέων καρδία αἰσθητική.
@@ -248,6 +366,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Η υγιαίνουσα καρδία είναι ζωή της σαρκός· ο δε φθόνος σαπρία των οστέων.
 
 **KJV** A sound heart is the life of the flesh: but envy the rottenness of the bones.
+
+**HEB** חַיֵּ֣י בְ֭שָׂרִים לֵ֣ב מַרְפֵּ֑א וּרְקַ֖ב עֲצָמ֣וֹת קִנְאָֽה׃
+
+**JPS** A tranquil heart is the life of the flesh; but envy is the rottenness of the bones.
 
 ## 31
 
@@ -257,6 +379,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.
 
+**HEB** עֹ֣שֵֽׁק דָּ֭ל חֵרֵ֣ף עֹשֵׂ֑הוּ וּ֝מְכַבְּד֗וֹ חֹנֵ֥ן אֶבְיֽוֹן׃
+
+**JPS** He that oppresseth the poor blasphemeth his Maker; but he that is gracious unto the needy honoureth Him.
+
 ## 32
 
 **GRC** ἐν κακίᾳ αὐτοῦ ἀπωσθήσεται ἀσεβής, ὁ δὲ πεποιθὼς τῇ ἑαυτοῦ ὁσιότητι δίκαιος.
@@ -264,6 +390,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο ασεβής εκτινάσσεται εν τη ασεβεία αυτού· ο δε δίκαιος και εν τω θανάτω αυτού έχει ελπίδα.
 
 **KJV** The wicked is driven away in his wickedness: but the righteous hath hope in his death.
+
+**HEB** בְּֽ֭רָעָתוֹ יִדָּחֶ֣ה רָשָׁ֑ע וְחֹסֶ֖ה בְמוֹת֣וֹ צַדּֽ͏ִיק׃
+
+**JPS** The wicked is thrust down in his misfortune; but the righteous, even when he is brought to death, hath hope.
 
 ## 33
 
@@ -273,6 +403,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known.
 
+**HEB** בְּלֵ֣ב נָ֭בוֹן תָּנ֣וּחַ חָכְמָ֑ה וּבְקֶ֥רֶב כְּ֝סִילִ֗ים תִּוָּדֵֽעַ׃
+
+**JPS** In the heart of him that hath discernment wisdom resteth; but in the inward part of fools it maketh itself known.
+
 ## 34
 
 **GRC** δικαιοσύνη ὑψοῖ ἔθνος, ἐλασσονοῦσι δὲ φυλὰς ἁμαρτίαι.
@@ -281,6 +415,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Righteousness exalteth a nation: but sin is a reproach to any people.
 
+**HEB** צְדָקָ֥ה תְרֽוֹמֵֽם־גּ֑וֹי וְחֶ֖סֶד לְאֻמִּ֣ים חַטָּֽאת׃
+
+**JPS** Righteousness exalteth a nation; but sin is a reproach to any people.
+
 ## 35
 
 **GRC** δεκτὸς βασιλεῖ ὑπηρέτης νοήμων, τῇ δὲ ἑαυτοῦ εὐστροφίᾳ ἀφαιρεῖται ἀτιμίαν.
@@ -288,6 +426,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εύνοια του βασιλέως είναι προς φρόνιμον δούλον· θυμός δε αυτού προς τον προξενούντα αισχύνην.
 
 **KJV** The king’s favour is toward a wise servant: but his wrath is against him that causeth shame.
+
+**HEB** רְֽצוֹן־מֶ֭לֶךְ לְעֶ֣בֶד מַשְׂכִּ֑יל וְ֝עֶבְרָת֗וֹ תִּהְיֶ֥ה מֵבִֽישׁ׃
+
+**JPS** The king's favour is toward a servant that dealeth wisely; but his wrath striketh him that dealeth shamefully.
 
 ## Notes
 

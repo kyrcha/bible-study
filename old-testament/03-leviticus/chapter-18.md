@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the Lord spake unto Moses, saying,
 
+**HEB** וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+
+**JPS** And HaShem spoke unto Moses, saying:
+
 ## 2
 
 **GRC** Λάλησον τοῖς υἱοῖς Ἰσραὴλ καὶ ἐρεῖς πρὸς αὐτούς Ἐγὼ Κύριος ὁ θεὸς ὑμῶν·
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Λάλησον προς τους υιούς Ισραήλ και ειπέ προς αυτούς, Εγώ είμαι Κύριος, ο Θεός σας.
 
 **KJV** Speak unto the children of Israel, and say unto them, I am the Lord your God.
+
+**HEB** דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** Speak unto the children of Israel, and say unto them: I am HaShem your G-d.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.
 
+**HEB** כְּמַעֲשֵׂ֧ה אֶֽרֶץ־מִצְרַ֛יִם אֲשֶׁ֥ר יְשַׁבְתֶּם־בָּ֖הּ לֹ֣א תַעֲשׂ֑וּ וּכְמַעֲשֵׂ֣ה אֶֽרֶץ־כְּנַ֡עַן אֲשֶׁ֣ר אֲנִי֩ מֵבִ֨יא אֶתְכֶ֥ם שָׁ֙מָּה֙ לֹ֣א תַעֲשׂ֔וּ וּבְחֻקֹּתֵיהֶ֖ם לֹ֥א תֵלֵֽכוּ׃
+
+**JPS** After the doings of the land of Egypt, wherein ye dwelt, shall ye not do; and after the doings of the land of Canaan, whither I bring you, shall ye not do; neither shall ye walk in their statutes.
+
 ## 4
 
 **GRC** τὰ κρίματά μου ποιήσετε καὶ τὰ προστάγματά μου φυλάξεσθε, πορεύεσθαι ἐν αὐτοῖς· ἐγὼ Κύριος ὁ θεὸς ὑμῶν.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τας κρίσεις μου θέλετε κάμει και τα προστάγματά μου θέλετε φυλάττει, διά να περιπατήτε εις αυτά. Εγώ είμαι Κύριος ο Θεός σας.
 
 **KJV** Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the Lord your God.
+
+**HEB** אֶת־מִשְׁפָּטַ֧י תַּעֲשׂ֛וּ וְאֶת־חֻקֹּתַ֥י תִּשְׁמְר֖וּ לָלֶ֣כֶת בָּהֶ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** Mine ordinances shall ye do, and My statutes shall ye keep, to walk therein: I am HaShem your G-d.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the Lord.
 
+**HEB** וּשְׁמַרְתֶּ֤ם אֶת־חֻקֹּתַי֙ וְאֶת־מִשְׁפָּטַ֔י אֲשֶׁ֨ר יַעֲשֶׂ֥ה אֹתָ֛ם הָאָדָ֖ם וָחַ֣י בָּהֶ֑ם אֲנִ֖י יְהוָֽה׃
+
+**JPS** Ye shall therefore keep My statutes, and Mine ordinances, which if a man do, he shall live by them: I am HaShem.
+
 ## 6
 
 **GRC** Ἄνθρωπος ἄνθρωπος πρὸς πάντα οἰκεῖα σαρκὸς αὐτοῦ οὐ προσελεύσεται ἀποκαλύψαι ἀσχημοσύνην· ἐγὼ Κύριος.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ουδείς άνθρωπος θέλει πλησιάσει εις ουδένα συγγενή αυτού κατά σάρκα, διά να αποκαλύψη την ασχημοσύνην αυτού. Εγώ είμαι ο Κύριος.
 
 **KJV** None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the Lord.
+
+**HEB** אִ֥ישׁ אִישׁ֙ אֶל־כָּל־שְׁאֵ֣ר בְּשָׂר֔וֹ לֹ֥א תִקְרְב֖וּ לְגַלּ֣וֹת עֶרְוָ֑ה אֲנִ֖י יְהוָֽה׃
+
+**JPS** None of you shall approach to any that is near of kin to him, to uncover their nakedness. I am HaShem.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness.
 
+**HEB** עֶרְוַ֥ת אָבִ֛יךָ וְעֶרְוַ֥ת אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה אִמְּךָ֣ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃
+
+**JPS** The nakedness of thy father, and the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness.
+
 ## 8
 
 **GRC** ἀσχημοσύνην γυναικὸς πατρός σου οὐκ ἀποκαλύψεις· ἀσχημοσύνη πατρός σού ἐστιν.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ασχημοσύνην γυναικός του πατρός σου δεν θέλεις αποκαλύψει· είναι ασχημοσύνη του πατρός σου.
 
 **KJV** The nakedness of thy father’s wife shalt thou not uncover: it is thy father’s nakedness.
+
+**HEB** עֶרְוַ֥ת אֵֽשֶׁת־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה עֶרְוַ֥ת אָבִ֖יךָ הִֽוא׃
+
+**JPS** The nakedness of thy father's wife shalt thou not uncover: it is thy father's nakedness.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, whether she be born at home, or born abroad, even their nakedness thou shalt not uncover.
 
+**HEB** עֶרְוַ֨ת אֲחֽוֹתְךָ֤ בַת־אָבִ֙יךָ֙ א֣וֹ בַת־אִמֶּ֔ךָ מוֹלֶ֣דֶת בַּ֔יִת א֖וֹ מוֹלֶ֣דֶת ח֑וּץ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽן׃
+
+**JPS** The nakedness of thy sister, the daughter of thy father, or the daughter of thy mother, whether born at home, or born abroad, even their nakedness thou shalt not uncover.
+
 ## 10
 
 **GRC** ἀσχημοσύνην θυγατρὸς υἱοῦ σου ἢ θυγατρὸς θυγατρός σου, οὐκ ἀποκαλύψεις τὴν ἀσχημοσύνην αὐτῶν, ὅτι σὴ ἀσχημοσύνη ἐστίν.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ασχημοσύνην θυγατρός του υιού σου ή θυγατρός της θυγατρός σου, τούτων την ασχημοσύνην δεν θέλεις αποκαλύψει διότι ιδική σου είναι η ασχημοσύνη αυτών.
 
 **KJV** The nakedness of thy son’s daughter, or of thy daughter’s daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness.
+
+**HEB** עֶרְוַ֤ת בַּת־בִּנְךָ֙ א֣וֹ בַֽת־בִּתְּךָ֔ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָ֑ן כִּ֥י עֶרְוָתְךָ֖ הֵֽנָּה׃
+
+**JPS** The nakedness of thy son's daughter, or of thy daughter's daughter, even their nakedness thou shalt not uncover; for theirs is thine own nakedness.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The nakedness of thy father’s wife’s daughter, begotten of thy father, she is thy sister, thou shalt not uncover her nakedness.
 
+**HEB** עֶרְוַ֨ת בַּת־אֵ֤שֶׁת אָבִ֙יךָ֙ מוֹלֶ֣דֶת אָבִ֔יךָ אֲחוֹתְךָ֖ הִ֑וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃
+
+**JPS** The nakedness of thy father's wife's daughter, begotten of thy father, she is thy sister, thou shalt not uncover her nakedness.
+
 ## 12
 
 **GRC** ἀσχημοσύνην ἀδελφῆς πατρός σου οὐκ ἀποκαλύψεις· οἰκεία γὰρ πατρός σού ἐστιν.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ασχημοσύνην αδελφής του πατρός σου δεν θέλεις αποκαλύψει είναι στενή συγγενής του πατρός σου.
 
 **KJV** Thou shalt not uncover the nakedness of thy father’s sister: she is thy father’s near kinswoman.
+
+**HEB** עֶרְוַ֥ת אֲחוֹת־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה שְׁאֵ֥ר אָבִ֖יךָ הִֽוא׃
+
+**JPS** Thou shalt not uncover the nakedness of thy father's sister: she is thy father's near kinswoman.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou shalt not uncover the nakedness of thy mother’s sister: for she is thy mother’s near kinswoman.
 
+**HEB** עֶרְוַ֥ת אֲחֽוֹת־אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה כִּֽי־שְׁאֵ֥ר אִמְּךָ֖ הִֽוא׃
+
+**JPS** Thou shalt not uncover the nakedness of thy mother's sister; for she is thy mother's near kinswoman.
+
 ## 14
 
 **GRC** ἀσχημοσύνην ἀδελφοῦ τοῦ πατρός σου οὐκ ἀποκαλύψεις, καὶ πρὸς τὴν γυναῖκα αὐτοῦ οὐκ εἰσελεύσῃ· συγγενὴς γάρ σού ἐστιν.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ασχημοσύνην αδελφού του πατρός σου δεν θέλεις αποκαλύψει· εις την γυναίκα αυτού δεν θέλεις πλησιάσει· είναι θεία σου.
 
 **KJV** Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she is thine aunt.
+
+**HEB** עֶרְוַ֥ת אֲחִֽי־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה אֶל־אִשְׁתּוֹ֙ לֹ֣א תִקְרָ֔ב דֹּדָֽתְךָ֖ הִֽוא׃
+
+**JPS** Thou shalt not uncover the nakedness of thy fathers brother, thou shalt not approach to his wife: she is thine aunt.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou shalt not uncover the nakedness of thy daughter in law: she is thy son’s wife; thou shalt not uncover her nakedness.
 
+**HEB** עֶרְוַ֥ת כַּלָּֽתְךָ֖ לֹ֣א תְגַלֵּ֑ה אֵ֤שֶׁת בִּנְךָ֙ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃
+
+**JPS** Thou shalt not uncover the nakedness of thy daughter-in-law: she is thy son' wife; thou shalt not uncover her nakedness.
+
 ## 16
 
 **GRC** ἀσχημοσύνην γυναικὸς ἀδελφοῦ σου οὐκ ἀποκαλύψεις· ἀσχημοσύνη ἀδελφοῦ σού ἐστιν.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ασχημοσύνην αδελφού σου δεν θέλεις αποκαλύψει· είναι η ασχημοσύνη του αδελφού σου.
 
 **KJV** Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness.
+
+**HEB** עֶרְוַ֥ת אֵֽשֶׁת־אָחִ֖יךָ לֹ֣א תְגַלֵּ֑ה עֶרְוַ֥ת אָחִ֖יךָ הִֽוא׃
+
+**JPS** Thou shalt not uncover the nakedness of thy brother's wife: it is thy brother's nakedness.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; for they are her near kinswomen: it is wickedness.
 
+**HEB** עֶרְוַ֥ת אִשָּׁ֛ה וּבִתָּ֖הּ לֹ֣א תְגַלֵּ֑ה אֶֽת־בַּת־בְּנָ֞הּ וְאֶת־בַּת־בִּתָּ֗הּ לֹ֤א תִקַּח֙ לְגַלּ֣וֹת עֶרְוָתָ֔הּ שַׁאֲרָ֥ה הֵ֖נָּה זִמָּ֥ה הִֽוא
+
+**JPS** Thou shalt not uncover the nakedness of a woman and her daughter; thou shalt not take her son's daughter, or her daughter's daughter, to uncover her nakedness: they are near kinswomen; it is lewdness.
+
 ## 18
 
 **GRC** γυναῖκα ἐπὶ ἀδελφῇ αὐτῆς οὐ λήμψῃ ἀντίζηλον, ἀποκαλύψαι τὴν ἀσχημοσύνην αὐτῆς ἐπ᾽ αὐτῇ, ἔτι ζώσης αὐτῆς.
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και γυναίκα προς τη αδελφή αυτής αντίζηλον δεν θέλεις λάβει, διά να αποκαλύψης την ασχημοσύνην αυτής προς τη άλλη, εν όσω ζη.
 
 **KJV** Neither shalt thou take a wife to her sister, to vex her, to uncover her nakedness, beside the other in her life time.
+
+**HEB** וְאִשָּׁ֥ה אֶל־אֲחֹתָ֖הּ לֹ֣א תִקָּ֑ח לִצְרֹ֗ר לְגַלּ֧וֹת עֶרְוָתָ֛הּ עָלֶ֖יהָ בְּחַיֶּֽיהָ׃
+
+**JPS** And thou shalt not take a woman to her sister, to be a rival to her, to uncover her nakedness, beside the other in her lifetime.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness.
 
+**HEB** וְאֶל־אִשָּׁ֖ה בְּנִדַּ֣ת טֻמְאָתָ֑הּ לֹ֣א תִקְרַ֔ב לְגַלּ֖וֹת עֶרְוָתָֽהּ׃
+
+**JPS** And thou shalt not approach unto a woman to uncover her nakedness, as long as she is impure by her uncleanness.
+
 ## 20
 
 **GRC** καὶ πρὸς τὴν γυναῖκα τοῦ πλησίον σου οὐ δώσεις κοίτην σπέρματός σου, ἐκμιανθῆναι πρὸς αὐτήν.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και μετά της γυναικός του πλησίον σου δεν θέλεις συνουσιασθή, διά να μιανθής μετ' αυτής.
 
 **KJV** Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her.
+
+**HEB** וְאֶל־אֵ֙שֶׁת֙ עֲמִֽיתְךָ֔ לֹא־תִתֵּ֥ן שְׁכָבְתְּךָ֖ לְזָ֑רַע לְטָמְאָה־בָֽהּ׃
+
+**JPS** And thou shalt not lie carnally with thy neighbour's wife, to defile thyself with her.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the Lord.
 
+**HEB** וּמִֽזַּרְעֲךָ֥ לֹא־תִתֵּ֖ן לְהַעֲבִ֣יר לַמֹּ֑לֶךְ וְלֹ֧א תְחַלֵּ֛ל אֶת־שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה׃
+
+**JPS** And thou shalt not give any of thy seed to set them apart to Molech, neither shalt thou profane the name of thy G-d: I am HaShem.
+
 ## 22
 
 **GRC** καὶ μετὰ ἄρσενος οὐ κοιμηθήσῃ κοίτην γυναικός· βδέλυγμα γάρ ἐστιν.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και μετά άρρενος δεν θέλεις συνουσιασθή, ως μετά γυναικός· είναι βδέλυγμα.
 
 **KJV** Thou shalt not lie with mankind, as with womankind: it is abomination.
+
+**HEB** וְאֶ֨ת־זָכָ֔ר לֹ֥א תִשְׁכַּ֖ב מִשְׁכְּבֵ֣י אִשָּׁ֑ה תּוֹעֵבָ֖ה הִֽוא׃
+
+**JPS** Thou shalt not lie with mankind, as with womankind; it is abomination.
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion.
 
+**HEB** וּבְכָל־בְּהֵמָ֛ה לֹא־תִתֵּ֥ן שְׁכָבְתְּךָ֖ לְטָמְאָה־בָ֑הּ וְאִשָּׁ֗ה לֹֽא־תַעֲמֹ֞ד לִפְנֵ֧י בְהֵמָ֛ה לְרִבְעָ֖הּ תֶּ֥בֶל הֽוּא׃
+
+**JPS** And thou shalt not lie with any beast to defile thyself therewith; neither shall any woman stand before a beast, to lie down thereto; it is perversion.
+
 ## 24
 
 **GRC** Μὴ μιαίνεσθε ἐν πᾶσιν τούτοις· ἐν πᾶσι γὰρ τούτοις ἐμιάνθησαν τὰ ἔθνη ἃ ἐγὼ ἐξαποστέλλω πρὸ προσώπου ὑμῶν.
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Μη μιαίνεσθε εις ουδέν εκ τούτων· διότι εις πάντα ταύτα εμιάνθησαν τα έθνη, τα οποία εγώ εκδιώκω απ' έμπροσθέν σας·
 
 **KJV** Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:
+
+**HEB** אַל־תִּֽטַּמְּא֖וּ בְּכָל־אֵ֑לֶּה כִּ֤י בְכָל־אֵ֙לֶּה֙ נִטְמְא֣וּ הַגּוֹיִ֔ם אֲשֶׁר־אֲנִ֥י מְשַׁלֵּ֖חַ מִפְּנֵיכֶֽם׃
+
+**JPS** Defile not ye yourselves in any of these things; for in all these the nations are defiled, which I cast out from before you.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants.
 
+**HEB** וַתִּטְמָ֣א הָאָ֔רֶץ וָאֶפְקֹ֥ד עֲוֺנָ֖הּ עָלֶ֑יהָ וַתָּקִ֥א הָאָ֖רֶץ אֶת־יֹשְׁבֶֽיהָ׃
+
+**JPS** And the land was defiled, therefore I did visit the iniquity thereof upon it, and the land vomited out her inhabitants.
+
 ## 26
 
 **GRC** καὶ φυλάξεσθε πάντα τὰ νόμιμά μου καὶ πάντα τὰ προστάγματά μου, καὶ οὐ ποιήσετε ἀπὸ πάντων τῶν βδελυγμάτων τούτων, ὁ ἐνχώριος ἢ ὁ προσγενόμενος προσήλυτος ἐν ὑμῖν·
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Σεις λοιπόν θέλετε φυλάξει τα προστάγματά μου και τας κρίσεις μου και δεν θέλετε πράττει ουδέν εκ πάντων των βδελυγμάτων τούτων, ο αυτόχθων ή ο ξένος ο παροικών μεταξύ σας·
 
 **KJV** Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:
+
+**HEB** וּשְׁמַרְתֶּ֣ם אַתֶּ֗ם אֶת־חֻקֹּתַי֙ וְאֶת־מִשְׁפָּטַ֔י וְלֹ֣א תַעֲשׂ֔וּ מִכֹּ֥ל הַתּוֹעֵבֹ֖ת הָאֵ֑לֶּה הָֽאֶזְרָ֔ח וְהַגֵּ֖ר הַגָּ֥ר בְּתוֹכְכֶֽם׃
+
+**JPS** Ye therefore shall keep My statutes and Mine ordinances, and shall not do any of these abominations; neither the home-born, nor the stranger that sojourneth among you--
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** (For all these abominations have the men of the land done, which were before you, and the land is defiled;)
 
+**HEB** כִּ֚י אֶת־כָּל־הַתּוֹעֵבֹ֣ת הָאֵ֔ל עָשׂ֥וּ אַנְשֵֽׁי־הָאָ֖רֶץ אֲשֶׁ֣ר לִפְנֵיכֶ֑ם וַתִּטְמָ֖א הָאָֽרֶץ׃
+
+**JPS** for all these abominations have the men of the land done, that were before you, and the land is defiled--
+
 ## 28
 
 **GRC** καὶ ἵνα μὴ προσοχθίσῃ ὑμῖν ἡ γῆ ἐν τῷ μιαίνειν ὑμᾶς αὐτήν, ὃν τρόπον προσώχθισεν τοῖς ἔθνεσιν τοῖς πρὸ ὑμῶν.
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** διά να μη σας εξεμέση η γη, όταν μιάνητε αυτήν, καθώς εξήμεσε τα έθνη τα προ υμών.
 
 **KJV** That the land spue not you out also, when ye defile it, as it spued out the nations that were before you.
+
+**HEB** וְלֹֽא־תָקִ֤יא הָאָ֙רֶץ֙ אֶתְכֶ֔ם בְּטַֽמַּאֲכֶ֖ם אֹתָ֑הּ כַּאֲשֶׁ֥ר קָאָ֛ה אֶת־הַגּ֖וֹי אֲשֶׁ֥ר לִפְנֵיכֶֽם׃
+
+**JPS** that the land vomit not you out also, when ye defile it, as it vomited out the nation that was before you.
 
 ## 29
 
@@ -241,6 +355,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people.
 
+**HEB** כִּ֚י כָּל־אֲשֶׁ֣ר יַעֲשֶׂ֔ה מִכֹּ֥ל הַתּוֹעֵב֖וֹת הָאֵ֑לֶּה וְנִכְרְת֛וּ הַנְּפָשׁ֥וֹת הָעֹשֹׂ֖ת מִקֶּ֥רֶב עַמָּֽם׃
+
+**JPS** For whosoever shall do any of these abominations, even the souls that do them shall be cut off from among their people.
+
 ## 30
 
 **GRC** καὶ φυλάξετε τὰ προστάγματά μου, ὅπως μὴ ποιήσητε ἀπὸ πάντων τῶν νομίμων τῶν ἐβδελυγμένων ὃ γέγονεν πρὸ τοῦ ὑμᾶς· καὶ οὐ μιανθήσεσθε ἐν αὐτοῖς, ὅτι ἐγὼ Κύριος ὁ θεὸς ὑμῶν.
@@ -248,6 +366,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Όθεν θέλετε φυλάττει τα προστάγματά μου, ώστε να μη πράξητε μηδέν εκ των βδελυρών τούτων νομίμων, τα οποία επράχθησαν προ υμών, και να μη μιανθήτε εις αυτά. Εγώ είμαι Κύριος ο Θεός σας.
 
 **KJV** Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the Lord your God.
+
+**HEB** וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י לְבִלְתִּ֨י עֲשׂ֜וֹת מֵחֻקּ֤וֹת הַתּֽוֹעֵבֹת֙ אֲשֶׁ֣ר נַעֲשׂ֣וּ לִפְנֵיכֶ֔ם וְלֹ֥א תִֽטַּמְּא֖וּ בָּהֶ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** Therefore shall ye keep My charge, that ye do not any of these abominable customs, which were done before you, and that ye defile not yourselves therein: I am HaShem your G-d.
 
 ## Notes
 

@@ -3,7 +3,9 @@
   "sources": {
     "GRC": "Septuagint, Swete 1909-1930",
     "ELL": "Vamvas 1850",
-    "KJV": "King James Version 1769"
+    "KJV": "King James Version 1769",
+    "HEB": "Westminster Leningrad Codex",
+    "JPS": "Jewish Publication Society 1917"
   },
   "books": [
     {

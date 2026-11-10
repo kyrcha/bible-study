@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then Nahash the Ammonite came up, and encamped against Jabesh–gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.
 
+**HEB** וַיַּ֗עַל נָחָשׁ֙ הָֽעַמּוֹנִ֔י וַיִּ֖חַן עַל־יָבֵ֣שׁ גִּלְעָ֑ד וַיֹּ֨אמְר֜וּ כָּל־אַנְשֵׁ֤י יָבֵישׁ֙ אֶל־נָחָ֔שׁ כְּרָת־לָ֥נוּ בְרִ֖ית וְנַעַבְדֶֽךָּ׃
+
+**JPS** Then Nahash the Ammonite came up, and encamped against Jabesh-gilead; and all the men of Jabesh said unto Nahash: `Make a covenant with us, and we will serve thee.'
+
 ## 2
 
 **GRC** καὶ εἶπεν πρὸς αὐτοὺς Ναὰς ὁ Ἀμμανείτης Ἐν ταύτῃ διαθήσομαι ὑμῖν διαθήκην, ἐν τῷ ἐξορύξαι ὑμῶν πάντα ὀφθαλμὸν δεξιόν, καὶ θήσομαι ὄνειδος ἐπὶ Ἰσραήλ.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και είπε προς αυτούς Νάας ο Αμμωνίτης, Με τούτο θέλω κάμει συνθήκην προς εσάς, να εξορύξω πάντας τους δεξιούς οφθαλμούς σας, και να βάλω τούτο όνειδος επί πάντα τον Ισραήλ.
 
 **KJV** And Nahash the Ammonite answered them, On this condition will I make a covenant with you, that I may thrust out all your right eyes, and lay it for a reproach upon all Israel.
+
+**HEB** וַיֹּ֣אמֶר אֲלֵיהֶ֗ם נָחָשׁ֙ הָעַמּוֹנִ֔י בְּזֹאת֙ אֶכְרֹ֣ת לָכֶ֔ם בִּנְק֥וֹר לָכֶ֖ם כָּל־עֵ֣ין יָמִ֑ין וְשַׂמְתִּ֥יהָ חֶרְפָּ֖ה עַל־כָּל־יִשְׂרָאֵֽל׃
+
+**JPS** And Nahash the Ammonite said unto them: 'On this condition will I make it with you, that all your right eyes be put out; and I will lay it for a reproach upon all Israel.'
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if there be no man to save us, we will come out to thee.
 
+**HEB** וַיֹּאמְר֨וּ אֵלָ֜יו זִקְנֵ֣י יָבֵ֗ישׁ הֶ֤רֶף לָ֙נוּ֙ שִׁבְעַ֣ת יָמִ֔ים וְנִשְׁלְחָה֙ מַלְאָכִ֔ים בְּכֹ֖ל גְּב֣וּל יִשְׂרָאֵ֑ל וְאִם־אֵ֥ין מוֹשִׁ֛יעַ אֹתָ֖נוּ וְיָצָ֥אנוּ אֵלֶֽיךָ׃
+
+**JPS** And the elders of Jabesh said unto him: 'Give us seven days' respite, that we may send messengers unto all the borders of Israel; and then, if there be none to deliver us, we will come out to thee.'
+
 ## 4
 
 **GRC** καὶ ἔρχονται οἱ ἄγγελοι εἰς Γαβαὰ πρὸς Σαούλ, καὶ λαλοῦσιν τοὺς λόγους εἰς τὰ ὦτα τοῦ λαοῦ· καὶ ἦραν πᾶς ὁ λαὸς τὴν φωνὴν αὐτῶν καὶ ἔκλαυσαν.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ήλθον λοιπόν οι μηνυταί εις Γαβαά του Σαούλ και είπον τους λόγους εις τα ώτα του λαού· και ύψωσαν πας ο λαός την φωνήν αυτών και έκλαυσαν.
 
 **KJV** Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept.
+
+**HEB** וַיָּבֹ֤אוּ הַמַּלְאָכִים֙ גִּבְעַ֣ת שָׁא֔וּל וַיְדַבְּר֥וּ הַדְּבָרִ֖ים בְּאָזְנֵ֣י הָעָ֑ם וַיִּשְׂא֧וּ כָל־הָעָ֛ם אֶת־קוֹלָ֖ם וַיִּבְכּֽוּ׃
+
+**JPS** Then came the messengers to Gibeath-shaul, and spoke these words in the ears of the people; and all the people lifted up their voice, and wept.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And, behold, Saul came after the herd out of the field; and Saul said, What aileth the people that they weep? And they told him the tidings of the men of Jabesh.
 
+**HEB** וְהִנֵּ֣ה שָׁא֗וּל בָּ֣א אַחֲרֵ֤י הַבָּקָר֙ מִן־הַשָּׂדֶ֔ה וַיֹּ֣אמֶר שָׁא֔וּל מַה־לָּעָ֖ם כִּ֣י יִבְכּ֑וּ וַיְסַ֨פְּרוּ־ל֔וֹ אֶת־דִּבְרֵ֖י אַנְשֵׁ֥י יָבֵֽישׁ׃
+
+**JPS** And, behold, Saul came following the oxen out of the field; and Saul said: 'What aileth the people that they weep?' And they told him the words of the men of Jabesh.
+
 ## 6
 
 **GRC** καὶ ἐφήλατο πνεῦμα Κυρίου ἐπὶ Σαούλ, ὡς ἤκουσεν τὰ ῥήματα ταῦτα, καὶ ἐθυμώθη ἐπ᾽ αὐτοὺς ὀργὴ αὐτοῦ σφόδρα.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και επήλθεν επί τον Σαούλ πνεύμα Θεού, ότε ήκουσε τους λόγους εκείνους· και εξήφθη η οργή αυτού σφόδρα.
 
 **KJV** And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.
+
+**HEB** וַתִּצְלַ֤ח רֽוּחַ־אֱלֹהִים֙ עַל־שָׁא֔וּל בשמעו כְּשָׁמְע֖וֹ אֶת־הַדְּבָרִ֣ים הָאֵ֑לֶּה וַיִּ֥חַר אַפּ֖וֹ מְאֹֽד׃
+
+**JPS** And the spirit of G-d came mightily upon Saul when he heard those words, and his anger was kindled greatly.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he took a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the Lord fell on the people, and they came out with one consent.
 
+**HEB** וַיִּקַּח֩ צֶ֨מֶד בָּקָ֜ר וַֽיְנַתְּחֵ֗הוּ וַיְשַׁלַּ֞ח בְּכָל־גְּב֣וּל יִשְׂרָאֵל֮ בְּיַ֣ד הַמַּלְאָכִ֣ים ׀ לֵאמֹר֒ אֲשֶׁר֩ אֵינֶ֨נּוּ יֹצֵ֜א אַחֲרֵ֤י שָׁאוּל֙ וְאַחַ֣ר שְׁמוּאֵ֔ל כֹּ֥ה יֵעָשֶׂ֖ה לִבְקָר֑וֹ וַיִּפֹּ֤ל פַּֽחַד־יְהוָה֙ עַל־הָעָ֔ם וַיֵּצְא֖וּ כְּאִ֥ישׁ אֶחָֽד׃
+
+**JPS** And he took a yoke of oxen, and cut them in pieces, and sent them throughout all the borders of Israel by the hand of messengers, saying: 'Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen.' And the dread of HaShem fell on the people, and they came out as one man.
+
 ## 8
 
 **GRC** καὶ ἐπισκέπτεται αὐτοὺς Ἀβιέζεκ ἐν Βαμὰ πάντα ἄνδρα Ἰσραὴλ ἑξακοσίας χιλιάδας καὶ ἄνδρας Ἰούδα ἑβδομήκοντα χιλιάδας,
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ότε απηρίθμησεν αυτούς εν Βεζέκ, οι υιοί Ισραήλ ήσαν τριακόσιαι χιλιάδες και οι άνδρες Ιούδα τριάκοντα χιλιάδες.
 
 **KJV** And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand.
+
+**HEB** וַֽיִּפְקְדֵ֖ם בְּבָ֑זֶק וַיִּהְי֤וּ בְנֵֽי־יִשְׂרָאֵל֙ שְׁלֹ֣שׁ מֵא֣וֹת אֶ֔לֶף וְאִ֥ישׁ יְהוּדָ֖ה שְׁלֹשִׁ֥ים אָֽלֶף׃
+
+**JPS** And he numbered them in Bezek; and the children of Israel were three hundred thousand, and the men of Judah thirty thousand.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they said unto the messengers that came, Thus shall ye say unto the men of Jabesh–gilead, To morrow, by that time the sun be hot, ye shall have help. And the messengers came and shewed it to the men of Jabesh; and they were glad.
 
+**HEB** וַיֹּאמְר֞וּ לַמַּלְאָכִ֣ים הַבָּאִ֗ים כֹּ֤ה תֹֽאמְרוּן֙ לְאִישׁ֙ יָבֵ֣ישׁ גִּלְעָ֔ד מָחָ֛ר תִּהְיֶֽה־לָכֶ֥ם תְּשׁוּעָ֖ה בחם כְּחֹ֣ם הַשָּׁ֑מֶשׁ וַיָּבֹ֣אוּ הַמַּלְאָכִ֗ים וַיַּגִּ֛ידוּ לְאַנְשֵׁ֥י יָבֵ֖ישׁ וַיִּשְׂמָֽחוּ׃
+
+**JPS** And they said unto the messengers that came: 'Thus shall ye say unto the men of Jabesh-gilead: To-morrow, by the time the sun is hot, ye shall have deliverance.' And the messengers came and told the men of Jabesh; and they were glad.
+
 ## 10
 
 **GRC** καὶ εἶπαν οἱ ἄνδρες Ἰαβεὶς πρὸς Ναὰς τὸν Ἀμμανείτην Αὔριον ἐξελευσόμεθα πρὸς ὑμᾶς, καὶ ποιήσετε ἡμῖν τὸ ἀγαθὸν ἐνώπιον ὑμῶν.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και είπον οι άνδρες της Ιαβείς, Αύριον θέλομεν εξέλθει προς εσάς, και θέλετε κάμει εις ημάς παν ό,τι σας φαίνεται καλόν.
 
 **KJV** Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you.
+
+**HEB** וַֽיֹּאמְרוּ֙ אַנְשֵׁ֣י יָבֵ֔ישׁ מָחָ֖ר נֵצֵ֣א אֲלֵיכֶ֑ם וַעֲשִׂיתֶ֣ם לָּ֔נוּ כְּכָל־הַטּ֖וֹב בְּעֵינֵיכֶֽם׃
+
+**JPS** And the men of Jabesh said: 'To-morrow we will come out unto you, and ye shall do with us all that seemeth good unto you.'
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And it was so on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together.
 
+**HEB** וַיְהִ֣י מִֽמָּחֳרָ֗ת וַיָּ֨שֶׂם שָׁא֣וּל אֶת־הָעָם֮ שְׁלֹשָׁ֣ה רָאשִׁים֒ וַיָּבֹ֤אוּ בְתוֹךְ־הַֽמַּחֲנֶה֙ בְּאַשְׁמֹ֣רֶת הַבֹּ֔קֶר וַיַּכּ֥וּ אֶת־עַמּ֖וֹן עַד־חֹ֣ם הַיּ֑וֹם וַיְהִ֤י הַנִּשְׁאָרִים֙ וַיָּפֻ֔צוּ וְלֹ֥א נִשְׁאֲרוּ־בָ֖ם שְׁנַ֥יִם יָֽחַד׃
+
+**JPS** And it was so on the morrow, that Saul put the people in three companies; and they came into the midst of the camp in the morning watch, and smote the Ammonites until the heat of the day; and it came to pass, that they that remained were scattered, so that two of them were not left together.
+
 ## 12
 
 **GRC** καὶ εἶπεν ὁ λαὸς πρὸς Σαμουήλ Τίς ὁ εἴπας ὅτι Σαοὺλ οὐ βασιλεύσει ἡμῶν; παράδος τοὺς ἄνδρας καὶ θανατώσομεν αὐτούς.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και είπεν ο λαός προς τον Σαμουήλ, Τις είναι εκείνος όστις είπεν, Ο Σαούλ θέλει βασιλεύσει εφ' ημάς; παραδώσατε τους άνδρας, διά να θανατώσωμεν αυτούς.
 
 **KJV** And the people said unto Samuel, Who is he that said, Shall Saul reign over us? bring the men, that we may put them to death.
+
+**HEB** וַיֹּ֤אמֶר הָעָם֙ אֶל־שְׁמוּאֵ֔ל מִ֣י הָאֹמֵ֔ר שָׁא֖וּל יִמְלֹ֣ךְ עָלֵ֑ינוּ תְּנ֥וּ הָאֲנָשִׁ֖ים וּנְמִיתֵֽם׃
+
+**JPS** And the people said unto Samuel: 'Who is he that said: Shall Saul reign over us? bring the men, that we may put them to death.'
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Saul said, There shall not a man be put to death this day: for to day the Lord hath wrought salvation in Israel.
 
+**HEB** וַיֹּ֣אמֶר שָׁא֔וּל לֹֽא־יוּמַ֥ת אִ֖ישׁ בַּיּ֣וֹם הַזֶּ֑ה כִּ֥י הַיּ֛וֹם עָשָֽׂה־יְהוָ֥ה תְּשׁוּעָ֖ה בְּיִשְׂרָאֵֽל׃
+
+**JPS** And Saul said: 'There shall not a man be put to death this day; for to-day HaShem hath wrought deliverance in Israel.'
+
 ## 14
 
 **GRC** Καὶ εἶπεν Σαμουὴλ πρὸς τὸν λαὸν λέγων Πορευθῶμεν εἰς Γάλγαλα καὶ ἐγκαινίσωμεν ἐκεῖ τὴν βασιλείαν.
@@ -121,6 +175,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there.
 
+**HEB** וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־הָעָ֔ם לְכ֖וּ וְנֵלְכָ֣ה הַגִּלְגָּ֑ל וּנְחַדֵּ֥שׁ שָׁ֖ם הַמְּלוּכָֽה׃
+
+**JPS** Then said Samuel to the people: 'Come and let us go to Gilgal, and renew the kingdom there.'
+
 ## 15
 
 **GRC** καὶ ἐπορεύθη πᾶς ὁ λαὸς εἰς Γάλγαλα, καὶ ἔχρισεν Σαμουὴλ ἐκεῖ τὸν Σαοὺλ εἰς βασιλέα ἐνώπιον Κυρίου ἐν Γαλγάλοις, καὶ ἔθυσεν ἐκεῖ θυσίας καὶ εἰρηνικὰς ἐνώπιον Κυρίου· καὶ εὐφράνθη Σαμουὴλ καὶ πᾶς Ἰσραὴλ ὥστε λίαν.
@@ -128,6 +186,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και υπήγε πας ο λαός εις Γάλγαλα· και εκεί έκαμον τον Σαούλ βασιλέα ενώπιον του Κυρίου εν Γαλγάλοις· και εκεί εθυσίασαν θυσίας ειρηνικάς ενώπιον του Κυρίου· και εκεί ευφράνθησαν ο Σαούλ και πάντες οι άνδρες Ισραήλ σφόδρα.
 
 **KJV** And all the people went to Gilgal; and there they made Saul king before the Lord in Gilgal; and there they sacrificed sacrifices of peace offerings before the Lord; and there Saul and all the men of Israel rejoiced greatly.
+
+**HEB** וַיֵּלְכ֨וּ כָל־הָעָ֜ם הַגִּלְגָּ֗ל וַיַּמְלִכוּ֩ שָׁ֨ם אֶת־שָׁא֜וּל לִפְנֵ֤י יְהוָה֙ בַּגִּלְגָּ֔ל וַיִּזְבְּחוּ־שָׁ֛ם זְבָחִ֥ים שְׁלָמִ֖ים לִפְנֵ֣י יְהוָ֑ה וַיִּשְׂמַ֨ח שָׁ֥ם שָׁא֛וּל וְכָל־אַנְשֵׁ֥י יִשְׂרָאֵ֖ל עַד־מְאֹֽד׃
+
+**JPS** And all the people went to Gilgal; and there they made Saul king before HaShem in Gilgal; and there they sacrificed sacrifices of peace-offerings before HaShem; and there Saul and all the men of Israel rejoiced greatly.
 
 ## Notes
 

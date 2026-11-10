@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;
 
+**HEB** וַיְהִי֙ בַּיּ֣וֹם הַשְּׁמִינִ֔י קָרָ֣א מֹשֶׁ֔ה לְאַהֲרֹ֖ן וּלְבָנָ֑יו וּלְזִקְנֵ֖י יִשְׂרָאֵֽל׃
+
+**JPS** And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;
+
 ## 2
 
 **GRC** καὶ εἶπεν Μωυσῆς πρὸς Ἀαρών Λάβε σεαυτῷ μοσχάριον ἁπαλὸν ἐκ βοῶν περὶ ἁμαρτίας καὶ κριὸν εἰς ὁλοκαύτωμα, ἄμωμα, καὶ προσένεγκε αὐτὰ ἔναντι Κυρίου·
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και είπε προς τον Ααρών, Λάβε εις σεαυτόν μόσχον εκ βοών διά προσφοράν περί αμαρτίας και κριόν διά ολοκαύτωμα άμωμα και πρόσφερε αυτά έμπροσθεν του Κυρίου.
 
 **KJV** And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer them before the Lord.
+
+**HEB** וַיֹּ֣אמֶר אֶֽל־אַהֲרֹ֗ן קַח־לְ֠ךָ עֵ֣גֶל בֶּן־בָּקָ֧ר לְחַטָּ֛את וְאַ֥יִל לְעֹלָ֖ה תְּמִימִ֑ם וְהַקְרֵ֖ב לִפְנֵ֥י יְהוָֽה׃
+
+**JPS** and he said unto Aaron: 'Take thee a bull-calf for a sin-offering, and a ram for a burnt-offering, without blemish, and offer them before HaShem.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And unto the children of Israel thou shalt speak, saying, Take ye a kid of the goats for a sin offering; and a calf and a lamb, both of the first year, without blemish, for a burnt offering;
 
+**HEB** וְאֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר קְח֤וּ שְׂעִיר־עִזִּים֙ לְחַטָּ֔את וְעֵ֨גֶל וָכֶ֧בֶשׂ בְּנֵי־שָׁנָ֛ה תְּמִימִ֖ם לְעֹלָֽה׃
+
+**JPS** And unto the children of Israel thou shalt speak, saying: Take ye a he-goat for a sin-offering; and a calf and a lamb, both of the first year, without blemish, for a burnt-offering;
+
 ## 4
 
 **GRC** καὶ μόσχον καὶ κριὸν εἰς θυσίαν σωτηρίου ἔναντι Κυρίου, καὶ σεμίδαλιν πεφυραμένην ἐν ἐλαίῳ· ὅτι σήμερον Κύριος ὀφθήσεται ἐν ὑμῖν.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και βουν και κριόν διά ειρηνικήν προσφοράν, εις θυσίαν έμπροσθεν του Κυρίου, και προσφοράν εξ αλφίτων εζυμωμένην μετά ελαίου· διότι σήμερον θέλει εμφανισθή ο Κύριος εις εσάς.
 
 **KJV** Also a bullock and a ram for peace offerings, to sacrifice before the Lord; and a meat offering mingled with oil: for to day the Lord will appear unto you.
+
+**HEB** וְשׁ֨וֹר וָאַ֜יִל לִשְׁלָמִ֗ים לִזְבֹּ֙חַ֙ לִפְנֵ֣י יְהוָ֔ה וּמִנְחָ֖ה בְּלוּלָ֣ה בַשָּׁ֑מֶן כִּ֣י הַיּ֔וֹם יְהוָ֖ה נִרְאָ֥ה אֲלֵיכֶֽם׃
+
+**JPS** and an ox and a ram for peace-offerings, to sacrifice before HaShem; and a meal-offering mingled with oil; for to-day HaShem appeareth unto you.'
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they brought that which Moses commanded before the tabernacle of the congregation: and all the congregation drew near and stood before the Lord.
 
+**HEB** וַיִּקְח֗וּ אֵ֚ת אֲשֶׁ֣ר צִוָּ֣ה מֹשֶׁ֔ה אֶל־פְּנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וַֽיִּקְרְבוּ֙ כָּל־הָ֣עֵדָ֔ה וַיַּֽעַמְד֖וּ לִפְנֵ֥י יְהוָֽה׃
+
+**JPS** And they brought that which Moses commanded before the tent of meeting; and all the congregation drew near and stood before HaShem.
+
 ## 6
 
 **GRC** καὶ εἶπεν Μωσῆς Τοῦτο τὸ ῥῆμα ὃ εἶπεν Κύριος ποιήσατε, καὶ ὀφθήσεται ἐν ὑμῖν δόξα Κυρίου.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και είπεν ο Μωϋσής, Ούτος είναι ο λόγος τον οποίον προσέταξε Κύριος να κάμνητε· και θέλει εμφανισθή εις εσάς η δόξα του Κυρίου.
 
 **KJV** And Moses said, This is the thing which the Lord commanded that ye should do: and the glory of the Lord shall appear unto you.
+
+**HEB** וַיֹּ֣אמֶר מֹשֶׁ֔ה זֶ֧ה הַדָּבָ֛ר אֲשֶׁר־צִוָּ֥ה יְהוָ֖ה תַּעֲשׂ֑וּ וְיֵרָ֥א אֲלֵיכֶ֖ם כְּב֥וֹד יְהוָֽה׃
+
+**JPS** And Moses said: 'This is the thing which HaShem commanded that ye should do; that the glory of HaShem may appear unto you.'
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Moses said unto Aaron, Go unto the altar, and offer thy sin offering, and thy burnt offering, and make an atonement for thyself, and for the people: and offer the offering of the people, and make an atonement for them; as the Lord commanded.
 
+**HEB** וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל־אַהֲרֹ֗ן קְרַ֤ב אֶל־הַמִּזְבֵּ֙חַ֙ וַעֲשֵׂ֞ה אֶת־חַטָּֽאתְךָ֙ וְאֶת־עֹ֣לָתֶ֔ךָ וְכַפֵּ֥ר בַּֽעַדְךָ֖ וּבְעַ֣ד הָעָ֑ם וַעֲשֵׂ֞ה אֶת־קָרְבַּ֤ן הָעָם֙ וְכַפֵּ֣ר בּֽ͏ַעֲדָ֔ם כַּאֲשֶׁ֖ר צִוָּ֥ה יְהוָֽה׃
+
+**JPS** And Moses said unto Aaron: 'Draw near unto the altar, and offer thy sin-offering, and thy burnt-offering, and make atonement for thyself, and for the people; and present the offering of the people, and make atonement for them; as HaShem commanded.'
+
 ## 8
 
 **GRC** Καὶ προσῆλθεν Ἀαρὼν πρὸς τὸ θυσιαστήριον, καὶ ἔσφαξεν τὸ μοσχάριον τὸ περὶ τῆς ἁμαρτίας·
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και προσήλθεν ο Ααρών εις το θυσιαστήριον και έσφαξε τον μόσχον της περί αμαρτίας προσφοράς, όστις ήτο δι' αυτόν.
 
 **KJV** Aaron therefore went unto the altar, and slew the calf of the sin offering, which was for himself.
+
+**HEB** וַיִּקְרַ֥ב אַהֲרֹ֖ן אֶל־הַמִּזְבֵּ֑חַ וַיִּשְׁחַ֛ט אֶת־עֵ֥גֶל הַחַטָּ֖את אֲשֶׁר־לֽוֹ׃
+
+**JPS** So Aaron drew near unto the altar, and slew the calf of the sin-offering, which was for himself.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the sons of Aaron brought the blood unto him: and he dipped his finger in the blood, and put it upon the horns of the altar, and poured out the blood at the bottom of the altar:
 
+**HEB** וַ֠יַּקְרִבוּ בְּנֵ֨י אַהֲרֹ֣ן אֶת־הַדָּם֮ אֵלָיו֒ וַיִּטְבֹּ֤ל אֶצְבָּעוֹ֙ בַּדָּ֔ם וַיִּתֵּ֖ן עַל־קַרְנ֣וֹת הַמִּזְבֵּ֑חַ וְאֶת־הַדָּ֣ם יָצַ֔ק אֶל־יְס֖וֹד הַמִּזְבֵּֽחַ׃
+
+**JPS** And the sons of Aaron presented the blood unto him; and he dipped his finger in the blood, and put it upon the horns of the altar, and poured out the blood at the base of the altar.
+
 ## 10
 
 **GRC** καὶ τὸ στέαρ καὶ τοὺς νεφροὺς καὶ τὸν λοβὸν τοῦ ἥπατος τοῦ περὶ τῆς ἁμαρτίας ἀνήνεγκεν ἐπὶ τὸ θυσιαστήριον, ὃν τρόπον ἐνετείλατο Κύριος τῷ Μωσῇ·
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Το στέαρ όμως και τους νεφρούς και τον επάνω λοβόν του ήπατος της περί αμαρτίας προσφοράς έκαυσεν επί του θυσιαστηρίου, καθώς προσέταξεν ο Κύριος εις τον Μωϋσήν.
 
 **KJV** But the fat, and the kidneys, and the caul above the liver of the sin offering, he burnt upon the altar; as the Lord commanded Moses.
+
+**HEB** וְאֶת־הַחֵ֨לֶב וְאֶת־הַכְּלָיֹ֜ת וְאֶת־הַיֹּתֶ֤רֶת מִן־הַכָּבֵד֙ מִן־הַ֣חַטָּ֔את הִקְטִ֖יר הַמִּזְבֵּ֑חָה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־מֹשֶֽׁה׃
+
+**JPS** But the fat, and the kidneys, and the lobe of the liver of the sin-offering, he made smoke upon the altar; as HaShem commanded Moses.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the flesh and the hide he burnt with fire without the camp.
 
+**HEB** וְאֶת־הַבָּשָׂ֖ר וְאֶת־הָע֑וֹר שָׂרַ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶֽה׃
+
+**JPS** And the flesh and the skin were burnt with fire without the camp.
+
 ## 12
 
 **GRC** καὶ ἔσφαξεν τὸ ὁλοκαύτωμα· καὶ προσήνεγκαν οἱ υἱοὶ Ἀαρὼν καὶ τὸ αἷμα πρὸς αὐτόν, καὶ προσέχεεν ἐπὶ τὸ θυσιαστήριον κύκλῳ·
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έσφαξε το ολοκαύτωμα· και οι υιοί του Ααρών παρέστησαν εις αυτόν το αίμα, και ερράντισεν αυτό επί του θυσιαστηρίου κύκλω.
 
 **KJV** And he slew the burnt offering; and Aaron’s sons presented unto him the blood, which he sprinkled round about upon the altar.
+
+**HEB** וַיִּשְׁחַ֖ט אֶת־הָעֹלָ֑ה וַ֠יַּמְצִאוּ בְּנֵ֨י אַהֲרֹ֤ן אֵלָיו֙ אֶת־הַדָּ֔ם וַיִּזְרְקֵ֥הוּ עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃
+
+**JPS** And he slew the burnt-offering; and Aaron's sons delivered unto him the blood, and he dashed it against the altar round about.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they presented the burnt offering unto him, with the pieces thereof, and the head: and he burnt them upon the altar.
 
+**HEB** וְאֶת־הָעֹלָ֗ה הִמְצִ֧יאוּ אֵלָ֛יו לִנְתָחֶ֖יהָ וְאֶת־הָרֹ֑אשׁ וַיַּקְטֵ֖ר עַל־הַמִּזְבֵּֽחַ׃
+
+**JPS** And they delivered the burnt-offering unto him, piece by piece, and the head; and he made them smoke upon the altar.
+
 ## 14
 
 **GRC** καὶ ἔπλυνεν τὴν κοιλίαν καὶ τοὺς πόδας ὕδατι καὶ ἐπέθηκεν ἐπὶ τὸ ὁλοκαύτωμα ἐπὶ τὸ θυσιαστήριον.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έπλυνε τα εντόσθια και τους πόδας· και έκαυσεν αυτά επί το ολοκαύτωμα επί του θυσιαστηρίου.
 
 **KJV** And he did wash the inwards and the legs, and burnt them upon the burnt offering on the altar.
+
+**HEB** וַיִּרְחַ֥ץ אֶת־הַקֶּ֖רֶב וְאֶת־הַכְּרָעָ֑יִם וַיַּקְטֵ֥ר עַל־הָעֹלָ֖ה הַמִּזְבֵּֽחָה׃
+
+**JPS** And he washed the inwards and the legs, and made them smoke upon the burnt-offering on the altar.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he brought the people’s offering, and took the goat, which was the sin offering for the people, and slew it, and offered it for sin, as the first.
 
+**HEB** וַיַּקְרֵ֕ב אֵ֖ת קָרְבַּ֣ן הָעָ֑ם וַיִּקַּ֞ח אֶת־שְׂעִ֤יר הַֽחַטָּאת֙ אֲשֶׁ֣ר לָעָ֔ם וַיִּשְׁחָטֵ֥הוּ וַֽיְחַטְּאֵ֖הוּ כָּרִאשֽׁוֹן׃
+
+**JPS** And the people's offering was presented; and he took the goat of the sin-offering which was for the people, and slew it, and offered it for sin, as the first.
+
 ## 16
 
 **GRC** καὶ προσήνεγκεν τὸ ὁλοκαύτωμα, καὶ ἐποίησεν αὐτὸ ὡς καθήκει.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και προσέφερε το ολοκαύτωμα και έκαμεν αυτό κατά το διατεταγμένον.
 
 **KJV** And he brought the burnt offering, and offered it according to the manner.
+
+**HEB** וַיַּקְרֵ֖ב אֶת־הָעֹלָ֑ה וַֽיַּעֲשֶׂ֖הָ כַּמִּשְׁפָּֽט׃
+
+**JPS** And the burnt-offering was presented; and he offered it according to the ordinance.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he brought the meat offering, and took an handful thereof, and burnt it upon the altar, beside the burnt sacrifice of the morning.
 
+**HEB** וַיַּקְרֵב֮ אֶת־הַמִּנְחָה֒ וַיְמַלֵּ֤א כַפּוֹ֙ מִמֶּ֔נָּה וַיַּקְטֵ֖ר עַל־הַמִּזְבֵּ֑חַ מִלְּבַ֖ד עֹלַ֥ת הַבֹּֽקֶר׃
+
+**JPS** And the meal-offering was presented; and he filled his hand therefrom, and made it smoke upon the altar, besides the burnt-offering of the morning.
+
 ## 18
 
 **GRC** καὶ ἔσφαξεν τὸν μόσχον καὶ τὸν κριὸν τῆς θυσίας τοῦ σωτηρίου τῆς τοῦ λαοῦ· καὶ προσήνεγκαν οἱ υἱοὶ Ἀαρὼν τὸ αἷμα πρὸς αὐτόν, καὶ προσέχεεν πρὸς τὸ θυσιαστήριον κύκλῳ·
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Έσφαξεν έτι τον βουν και τον κριόν της ειρηνικής θυσίας της υπέρ του λαού· και οι υιοί του Ααρών παρέστησαν το αίμα προς αυτόν, και ερράντισεν αυτό επί του θυσιαστηρίου κύκλω,
 
 **KJV** He slew also the bullock and the ram for a sacrifice of peace offerings, which was for the people: and Aaron’s sons presented unto him the blood, which he sprinkled upon the altar round about,
+
+**HEB** וַיִּשְׁחַ֤ט אֶת־הַשּׁוֹר֙ וְאֶת־הָאַ֔יִל זֶ֥בַח הַשְּׁלָמִ֖ים אֲשֶׁ֣ר לָעָ֑ם וַ֠יַּמְצִאוּ בְּנֵ֨י אַהֲרֹ֤ן אֶת־הַדָּם֙ אֵלָ֔יו וַיִּזְרְקֵ֥הוּ עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃
+
+**JPS** He slew also the ox and the ram, the sacrifice of peace-offerings, which was for the people; and Aaron's sons delivered unto him the blood, and he dashed it against the altar round about,
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the fat of the bullock and of the ram, the rump, and that which covereth the inwards, and the kidneys, and the caul above the liver:
 
+**HEB** וְאֶת־הַחֲלָבִ֖ים מִן־הַשּׁ֑וֹר וּמִן־הָאַ֔יִל הָֽאַלְיָ֤ה וְהַֽמְכַסֶּה֙ וְהַכְּלָיֹ֔ת וְיֹתֶ֖רֶת הַכָּבֵֽד׃
+
+**JPS** and the fat of the ox, and of the ram, the fat tail, and that which covereth the inwards, and the kidneys, and the lobe of the liver.
+
 ## 20
 
 **GRC** καὶ ἐπέθηκεν τὰ στέατα ἐπὶ τὰ στηθύνια, καὶ ἀνήνεγκαν τὰ στέατα ἐπὶ τὸ θυσιαστήριον·
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και έθεσαν τα στέατα επί τα στήθη, και έκαυσε τα στέατα επί του θυσιαστηρίου·
 
 **KJV** And they put the fat upon the breasts, and he burnt the fat upon the altar:
+
+**HEB** וַיָּשִׂ֥ימוּ אֶת־הַחֲלָבִ֖ים עַל־הֶחָז֑וֹת וַיַּקְטֵ֥ר הַחֲלָבִ֖ים הַמִּזְבֵּֽחָה׃
+
+**JPS** And they put the fat upon the breasts, and he made the fat smoke upon the altar.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the breasts and the right shoulder Aaron waved for a wave offering before the Lord; as Moses commanded.
 
+**HEB** וְאֵ֣ת הֶחָז֗וֹת וְאֵת֙ שׁ֣וֹק הַיָּמִ֔ין הֵנִ֧יף אַהֲרֹ֛ן תְּנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה כַּאֲשֶׁ֖ר צִוָּ֥ה מֹשֶֽׁה׃
+
+**JPS** And the breasts and the right thigh Aaron waved for a wave-offering before HaShem; as Moses commanded.
+
 ## 22
 
 **GRC** Καὶ ἐξάρας Ἀαρὼν τὰς χεῖρας ἐπὶ τὸν λαὸν εὐλόγησεν αὐτούς, καὶ κατέβη ποιήσας τὸ περὶ τῆς ἁμαρτίας καὶ τὰ ὁλοκαυτώματα καὶ τὰ τοῦ σωτηρίου.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και υψώσας ο Ααρών τας χείρας αυτού προς τον λαόν, ευλόγησεν αυτούς· και κατέβη, αφού προσέφερε την περί αμαρτίας προσφοράν και το ολοκαύτωμα και τας ειρηνικάς προσφοράς.
 
 **KJV** And Aaron lifted up his hand toward the people, and blessed them, and came down from offering of the sin offering, and the burnt offering, and peace offerings.
+
+**HEB** וַיִּשָּׂ֨א אַהֲרֹ֧ן אֶת־ידו יָדָ֛יו אֶל־הָעָ֖ם וַֽיְבָרְכֵ֑ם וַיֵּ֗רֶד מֵעֲשֹׂ֧ת הַֽחַטָּ֛את וְהָעֹלָ֖ה וְהַשְּׁלָמִֽים׃
+
+**JPS** And Aaron lifted up his hands toward the people, and blessed them; and he came down from offering the sin-offering, and the burnt-offering, and the peace-offerings.
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Moses and Aaron went into the tabernacle of the congregation, and came out, and blessed the people: and the glory of the Lord appeared unto all the people.
 
+**HEB** וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל־אֹ֣הֶל מוֹעֵ֔ד וַיֵּ֣צְא֔וּ וַֽיְבָרֲכ֖וּ אֶת־הָעָ֑ם וַיֵּרָ֥א כְבוֹד־יְהוָ֖ה אֶל־כָּל־הָעָֽם׃
+
+**JPS** And Moses and Aaron went into the tent of meeting, and came out, and blessed the people; and the glory of HaShem appeared unto all the people.
+
 ## 24
 
 **GRC** καὶ ἐξῆλθεν πῦρ παρὰ Κυρίου, καὶ κατέφαγεν τὰ ἐπὶ τοῦ θυσιαστηρίου, τά τε ὁλοκαυτώματα καὶ τὰ στέατα· καὶ εἶδεν πᾶς ὁ λαὸς καὶ ἐξέστη, καὶ ἔπεσαν ἐπὶ πρόσωπον.
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εξήλθε πυρ απ' έμπροσθεν του Κυρίου και κατέφαγεν επί του θυσιαστηρίου το ολοκαύτωμα, και τα στέατα· ιδών δε πας ο λαός ηλάλαξαν και έπεσον κατά πρόσωπον αυτών.
 
 **KJV** And there came a fire out from before the Lord, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces.
+
+**HEB** וַתֵּ֤צֵא אֵשׁ֙ מִלִּפְנֵ֣י יְהוָ֔ה וַתֹּ֙אכַל֙ עַל־הַמִּזְבֵּ֔חַ אֶת־הָעֹלָ֖ה וְאֶת־הַחֲלָבִ֑ים וַיַּ֤רְא כָּל־הָעָם֙ וַיָּרֹ֔נּוּ וַֽיִּפְּל֖וּ עַל־פְּנֵיהֶֽם׃
+
+**JPS** And there came forth fire from before HaShem, and consumed upon the altar the burnt-offering and the fat; and when all the people saw it, they shouted, and fell on their faces.
 
 ## Notes
 

@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramoth–gilead:
 
+**HEB** וֶאֱלִישָׁע֙ הַנָּבִ֔יא קָרָ֕א לְאַחַ֖ד מִבְּנֵ֣י הַנְּבִיאִ֑ים וַיֹּ֨אמֶר ל֜וֹ חֲגֹ֣ר מָתְנֶ֗יךָ וְ֠קַח פַּ֣ךְ הַשֶּׁ֤מֶן הַזֶּה֙ בְּיָדֶ֔ךָ וְלֵ֖ךְ רָמֹ֥ת גִּלְעָֽד׃
+
+**JPS** And Elisha the prophet called one of the sons of the prophets, and said unto him: 'Gird up thy loins, and take this vial of oil in thy hand, and go to Ramoth-gilead.
+
 ## 2
 
 **GRC** καὶ εἰσελεύσῃ ἐκεῖ, καὶ ὄψῃ ἐκει υἱὸν Ἰωσαφὰθ Εἰοὺ υἱοῦ Ναμεσσεί, καὶ εἰσελεύσῃ καὶ ἀναστήσεις αὐτὸν ἐκ μέσου τῶν ἀδελφῶν αὐτοῦ, καὶ εἰσάξεις αὐτὸν εἰς τὸ ταμεῖον ἐν ταμείῳ.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και όταν εισέλθης εκεί, θέλεις ιδεί εκεί τον Ιηού, υιόν του Ιωσαφάτ, υιού του Νιμσί· και θέλεις εισέλθει και σηκώσει αυτόν εκ μέσου των αδελφών αυτού και θέλεις εισαγάγει αυτόν εις το ενδότερον δωμάτιον·
 
 **KJV** And when thou comest thither, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brethren, and carry him to an inner chamber;
+
+**HEB** וּבָ֖אתָ שָׁ֑מָּה וּרְאֵֽה־שָׁ֠ם יֵה֨וּא בֶן־יְהוֹשָׁפָ֜ט בֶּן־נִמְשִׁ֗י וּבָ֙אתָ֙ וַהֲקֵֽמֹתוֹ֙ מִתּ֣וֹך אֶחָ֔יו וְהֵבֵיאתָ֥ אֹת֖וֹ חֶ֥דֶר בְּחָֽדֶר׃
+
+**JPS** And when thou comest thither, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brethren, and carry him to an inner chamber.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then take the box of oil, and pour it on his head, and say, Thus saith the Lord, I have anointed thee king over Israel. Then open the door, and flee, and tarry not.
 
+**HEB** וְלָקַחְתָּ֤ פַךְ־הַשֶּׁ֙מֶן֙ וְיָצַקְתָּ֣ עַל־רֹאשׁ֔וֹ וְאָֽמַרְתָּ֙ כֹּֽה־אָמַ֣ר יְהוָ֔ה מְשַׁחְתִּ֥יךָֽ לְמֶ֖לֶךְ אֶל־יִשְׂרָאֵ֑ל וּפָתַחְתָּ֥ הַדֶּ֛לֶת וְנַ֖סְתָּה וְלֹ֥א תְחַכֶּֽה׃
+
+**JPS** Then take the vial of oil, and pour it on his head, and say: Thus saith HaShem: I have anointed thee king over Israel. Then open the door, and flee, and tarry not.'
+
 ## 4
 
 **GRC** καὶ ἐπορεύθη ὁ προφήτης τὸ παιδάριον εἰς Ῥεμμὰθ Γαλαάδ.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και υπήγεν ο νέος, ο νέος ο προφήτης, εις Ραμώθ-γαλαάδ.
 
 **KJV** So the young man, even the young man the prophet, went to Ramoth–gilead.
+
+**HEB** וַיֵּ֧לֶךְ הַנַּ֛עַר הַנַּ֥עַר הַנָּבִ֖יא רָמֹ֥ת גִּלְעָֽד׃
+
+**JPS** So the young man, even the young man the prophet, went to Ramoth-gilead.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And when he came, behold, the captains of the host were sitting; and he said, I have an errand to thee, O captain. And Jehu said, Unto which of all us? And he said, To thee, O captain.
 
+**HEB** וַיָּבֹ֗א וְהִנֵּ֨ה שָׂרֵ֤י הַחַ֙יִל֙ יֹֽשְׁבִ֔ים וַיֹּ֕אמֶר דָּבָ֥ר לִ֛י אֵלֶ֖יךָ הַשָּׂ֑ר וַיֹּ֤אמֶר יֵהוּא֙ אֶל־מִ֣י מִכֻּלָּ֔נוּ וַיֹּ֖אמֶר אֵלֶ֥יךָ הַשָּֽׂר׃
+
+**JPS** And when he came, behold, the captains of the host were sitting; and he said: 'I have an errand to thee, O captain.' And Jehu said: 'Unto which of us all?' And he said: 'To thee, O captain.'
+
 ## 6
 
 **GRC** καὶ ἀνέστη καὶ εἰσῆλθεν εἰς τὸν οἶκον, καὶ ἐπέχεεν τὸ ἔλαιον ἐπὶ τὴν κεφαλὴν αὐτοῦ καὶ εἶπεν αὐτῷ Τάδε λέγει Κύριος ὁ θεὸς Ἰσραήλ Κέχρικά σε εἰς βασιλέα ἐπὶ λαὸν Κυρίου, ἐπὶ τὸν Ἰσραήλ.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθείς εισήλθεν εις τον οίκον· και επέχεε το έλαιον επί την κεφαλήν αυτού και είπε προς αυτόν, Ούτω λέγει Κύριος ο Θεός του Ισραήλ· Σε έχρισα βασιλέα επί τον λαόν του Κυρίου, επί τον Ισραήλ·
 
 **KJV** And he arose, and went into the house; and he poured the oil on his head, and said unto him, Thus saith the Lord God of Israel, I have anointed thee king over the people of the Lord, even over Israel.
+
+**HEB** וַיָּ֙קָם֙ וַיָּבֹ֣א הַבַּ֔יְתָה וַיִּצֹ֥ק הַשֶּׁ֖מֶן אֶל־רֹאשׁ֑וֹ וַיֹּ֣אמֶר ל֗וֹ כֹּֽה־אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל מְשַׁחְתִּ֧יךָֽ לְמֶ֛לֶךְ אֶל־עַ֥ם יְהוָ֖ה אֶל־יִשְׂרָאֵֽל׃
+
+**JPS** And he arose, and went into the house; and he poured the oil on his head, and said unto him: 'Thus saith HaShem, the G-d of Israel: I have anointed thee king over the people of HaShem, even over Israel.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the Lord, at the hand of Jezebel.
 
+**HEB** וְהִ֨כִּיתָ֔ה אֶת־בֵּ֥ית אַחְאָ֖ב אֲדֹנֶ֑יךָ וְנִקַּמְתִּ֞י דְּמֵ֣י ׀ עֲבָדַ֣י הַנְּבִיאִ֗ים וּדְמֵ֛י כָּל־עַבְדֵ֥י יְהוָ֖ה מִיַּ֥ד אִיזָֽבֶל׃
+
+**JPS** And thou shalt smite the house of Ahab thy master, that I may avenge the blood of My servants the prophets, and the blood of all the servants of HaShem, at the hand of Jezebel.
+
 ## 8
 
 **GRC** καὶ ἐκ χειρὸς ὅλου τοῦ οἴκου Ἀχαάβ, καὶ ἐξολεθρεύσεις τῷ οἴκῳ Ἀχαὰβ οὐροῦντα πρὸς τοῖχον καὶ συνεχόμενον καὶ ἐνκαταλελειμμένον ἐν Ἰσραήλ.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** διότι πας ο οίκος του Αχαάβ θέλει εξολοθρευθή· και θέλω αφανίσει εκ του Αχαάβ τον ουρούντα εις τον τοίχον και τον κεκλεισμένον και τον αφειμένον εν τω Ισραήλ·
 
 **KJV** For the whole house of Ahab shall perish: and I will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel:
+
+**HEB** וְאָבַ֖ד כָּל־בֵּ֣ית אַחְאָ֑ב וְהִכְרַתִּ֤י לְאַחְאָב֙ מַשְׁתִּ֣ין בְּקִ֔יר וְעָצ֥וּר וְעָז֖וּב בְּיִשְׂרָאֵֽל׃
+
+**JPS** For the whole house of Ahab shall perish; and I will cut off from Ahab every man-child, and him that is shut up and him that is left at large in Israel.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah:
 
+**HEB** וְנָֽתַתִּי֙ אֶת־בֵּ֣ית אַחְאָ֔ב כְּבֵ֖ית יָרָבְעָ֣ם בֶּן־נְבָ֑ט וּכְבֵ֖ית בַּעְשָׁ֥א בֶן־אֲחִיָּֽה׃
+
+**JPS** And I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasa the son of Ahijah.
+
 ## 10
 
 **GRC** καὶ τὴν Ἰεζάβελ καταφάγονται οἱ κύνες ἐν τῇ μερίδι τοῦ Ἰσραήλ, καὶ οὐκ ἔστιν ὁ θάπτων. καὶ ἤνοιξεν τὴν θύραν καὶ ἔφυγεν.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και την Ιεζάβελ οι κύνες θέλουσι καταφάγει εν τω αγρώ της Ιεζραέλ, και δεν θέλει είσθαι ο θάπτων αυτήν. Και ανοίξας την θύραν, έφυγε.
 
 **KJV** And the dogs shall eat Jezebel in the portion of Jezreel, and there shall be none to bury her. And he opened the door, and fled.
+
+**HEB** וְאֶת־אִיזֶ֜בֶל יֹאכְל֧וּ הַכְּלָבִ֛ים בְּחֵ֥לֶק יִזְרְעֶ֖אל וְאֵ֣ין קֹבֵ֑ר וַיִּפְתַּ֥ח הַדֶּ֖לֶת וַיָּנֹֽס׃
+
+**JPS** And the dogs shall eat Jezebel in the portion of Jezreel, and there shall be none to bury her.' And he opened the door, and fled.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then Jehu came forth to the servants of his lord: and one said unto him, Is all well? wherefore came this mad fellow to thee? And he said unto them, Ye know the man, and his communication.
 
+**HEB** וְיֵה֗וּא יָצָא֙ אֶל־עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא־הַמְשֻׁגָּ֥ע הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת־הָאִ֖ישׁ וְאֶת־שִׂיחֽוֹ׃
+
+**JPS** Then Jehu came forth to the servants of his lord; and one said unto him: 'Is all well? wherefore came this mad fellow to thee?' And he said unto them: 'Ye know the man and what his talk was.'
+
 ## 12
 
 **GRC** καὶ εἶπεν Ἄδικον· ἀπάγγειλον δὴ ἡμῖν. καὶ εἶπεν Εἰοὺ πρὸς αὐτούς Οὕτως καὶ οὕτως ἐλάλησεν πρὸς μὲ λέγων· καὶ εἶπεν Τάδε λέγει Κύριος Κέχρικά σε εἰς βασιλέα ἐπὶ Ἰσραήλ.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και είπον, Ψευδές είναι· ειπέ εις ημάς, παρακαλούμεν. Ο δε είπεν, Ούτω και ούτως ελάλησε προς εμέ, λέγων, Ούτω λέγει Κύριος· σε έχρισα βασιλέα επί τον Ισραήλ.
 
 **KJV** And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus saith the Lord, I have anointed thee king over Israel.
+
+**HEB** וַיֹּאמְר֣וּ שֶׁ֔קֶר הַגֶּד־נָ֖א לָ֑נוּ וַיֹּ֗אמֶר כָּזֹ֤את וְכָזֹאת֙ אָמַ֤ר אֵלַי֙ לֵאמֹ֔ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה מְשַׁחְתִּ֥יךָֽ לְמֶ֖לֶךְ אֶל־יִשְׂרָאֵֽל׃
+
+**JPS** And they said: 'It is false; tell us now.' And he said: `Thus and thus spoke he to me, saying: Thus saith HaShem: I have anointed thee king over Israel.'
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then they hasted, and took every man his garment, and put it under him on the top of the stairs, and blew with trumpets, saying, Jehu is king.
 
+**HEB** וַֽיְמַהֲר֗וּ וַיִּקְחוּ֙ אִ֣ישׁ בִּגְד֔וֹ וַיָּשִׂ֥ימוּ תַחְתָּ֖יו אֶל־גֶּ֣רֶם הַֽמַּעֲל֑וֹת וַֽיִּתְקְעוּ֙ בַּשּׁוֹפָ֔ר וַיֹּאמְר֖וּ מָלַ֥ךְ יֵהֽוּא׃
+
+**JPS** Then they hastened, and took every man his garment, and put it under him on the top of the stairs, and blew the horn, saying: 'Jehu is king.'
+
 ## 14
 
 **GRC** καὶ συνεστράφη Εἰοὺ υἱὸς Ιωσαφὰθ υἱοῦ Ναμεσσεὶ πρὸς Ἰωράμ· καὶ Ἰωρὰμ αὐτὸς ἐφύλασσεν ἐν Ῥεμμὼθ Γαλαὰδ καὶ πᾶς Ἰσραὴλ ἀπὸ προσώπου Ἁζαὴλ βασιλέως Συρίας.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ο Ιηού, ο υιός του Ιωσαφάτ, υιού του Νιμσί, έκαμε συνωμοσίαν κατά του Ιωράμ. Ο δε Ιωράμ εφυλάττετο εν Ραμώθ-γαλαάδ, αυτός και άπας ο Ισραήλ, από προσώπου του Αζαήλ, βασιλέως της Συρίας.
 
 **KJV** So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram had kept Ramoth–gilead, he and all Israel, because of Hazael king of Syria.
+
+**HEB** וַיִּתְקַשֵּׁ֗ר יֵה֛וּא בֶּן־יְהוֹשָׁפָ֥ט בֶּן־נִמְשִׁ֖י אֶל־יוֹרָ֑ם וְיוֹרָם֩ הָיָ֨ה שֹׁמֵ֜ר בְּרָמֹ֣ת גִּלְעָ֗ד ה֚וּא וְכָל־יִשְׂרָאֵ֔ל מִפְּנֵ֥י חֲזָאֵ֖ל מֶֽלֶךְ־אֲרָֽם׃
+
+**JPS** So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. --Now Joram had been guarding Ramoth-gilead, he and all Israel, because of Hazael king of Aram;
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** But king Joram was returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) And Jehu said, If it be your minds, then let none go forth nor escape out of the city to go to tell it in Jezreel.
 
+**HEB** וַיָּשָׁב֩ יְהוֹרָ֨ם הַמֶּ֜לֶךְ לְהִתְרַפֵּ֣א בִיְזְרְעֶ֗אל מִן־הַמַּכִּים֙ אֲשֶׁ֣ר יַכֻּ֣הוּ אֲרַמִּ֔ים בְּהִלָּ֣חֲמ֔וֹ אֶת־חֲזָאֵ֖ל מֶ֣לֶךְ אֲרָ֑ם וַיֹּ֤אמֶר יֵהוּא֙ אִם־יֵ֣שׁ נַפְשְׁכֶ֔ם אַל־יֵצֵ֤א פָלִיט֙ מִן־הָעִ֔יר לָלֶ֖כֶת לגיד לְהַגִּ֥יד בְּיִזְרְעֶֽאל׃
+
+**JPS** but king Joram was returned to be healed in Jezreel of the wounds which the Arameans had given him, when he fought with Hazael king of Aram. --And Jehu said: 'If this be your mind, then let none escape and go forth out of the city, to go to tell it in Jezreel.'
+
 ## 16
 
 **GRC** καὶ ἵππευσεν καὶ ἐπορεύθη Εἰού, καὶ κατέβη ἐν Ἰσραήλ, ὅτι Ἰωρὰμ βασιλεὺς Ἰσραὴλ ἐθεραπεύετο ἐν τῷ Ἰσραὴλ ἀπὸ τῶν τοξευμάτων ὧν κατετόξευσαν αὐτὸν οἱ Ἀραμιεὶν ἐν τῇ Ῥαμμὰθ ἐν τῷ πολέμῳ μετὰ Ἁζαὴλ βασιλέως Συρίας, ὅτι δυνατὸς καὶ ἀνὴρ δυνάμεως· καὶ Ὀχοζείας βασιλεὺς Ἰούδα κατέβη ἰδεῖν τὸν Ἰωράμ.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ιππεύσας ο Ιηού, υπήγεν εις Ιεζραέλ· διότι ο Ιωράμ εκοίτετο εκεί. Και Οχοζίας ο βασιλεύς του Ιούδα είχε καταβή να ίδη τον Ιωράμ.
 
 **KJV** So Jehu rode in a chariot, and went to Jezreel; for Joram lay there. And Ahaziah king of Judah was come down to see Joram.
+
+**HEB** וַיִּרְכַּ֤ב יֵהוּא֙ וַיֵּ֣לֶךְ יִזְרְעֶ֔אלָה כִּ֥י יוֹרָ֖ם שֹׁכֵ֣ב שָׁ֑מָּה וֽ͏ַאֲחַזְיָה֙ מֶ֣לֶךְ יְהוּדָ֔ה יָרַ֖ד לִרְא֥וֹת אֶת־יוֹרָֽם׃
+
+**JPS** So Jehu rode in a chariot, and went to Jezreel; for Joram lay there. And Ahaziah king of Judah was come down to see Joram.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And there stood a watchman on the tower in Jezreel, and he spied the company of Jehu as he came, and said, I see a company. And Joram said, Take an horseman, and send to meet them, and let him say, Is it peace?
 
+**HEB** וְהַצֹּפֶה֩ עֹמֵ֨ד עַֽל־הַמִּגְדָּ֜ל בְּיִזְרְעֶ֗אל וַיַּ֞רְא אֶת־שִׁפְעַ֤ת יֵהוּא֙ בְּבֹא֔וֹ וַיֹּ֕אמֶר שִׁפְעַ֖ת אֲנִ֣י רֹאֶ֑ה וַיֹּ֣אמֶר יְהוֹרָ֗ם קַ֥ח רַכָּ֛ב וּֽשְׁלַ֥ח לִקְרָאתָ֖ם וְיֹאמַ֥ר הֲשָׁלֽוֹם׃
+
+**JPS** Now the watchman stood on the tower in Jezreel, and he spied the company of Jehu as he came, and said: 'I see a company.' And Joram said: 'Take a horseman, and send to meet them, and let him say: Is it peace?'
+
 ## 18
 
 **GRC** καὶ ἐπορεύθη ἐπιβάτης ἵππου εἰς ἀπαντὴν αὐτῶν καὶ εἶπεν Τάδε λέγει ὁ βασιλεὺς Ἦ εἰρήνη; καὶ εἶπεν Εἰού Τί σοι και εἰρήνῃ; ἐπίστρεφε εἰς τὰ ὀπίσω μου. καὶ ἀπήγγειλεν ὁ σκοπὸς λέγων Ἦλθεν ὁ ἄγγελος ἕως αὐτῶν καὶ οὐκ ἀνέστρεψεν.
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Υπήγε λοιπόν επιβάτης ίππου εις συνάντησιν αυτού και είπεν, Ούτω λέγει ο βασιλεύς· Ειρήνη; Και είπεν ο Ιηού, Τι σε μέλει περί ειρήνης; στρέψον οπίσω μου. Και ο σκοπός απήγγειλε, λέγων, Ο μηνυτής ήλθε μέχρις αυτών και δεν επέστρεψε.
 
 **KJV** So there went one on horseback to meet him, and said, Thus saith the king, Is it peace? And Jehu said, What hast thou to do with peace? turn thee behind me. And the watchman told, saying, The messenger came to them, but he cometh not again.
+
+**HEB** וַיֵּלֶךְ֩ רֹכֵ֨ב הַסּ֜וּס לִקְרָאת֗וֹ וַיֹּ֙אמֶר֙ כֹּֽה־אָמַ֤ר הַמֶּ֙לֶךְ֙ הֲשָׁל֔וֹם וַיֹּ֧אמֶר יֵה֛וּא מַה־לְּךָ֥ וּלְשָׁל֖וֹם סֹ֣ב אֶֽל־אַחֲרָ֑י וַיַּגֵּ֤ד הַצֹּפֶה֙ לֵאמֹ֔ר בָּֽא־הַמַּלְאָ֥ךְ עַד־הֵ֖ם וְלֹֽא־שָֽׁב׃
+
+**JPS** So there went one on horseback to meet him, and said: 'Thus saith the king: Is it peace?' And Jehu said: 'What hast thou to do with peace? turn thee behind me.' And the watchman told, saying: 'The messenger came to them, but he cometh not back.'
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then he sent out a second on horseback, which came to them, and said, Thus saith the king, Is it peace? And Jehu answered, What hast thou to do with peace? turn thee behind me.
 
+**HEB** וַיִּשְׁלַ֗ח רֹכֵ֣ב סוּס֮ שֵׁנִי֒ וַיָּבֹ֣א אֲלֵהֶ֔ם וַיֹּ֛אמֶר כֹּֽה־אָמַ֥ר הַמֶּ֖לֶךְ שָׁל֑וֹם וַיֹּ֧אמֶר יֵה֛וּא מַה־לְּךָ֥ וּלְשָׁל֖וֹם סֹ֥ב אֶֽל־אַחֲרָֽי׃
+
+**JPS** Then he sent out a second on horseback, who came to them, and said: 'Thus saith the king: Is it peace?' And Jehu answered: `What hast thou to do with peace? turn thee behind me.'
+
 ## 20
 
 **GRC** καὶ ἀπήγγειλεν ὁ σκοπὸς λέγων Ἦλθεν ἕως αὐτῶν καὶ οὐκ ἀνέστρεψεν· καὶ ὁ ἄγων ἦγεν τὸν Εἰοὺ υἱὸν Ναμεσσείου, ὅτι ἐν παραλλαγῇ ἐγένετο.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και απήγγειλεν ο σκοπός, λέγων, Ήλθε μέχρις αυτών και δεν επέστρεψεν· η δε πορεία είναι ως η πορεία του Ιηού υιού του Νιμσί· διότι οδεύει μανιωδώς.
 
 **KJV** And the watchman told, saying, He came even unto them, and cometh not again: and the driving is like the driving of Jehu the son of Nimshi; for he driveth furiously.
+
+**HEB** וַיַּגֵּ֤ד הַצֹּפֶה֙ לֵאמֹ֔ר בָּ֥א עַד־אֲלֵיהֶ֖ם וְלֹֽא־שָׁ֑ב וְהַמִּנְהָ֗ג כְּמִנְהַג֙ יֵה֣וּא בֶן־נִמְשִׁ֔י כִּ֥י בְשִׁגָּע֖וֹן יִנְהָֽג׃
+
+**JPS** And the watchman told, saying: 'He came even unto them, and cometh not back; and the driving is like the driving of Jehu the son of Nimshi; for he driveth furiously.'
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Joram said, Make ready. And his chariot was made ready. And Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out against Jehu, and met him in the portion of Naboth the Jezreelite.
 
+**HEB** וַיֹּ֤אמֶר יְהוֹרָם֙ אֱסֹ֔ר וַיֶּאְסֹ֖ר רִכְבּ֑וֹ וַיֵּצֵ֣א יְהוֹרָ֣ם מֶֽלֶךְ־יִ֠שְׂרָאֵל וַאֲחַזְיָ֨הוּ מֶֽלֶךְ־יְהוּדָ֜ה אִ֣ישׁ בְּרִכְבּ֗וֹ וַיֵּֽצְאוּ֙ לִקְרַ֣את יֵה֔וּא וַיִּמְצָאֻ֔הוּ בְּחֶלְקַ֖ת נָב֥וֹת הַיִּזְרְעֵאלִֽי׃
+
+**JPS** And Joram said: 'Make ready.' And they made ready his chariot. And Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out to meet Jehu, and found him in the portion of Naboth the Jezreelite.
+
 ## 22
 
 **GRC** καὶ ἐγένετο ὡς εἶδεν Ἰωρὰμ τὸν Εἰού, καὶ εἶπεν Ἦ εἰρήνη, Εἰού; καὶ εἶπεν Εἰού Τί εἰρήνη; ἔτι αἱ πορνεῖαι Ἰεζάβελ τῆς μητρός σου καὶ τὰ φάρμακα αὐτῆς τὰ πολλά.
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ως είδεν ο Ιωράμ τον Ιηού, είπεν, Ειρήνη, Ιηού; Ο δε απεκρίθη, Τι ειρήνη, ενόσω πληθύνονται αι πορνείαι της Ιεζάβελ της μητρός σου και αι μαγείαι αυτής;
 
 **KJV** And it came to pass, when Joram saw Jehu, that he said, Is it peace, Jehu? And he answered, What peace, so long as the whoredoms of thy mother Jezebel and her witchcrafts are so many?
+
+**HEB** וַיְהִ֗י כִּרְא֤וֹת יְהוֹרָם֙ אֶת־יֵה֔וּא וַיֹּ֖אמֶר הֲשָׁל֣וֹם יֵה֑וּא וַיֹּ֙אמֶר֙ מָ֣ה הַשָּׁל֔וֹם עַד־זְנוּנֵ֞י אִיזֶ֧בֶל אִמְּךָ֛ וּכְשָׁפֶ֖יהָ הָרַבִּֽים׃
+
+**JPS** And it came to pass, when Joram saw Jehu, that he said: 'Is it peace, Jehu?' And he answered: 'What peace, so long as the harlotries of thy mother Jezebel and her witchcrafts are so many?'
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Joram turned his hands, and fled, and said to Ahaziah, There is treachery, O Ahaziah.
 
+**HEB** וַיַּהֲפֹ֧ךְ יְהוֹרָ֛ם יָדָ֖יו וַיָּנֹ֑ס וַיֹּ֥אמֶר אֶל־אֲחַזְיָ֖הוּ מִרְמָ֥ה אֲחַזְיָֽה׃
+
+**JPS** And Joram turned his hands, and fled, and said to Ahaziah: `There is treachery, O Ahaziah.'
+
 ## 24
 
 **GRC** καὶ ἔπλησεν Εἰοὺ τὴν χεῖρα αὐτοῦ ἐν τῷ τόξῳ καὶ ἐπάταξεν τὸν Ἰωρὰμ ἀνὰ μέσον τῶν βραχιόνων αὐτοῦ, καὶ ἐξῆλθεν τὸ βέλος αὐτοῦ διὰ τῆς καρδίας αὐτοῦ, καὶ ἔκαμψεν ἐπὶ τὰ γόνατα αὐτοῦ.
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και δράξας ο Ιηού το τόξον αυτού, επάταξε τον Ιωράμ μεταξύ των βραχιόνων αυτού· και το βέλος εξήλθε διά της καρδίας αυτού. Ο δε εκάμφθη εν τη αμάξη αυτού.
 
 **KJV** And Jehu drew a bow with his full strength, and smote Jehoram between his arms, and the arrow went out at his heart, and he sunk down in his chariot.
+
+**HEB** וְיֵה֞וּא מִלֵּ֧א יָד֣וֹ בַקֶּ֗שֶׁת וַיַּ֤ךְ אֶת־יְהוֹרָם֙ בֵּ֣ין זְרֹעָ֔יו וַיֵּצֵ֥א הַחֵ֖צִי מִלִּבּ֑וֹ וַיִּכְרַ֖ע בְּרִכְבּֽוֹ׃
+
+**JPS** And Jehu drew his bow with his full strength, and smote Joram between his arms, and the arrow went out at his heart, and he sunk down in his chariot.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then said Jehu to Bidkar his captain, Take up, and cast him in the portion of the field of Naboth the Jezreelite: for remember how that, when I and thou rode together after Ahab his father, the Lord laid this burden upon him;
 
+**HEB** וַיֹּ֗אמֶר אֶל־בִּדְקַר֙ שלשה שָֽׁלִשׁ֔וֹ שָׂ֚א הַשְׁלִכֵ֔הוּ בְּחֶלְקַ֕ת שְׂדֵ֖ה נָב֣וֹת הַיִּזְרְעֵאלִ֑י כִּֽי־זְכֹ֞ר אֲנִ֣י וָאַ֗תָּה אֵ֣ת רֹכְבִ֤ים צְמָדִים֙ אַֽחֲרֵי֙ אַחְאָ֣ב אָבִ֔יו וַֽיהוָה֙ נָשָׂ֣א עָלָ֔יו אֶת־הַמַּשָּׂ֖א הַזֶּֽה׃
+
+**JPS** Then said Jehu to Bidkar his captain: 'Take up, and cast him in the portion of the field of Naboth the Jezreelite; for remember how that, when I and thou rode together after Ahab his father, HaShem pronounced this burden against him:
+
 ## 26
 
 **GRC** Εἰ μὴ τὰ αἵματα Ναβουθαὶ καὶ τὰ αἵματα τῶν υἱῶν αὐτοῦ εἶδον ἐχθές, φησὶν Κύριος· καὶ ἀνταποδώσω αὐτῷ ἐν τῇ μερίδι ταύτῃ, φησὶν Κυρίος. καὶ νῦν ἄρας δὴ ῥίψον αὐτὸν ἐν τῇ μερίδι κατὰ τὸ ῥῆμα Κύριου.
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ναι, είδον χθές τα αίματα του Ναβουθαί και τα αίματα των υιών αυτού, λέγει Κύριος· και θέλω κάμει εις σε ανταπόδοσιν εν τη μερίδι ταύτη, λέγει Κύριος·-τώρα λοιπόν σήκωσον και ρίψον αυτόν εις την μερίδα ταύτην κατά τον λόγον του Κυρίου.
 
 **KJV** Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the Lord; and I will requite thee in this plat, saith the Lord. Now therefore take and cast him into the plat of ground, according to the word of the Lord.
+
+**HEB** אִם־לֹ֡א אֶת־דְּמֵ֣י נָבוֹת֩ וְאֶת־דְּמֵ֨י בָנָ֜יו רָאִ֤יתִי אֶ֙מֶשׁ֙ נְאֻם־יְהוָ֔ה וְשִׁלַּמְתִּ֥י לְךָ֛ בַּחֶלְקָ֥ה הַזֹּ֖את נְאֻם־יְהוָ֑ה וְעַתָּ֗ה שָׂ֧א הַשְׁלִכֵ֛הוּ בַּחֶלְקָ֖ה כִּדְבַ֥ר יְהוָֽה׃
+
+**JPS** Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith HaShem; and I will requite thee in this plot, saith HaShem. Now therefore take and cast him into the plot of ground, according to the word of HaShem.'
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. And Jehu followed after him, and said, Smite him also in the chariot. And they did so at the going up to Gur, which is by Ibleam. And he fled to Megiddo, and died there.
 
+**HEB** וַאֲחַזְיָ֤ה מֶֽלֶךְ־יְהוּדָה֙ רָאָ֔ה וַיָּ֕נָס דֶּ֖רֶךְ בֵּ֣ית הַגָּ֑ן וַיִּרְדֹּ֨ף אַחֲרָ֜יו יֵה֗וּא וַ֠יֹּאמֶר גַּם־אֹת֞וֹ הַכֻּ֣הוּ אֶל־הַמֶּרְכָּבָ֗ה בְּמַֽעֲלֵה־גוּר֙ אֲשֶׁ֣ר אֶֽת־יִבְלְעָ֔ם וַיָּ֥נָס מְגִדּ֖וֹ וַיָּ֥מָת שָֽׁם׃
+
+**JPS** But when Ahaziah the king of Judah saw this, he fled by the way of the garden-house. And Jehu followed after him, and said: 'Smite him also in the chariot'; and they smote him at the ascent of Gur, which is by Ibleam. And he fled to Megiddo, and died there.
+
 ## 28
 
 **GRC** καὶ ἐπεβίβασαν αὐτὸν οἱ παῖδες αὐτοῦ ἐπὶ τὸ ἅρμα καὶ ἤγαγον αὐτὸν εἰς Ἰερουσαλήμ, καὶ ἔθαψαν αὐτὸν ἐν τῷ τάφῳ αὐτοῦ ἐν πόλει Δαυείδ.
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έφεραν αυτόν οι δούλοι αυτού επί αμάξης εις Ιερουσαλήμ, και έθαψαν αυτόν εν τω τάφω αυτού, μετά των πατέρων αυτού, εν τη πόλει Δαβίδ.
 
 **KJV** And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.
+
+**HEB** וַיַּרְכִּ֧בוּ אֹת֛וֹ עֲבָדָ֖יו יְרוּשָׁלָ֑͏ְמָה וַיִּקְבְּר֨וּ אֹת֧וֹ בִקְבֻרָת֛וֹ עִם־אֲבֹתָ֖יו בְּעִ֥יר דָּוִֽד׃
+
+**JPS** And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.
 
 ## 29
 
@@ -241,6 +355,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And in the eleventh year of Joram the son of Ahab began Ahaziah to reign over Judah.
 
+**HEB** וּבִשְׁנַת֙ אַחַ֣ת עֶשְׂרֵ֣ה שָׁנָ֔ה לְיוֹרָ֖ם בֶּן־אַחְאָ֑ב מָלַ֥ךְ אֲחַזְיָ֖ה עַל־יְהוּדָֽה׃
+
+**JPS** And in the eleventh year of Joram the son of Ahab began Ahaziah to reign over Judah.
+
 ## 30
 
 **GRC** Καὶ ἦλθεν Εἰοὺ ἐπὶ Ἰσραήλ· καὶ Ἰεζάβελ ἤκουσεν καὶ ἐστιμίσατο τοὺς ὀφθαλμοὺς αὐτῆς καὶ ἠγάθυνεν τὴν κεφαλὴν αὐτῆς, καὶ διέκυψεν διὰ τῆς θυρίδος.
@@ -248,6 +366,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ήλθεν ο Ιηού εις Ιεζραέλ, και ακούσασα η Ιεζάβελ, έβαψε τους οφθαλμούς αυτής και εκαλλώπισε την κεφαλήν αυτής και διέκυψε διά του παραθύρου.
 
 **KJV** And when Jehu was come to Jezreel, Jezebel heard of it; and she painted her face, and tired her head, and looked out at a window.
+
+**HEB** וַיָּב֥וֹא יֵה֖וּא יִזְרְעֶ֑אלָה וְאִיזֶ֣בֶל שָׁמְעָ֗ה וַתָּ֨שֶׂם בַּפּ֤וּךְ עֵינֶ֙יהָ֙ וַתֵּ֣יטֶב אֶת־רֹאשָׁ֔הּ וַתַּשְׁקֵ֖ף בְּעַ֥ד הַחַלּֽוֹן׃
+
+**JPS** And when Jehu was come to Jezreel, Jezebel heard of it; and she painted her eyes, and attired her head, and looked out at the window.
 
 ## 31
 
@@ -257,6 +379,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And as Jehu entered in at the gate, she said, Had Zimri peace, who slew his master?
 
+**HEB** וְיֵה֖וּא בָּ֣א בַשָּׁ֑עַר וַתֹּ֣אמֶר הֲשָׁל֔וֹם זִמְרִ֖י הֹרֵ֥ג אֲדֹנָֽיו׃
+
+**JPS** And as Jehu entered in at the gate, she said: 'Is it peace, thou Zimri, thy master's murderer?'
+
 ## 32
 
 **GRC** καὶ ἐπῆρεν τὸ πρόσωπον αὐτοῦ εἰς τὴν θυρίδα καὶ εἶδεν αὐτήν, καὶ εἶπεν Τίς εἶ σύ; κατάβηθι μετ᾽ ἐμοῦ· καὶ κατέκυψαν πρὸς αὐτὸν δύο εὐνοῦχοι.
@@ -264,6 +390,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο δε, υψώσας το πρόσωπον αυτού προς το παράθυρον, είπε, Τις είναι μετ' εμού; τις; Και έκυψαν προς αυτόν δύο τρεις ευνούχοι.
 
 **KJV** And he lifted up his face to the window, and said, Who is on my side? who? And there looked out to him two or three eunuchs.
+
+**HEB** וַיִּשָּׂ֤א פָנָיו֙ אֶל־הַ֣חַלּ֔וֹן וַיֹּ֕אמֶר מִ֥י אִתִּ֖י מִ֑י וַיַּשְׁקִ֣יפוּ אֵלָ֔יו שְׁנַ֥יִם שְׁלֹשָׁ֖ה סָרִיסִֽים׃
+
+**JPS** And he lifted up his face to the window, and said: 'Who is on my side? who?' And there looked out to him two or three officers.
 
 ## 33
 
@@ -273,6 +403,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he said, Throw her down. So they threw her down: and some of her blood was sprinkled on the wall, and on the horses: and he trode her under foot.
 
+**HEB** וַיֹּ֥אמֶר שמטהו שִׁמְט֖וּהָ וַֽיִּשְׁמְט֑וּהָ וַיִּ֨ז מִדָּמָ֧הּ אֶל־הַקִּ֛יר וְאֶל־הַסּוּסִ֖ים וַֽיִּרְמְסֶֽנָּה׃
+
+**JPS** And he said: 'Throw her down.' So they threw her down; and some of her blood was sprinkled on the wall, and on the horses; and she was trodden under foot.
+
 ## 34
 
 **GRC** καὶ εἰσῆλθεν καὶ ἔφαγεν καὶ ἔπιεν, καὶ εἶπεν Ἐπισκέψασθε δὴ τὴν κατηραμένην ταύτην καὶ θάψατε αὐτήν, ὅτι θυγάτηρ βασιλέως ἐστίν.
@@ -280,6 +414,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και αφού εισήλθε και έφαγε και έπιεν, είπεν, Υπάγετε να ίδητε τώρα την κατηραμένην ταύτην, και θάψατε αυτήν· διότι είναι θυγάτηρ βασιλέως.
 
 **KJV** And when he was come in, he did eat and drink, and said, Go, see now this cursed woman, and bury her: for she is a king’s daughter.
+
+**HEB** וַיָּבֹ֖א וַיֹּ֣אכַל וַיֵּ֑שְׁתְּ וַיֹּ֗אמֶר פִּקְדוּ־נָ֞א אֶת־הָאֲרוּרָ֤ה הַזֹּאת֙ וְקִבְר֔וּהָ כִּ֥י בַת־מֶ֖לֶךְ הִֽיא׃
+
+**JPS** And when he was come in, he did eat and drink; and he said: 'Look now after this cursed woman, and bury her; for she is a king's daughter.'
 
 ## 35
 
@@ -289,6 +427,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they went to bury her: but they found no more of her than the skull, and the feet, and the palms of her hands.
 
+**HEB** וַיֵּלְכ֖וּ לְקָבְרָ֑הּ וְלֹא־מָ֣צְאוּ בָ֗הּ כִּ֧י אִם־הַגֻּלְגֹּ֛לֶת וְהָרַגְלַ֖יִם וְכַפּ֥וֹת הַיָּדָֽיִם׃
+
+**JPS** And they went to bury her; but they found no more of her than the skull, and the feet, and the palms of her hands.
+
 ## 36
 
 **GRC** καὶ ἐπέστρεψαν καὶ ἀνήγγειλαν αὐτῷ, καὶ εἶπεν Λόγος Κυρίου ὃν ἐλάλησεν ἐν χειρὶ Ἠλειοὺ τοῦ Θεσβείτου λέγων Ἐν τῇ μερίδι Ἰσραὴλ καταφάγονται οἱ κύνες τὰς σάρκας Ἰεζάβελ.
@@ -297,6 +439,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Wherefore they came again, and told him. And he said, This is the word of the Lord, which he spake by his servant Elijah the Tishbite, saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel:
 
+**HEB** וַיָּשֻׁבוּ֮ וַיַּגִּ֣ידוּ לוֹ֒ וַיֹּ֙אמֶר֙ דְּבַר־יְהוָ֣ה ה֔וּא אֲשֶׁ֣ר דִּבֶּ֗ר בְּיַד־עַבְדּ֛וֹ אֵלִיָּ֥הוּ הַתִּשְׁבִּ֖י לֵאמֹ֑ר בְּחֵ֣לֶק יִזְרְעֶ֔אל יֹאכְל֥וּ הַכְּלָבִ֖ים אֶת־בְּשַׂ֥ר אִיזָֽבֶל׃
+
+**JPS** Wherefore they came back, and told him. And he said: 'This is the word of HaShem, which He spoke by His servant Elijah the Tishbite, saying: In the portion of Jezreel shall the dogs eat the flesh of Jezebel;
+
 ## 37
 
 **GRC** καὶ ἔσται τὸ θνησιμαῖον Ἰεζάβελ ὡς κοπρία ἐπὶ προσώπου τοῦ ἀγροῦ ἐν τῇ μερίδι Ἰσραήλ, ὥστε μὴ εἰπεῖν αὐτούς Ἰεζάβελ.
@@ -304,6 +450,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και το πτώμα της Ιεζάβελ θέλει είσθαι ως κοπρία επί προσώπου του αγρού εν τη μερίδι Ιεζραέλ, ώστε να μη είπωσιν, Αύτη είναι η Ιεζάβελ.
 
 **KJV** And the carcase of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; so that they shall not say, This is Jezebel.
+
+**HEB** והית וְֽהָיְתָ֞ה נִבְלַ֣ת אִיזֶ֗בֶל כְּדֹ֛מֶן עַל־פְּנֵ֥י הַשָּׂדֶ֖ה בְּחֵ֣לֶק יִזְרְעֶ֑אל אֲשֶׁ֥ר לֹֽא־יֹאמְר֖וּ זֹ֥את אִיזָֽבֶל׃
+
+**JPS** and the carcass of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; so that they shall not say: This is Jezebel.'
 
 ## Notes
 

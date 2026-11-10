@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** A Psalm of David. I will praise thee with my whole heart: before the gods will I sing praise unto thee.
 
+**HEB** לְדָוִ֨ד ׀ אוֹדְךָ֥ בְכָל־לִבִּ֑י נֶ֖גֶד אֱלֹהִ֣ים אֲזַמְּרֶֽךָּ׃
+
+**JPS** A Psalm of David. I will give Thee thanks with my whole heart, in the presence of the mighty will I sing praises unto Thee.
+
 ## 2
 
 **GRC** προσκυνήσω πρὸς ναὸν ἅγιόν σου, καὶ ἐξομολογήσομαι τῷ ὀνόματί σου ἐπὶ τῷ ἐλέει σου καὶ τῇ ἀληθείᾳ σου, ὅτι ἐμεγάλυνας ἐπὶ πᾶν ὄνομα τὸ ἅγιόν σου.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Θέλω προσκυνήσει προς τον ναόν τον άγιόν σου· και θέλω δοξολογήσει το όνομά σου διά το έλεός σου και διά την αλήθειάν σου· διότι εμεγάλυνας τον λόγον σου υπέρ πάσαν την φήμην σου.
 
 **KJV** I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.
+
+**HEB** אֶשְׁתַּחֲוֶ֨ה אֶל־הֵיכַ֪ל קָדְשְׁךָ֡ וְא֘וֹדֶ֤ה אֶת־שְׁמֶ֗ךָ עַל־חַסְדְּךָ֥ וְעַל־אֲמִתֶּ֑ךָ כִּֽי־הִגְדַּ֥לְתָּ עַל־כָּל־שִׁ֝מְךָ֗ אִמְרָתֶֽךָ׃
+
+**JPS** I will bow down toward Thy holy temple, and give thanks unto Thy name for Thy mercy and for Thy truth; for Thou hast magnified Thy word above all Thy name.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul.
 
+**HEB** בְּי֣וֹם קָ֭רָֽאתִי וַֽתַּעֲנֵ֑נִי תַּרְהִבֵ֖נִי בְנַפְשִׁ֣י עֹֽז׃
+
+**JPS** In the day that I called, Thou didst answer me; Thou didst encourage me in my soul with strength.
+
 ## 4
 
 **GRC** ἐξομολογησάσθωσάν σοι, Κύριε, πάντες οἱ βασιλεῖς τῆς γῆς, ὅτι ἤκουσαν πάντα τὰ ῥήματα τοῦ στόματός σου·
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Θέλουσι σε δοξολογήσει, Κύριε, πάντες οι βασιλείς της γης, όταν ακούσωσι τους λόγους του στόματός σου·
 
 **KJV** All the kings of the earth shall praise thee, O Lord, when they hear the words of thy mouth.
+
+**HEB** יוֹד֣וּךָ יְ֭הוָה כָּל־מַלְכֵי־אָ֑רֶץ כִּ֥י שָׁ֝מְע֗וּ אִמְרֵי־פִֽיךָ׃
+
+**JPS** All the kings of the earth shall give Thee thanks, O HaShem, for they have heard the words of Thy mouth.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Yea, they shall sing in the ways of the Lord: for great is the glory of the Lord.
 
+**HEB** וְ֭יָשִׁירוּ בְּדַרְכֵ֣י יְהוָ֑ה כִּ֥י גָ֝ד֗וֹל כְּב֣וֹד יְהוָֽה׃
+
+**JPS** Yea, they shall sing of the ways of HaShem; for great is the glory of HaShem.
+
 ## 6
 
 **GRC** ὅτι ὑψηλὸς Κύριος, καὶ τὰ ταπεινὰ ἐφορᾷ, καὶ τὰ ὑψηλὰ ἀπὸ μακρόθεν γινώσκει.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** ότι ο Κύριος είναι υψηλός και επιβλέπει επί τον ταπεινόν· τον δε υψηλόφρονα γινώσκει μακρόθεν.
 
 **KJV** Though the Lord be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.
+
+**HEB** כִּי־רָ֣ם יְ֭הוָה וְשָׁפָ֣ל יִרְאֶ֑ה וְ֝גָבֹ֗הַּ מִמֶּרְחָ֥ק יְיֵדָֽע׃
+
+**JPS** For though HaShem be high, yet regardeth He the lowly, and the haughty He knoweth from afar.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.
 
+**HEB** אִם־אֵלֵ֤ךְ ׀ בְּקֶ֥רֶב צָרָ֗ה תְּחַ֫יֵּ֥נִי עַ֤ל אַ֣ף אֹ֭יְבַי תִּשְׁלַ֣ח יָדֶ֑ךָ וְת֖וֹשִׁיעֵ֣נִי יְמִינֶֽךָ׃
+
+**JPS** Though I walk in the midst of trouble, Thou quickenest me; Thou stretchest forth Thy hand against the wrath of mine enemies, and Thy right hand doth save me.
+
 ## 8
 
 **GRC** Κύριε, ἀνταποδώσεις ὑπὲρ ἐμοῦ· Κύριε, τὸ ἔλεός σου εἰς τὸν αἰῶνα, Κύριε, τὰ ἔργα τῶν χειρῶν σου μὴ παρῇς.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο Κύριος θέλει εκτελέσει τα περί εμού· Κύριε, το έλεός σου μένει εις τον αιώνα· τα έργα των χειρών σου μη παραβλέψης.
 
 **KJV** The Lord will perfect that which concerneth me: thy mercy, O Lord, endureth for ever: forsake not the works of thine own hands.
+
+**HEB** יְהוָה֮ יִגְמֹ֢ר בַּ֫עֲדִ֥י יְ֭הוָה חַסְדְּךָ֣ לְעוֹלָ֑ם מַעֲשֵׂ֖י יָדֶ֣יךָ אַל־תֶּֽרֶף׃
+
+**JPS** HaShem will accomplish that which concerneth me; Thy mercy, O HaShem, endureth for ever; forsake not the work of Thine own hands.
 
 ## Notes
 

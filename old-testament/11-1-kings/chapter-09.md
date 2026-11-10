@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And it came to pass, when Solomon had finished the building of the house of the Lord, and the king’s house, and all Solomon’s desire which he was pleased to do,
 
+**HEB** וַיְהִי֙ כְּכַלּ֣וֹת שְׁלֹמֹ֔ה לִבְנ֥וֹת אֶת־בֵּית־יְהוָ֖ה וְאֶת־בֵּ֣ית הַמֶּ֑לֶךְ וְאֵת֙ כָּל־חֵ֣שֶׁק שְׁלֹמֹ֔ה אֲשֶׁ֥ר חָפֵ֖ץ לַעֲשֽׂוֹת׃
+
+**JPS** And it came to pass, when Solomon had finished the building of the house of HaShem, and the king's house, and all Solomon's delight which he was pleased to do,
+
 ## 2
 
 **GRC** καὶ ὤφθη Κύριος τῷ Σαλωμὼν δεύτερον καθὼς ὤφθη ἐν Γαβαώθ,
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** εφάνη ο Κύριος εις τον Σολομώντα δευτέραν φοράν, καθώς εφάνη εις αυτόν εν Γαβαών.
 
 **KJV** That the Lord appeared to Solomon the second time, as he had appeared unto him at Gibeon.
+
+**HEB** וַיֵּרָ֧א יְהוָ֛ה אֶל־שְׁלֹמֹ֖ה שֵׁנִ֑ית כַּאֲשֶׁ֛ר נִרְאָ֥ה אֵלָ֖יו בְּגִבְעֽוֹן׃
+
+**JPS** that HaShem appeared to Solomon the second time, as He had appeared unto him at Gibeon.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the Lord said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually.
 
+**HEB** וַיֹּ֨אמֶר יְהוָ֜ה אֵלָ֗יו שָׁ֠מַעְתִּי אֶת־תְּפִלָּתְךָ֣ וְאֶת־תְּחִנָּתְךָ֮ אֲשֶׁ֣ר הִתְחַנַּ֣נְתָּה לְפָנַי֒ הִקְדַּ֗שְׁתִּי אֶת־הַבַּ֤יִת הַזֶּה֙ אֲשֶׁ֣ר בָּנִ֔תָה לָשֽׂוּם־שְׁמִ֥י שָׁ֖ם עַד־עוֹלָ֑ם וְהָי֨וּ עֵינַ֧י וְלִבִּ֛י שָׁ֖ם כָּל־הַיָּמִֽים׃
+
+**JPS** And HaShem said unto him: 'I have heard thy prayer and thy supplication, that thou hast made before Me: I have hallowed this house, which thou hast built, to put My name there for ever; and Mine eyes and My heart shall be there perpetually.
+
 ## 4
 
 **GRC** καὶ σὺ ἐὰν πορευθῇς ἐνώπιον ἐμοῦ καθὼς ἐπορεύθη Δαυεὶδ ὁ πατήρ σου ἐν ὁσιότητι καρδίας καὶ ἐν εὐθύτητι καὶ τοῦ ποιεῖν κατὰ πάντα ἃ ἐνετειλάμην αὐτῷ, καὶ τὰ προστάγματά μου καὶ τὰς ἐντολάς μου φυλάξῃς·
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και συ εάν περιπατήσης ενώπιόν μου, καθώς περιεπάτησε Δαβίδ ο πατήρ σου, εν ακεραιότητι καρδίας και εν ευθύτητι, ώστε να κάμνης κατά πάντα όσα προσέταξα εις σε, να φυλάττης τα διατάγματά μου και τας κρίσεις μου,
 
 **KJV** And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, and wilt keep my statutes and my judgments:
+
+**HEB** וְאַתָּ֞ה אִם־תֵּלֵ֣ךְ לְפָנַ֗י כַּאֲשֶׁ֨ר הָלַ֜ךְ דָּוִ֤ד אָבִ֙יךָ֙ בְּתָם־לֵבָ֣ב וּבְיֹ֔שֶׁר לַעֲשׂ֕וֹת כְּכֹ֖ל אֲשֶׁ֣ר צִוִּיתִ֑יךָ חֻקַּ֥י וּמִשְׁפָּטַ֖י תִּשְׁמֹֽר׃
+
+**JPS** And as for thee, if thou wilt walk before Me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, and wilt keep My statutes and Mine ordinances;
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel.
 
+**HEB** וַהֲקִ֨מֹתִ֜י אֶת־כִּסֵּ֧א מַֽמְלַכְתְּךָ֛ עַל־יִשְׂרָאֵ֖ל לְעֹלָ֑ם כַּאֲשֶׁ֣ר דִּבַּ֗רְתִּי עַל־דָּוִ֤ד אָבִ֙יךָ֙ לֵאמֹ֔ר לֹֽא־יִכָּרֵ֤ת לְךָ֙ אִ֔ישׁ מֵעַ֖ל כִּסֵּ֥א יִשְׂרָאֵֽל׃
+
+**JPS** then I will establish the throne of thy kingdom over Israel for ever; according as I promised to David thy father, saying: There shall not fail thee a man upon the throne of Israel.
+
 ## 6
 
 **GRC** ἐὰν δὲ ἀποστραφέντες ἀποστραφῆτε ὑμεῖς καὶ τὰ τέκνα ὑμῶν ἀπ᾽ ἐμοῦ, καὶ μὴ φυλάξητε τὰς ἐντολάς μου καὶ τὰ προστάγματά μου ἃ ἔδωκεν Μωυσῆς ἐνώπιον ὑμῶν, καὶ πορευθῆτε καὶ δουλεύσητε θεοῖς ἑτέροις καὶ προσκυνήσητε αὐτοῖς·
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εάν ποτέ στραφήτε απ' εμού, σεις ή τα τέκνα σας, και δεν φυλάξητε τας εντολάς μου, τα διατάγματά μου, τα οποία έθεσα έμπροσθέν σας, αλλά υπάγητε και λατρεύσητε άλλους θεούς και προσκυνήσητε αυτούς,
 
 **KJV** But if ye shall at all turn from following me, ye or your children, and will not keep my commandments and my statutes which I have set before you, but go and serve other gods, and worship them:
+
+**HEB** אִם־שׁ֨וֹב תְּשֻׁב֜וּן אַתֶּ֤ם וּבְנֵיכֶם֙ מֵֽאַחֲרַ֔י וְלֹ֤א תִשְׁמְרוּ֙ מִצְוֺתַ֣י חֻקֹּתַ֔י אֲשֶׁ֥ר נָתַ֖תִּי לִפְנֵיכֶ֑ם וַהֲלַכְתֶּ֗ם וַעֲבַדְתֶּם֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וְהִשְׁתַּחֲוִיתֶ֖ם לָהֶֽם׃
+
+**JPS** But if ye shall turn away from following Me, ye or your children, and not keep My commandments and My statutes which I have set before you, but shall go and serve other gods, and worship them;
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:
 
+**HEB** וְהִכְרַתִּ֣י אֶת־יִשְׂרָאֵ֗ל מֵעַ֨ל פְּנֵ֤י הָאֲדָמָה֙ אֲשֶׁ֣ר נָתַ֣תִּי לָהֶ֔ם וְאֶת־הַבַּ֙יִת֙ אֲשֶׁ֣ר הִקְדַּ֣שְׁתִּי לִשְׁמִ֔י אֲשַׁלַּ֖ח מֵעַ֣ל פָּנָ֑י וְהָיָ֧ה יִשְׂרָאֵ֛ל לְמָשָׁ֥ל וְלִשְׁנִינָ֖ה בְּכָל־הָעַמִּֽים׃
+
+**JPS** then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for My name, will I cast out of My sight; and Israel shall be a proverb and a by word among all peoples;
+
 ## 8
 
 **GRC** καὶ ὁ οἶκος οὗτος ἔσται ὁ ὑψηλός, πᾶς ὁ διαπορευόμενος δι᾽ αὐτοῦ ἐκστήσεται καὶ συριεῖ, καὶ ἐροῦσιν Ἕνεκα τίνος ἐποίησεν Κύριος οὕτως τῇ γῇ ταύτῃ καὶ τῷ οἴκῳ τούτῳ;
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Περί δε του οίκου τούτου, όστις έγεινε τόσον υψηλός, πας ο διαβαίνων πλησίον αυτού θέλει μένει έκθαμβος και θέλει κάμνει συριγμόν· και θέλουσι λέγει, Διά τι ο Κύριος έκαμεν ούτως εις την γην ταύτην και εις τον οίκον τούτον;
 
 **KJV** And at this house, which is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the Lord done thus unto this land, and to this house?
+
+**HEB** וְהַבַּ֤יִת הַזֶּה֙ יִהְיֶ֣ה עֶלְי֔וֹן כָּל־עֹבֵ֥ר עָלָ֖יו יִשֹּׁ֣ם וְשָׁרָ֑ק וְאָמְר֗וּ עַל־מֶ֨ה עָשָׂ֤ה יְהוָה֙ כָּ֔כָה לָאָ֥רֶץ הַזֹּ֖את וְלַבַּ֥יִת הַזֶּֽה׃
+
+**JPS** and this house which is so high shall become desolate, and every one that passeth by it shall be astonished, and shall hiss; and when they shall say: Why hath HaShem done thus unto this land, and to this house?
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they shall answer, Because they forsook the Lord their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore hath the Lord brought upon them all this evil.
 
+**HEB** וְאָמְר֗וּ עַל֩ אֲשֶׁ֨ר עָזְב֜וּ אֶת־יְהוָ֣ה אֱלֹהֵיהֶ֗ם אֲשֶׁ֨ר הוֹצִ֣יא אֶת־אֲבֹתָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַֽיַּחֲזִ֙קוּ֙ בֵּאלֹהִ֣ים אֲחֵרִ֔ים וישתחו וַיִּשְׁתַּחֲו֥וּ לָהֶ֖ם וַיַּעֲבְדֻ֑ם עַל־כֵּ֗ן הֵבִ֤יא יְהוָה֙ עֲלֵיהֶ֔ם אֵ֥ת כָּל־הָרָעָ֖ה הַזֹּֽאת׃
+
+**JPS** they shall be answered: Because they forsook HaShem their G-d, who brought forth their fathers out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them; therefore hath HaShem brought all this evil upon them.'
+
 ## 10
 
 **GRC** Εἴκοσι ἔτη ἐν οἷς οἰκοδόμησεν Σαλωμὼν τοὺς δύο οἴκους, τὸν οἶκον Κυρίου καὶ τὸν οἶκον τοῦ βασιλέως,
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εν δε τω τέλει των είκοσι ετών καθ' α ο Σολομών ωκοδόμησε τους δύο οίκους, τον οίκον του Κυρίου και τον οίκον του βασιλέως,
 
 **KJV** And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the Lord, and the king’s house,
+
+**HEB** וַיְהִ֗י מִקְצֵה֙ עֶשְׂרִ֣ים שָׁנָ֔ה אֲשֶׁר־בָּנָ֥ה שְׁלֹמֹ֖ה אֶת־שְׁנֵ֣י הַבָּתִּ֑ים אֶת־בֵּ֥ית יְהוָ֖ה וְאֶת־בֵּ֥ית הַמֶּֽלֶךְ׃
+
+**JPS** And it came to pass at the end of twenty years, wherein Solomon had built the two houses, the house of HaShem and the king's house--
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** (Now Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee.
 
+**HEB** חִירָ֣ם מֶֽלֶךְ־צֹ֠ר נִשָּׂ֨א אֶת־שְׁלֹמֹ֜ה בַּעֲצֵי֩ אֲרָזִ֨ים וּבַעֲצֵ֧י בְרוֹשִׁ֛ים וּבַזָּהָ֖ב לְכָל־חֶפְצ֑וֹ אָ֡ז יִתֵּן֩ הַמֶּ֨לֶךְ שְׁלֹמֹ֤ה לְחִירָם֙ עֶשְׂרִ֣ים עִ֔יר בְּאֶ֖רֶץ הַגָּלִֽיל׃
+
+**JPS** now Hiram the king of Tyre had furnished Solomon with cedar-trees and cypress-trees, and with gold, according to all his desire--that then king Solomon gave Hiram twenty cities in the land of Galilee.
+
 ## 12
 
 **GRC** καὶ ἐξῆλθεν Χειρὰμ ἐκ Τύρου καὶ ἐπορεύθη εἰς τὴν Γαλειλαίαν τοῦ ἰδεῖν τὰς πόλεις ἃς ἔδωκεν αὐτῷ Σαλωμών· καὶ οὐκ ἤρεσεν αὐτῷ.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εξήλθεν ο Χειράμ από της Τύρου διά να ίδη τας πόλεις, τας οποίας έδωκεν ο Σολομών εις αυτόν· και δεν ήρεσαν εις αυτόν.
 
 **KJV** And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not.
+
+**HEB** וַיֵּצֵ֤א חִירָם֙ מִצֹּ֔ר לִרְאוֹת֙ אֶת־הֶ֣עָרִ֔ים אֲשֶׁ֥ר נָתַן־ל֖וֹ שְׁלֹמֹ֑ה וְלֹ֥א יָשְׁר֖וּ בְּעֵינָֽיו׃
+
+**JPS** And Hiram came out from Tyre to see the cities which Solomon had given him: and they pleased him not.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And he said, What cities are these which thou hast given me, my brother? And he called them the land of Cabul unto this day.
 
+**HEB** וַיֹּ֕אמֶר מָ֚ה הֶעָרִ֣ים הָאֵ֔לֶּה אֲשֶׁר־נָתַ֥תָּה לִּ֖י אָחִ֑י וַיִּקְרָ֤א לָהֶם֙ אֶ֣רֶץ כָּב֔וּל עַ֖ד הַיּ֥וֹם הַזֶּֽה׃
+
+**JPS** And he said: 'What cities are these which thou hast given me, my brother?' And they were called the land of Cabul, unto this day.
+
 ## 14
 
 **GRC** καὶ ἤνεγκεν Χειρὰμ τῷ Σαλωμὼν ἑκατὸν καὶ εἴκοσι τάλαντα χρυσίου.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και απέστειλεν ο Χειράμ εις τον βασιλέα εκατόν είκοσι τάλαντα χρυσίου.
 
 **KJV** And Hiram sent to the king sixscore talents of gold.
+
+**HEB** וַיִּשְׁלַ֥ח חִירָ֖ם לַמֶּ֑לֶךְ מֵאָ֥ה וְעֶשְׂרִ֖ים כִּכַּ֥ר זָהָֽב׃
+
+**JPS** And Hiram sent to the king sixscore talents of gold.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And this is the reason of the levy which king Solomon raised; for to build the house of the Lord, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer.
 
+**HEB** וְזֶ֨ה דְבַר־הַמַּ֜ס אֲשֶֽׁר־הֶעֱלָ֣ה ׀ הַמֶּ֣לֶךְ שְׁלֹמֹ֗ה לִבְנוֹת֩ אֶת־בֵּ֨ית יְהוָ֤ה וְאֶת־בֵּיתוֹ֙ וְאֶת־הַמִּלּ֔וֹא וְאֵ֖ת חוֹמַ֣ת יְרוּשָׁלָ֑͏ִם וְאֶת־חָצֹ֥ר וְאֶת־מְגִדּ֖וֹ וְאֶת־גָּֽזֶר׃
+
+**JPS** And this is the account of the levy which king Solomon raised; to build the house of HaShem, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer.
+
 ## 16
 
 **GRC**
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διότι Φαραώ ο βασιλεύς Αιγύπτου είχεν αναβή και κυριεύσει την Γεζέρ και κατακαύσει αυτήν εν πυρί, και τους Χαναναίους τους κατοικούντας εν τη πόλει είχε φονεύσει και είχε δώσει αυτήν δώρον εις την θυγατέρα αυτού, την γυναίκα του Σολομώντος.
 
 **KJV** For Pharaoh king of Egypt had gone up, and taken Gezer, and burnt it with fire, and slain the Canaanites that dwelt in the city, and given it for a present unto his daughter, Solomon’s wife.
+
+**HEB** פַּרְעֹ֨ה מֶֽלֶךְ־מִצְרַ֜יִם עָלָ֗ה וַיִּלְכֹּ֤ד אֶת־גֶּ֙זֶר֙ וַיִּשְׂרְפָ֣הּ בָּאֵ֔שׁ וְאֶת־הַֽכְּנַעֲנִ֛י הַיֹּשֵׁ֥ב בָּעִ֖יר הָרָ֑ג וַֽיִּתְּנָהּ֙ שִׁלֻּחִ֔ים לְבִתּ֖וֹ אֵ֥שֶׁת שְׁלֹמֹֽה׃
+
+**JPS** Pharaoh king of Egypt had gone up, and taken Gezer, and burnt it with fire, and slain the Canaanites that dwelt in the city, and given it for a portion unto his daughter, Solomon's wife.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Solomon built Gezer, and Beth–horon the nether,
 
+**HEB** וַיִּ֤בֶן שְׁלֹמֹה֙ אֶת־גָּ֔זֶר וְאֶת־בֵּ֥ית חֹרֹ֖ן תַּחְתּֽוֹן׃
+
+**JPS** And Solomon built Gezer, and Beth-horon the nether,
+
 ## 18
 
 **GRC**
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και την Βααλάθ, και την Θαδμώρ εν τη ερήμω της γης,
 
 **KJV** And Baalath, and Tadmor in the wilderness, in the land,
+
+**HEB** וְאֶֽת־בַּעֲלָ֛ת וְאֶת־תמר תַּדְמֹ֥ר בַּמִּדְבָּ֖ר בָּאָֽרֶץ׃
+
+**JPS** and Baalath, and Tadmor in the wilderness, in the land,
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And all the cities of store that Solomon had, and cities for his chariots, and cities for his horsemen, and that which Solomon desired to build in Jerusalem, and in Lebanon, and in all the land of his dominion.
 
+**HEB** וְאֵ֨ת כָּל־עָרֵ֤י הַֽמִּסְכְּנוֹת֙ אֲשֶׁ֣ר הָי֣וּ לִשְׁלֹמֹ֔ה וְאֵת֙ עָרֵ֣י הָרֶ֔כֶב וְאֵ֖ת עָרֵ֣י הַפָּרָשִׁ֑ים וְאֵ֣ת ׀ חֵ֣שֶׁק שְׁלֹמֹ֗ה אֲשֶׁ֤ר חָשַׁק֙ לִבְנ֤וֹת בִּירוּשָׁלִַ֙ם֙ וּבַלְּבָנ֔וֹן וּבְכֹ֖ל אֶ֥רֶץ מֶמְשַׁלְתּֽוֹ׃
+
+**JPS** and all the store-cities that Solomon had, and the cities for his chariots, and the cities for his horsemen, and that which Solomon desired to build for his pleasure in Jerusalem, and in Lebanon, and in all the land of his dominion.
+
 ## 20
 
 **GRC**
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Πάντα δε τον λαόν τον εναπολειφθέντα εκ των Αμορραίων, των Χετταίων, των Φερεζαίων, των Ευαίων και των Ιεβουσαίων, οίτινες δεν ήσαν εκ των υιών Ισραήλ,
 
 **KJV** And all the people that were left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which were not of the children of Israel,
+
+**HEB** כָּל־הָ֠עָם הַנּוֹתָ֨ר מִן־הָאֱמֹרִ֜י הַחִתִּ֤י הַפְּרִזִּי֙ הַחִוִּ֣י וְהַיְבוּסִ֔י אֲשֶׁ֛ר לֹֽא־מִבְּנֵ֥י יִשְׂרָאֵ֖ל הֵֽמָּה׃
+
+**JPS** All the people that were left of the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites, who were not of the children of Israel;
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day.
 
+**HEB** בְּנֵיהֶ֗ם אֲשֶׁ֨ר נֹתְר֤וּ אַחֲרֵיהֶם֙ בָּאָ֔רֶץ אֲשֶׁ֧ר לֹֽא־יָכְל֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל לְהֽ͏ַחֲרִימָ֑ם וַיַּעֲלֵ֤ם שְׁלֹמֹה֙ לְמַס־עֹבֵ֔ד עַ֖ד הַיּ֥וֹם הַזֶּֽה׃
+
+**JPS** even their children that were left after them in the land, whom the children of Israel were not able utterly to destroy, of them did Solomon raise a levy of bondservants, unto this day.
+
 ## 22
 
 **GRC**
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Εκ δε των υιών Ισραήλ ο Σολομών δεν έκαμεν ουδένα δούλον· διότι ήσαν άνδρες πολεμισταί και θεράποντες αυτού και μεγιστάνες αυτού και ταξίαρχοι αυτού και άρχοντες των αμαξών αυτού και των ιππέων αυτού.
 
 **KJV** But of the children of Israel did Solomon make no bondmen: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.
+
+**HEB** וּמִבְּנֵי֙ יִשְׂרָאֵ֔ל לֹֽא־נָתַ֥ן שְׁלֹמֹ֖ה עָ֑בֶד כִּי־הֵ֞ם אַנְשֵׁ֣י הַמִּלְחָמָ֗ה וַעֲבָדָיו֙ וְשָׂרָ֣יו וְשָׁלִשָׁ֔יו וְשָׂרֵ֥י רִכְבּ֖וֹ וּפָרָשָֽׁיו׃
+
+**JPS** But of the children of Israel did Solomon make no bondservants; but they were the men of war, and his servants, and his princes, and his captains, and rulers of his chariots and of his horsemen.
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** These were the chief of the officers that were over Solomon’s work, five hundred and fifty, which bare rule over the people that wrought in the work.
 
+**HEB** אֵ֣לֶּה ׀ שָׂרֵ֣י הַנִּצָּבִ֗ים אֲשֶׁ֤ר עַל־הַמְּלָאכָה֙ לִשְׁלֹמֹ֔ה חֲמִשִּׁ֖ים וַחֲמֵ֣שׁ מֵא֑וֹת הָרֹדִ֣ים בָּעָ֔ם הָעֹשִׂ֖ים בַּמְּלָאכָֽה׃
+
+**JPS** These were the chief officers that were over Solomon's work, five hundred and fifty, who bore rule over the people that wrought in the work.
+
 ## 24
 
 **GRC**
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ανέβη δε η θυγάτηρ του Φαραώ εκ της πόλεως Δαβίδ εις τον οίκον αυτής, τον οποίον ο Σολομών ωκοδόμησε δι' αυτήν· τότε ωκοδόμησε την Μιλλώ.
 
 **KJV** But Pharaoh’s daughter came up out of the city of David unto her house which Solomon had built for her: then did he build Millo.
+
+**HEB** אַ֣ךְ בַּת־פַּרְעֹ֗ה עָֽלְתָה֙ מֵעִ֣יר דָּוִ֔ד אֶל־בֵּיתָ֖הּ אֲשֶׁ֣ר בָּֽנָה־לָ֑הּ אָ֖ז בָּנָ֥ה אֶת־הַמִּלּֽוֹא׃
+
+**JPS** But Pharaoh's daughter came up out of the city of David unto her house which Solomon had built for her; then did he build Millo.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the Lord, and he burnt incense upon the altar that was before the Lord. So he finished the house.
 
+**HEB** וְהֶעֱלָ֣ה שְׁלֹמֹ֡ה שָׁלֹשׁ֩ פְּעָמִ֨ים בַּשָּׁנָ֜ה עֹל֣וֹת וּשְׁלָמִ֗ים עַל־הַמִּזְבֵּ֙חַ֙ אֲשֶׁ֣ר בָּנָ֣ה לַיהוָ֔ה וְהַקְטֵ֣יר אִתּ֔וֹ אֲשֶׁ֖ר לִפְנֵ֣י יְהוָ֑ה וְשִׁלַּ֖ם אֶת־הַבָּֽיִת׃
+
+**JPS** And three times in a year did Solomon offer burnt-offerings and peace-offerings upon the altar which he built unto HaShem, offering thereby, upon the altar that was before HaShem. So he finished the house.
+
 ## 26
 
 **GRC** Καὶ ναῦν ὑπὲρ οὗ ἐποίησεν Σαλωμὼν ὁ βασιλεὺς ἐν Ἐμαεσειὼν Γάβερ, τὴν οὖσαν ἐχομένην Αἰλὰθ ἐπὶ τοῦ χείλους τῆς ἐσχάτης θαλάσσης ἐν γῇ Ἐδώμ·
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Έκαμε δε στόλον ο βασιλεύς Σολομών εν Εσιών-γάβερ, ήτις είναι πλησίον της Αιλώθ, επί το χείλος της Ερυθράς θαλάσσης, εν τη γη Εδώμ.
 
 **KJV** And king Solomon made a navy of ships in Ezion–geber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.
+
+**HEB** וָאֳנִ֡י עָשָׂה֩ הַמֶּ֨לֶךְ שְׁלֹמֹ֜ה בְּעֶצְיֽוֹן־גֶּ֨בֶר אֲשֶׁ֧ר אֶת־אֵל֛וֹת עַל־שְׂפַ֥ת יַם־ס֖וּף בְּאֶ֥רֶץ אֱדֽוֹם׃
+
+**JPS** And king Solomon made a navy of ships in Ezion-geber, which is beside Eloth, on the shore of the Red Sea, in the land of Edom.
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon.
 
+**HEB** וַיִּשְׁלַ֨ח חִירָ֤ם בּֽ͏ָאֳנִי֙ אֶת־עֲבָדָ֔יו אַנְשֵׁ֣י אֳנִיּ֔וֹת יֹדְעֵ֖י הַיָּ֑ם עִ֖ם עַבְדֵ֥י שְׁלֹמֹֽה׃
+
+**JPS** And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon.
+
 ## 28
 
 **GRC** καὶ ἦλθον εἰς Σωφηρά, καὶ ἔλαβον ἐκεῖθεν χρυσίου ἑκατὸν εἴκοσι τάλαντα καὶ ἤνεγκαν τῷ βασιλεῖ Σαλωμών.
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ήλθον εις Οφείρ και έλαβον εκείθεν τετρακόσια και είκοσι τάλαντα χρυσίου και έφεραν προς τον βασιλέα Σολομώντα.
 
 **KJV** And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to king Solomon.
+
+**HEB** וַיָּבֹ֣אוּ אוֹפִ֔ירָה וַיִּקְח֤וּ מִשָּׁם֙ זָהָ֔ב אַרְבַּע־מֵא֥וֹת וְעֶשְׂרִ֖ים כִּכָּ֑ר וַיָּבִ֖אוּ אֶל־הַמֶּ֥לֶךְ שְׁלֹמֹֽה׃
+
+**JPS** And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to king Solomon.
 
 ## Notes
 

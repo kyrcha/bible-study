@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it.
 
+**HEB** וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת עֲצֵ֥י שִׁטִּ֖ים תַּעֲשֶׂ֥ה אֹתֽוֹ׃
+
+**JPS** And thou shalt make an altar to burn incense upon; of acacia-wood shalt thou make it.
+
 ## 2
 
 **GRC** καὶ ποιήσεις αὐτὸ πήχεος τὸ μῆκος καὶ πήχεος τὸ εὖρος· τετράγωνον ἔσται· καὶ δύο πήχεων τὸ ὕψος· ἐξ αὐτοῦ ἔσται τὰ κέρατα αὐτοῦ.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** μιας πήχης το μήκος αυτού και μιας πήχης το πλάτος αυτού τετράγωνον θέλει είσθαι και δύο πηχών το ύψος αυτού τα κέρατα αυτού εκ του αυτού.
 
 **KJV** A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same.
+
+**HEB** אַמָּ֨ה אָרְכּ֜וֹ וְאַמָּ֤ה רָחְבּוֹ֙ רָב֣וּעַ יִהְיֶ֔ה וְאַמָּתַ֖יִם קֹמָת֑וֹ מִמֶּ֖נּוּ קַרְנֹתָֽיו׃
+
+**JPS** A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be; and two cubits shall be the height thereof; the horns thereof shall be of one piece with it.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.
 
+**HEB** וְצִפִּיתָ֨ אֹת֜וֹ זָהָ֣ב טָה֗וֹר אֶת־גַּגּ֧וֹ וְאֶת־קִירֹתָ֛יו סָבִ֖יב וְאֶת־קַרְנֹתָ֑יו וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃
+
+**JPS** And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.
+
 ## 4
 
 **GRC** καὶ δύο δακτυλίους χρυσοῦς καθαροὺς ποιήσεις ὑπὸ τὴν στρεπτὴν στεφάνην αὐτοῦ εἰς τὰ δύο κλίτη, ποιήσεις ἐν τοῖς δυσὶ πλευροῖς· καὶ ἔσονται ψαλίδες ταῖς σκυτάλαις, ὥστε αἴρειν αὐτὸ ἐν αὐταῖς.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και δύο χρυσούς κρίκους θέλεις κάμει εις αυτό υπό την στεφάνην αυτού· πλησίον των δύο γωνιών αυτού επί τα δύο πλάγια αυτού θέλεις κάμει αυτούς, και θέλουσιν είσθαι θήκαι των μοχλών, ώστε να βαστάζωσιν αυτό δι' αυτών.
 
 **KJV** And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal.
+
+**HEB** וּשְׁתֵּי֩ טַבְּעֹ֨ת זָהָ֜ב תַּֽעֲשֶׂה־לּ֣וֹ ׀ מִתַּ֣חַת לְזֵר֗וֹ עַ֚ל שְׁתֵּ֣י צַלְעֹתָ֔יו תַּעֲשֶׂ֖ה עַל־שְׁנֵ֣י צִדָּ֑יו וְהָיָה֙ לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֥את אֹת֖וֹ בָּהֵֽמָּה׃
+
+**JPS** And two golden rings shalt thou make for it under the crown thereof, upon the two ribs thereof, upon the two sides of it shalt thou make them; and they shall be for places for staves wherewith to bear it.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt make the staves of shittim wood, and overlay them with gold.
 
+**HEB** וְעָשִׂ֥יתָ אֶת־הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃
+
+**JPS** And thou shalt make the staves of acacia-wood, and overlay them with gold.
+
 ## 6
 
 **GRC** καὶ θήσεις αὐτὸ ἀπέναντι τοῦ καταπετάσματος τοῦ ὄντος ἐπὶ τῆς κιβωτοῦ τῶν μαρτυρίων, ἐν οἷς γνωσθήσομαί σοι ἐκεῖθεν.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλεις βάλει αυτό απέναντι του καταπετάσματος του ενώπιον της κιβωτού του μαρτυρίου, αντικρύ του ιλαστηρίου του επί του μαρτυρίου, όπου θέλω εμφανίζεσθαι εις σε.
 
 **KJV** And thou shalt put it before the vail that is by the ark of the testimony, before the mercy seat that is over the testimony, where I will meet with thee.
+
+**HEB** וְנָתַתָּ֤ה אֹתוֹ֙ לִפְנֵ֣י הַפָּרֹ֔כֶת אֲשֶׁ֖ר עַל־אֲרֹ֣ן הָעֵדֻ֑ת לִפְנֵ֣י הַכַּפֹּ֗רֶת אֲשֶׁר֙ עַל־הָ֣עֵדֻ֔ת אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָֽׁמָּה׃
+
+**JPS** And thou shalt put it before the veil that is by the ark of the testimony, before the ark-cover that is over the testimony, where I will meet with thee.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.
 
+**HEB** וְהִקְטִ֥יר עָלָ֛יו אַהֲרֹ֖ן קְטֹ֣רֶת סַמִּ֑ים בַּבֹּ֣קֶר בַּבֹּ֗קֶר בְּהֵיטִיב֛וֹ אֶת־הַנֵּרֹ֖ת יַקְטִירֶֽנָּה׃
+
+**JPS** And Aaron shall burn thereon incense of sweet spices; every morning, when he dresseth the lamps, he shall burn it.
+
 ## 8
 
 **GRC** καὶ ὅταν ἐξάπτῃ Ἀαρὼν τοὺς λύχνους ὀψὲ θυμιάσεις ἐπ᾽ αὐτοῦ, θυμίαμα ἐνδελεχισμοῦ διὰ παντὸς ἔναντι Κυρίου εἰς γενεὰς αὐτῶν.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και όταν ανάπτη ο Ααρών τους λύχνους το εσπέρας, θέλει θυμιάζει επ' αυτού, θυμίαμα παντοτεινόν ενώπιον του Κυρίου εις τας γενεάς σας.
 
 **KJV** And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perpetual incense before the Lord throughout your generations.
+
+**HEB** וּבְהַעֲלֹ֨ת אַהֲרֹ֧ן אֶת־הַנֵּרֹ֛ת בֵּ֥ין הָעֲרְבַּ֖יִם יַקְטִירֶ֑נָּה קְטֹ֧רֶת תָּמִ֛יד לִפְנֵ֥י יְהוָ֖ה לְדֹרֹתֵיכֶֽם׃
+
+**JPS** And when Aaron lighteth the lamps at dusk, he shall burn it, a perpetual incense before HaShem throughout your generations.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon.
 
+**HEB** לֹא־תַעֲל֥וּ עָלָ֛יו קְטֹ֥רֶת זָרָ֖ה וְעֹלָ֣ה וּמִנְחָ֑ה וְנֵ֕סֶךְ לֹ֥א תִסְּכ֖וּ עָלָֽיו׃
+
+**JPS** Ye shall offer no strange incense thereon, nor burnt-offering, nor meal-offering; and ye shall pour no drink-offering thereon.
+
 ## 10
 
 **GRC** καὶ ἐξιλάσεται περὶ αὐτοῦ Ἀαρὼν ἐπὶ τῶν κεράτων αὐτοῦ ἅπαξ τοῦ ἐνιαυτοῦ· ἀπὸ τοῦ αἵματος τοῦ καθαρισμοῦ καθαριεῖ αὐτὸ εἰς γενεὰς αὐτῶν· ἅγιον τῶν ἁγίων ἐστὶν Κυρίῳ.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλει κάμνει ο Ααρών εξιλέωσιν επί των κεράτων αυτού άπαξ του ενιαυτού με το αίμα της περί αμαρτίας προσφοράς της εξιλεώσεως· άπαξ του ενιαυτού θέλει κάμνει εξιλέωσιν επ' αυτού εις τας γενεάς σας· τούτο είναι αγιώτατον προς τον Κύριον.
 
 **KJV** And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it is most holy unto the Lord.
+
+**HEB** וְכִפֶּ֤ר אַהֲרֹן֙ עַל־קַרְנֹתָ֔יו אַחַ֖ת בַּשָּׁנָ֑ה מִדַּ֞ם חַטַּ֣את הַכִּפֻּרִ֗ים אַחַ֤ת בַּשָּׁנָה֙ יְכַפֵּ֤ר עָלָיו֙ לְדֹרֹ֣תֵיכֶ֔ם קֹֽדֶשׁ־קֽ͏ָדָשִׁ֥ים ה֖וּא לַיהוָֽה׃
+
+**JPS** And Aaron shall make atonement upon the horns of it once in the year; with the blood of the sin-offering of atonement once in the year shall he make atonement for it throughout your generations; it is most holy unto HaShem.'
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the Lord spake unto Moses, saying,
 
+**HEB** וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+
+**JPS** And HaShem spoke unto Moses, saying:
+
 ## 12
 
 **GRC** Ἐὰν λάβῃς τὸν συλλογισμὸν τῶν υἱῶν Ἰσραὴλ ἐν τῇ ἐπισκοπῇ αὐτῶν, καὶ δώσουσιν ἕκαστος λύτρα τῆς ψυχῆς αὐτοῦ Κυρίῳ, καὶ οὐκ ἔσται ἐν αὐτοῖς πτῶσις ἐν τῇ ἐπισκοπῇ αὐτῶν.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Όταν λαμβάνης το κεφάλαιον των υιών Ισραήλ κατά την απαρίθμησιν αυτών, τότε θέλουσι δώσει πας άνθρωπος λύτρον διά την ψυχήν αυτού προς τον Κύριον, όταν απαριθμής αυτούς, διά να μη επέλθη πληγή επ' αυτούς, όταν απαριθμής αυτούς·
 
 **KJV** When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the Lord, when thou numberest them; that there be no plague among them, when thou numberest them.
+
+**HEB** כִּ֣י תִשָּׂ֞א אֶת־רֹ֥אשׁ בְּנֽ͏ֵי־יִשְׂרָאֵל֘ לִפְקֻדֵיהֶם֒ וְנָ֨תְנ֜וּ אִ֣ישׁ כֹּ֧פֶר נַפְשׁ֛וֹ לַיהוָ֖ה בִּפְקֹ֣ד אֹתָ֑ם וְלֹא־יִהְיֶ֥ה בָהֶ֛ם נֶ֖גֶף בִּפְקֹ֥ד אֹתָֽם׃
+
+**JPS** 'When thou takest the sum of the children of Israel, according to their number, then shall they give every man a ransom for his soul unto HaShem, when thou numberest them; that there be no plague among them, when thou numberest them.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel shall be the offering of the Lord.
 
+**HEB** זֶ֣ה ׀ יִתְּנ֗וּ כָּל־הָעֹבֵר֙ עַל־הַפְּקֻדִ֔ים מַחֲצִ֥ית הַשֶּׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֤ים גֵּרָה֙ הַשֶּׁ֔קֶל מַחֲצִ֣ית הַשֶּׁ֔קֶל תְּרוּמָ֖ה לֽ͏ַיהוָֽה׃
+
+**JPS** This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary--the shekel is twenty gerahs--half a shekel for an offering to HaShem.
+
 ## 14
 
 **GRC** πᾶς ὁ παραπορευόμενος εἰς τὴν ἐπίσκεψιν ἀπὸ εἰκοσαετοῦς καὶ ἐπάνω, δώσουσιν τὴν εἰσφορὰν Κυρίῳ·
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** πας όστις περνά εις την απαρίθμησιν, από είκοσι ετών ηλικίας και επάνω, θέλει δώσει προσφοράν εις τον Κύριον.
 
 **KJV** Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the Lord.
+
+**HEB** כֹּ֗ל הָעֹבֵר֙ עַל־הַפְּקֻדִ֔ים מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וָמָ֑עְלָה יִתֵּ֖ן תְּרוּמַ֥ת יְהוָֽה׃
+
+**JPS** Every one that passeth among them that are numbered, from twenty years old and upward, shall give the offering of HaShem.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the Lord, to make an atonement for your souls.
 
+**HEB** הֶֽעָשִׁ֣יר לֹֽא־יַרְבֶּ֗ה וְהַדַּל֙ לֹ֣א יַמְעִ֔יט מִֽמַּחֲצִ֖ית הַשָּׁ֑קֶל לָתֵת֙ אֶת־תְּרוּמַ֣ת יְהוָ֔ה לְכַפֵּ֖ר עַל־נַפְשֹׁתֵיכֶֽם׃
+
+**JPS** The rich shall not give more, and the poor shall not give less, than the half shekel, when they give the offering of HaShem, to make atonement for your souls.
+
 ## 16
 
 **GRC** καὶ λήμψῃ τὸ ἀργύριον τῆς εἰσφορᾶς παρὰ τῶν υἱῶν Ἰσραήλ, καὶ δώσεις αὐτὸ εἰς κάτεργον τῆς σκηνῆς τοῦ μαρτυρίου· καὶ ἔσται τοῖς υἱοῖς Ἰσραὴλ μνημόσυνον ἔναντι Κυρίου, καὶ ἐξιλάσασθαι περὶ τῶν ψυχῶν ὑμῶν.
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλεις λάβει το αργύριον της εξιλεώσεως παρά των υιών Ισραήλ, και θέλεις μεταχειρισθή αυτό εις την υπηρεσίαν της σκηνής του μαρτυρίου, και θέλει είσθαι εις τους υιούς Ισραήλ εις μνημόσυνον ενώπιον του Κυρίου, διά να γείνη εξιλέωσις υπέρ των ψυχών υμών.
 
 **KJV** And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the Lord, to make an atonement for your souls.
+
+**HEB** וְלָקַחְתָּ֞ אֶת־כֶּ֣סֶף הַכִּפֻּרִ֗ים מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְנָתַתָּ֣ אֹת֔וֹ עַל־עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְהָיָה֩ לִבְנֵ֨י יִשְׂרָאֵ֤ל לְזִכָּרוֹן֙ לִפְנֵ֣י יְהוָ֔ה לְכַפֵּ֖ר עַל־נַפְשֹׁתֵיכֶֽם׃
+
+**JPS** And thou shalt take the atonement money from the children of Israel, and shalt appoint it for the service of the tent of meeting, that it may be a memorial for the children of Israel before HaShem, to make atonement for your souls.'
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the Lord spake unto Moses, saying,
 
+**HEB** וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+
+**JPS** And HaShem spoke unto Moses, saying:
+
 ## 18
 
 **GRC** Ποίησον λουτῆρα χαλκοῦν καὶ βάσιν αὐτῷ χαλκῆν, ὥστε νίπτεσθαι· καὶ θήσεις αὐτὸν ἀνὰ μέσον τῆς σκηνῆς τοῦ μαρτυρίου καὶ ἀνὰ μέσον τοῦ θυσιαστηρίου, καὶ ἐκχεεῖς εἰς αὐτὸν ὕδωρ·
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλεις κάμει νιπτήρα χάλκινον και την βάσιν αυτού χαλκίνην, διά να νίπτωνται και θέλεις θέσει αυτόν μεταξύ της σκηνής του μαρτυρίου και του θυσιαστηρίου και θέλεις βάλει ύδωρ εις αυτόν·
 
 **KJV** Thou shalt also make a laver of brass, and his foot also of brass, to wash withal: and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein.
+
+**HEB** וְעָשִׂ֜יתָ כִּיּ֥וֹר נְחֹ֛שֶׁת וְכַנּ֥וֹ נְחֹ֖שֶׁת לְרָחְצָ֑ה וְנָתַתָּ֣ אֹת֗וֹ בֵּֽין־אֹ֤הֶל מוֹעֵד֙ וּבֵ֣ין הַמִּזְבֵּ֔חַ וְנָתַתָּ֥ שָׁ֖מָּה מָֽיִם׃
+
+**JPS** 'Thou shalt also make a laver of brass, and the base thereof of brass, whereat to wash; and thou shalt put it between the tent of meeting and the altar, and thou shalt put water therein.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** For Aaron and his sons shall wash their hands and their feet thereat:
 
+**HEB** וְרָחֲצ֛וּ אַהֲרֹ֥ן וּבָנָ֖יו מִמֶּ֑נּוּ אֶת־יְדֵיהֶ֖ם וְאֶת־רַגְלֵיהֶֽם׃
+
+**JPS** And Aaron and his sons shall wash their hands and their feet thereat;
+
 ## 20
 
 **GRC** ὅταν εἰσπορεύωνται εἰς τὴν σκηνὴν τοῦ μαρτυρίου, νίψονται ὕδατι καὶ οὐ μὴ ἀποθάνωσιν· ὅταν προσπορεύωνται πρὸς τὸ θυσιαστήριον λειτουργεῖν καὶ ἀναφέρειν τὰ ὁλοκαυτώματα Κυρίῳ,
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Όταν εισέρχωνται εις την σκηνήν του μαρτυρίου, θέλουσι νίπτεσθαι με ύδωρ, διά να μη αποθάνωσιν· ή όταν πλησιάζωσιν εις το θυσιαστήριον διά να λειτουργήσωσι, διά να καύσωσι θυσίαν γινομένην διά πυρός εις τον Κύριον·
 
 **KJV** When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the Lord:
+
+**HEB** בְּבֹאָ֞ם אֶל־אֹ֧הֶל מוֹעֵ֛ד יִרְחֲצוּ־מַ֖יִם וְלֹ֣א יָמֻ֑תוּ א֣וֹ בְגִשְׁתָּ֤ם אֶל־הַמִּזְבֵּ֙חַ֙ לְשָׁרֵ֔ת לְהַקְטִ֥יר אִשֶּׁ֖ה לַֽיהוָֽה׃
+
+**JPS** when they go into the tent of meeting, they shall wash with water, that they die not; or when they come near to the altar to minister, to cause an offering made by fire to smoke unto HaShem;
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them, even to him and to his seed throughout their generations.
 
+**HEB** וְרָחֲצ֛וּ יְדֵיהֶ֥ם וְרַגְלֵיהֶ֖ם וְלֹ֣א יָמֻ֑תוּ וְהָיְתָ֨ה לָהֶ֧ם חָק־עוֹלָ֛ם ל֥וֹ וּלְזַרְע֖וֹ לְדֹרֹתָֽם׃
+
+**JPS** so they shall wash their hands and their feet, that they die not; and it shall be a statute for ever to them, even to him and to his seed throughout their generations.'
+
 ## 22
 
 **GRC** Καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ελάλησε Κύριος προς τον Μωϋσήν, λέγων,
 
 **KJV** Moreover the Lord spake unto Moses, saying,
+
+**HEB** וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+
+**JPS** Moreover HaShem spoke unto Moses, saying:
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Take thou also unto thee principal spices, of pure myrrh five hundred shekels, and of sweet cinnamon half so much, even two hundred and fifty shekels, and of sweet calamus two hundred and fifty shekels,
 
+**HEB** וְאַתָּ֣ה קַח־לְךָ֮ בְּשָׂמִ֣ים רֹאשׁ֒ מָר־דְּרוֹר֙ חֲמֵ֣שׁ מֵא֔וֹת וְקִנְּמָן־בֶּ֥שֶׂם מַחֲצִית֖וֹ חֲמִשִּׁ֣ים וּמָאתָ֑יִם וּקְנֵה־בֹ֖שֶׂם חֲמִשִּׁ֥ים וּמָאתָֽיִם׃
+
+**JPS** 'Take thou also unto thee the chief spices, of flowing myrrh five hundred shekels, and of sweet cinnamon half so much, even two hundred and fifty, and of sweet calamus two hundred and fifty,
+
 ## 24
 
 **GRC** καὶ ἴρεως πεντακοσίους σίκλους τοῦ ἁγίου, καὶ ἔλαιον ἐξ ἐλαίων εἵν·
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και κασσίας πεντακοσίους, κατά τον σίκλον του αγίου, και ελαίου ελαίας εν ίν·
 
 **KJV** And of cassia five hundred shekels, after the shekel of the sanctuary, and of oil olive an hin:
+
+**HEB** וְקִדָּ֕ה חֲמֵ֥שׁ מֵא֖וֹת בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ וְשֶׁ֥מֶן זַ֖יִת הִֽין׃
+
+**JPS** and of cassia five hundred, after the shekel of the sanctuary, and of olive oil a hin.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil.
 
+**HEB** וְעָשִׂ֣יתָ אֹת֗וֹ שֶׁ֚מֶן מִשְׁחַת־קֹ֔דֶשׁ רֹ֥קַח מִרְקַ֖חַת מַעֲשֵׂ֣ה רֹקֵ֑חַ שֶׁ֥מֶן מִשְׁחַת־קֹ֖דֶשׁ יִהְיֶֽה׃
+
+**JPS** And thou shalt make it a holy anointing oil, a perfume compounded after the art of the perfumer; it shall be a holy anointing oil.
+
 ## 26
 
 **GRC** καὶ χρίσεις ἐξ αὐτοῦ τὴν σκηνὴν τοῦ μαρτυρίου, καὶ τὴν κιβωτὸν τοῦ μαρτυρίου,
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλεις χρίσει με αυτό την σκηνήν του μαρτυρίου και την κιβωτόν του μαρτυρίου,
 
 **KJV** And thou shalt anoint the tabernacle of the congregation therewith, and the ark of the testimony,
+
+**HEB** וּמָשַׁחְתָּ֥ ב֖וֹ אֶת־אֹ֣הֶל מוֹעֵ֑ד וְאֵ֖ת אֲר֥וֹן הָעֵדֻֽת׃
+
+**JPS** And thou shalt anoint therewith the tent of meeting, and the ark of the testimony,
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the table and all his vessels, and the candlestick and his vessels, and the altar of incense,
 
+**HEB** וְאֶת־הַשֻּׁלְחָן֙ וְאֶת־כָּל־כֵּלָ֔יו וְאֶת־הַמְּנֹרָ֖ה וְאֶת־כֵּלֶ֑יהָ וְאֵ֖ת מִזְבַּ֥ח הַקְּטֹֽרֶת׃
+
+**JPS** and the table and all the vessels thereof, and the candlestick and the vessels thereof, and the altar of incense,
+
 ## 28
 
 **GRC** καὶ τὸ θυσιαστήριον τῶν ὁλοκαυτωμάτων καὶ πάντα αὐτοῦ τὰ σκεύη, καὶ τὴν τράπεζαν καὶ πάντα τὰ σκεύη αὐτῆς, καὶ τὸν λουτῆρα.
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και το θυσιαστήριον του ολοκαυτώματος μετά πάντων των σκευών αυτού και τον νιπτήρα και την βάσιν αυτού.
 
 **KJV** And the altar of burnt offering with all his vessels, and the laver and his foot.
+
+**HEB** וְאֶת־מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־כָּל־כֵּלָ֑יו וְאֶת־הַכִּיֹּ֖ר וְאֶת־כַּנּֽוֹ׃
+
+**JPS** and the altar of burnt-offering with all the vessels thereof, and the laver and the base thereof.
 
 ## 29
 
@@ -241,6 +355,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt sanctify them, that they may be most holy: whatsoever toucheth them shall be holy.
 
+**HEB** וְקִדַּשְׁתָּ֣ אֹתָ֔ם וְהָי֖וּ קֹ֣דֶשׁ קֽ͏ָדָשִׁ֑ים כָּל־הַנֹּגֵ֥עַ בָּהֶ֖ם יִקְדָּֽשׁ׃
+
+**JPS** And thou shalt sanctify them, that they may be most holy; whatsoever toucheth them shall be holy.
+
 ## 30
 
 **GRC** καὶ Ἀαρὼν καὶ τοὺς υἱοὺς αὐτοῦ χρίσεις, καὶ ἁγιάσεις αὐτοὺς ἱερατεύειν μοι.
@@ -248,6 +366,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και τον Ααρών και τους υιούς αυτού θέλεις χρίσει και θέλεις αγιάσει αυτούς, διά να ιερατεύωσιν εις εμέ.
 
 **KJV** And thou shalt anoint Aaron and his sons, and consecrate them, that they may minister unto me in the priest’s office.
+
+**HEB** וְאֶת־אַהֲרֹ֥ן וְאֶת־בָּנָ֖יו תִּמְשָׁ֑ח וְקִדַּשְׁתָּ֥ אֹתָ֖ם לְכַהֵ֥ן לִֽי׃
+
+**JPS** And thou shalt anoint Aaron and his sons, and sanctify them, that they may minister unto Me in the priest's office.
 
 ## 31
 
@@ -257,6 +379,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations.
 
+**HEB** וְאֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר שֶׁ֠מֶן מִשְׁחַת־קֹ֨דֶשׁ יִהְיֶ֥ה זֶ֛ה לִ֖י לְדֹרֹתֵיכֶֽם׃
+
+**JPS** And thou shalt speak unto the children of Israel, saying: This shall be a holy anointing oil unto Me throughout your generations.
+
 ## 32
 
 **GRC** ἐπὶ σάρκα ἀνθρώπου οὐ χρισθήσεται, καὶ κατὰ τὴν σύνθεσιν ταύτην οὐ ποιηθήσεται ὑμῖν ἑαυτοῖς ὡσαύτως· ἅγιόν ἐστιν, καὶ ἁγίασμα ἔσται ὑμῖν.
@@ -264,6 +390,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** επί σάρκα ανθρώπου δεν θέλει χυθή ουδέ θέλετε κάμει όμοιον αυτού κατά την σύνθεσιν αυτού· τούτο είναι άγιον και άγιον θέλει είσθαι εις εσάς·
 
 **KJV** Upon man’s flesh shall it not be poured, neither shall ye make any other like it, after the composition of it: it is holy, and it shall be holy unto you.
+
+**HEB** עַל־בְּשַׂ֤ר אָדָם֙ לֹ֣א יִיסָ֔ךְ וּבְמַ֨תְכֻּנְתּ֔וֹ לֹ֥א תַעֲשׂ֖וּ כָּמֹ֑הוּ קֹ֣דֶשׁ ה֔וּא קֹ֖דֶשׁ יִהְיֶ֥ה לָכֶֽם׃
+
+**JPS** Upon the flesh of man shall it not be poured, neither shall ye make any like it, according to the composition thereof; it is holy, and it shall be holy unto you.
 
 ## 33
 
@@ -273,6 +403,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Whosoever compoundeth any like it, or whosoever putteth any of it upon a stranger, shall even be cut off from his people.
 
+**HEB** אִ֚ישׁ אֲשֶׁ֣ר יִרְקַ֣ח כָּמֹ֔הוּ וַאֲשֶׁ֥ר יִתֵּ֛ן מִמֶּ֖נּוּ עַל־זָ֑ר וְנִכְרַ֖ת מֵעַמָּֽיו׃
+
+**JPS** Whosoever compoundeth any like it, or whosoever putteth any of it upon a stranger, he shall be cut off from his people.'
+
 ## 34
 
 **GRC** Καὶ εἶπεν Κύριος πρὸς Μωυσῆν Λάβε σεαυτῷ ἡδύσματα, στακτήν, ὄνυχα, χαλβάνην ἡδυσμοῦ καὶ λίβανον διαφανῆ· ἴσον ἴσῳ ἔσται·
@@ -280,6 +414,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και είπε Κύριος προς τον Μωϋσήν, Λάβε εις σεαυτόν ευώδη αρώματα, στακτήν και όνυχα και χαλβάνην, ταύτα τα ευώδη αρώματα μετά καθαρού λιβανίου· ίσου βάρους θέλει είσθαι έκαστον.
 
 **KJV** And the Lord said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:
+
+**HEB** וַיֹּאמֶר֩ יְהוָ֨ה אֶל־מֹשֶׁ֜ה קַח־לְךָ֣ סַמִּ֗ים נָטָ֤ף ׀ וּשְׁחֵ֙לֶת֙ וְחֶלְבְּנָ֔ה סַמִּ֖ים וּלְבֹנָ֣ה זַכָּ֑ה בַּ֥ד בְּבַ֖ד יִהְיֶֽה׃
+
+**JPS** And HaShem said unto Moses: 'Take unto thee sweet spices, stacte, and onycha, and galbanum; sweet spices with pure frankincense; of each shall there be a like weight.
 
 ## 35
 
@@ -289,6 +427,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And thou shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure and holy:
 
+**HEB** וְעָשִׂ֤יתָ אֹתָהּ֙ קְטֹ֔רֶת רֹ֖קַח מַעֲשֵׂ֣ה רוֹקֵ֑חַ מְמֻלָּ֖ח טָה֥וֹר קֹֽדֶשׁ׃
+
+**JPS** And thou shalt make of it incense, a perfume after the art of the perfumer, seasoned with salt, pure and holy.
+
 ## 36
 
 **GRC** καὶ συνκόψεις ἐκ τούτων λεπτόν, καὶ θήσεις ἀπέναντι τῶν μαρτυρίων ἐν τῇ σκηνῇ τοῦ μαρτυρίου, ὅθεν γνωσθήσομαί σοι ἐκεῖθεν· ἅγιον τῶν ἁγίων ἔσται ὑμῖν.
@@ -296,6 +438,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και θέλεις κοπανίσει μέρος εκ τούτου πολλά λεπτόν, και θέλεις βάλει εξ αυτού έμπροσθεν του μαρτυρίου εν τη σκηνή του μαρτυρίου, όπου θέλω εμφανίζεσθαι εις σέ· τούτο θέλει είσθαι εις εσάς αγιώτατον.
 
 **KJV** And thou shalt beat some of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy.
+
+**HEB** וְשָֽׁחַקְתָּ֣ מִמֶּנָּה֮ הָדֵק֒ וְנָתַתָּ֨ה מִמֶּ֜נָּה לִפְנֵ֤י הָעֵדֻת֙ בְּאֹ֣הֶל מוֹעֵ֔ד אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָׁ֑מָּה קֹ֥דֶשׁ קֽ͏ָדָשִׁ֖ים תִּהְיֶ֥ה לָכֶֽם׃
+
+**JPS** And thou shalt beat some of it very small, and put of it before the testimony in the tent of meeting, where I will meet with thee; it shall be unto you most holy.
 
 ## 37
 
@@ -305,6 +451,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And as for the perfume which thou shalt make, ye shall not make to yourselves according to the composition thereof: it shall be unto thee holy for the Lord.
 
+**HEB** וְהַקְּטֹ֙רֶת֙ אֲשֶׁ֣ר תַּעֲשֶׂ֔ה בְּמַ֨תְכֻּנְתָּ֔הּ לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם קֹ֛דֶשׁ תִּהְיֶ֥ה לְךָ֖ לַיהוָֽה׃
+
+**JPS** And the incense which thou shalt make, according to the composition thereof ye shall not make for yourselves; it shall be unto thee holy for HaShem.
+
 ## 38
 
 **GRC** ὃς ἂν ποιήσῃ ὡσαύτως ὥστε ὀσφραίνεσθαι ἐν αὐτῷ, ἀπολεῖται ἐκ τοῦ λαοῦ αὐτοῦ.
@@ -312,6 +462,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** όστις κάμη όμοιον αυτού διά να μυρίζηται αυτό, θέλει εξολοθρευθή εκ του λαού αυτού.
 
 **KJV** Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people.
+
+**HEB** אִ֛ישׁ אֲשֶׁר־יַעֲשֶׂ֥ה כָמ֖וֹהָ לְהָרִ֣יחַ בָּ֑הּ וְנִכְרַ֖ת מֵעַמָּֽיו׃
+
+**JPS** Whosoever shall make like unto that, to smell thereof, he shall be cut off from his people.'
 
 ## Notes
 

@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
 
+**HEB** אֵ֜לֶּה מַסְעֵ֣י בְנֵֽי־יִשְׂרָאֵ֗ל אֲשֶׁ֥ר יָצְא֛וּ מֵאֶ֥רֶץ מִצְרַ֖יִם לְצִבְאֹתָ֑ם בְּיַד־מֹשֶׁ֖ה וְאַהֲרֹֽן׃
+
+**JPS** These are the stages of the children of Israel, by which they went forth out of the land of Egypt by their hosts under the hand of Moses and Aaron.
+
 ## 2
 
 **GRC** καὶ ἔγραψεν Μωυσῆς τὰς ἀπάρσεις αὐτῶν καὶ τοὺς σταθμοὺς αὐτῶν διὰ ῥήματος Κυρίου. καὶ οὗτοι σταθμοὶ τῆς πορείας αὐτῶν.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έγραψεν ο Μωϋσής τας εξόδους αυτών κατά τας οδοιπορίας αυτών, διά προσταγής του Κυρίου· και αύται είναι αι οδοιπορίαι αυτών κατά τας εξόδους αυτών.
 
 **KJV** And Moses wrote their goings out according to their journeys by the commandment of the Lord: and these are their journeys according to their goings out.
+
+**HEB** וַיִּכְתֹּ֨ב מֹשֶׁ֜ה אֶת־מוֹצָאֵיהֶ֛ם לְמַסְעֵיהֶ֖ם עַל־פִּ֣י יְהוָ֑ה וְאֵ֥לֶּה מַסְעֵיהֶ֖ם לְמוֹצָאֵיהֶֽם׃
+
+**JPS** And Moses wrote their goings forth, stage by stage, by the commandment of HaShem; and these are their stages at their goings forth.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.
 
+**HEB** וַיִּסְע֤וּ מֵֽרַעְמְסֵס֙ בַּחֹ֣דֶשׁ הָֽרִאשׁ֔וֹן בַּחֲמִשָּׁ֥ה עָשָׂ֛ר י֖וֹם לַחֹ֣דֶשׁ הָרִאשׁ֑וֹן מִֽמָּחֳרַ֣ת הַפֶּ֗סַח יָצְא֤וּ בְנֵֽי־יִשְׂרָאֵל֙ בְּיָ֣ד רָמָ֔ה לְעֵינֵ֖י כָּל־מִצְרָֽיִם׃
+
+**JPS** And they journeyed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with a high hand in the sight of all the Egyptians,
+
 ## 4
 
 **GRC** καὶ οἱ Αἰγύπτιοι ἔθαπτον ἐξ αὑτῶν τοὺς τεθνηκότας πάντας οὓς ἐπάταξεν Κύριος, πᾶν πρωτότοκον ἐν γῇ Αἰγύπτῳ· καὶ ἐν τοῖς θεοῖς αὐτῶν ἐποίησεν τὴν ἐκδίκησιν Κύριος.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** ενώ οι Αιγύπτιοι έθαπτον εκείνους, τους οποίους ο Κύριος επάταξε μεταξύ αυτών, παν πρωτότοκον· και εις τους θεούς αυτών έκαμεν ο Κύριος εκδίκησιν.
 
 **KJV** For the Egyptians buried all their firstborn, which the Lord had smitten among them: upon their gods also the Lord executed judgments.
+
+**HEB** וּמִצְרַ֣יִם מְקַבְּרִ֗ים אֵת֩ אֲשֶׁ֨ר הִכָּ֧ה יְהוָ֛ה בָּהֶ֖ם כָּל־בְּכ֑וֹר וּבֵאלֹ֣הֵיהֶ֔ם עָשָׂ֥ה יְהוָ֖ה שְׁפָטִֽים׃
+
+**JPS** while the Egyptians were burying them that HaShem had smitten among them, even all their first-born; upon their gods also HaShem executed judgments.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the children of Israel removed from Rameses, and pitched in Succoth.
 
+**HEB** וַיִּסְע֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל מֵרַעְמְסֵ֑ס וַֽיַּחֲנ֖וּ בְּסֻכֹּֽת׃
+
+**JPS** And the children of Israel journeyed from Rameses, and pitched in Succoth.
+
 ## 6
 
 **GRC** καὶ ἀπῆραν ἐκ Σοκχὼθ καὶ παρενέβαλον εἰς Βουθάν, ὅ ἐστιν μέρος τῆς ἐρήμου.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Σοκχώθ, εστρατοπέδευσαν εν Εθάμ, ήτις είναι εν τω άκρω της ερήμου.
 
 **KJV** And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness.
+
+**HEB** וַיִּסְע֖וּ מִסֻּכֹּ֑ת וַיַּחֲנ֣וּ בְאֵתָ֔ם אֲשֶׁ֖ר בִּקְצֵ֥ה הַמִּדְבָּֽר׃
+
+**JPS** And they journeyed from Succoth, and pitched in Etham, which is in the edge of the wilderness.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they removed from Etham, and turned again unto Pi–hahiroth, which is before Baal–zephon: and they pitched before Migdol.
 
+**HEB** וַיִּסְעוּ֙ מֵֽאֵתָ֔ם וַיָּ֙שָׁב֙ עַל־פִּ֣י הַחִירֹ֔ת אֲשֶׁ֥ר עַל־פְּנֵ֖י בַּ֣עַל צְפ֑וֹן וַֽיַּחֲנ֖וּ לִפְנֵ֥י מִגְדֹּֽל׃
+
+**JPS** And they journeyed from Etham, and turned back unto Pihahiroth, which is before Baal-zephon; and they pitched before Migdol.
+
 ## 8
 
 **GRC** καὶ ἀπῆραν ἀπέναντι Εἱρὼθ καὶ διέβησαν μέσον τῆς θαλάσσης εἰς τὴν ἔρημον· καὶ ἐπορεύθησαν ὁδὸν τριῶν ἡμερῶν διὰ τῆς ἐρήμου καὶ παρενέβαλον ἐν Πικρίαις.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες απ' έμπροσθεν της Αϊρώθ, διέβησαν διά της θαλάσσης εις την έρημον· και ώδοιπόρησαν οδόν τριών ημερών διά της ερήμου Εθάμ και εστρατοπέδευσαν εν Μερρά.
 
 **KJV** And they departed from before Pi–hahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah.
+
+**HEB** וַיִּסְעוּ֙ מִפְּנֵ֣י הַֽחִירֹ֔ת וַיַּֽעַבְר֥וּ בְתוֹךְ־הַיָּ֖ם הַמִּדְבָּ֑רָה וַיֵּ֨לְכ֜וּ דֶּ֣רֶךְ שְׁלֹ֤שֶׁת יָמִים֙ בְּמִדְבַּ֣ר אֵתָ֔ם וַֽיַּחֲנ֖וּ בְּמָרָֽה׃
+
+**JPS** And they journeyed from Penehahiroth, and passed through the midst of the sea into the wilderness; and they went three days' journey in the wilderness of Etham, and pitched in Marah.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.
 
+**HEB** וַיִּסְעוּ֙ מִמָּרָ֔ה וַיָּבֹ֖אוּ אֵילִ֑מָה וּ֠בְאֵילִם שְׁתֵּ֣ים עֶשְׂרֵ֞ה עֵינֹ֥ת מַ֛יִם וְשִׁבְעִ֥ים תְּמָרִ֖ים וַיַּחֲנוּ־שָֽׁם׃
+
+**JPS** And they journeyed from Marah, and came unto Elim; and in Elim were twelve springs of water, and threescore and ten palm-trees; and they pitched there.
+
 ## 10
 
 **GRC** καὶ ἀπῆραν ἐξ Αἰλεὶμ καὶ παρενέβαλον ἐπὶ θάλασσαν ἐρυθράν·
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Αιλείμ, εστρατοπέδευσαν παρά την Ερυθράν θάλασσαν.
 
 **KJV** And they removed from Elim, and encamped by the Red sea.
+
+**HEB** וַיִּסְע֖וּ מֵאֵילִ֑ם וַֽיַּחֲנ֖וּ עַל־יַם־סֽוּף׃
+
+**JPS** And they journeyed from Elim, and pitched by the Red Sea.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they removed from the Red sea, and encamped in the wilderness of Sin.
 
+**HEB** וַיִּסְע֖וּ מִיַּם־ס֑וּף וַֽיַּחֲנ֖וּ בְּמִדְבַּר־סִֽין׃
+
+**JPS** And they journeyed from the Red Sea, and pitched in the wilderness of Sin.
+
 ## 12
 
 **GRC** καὶ ἀπῆραν ἐκ τῆς ἐρήμου Σεὶν καὶ παρενέβαλον εἰς Ῥαφακά·
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από της ερήμου Σιν, εστρατοπέδευσαν εν Δοφκά.
 
 **KJV** And they took their journey out of the wilderness of Sin, and encamped in Dophkah.
+
+**HEB** וַיִּסְע֖וּ מִמִּדְבַּר־סִ֑ין וַֽיַּחֲנ֖וּ בְּדָפְקָֽה׃
+
+**JPS** And they journeyed from the wilderness of Sin, and pitched in Dophkah.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Dophkah, and encamped in Alush.
 
+**HEB** וַיִּסְע֖וּ מִדָּפְקָ֑ה וַֽיַּחֲנ֖וּ בְּאָלֽוּשׁ׃
+
+**JPS** And they journeyed from Dophkah, and pitched in Alush.
+
 ## 14
 
 **GRC** καὶ ἀπῆραν ἐξ Αἰλεὶμ καὶ παρενέβαλον ἐν Ῥαφιδείν, καὶ οὐκ ἦν ὕδωρ τῷ λαῷ πιεῖν ἐκεῖ.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Αιλούς, εστρατοπέδευσαν εν Ραφιδείν, όπου δεν ήτο ύδωρ διά να πίη ο λαός.
 
 **KJV** And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.
+
+**HEB** וַיִּסְע֖וּ מֵאָל֑וּשׁ וַֽיַחֲנוּ֙ בִּרְפִידִ֔ם וְלֹא־הָ֨יָה שָׁ֥ם מַ֛יִם לָעָ֖ם לִשְׁתּֽוֹת׃
+
+**JPS** And they journeyed from Alush, and pitched in Rephidim, where was no water for the people to drink.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Rephidim, and pitched in the wilderness of Sinai.
 
+**HEB** וַיִּסְע֖וּ מֵרְפִידִ֑ם וַֽיַּחֲנ֖וּ בְּמִדְבַּ֥ר סִינָֽי׃
+
+**JPS** And they journeyed from Rephidim, and pitched in the wilderness of Sinai.
+
 ## 16
 
 **GRC** καὶ ἀπῆραν ἐκ τῆς ἐρήμου Σεινὰ καὶ παρενέβαλον ἐν Μνήμασιν ἐπιθυμίας·
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από της ερήμου Σινά, εστρατοπέδευσαν εν Κιβρώθ-αττααβά.
 
 **KJV** And they removed from the desert of Sinai, and pitched at Kibroth–hattaavah.
+
+**HEB** וַיִּסְע֖וּ מִמִּדְבַּ֣ר סִינָ֑י וַֽיַּחֲנ֖וּ בְּקִבְרֹ֥ת הַֽתַּאֲוָֽה׃
+
+**JPS** And they journeyed from the wilderness of Sinai, and pitched in Kibroth-hattaavah.
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Kibroth–hattaavah, and encamped at Hazeroth.
 
+**HEB** וַיִּסְע֖וּ מִקִּבְרֹ֣ת הַֽתַּאֲוָ֑ה וַֽיַּחֲנ֖וּ בַּחֲצֵרֹֽת׃
+
+**JPS** And they journeyed from Kibroth-hattaavah, and pitched in Hazeroth.
+
 ## 18
 
 **GRC** καὶ ἀπῆραν ἐξ Ἁσηρὼθ καὶ παρενέβαλον ἐν Ῥαθαμά·
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Ασηρώθ, εστρατοπέδευσαν εν Ριθμά.
 
 **KJV** And they departed from Hazeroth, and pitched in Rithmah.
+
+**HEB** וַיִּסְע֖וּ מֵחֲצֵרֹ֑ת וַֽיַּחֲנ֖וּ בְּרִתְמָֽה׃
+
+**JPS** And they journeyed from Hazeroth, and pitched in Rithmah.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Rithmah, and pitched at Rimmon–parez.
 
+**HEB** וַיִּסְע֖וּ מֵרִתְמָ֑ה וַֽיַּחֲנ֖וּ בְּרִמֹּ֥ן פָּֽרֶץ׃
+
+**JPS** And they journeyed from Rithmah, and pitched in Rimmon-perez.
+
 ## 20
 
 **GRC** καὶ ἀπῆραν ἐκ Ῥαμμὼν Φάρες καὶ παρενέβαλον ἐν Λεμωνά·
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Ριμμών-φαρές, εστρατοπέδευσαν εν Λιβνά.
 
 **KJV** And they departed from Rimmon–parez, and pitched in Libnah.
+
+**HEB** וַיִּסְע֖וּ מֵרִמֹּ֣ן פָּ֑רֶץ וַֽיַּחֲנ֖וּ בְּלִבְנָֽה׃
+
+**JPS** And they journeyed from Rimmon-perez, and pitched in Libnah.
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they removed from Libnah, and pitched at Rissah.
 
+**HEB** וַיִּסְע֖וּ מִלִּבְנָ֑ה וַֽיַּחֲנ֖וּ בְּרִסָּֽה׃
+
+**JPS** And they journeyed from Libnah, and pitched in Rissah.
+
 ## 22
 
 **GRC** καὶ ἀπῆραν ἐκ Δεσσὰ καὶ παρενέβαλον εἰς Μακελλάθ·
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Ρισσά, εστρατοπέδευσαν εν Κεελαθά.
 
 **KJV** And they journeyed from Rissah, and pitched in Kehelathah.
+
+**HEB** וַיִּסְע֖וּ מֵרִסָּ֑ה וַֽיַּחֲנ֖וּ בִּקְהֵלָֽתָה׃
+
+**JPS** And they journeyed from Rissah, and pitched in Kehelah.
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they went from Kehelathah, and pitched in mount Shapher.
 
+**HEB** וַיִּסְע֖וּ מִקְּהֵלָ֑תָה וַֽיַּחֲנ֖וּ בְּהַר־שָֽׁפֶר׃
+
+**JPS** And they journeyed from Kehelah, and pitched in mount Shepher.
+
 ## 24
 
 **GRC** καὶ ἀπῆραν ἐκ Σάφαρ καὶ παρενέβαλον εἰς Χαραδάθ·
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από του όρους Σαφέρ, εστρατοπέδευσαν εν Χαραδά.
 
 **KJV** And they removed from mount Shapher, and encamped in Haradah.
+
+**HEB** וַיִּסְע֖וּ מֵֽהַר־שָׁ֑פֶר וַֽיַּחֲנ֖וּ בַּחֲרָדָֽה׃
+
+**JPS** And they journeyed from mount Shepher, and pitched in Haradah.
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they removed from Haradah, and pitched in Makheloth.
 
+**HEB** וַיִּסְע֖וּ מֵחֲרָדָ֑ה וַֽיַּחֲנ֖וּ בְּמַקְהֵלֹֽת׃
+
+**JPS** And they journeyed from Haradah, and pitched in Makheloth.
+
 ## 26
 
 **GRC** καὶ ἀπῆραν ἐκ Μακηλὼθ καὶ παρενέβαλον εἰς Κατάαθ·
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Μακηλώθ, εστρατοπέδευσαν εν Ταχάθ.
 
 **KJV** And they removed from Makheloth, and encamped at Tahath.
+
+**HEB** וַיִּסְע֖וּ מִמַּקְהֵלֹ֑ת וַֽיַּחֲנ֖וּ בְּתָֽחַת׃
+
+**JPS** And they journeyed from Makheloth, and pitched in Tahath.
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Tahath, and pitched at Tarah.
 
+**HEB** וַיִּסְע֖וּ מִתָּ֑חַת וַֽיַּחֲנ֖וּ בְּתָֽרַח׃
+
+**JPS** And they journeyed from Tahath, and pitched in Terah.
+
 ## 28
 
 **GRC** καὶ ἀπῆραν ἐκ Τάραθ καὶ παρενέβαλον εἰς Ματεκκά·
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Θαρά, εστρατοπέδευσαν εν Μιθκά.
 
 **KJV** And they removed from Tarah, and pitched in Mithcah.
+
+**HEB** וַיִּסְע֖וּ מִתָּ֑רַח וַֽיַּחֲנ֖וּ בְּמִתְקָֽה׃
+
+**JPS** And they journeyed from Terah, and pitched in Mithkah.
 
 ## 29
 
@@ -241,6 +355,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they went from Mithcah, and pitched in Hashmonah.
 
+**HEB** וַיִּסְע֖וּ מִמִּתְקָ֑ה וַֽיַּחֲנ֖וּ בְּחַשְׁמֹנָֽה׃
+
+**JPS** And they journeyed from Mithkah, and pitched in Hashmonah.
+
 ## 30
 
 **GRC** καὶ ἀπῆραν ἐκ Σελμωνὰ καὶ παρενέβαλον εἰς Μασσουρώθ·
@@ -248,6 +366,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Ασεμωνά, εστρατοπέδευσαν εν Μοσηρώθ.
 
 **KJV** And they departed from Hashmonah, and encamped at Moseroth.
+
+**HEB** וַיִּסְע֖וּ מֵֽחַשְׁמֹנָ֑ה וַֽיַּחֲנ֖וּ בְּמֹסֵרֽוֹת׃
+
+**JPS** And they journeyed from Hashmonah, and pitched in Moseroth.
 
 ## 31
 
@@ -257,6 +379,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Moseroth, and pitched in Bene–jaakan.
 
+**HEB** וַיִּסְע֖וּ מִמֹּסֵר֑וֹת וַֽיַּחֲנ֖וּ בִּבְנֵ֥י יַעֲקָֽן׃
+
+**JPS** And they journeyed from Moseroth, and pitched in Bene-jaakan.
+
 ## 32
 
 **GRC** καὶ ἀπῆραν ἐκ Βαναία καὶ παρενέβαλον εἰς τὸ ὄρος Γαδγάδ·
@@ -264,6 +390,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Βενέ-ιακάν, εστρατοπέδευσαν εν τω όρει Γαδγάδ.
 
 **KJV** And they removed from Bene–jaakan, and encamped at Hor–hagidgad.
+
+**HEB** וַיִּסְע֖וּ מִבְּנֵ֣י יַעֲקָ֑ן וַֽיַּחֲנ֖וּ בְּחֹ֥ר הַגִּדְגָּֽד׃
+
+**JPS** And they journeyed from Bene-jaakan, and pitched in Hor-haggidgad.
 
 ## 33
 
@@ -273,6 +403,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they went from Hor–hagidgad, and pitched in Jotbathah.
 
+**HEB** וַיִּסְע֖וּ מֵחֹ֣ר הַגִּדְגָּ֑ד וַֽיַּחֲנ֖וּ בְּיָטְבָֽתָה׃
+
+**JPS** And they journeyed from Hor-haggidgad, and pitched in Jotbah.
+
 ## 34
 
 **GRC** καὶ ἀπῆραν ἐκ Σετεβάθα καὶ παρενέβαλον εἰς Σεβρωνά·
@@ -280,6 +414,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Ιοτβαθά, εστρατοπέδευσαν εν Εβρωνά.
 
 **KJV** And they removed from Jotbathah, and encamped at Ebronah.
+
+**HEB** וַיִּסְע֖וּ מִיָּטְבָ֑תָה וַֽיַּחֲנ֖וּ בְּעַבְרֹנָֽה׃
+
+**JPS** And they journeyed from Jotbah, and pitched in Abronah.
 
 ## 35
 
@@ -289,6 +427,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Ebronah, and encamped at Ezion–gaber.
 
+**HEB** וַיִּסְע֖וּ מֵֽעַבְרֹנָ֑ה וַֽיַּחֲנ֖וּ בְּעֶצְי֥וֹן גָּֽבֶר׃
+
+**JPS** And they journeyed from Abronah, and pitched in Ezion-geber.
+
 ## 36
 
 **GRC** καὶ ἀπῆραν ἐκ Γεσσιὼν Γάβερ καὶ παρενέβαλον ἐν τῇ ἐρήμῳ Σείν· καὶ ἀπῆραν ἐκ τῆς ἐρήμου Σεὶν καὶ παρενέβαλον εἰς τὴν ἔρημον Φαράν, αὕτη ἐστὶν Καδής·
@@ -296,6 +438,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Εσιών-γάβερ, εστρατοπέδευσαν εν τη ερήμω Σιν, ήτις είναι η Κάδης.
 
 **KJV** And they removed from Ezion–gaber, and pitched in the wilderness of Zin, which is Kadesh.
+
+**HEB** וַיִּסְע֖וּ מֵעֶצְי֣וֹן גָּ֑בֶר וַיַּחֲנ֥וּ בְמִדְבַּר־צִ֖ן הִ֥וא קָדֵֽשׁ׃
+
+**JPS** And they journeyed from Ezion-geber, and pitched in the wilderness of Zin--the same is Kadesh.
 
 ## 37
 
@@ -305,6 +451,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.
 
+**HEB** וַיִּסְע֖וּ מִקָּדֵ֑שׁ וַֽיַּחֲנוּ֙ בְּהֹ֣ר הָהָ֔ר בִּקְצֵ֖ה אֶ֥רֶץ אֱדֽוֹם׃
+
+**JPS** And they journeyed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.--
+
 ## 38
 
 **GRC** καὶ ἀνέβη Ἀαρὼν ὁ ἱερεὺς διὰ προστάγματος Κυρίου, καὶ ἀπέθανεν ἐκεῖ ἐν τῷ τεσσερακοστῷ ἔτει τῆς ἐξόδου τῶν υἱῶν Ἰσραὴλ ἐκ γῆς Αἰγύπτου, τῷ μηνὶ τῷ πέμπτῳ, μιᾷ τοῦ μηνός·
@@ -312,6 +462,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ανέβη Ααρών ο ιερεύς, διά προσταγής του Κυρίου, εις το όρος Ωρ και απέθανεν εκεί, το τεσσαρακοστόν έτος της εξόδου των υιών Ισραήλ εκ γης Αιγύπτου, τον πέμπτον μήνα· την πρώτην του μηνός.
 
 **KJV** And Aaron the priest went up into mount Hor at the commandment of the Lord, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.
+
+**HEB** וַיַּעַל֩ אַהֲרֹ֨ן הַכֹּהֵ֜ן אֶל־הֹ֥ר הָהָ֛ר עַל־פִּ֥י יְהוָ֖ה וַיָּ֣מָת שָׁ֑ם בִּשְׁנַ֣ת הָֽאַרְבָּעִ֗ים לְצֵ֤את בְּנֵֽי־יִשְׂרָאֵל֙ מֵאֶ֣רֶץ מִצְרַ֔יִם בַּחֹ֥דֶשׁ הַחֲמִישִׁ֖י בְּאֶחָ֥ד לַחֹֽדֶשׁ׃
+
+**JPS** And Aaron the priest went up into mount Hor at the commandment of HaShem, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the fifth month, on the first day of the month.
 
 ## 39
 
@@ -321,6 +475,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Aaron was an hundred and twenty and three years old when he died in mount Hor.
 
+**HEB** וְאַהֲרֹ֔ן בֶּן־שָׁלֹ֧שׁ וְעֶשְׂרִ֛ים וּמְאַ֖ת שָׁנָ֑ה בְּמֹת֖וֹ בְּהֹ֥ר הָהָֽר׃
+
+**JPS** And Aaron was a hundred and twenty and three years old when he died in mount Hor.
+
 ## 40
 
 **GRC** καὶ ἀκούσας ὁ Χανανείς, βασιλεὺς Ἀράδ· καὶ οὗτος κατῴκει ἐν γῇ Χανάαν, ὅτε εἰσεπορεύοντο οἱ υἱοὶ Ἰσραήλ.
@@ -328,6 +486,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ήκουσεν ο Χαναναίος, βασιλεύς της Αράδ, όστις κατώκει προς μεσημβρίαν, εν γη Χαναάν, την έλευσιν των υιών Ισραήλ.
 
 **KJV** And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.
+
+**HEB** וַיִּשְׁמַ֗ע הַֽכְּנַעֲנִי֙ מֶ֣לֶךְ עֲרָ֔ד וְהֽוּא־יֹשֵׁ֥ב בַּנֶּ֖גֶב בְּאֶ֣רֶץ כְּנָ֑עַן בְּבֹ֖א בְּנֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** And the Canaanite, the king of Arad, who dwelt in the South in the land of Canaan, heard of the coming of the children of Israel.--
 
 ## 41
 
@@ -337,6 +499,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from mount Hor, and pitched in Zalmonah.
 
+**HEB** וַיִּסְע֖וּ מֵהֹ֣ר הָהָ֑ר וַֽיַּחֲנ֖וּ בְּצַלְמֹנָֽה׃
+
+**JPS** And they journeyed from mount Hor, and pitched in Zalmonah.
+
 ## 42
 
 **GRC** καὶ ἀπῆραν ἐκ Σελμωνὰ καὶ παρενέβαλον εἰς Φεινώ·
@@ -344,6 +510,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Σαλμωνά, εστρατοπέδευσαν εν Φυνών.
 
 **KJV** And they departed from Zalmonah, and pitched in Punon.
+
+**HEB** וַיִּסְע֖וּ מִצַּלְמֹנָ֑ה וַֽיַּחֲנ֖וּ בְּפוּנֹֽן׃
+
+**JPS** And they journeyed from Zalmonah, and pitched in Punon.
 
 ## 43
 
@@ -353,6 +523,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Punon, and pitched in Oboth.
 
+**HEB** וַיִּסְע֖וּ מִפּוּנֹ֑ן וַֽיַּחֲנ֖וּ בְּאֹבֹֽת׃
+
+**JPS** And they journeyed from Punon, and pitched in Oboth.
+
 ## 44
 
 **GRC** καὶ ἀπῆραν ἐκ Σωβὼθ καὶ παρενέβαλον ἐν Γαί, ἐν τῷ πέρα ἐπὶ τῶν ὁρίων Μωάβ·
@@ -360,6 +534,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Ωβώθ, εστρατοπέδευσαν εν Ιϊέ-αβαρίμ, κατά τα όρια του Μωάβ.
 
 **KJV** And they departed from Oboth, and pitched in Ije–abarim, in the border of Moab.
+
+**HEB** וַיִּסְע֖וּ מֵאֹבֹ֑ת וַֽיַּחֲנ֛וּ בְּעִיֵּ֥י הָעֲבָרִ֖ים בִּגְב֥וּל מוֹאָֽב׃
+
+**JPS** And they journeyed from Oboth, and pitched in Ije-abarim, in the border of Moab.
 
 ## 45
 
@@ -369,6 +547,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they departed from Iim, and pitched in Dibon–gad.
 
+**HEB** וַיִּסְע֖וּ מֵעִיִּ֑ים וַֽיַּחֲנ֖וּ בְּדִיבֹ֥ן גָּֽד׃
+
+**JPS** And they journeyed from Ijim, and pitched in Dibon-gad.
+
 ## 46
 
 **GRC** καὶ ἀπῆραν ἐκ Δαιβὼν Γὰδ καὶ παρενέβαλον ἐν Γελμὼν Δεβλαθάιμ·
@@ -376,6 +558,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από Δαιβών-γαδ, εστρατοπέδευσαν εν Αλμών-διβλαθαΐμ.
 
 **KJV** And they removed from Dibon–gad, and encamped in Almon–diblathaim.
+
+**HEB** וַיִּסְע֖וּ מִדִּיבֹ֣ן גָּ֑ד וַֽיַּחֲנ֖וּ בְּעַלְמֹ֥ן דִּבְלָתָֽיְמָה׃
+
+**JPS** And they journeyed from Dibon-gad, and pitched in Almon-diblathaim.
 
 ## 47
 
@@ -385,6 +571,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they removed from Almon–diblathaim, and pitched in the mountains of Abarim, before Nebo.
 
+**HEB** וַיִּסְע֖וּ מֵעַלְמֹ֣ן דִּבְלָתָ֑יְמָה וַֽיַּחֲנ֛וּ בְּהָרֵ֥י הָעֲבָרִ֖ים לִפְנֵ֥י נְבֽוֹ׃
+
+**JPS** And they journeyed from Almon-diblathaim, and pitched in the mountains of Abarim, in front of Nebo.
+
 ## 48
 
 **GRC** καὶ ἀπῆραν ἀπὸ ὀρέων Ἀβαρεὶμ καὶ παρενέβαλον ἐπὶ δυσμῶν Μωάβ, ἐπὶ τοῦ Ἰορδάνου κατὰ Ἰερειχώ·
@@ -392,6 +582,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και σηκωθέντες από των ορέων Αβαρίμ, εστρατοπέδευσαν εις τας πεδιάδας Μωάβ παρά τον Ιορδάνην κατέναντι της Ιεριχώ.
 
 **KJV** And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho.
+
+**HEB** וַיִּסְע֖וּ מֵהָרֵ֣י הָעֲבָרִ֑ים וַֽיַּחֲנוּ֙ בְּעַֽרְבֹ֣ת מוֹאָ֔ב עַ֖ל יַרְדֵּ֥ן יְרֵחֽוֹ׃
+
+**JPS** And they journeyed from the mountains of Abarim, and pitched in the plains of Moab by the Jordan at Jericho.
 
 ## 49
 
@@ -401,6 +595,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they pitched by Jordan, from Beth–jesimoth even unto Abel–shittim in the plains of Moab.
 
+**HEB** וַיַּחֲנ֤וּ עַל־הַיַּרְדֵּן֙ מִבֵּ֣ית הַיְשִׁמֹ֔ת עַ֖ד אָבֵ֣ל הַשִּׁטִּ֑ים בְּעַֽרְבֹ֖ת מוֹאָֽב׃
+
+**JPS** And they pitched by the Jordan, from Beth-jeshimoth even unto Abel-shittim in the plains of Moab.
+
 ## 50
 
 **GRC** Καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων ἐπὶ δυσμῶν Μωὰβ παρὰ τὸν Ἰορδάνην κατὰ Ἰερειχώ
@@ -408,6 +606,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ελάλησε Κύριος προς τον Μωϋσήν εις τας πεδιάδας Μωάβ παρά τον Ιορδάνην κατέναντι της Ιεριχώ, λέγων,
 
 **KJV** And the Lord spake unto Moses in the plains of Moab by Jordan near Jericho, saying,
+
+**HEB** וַיְדַבֵּ֧ר יְהוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב עַל־יַרְדֵּ֥ן יְרֵח֖וֹ לֵאמֹֽר׃
+
+**JPS** And HaShem spoke unto Moses in the plains of Moab by the Jordan at Jericho, saying:
 
 ## 51
 
@@ -417,6 +619,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;
 
+**HEB** דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם כִּ֥י אַתֶּ֛ם עֹבְרִ֥ים אֶת־הַיַּרְדֵּ֖ן אֶל־אֶ֥רֶץ כְּנָֽעַן׃
+
+**JPS** 'Speak unto the children of Israel, and say unto them: When ye pass over the Jordan into the land of Canaan,
+
 ## 52
 
 **GRC** καὶ ἀπολεῖτε πάντας τοὺς κατοικοῦντας ἐν τῇ γῇ πρὸ προσώπου ὑμῶν, καὶ ἐξαρεῖτε τὰς σκοπιὰς αὐτῶν, καὶ πάντα τὰ εἴδωλα τὰ χωνευτὰ αὐτῶν ἀπολεῖτε αὐτά, καὶ πάσας τὰς στήλας αὐτῶν ἐξαρεῖτε.
@@ -424,6 +630,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** θέλετε εκδιώξει πάντας τους κατοίκους της γης απ' έμπροσθέν σας και καταστρέψει πάσας τας εικόνας αυτών και καταστρέψει πάντα τα χυτά είδωλα αυτών και κατεδαφίσει πάντας τους βωμούς αυτών·
 
 **KJV** Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:
+
+**HEB** וְה֨וֹרַשְׁתֶּ֜ם אֶת־כָּל־יֹשְׁבֵ֤י הָאָ֙רֶץ֙ מִפְּנֵיכֶ֔ם וְאִ֨בַּדְתֶּ֔ם אֵ֖ת כָּל־מַשְׂכִּיֹּתָ֑ם וְאֵ֨ת כָּל־צַלְמֵ֤י מַסֵּֽכֹתָם֙ תְּאַבֵּ֔דוּ וְאֵ֥ת כָּל־בָּמֹתָ֖ם תַּשְׁמִֽידוּ׃
+
+**JPS** then ye shall drive out all the inhabitants of the land from before you, and destroy all their figured stones, and destroy all their molten images, and demolish all their high places.
 
 ## 53
 
@@ -433,6 +643,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it.
 
+**HEB** וְהוֹרַשְׁתֶּ֥ם אֶת־הָאָ֖רֶץ וִֽישַׁבְתֶּם־בָּ֑הּ כִּ֥י לָכֶ֛ם נָתַ֥תִּי אֶת־הָאָ֖רֶץ לָרֶ֥שֶׁת אֹתָֽהּ׃
+
+**JPS** And ye shall drive out the inhabitants of the land, and dwell therein; for unto you have I given the land to possess it.
+
 ## 54
 
 **GRC** καὶ κατακληρονομήσετε τὴν γῆν αὐτῶν ἐν κλήρῳ κατὰ φυλὰς αὐτῶν· τοῖς πλείοσιν πληθυνεῖτε τὴν κατάσχεσιν αὐτῶν, καὶ τοῖς ἐλάττοσιν ἐλαττώσετε τὴν κατάσχεσιν αὐτῶν· εἰς ὃ ἐὰν ἐξέλθῃ τὸ ὄνομα αὐτοῦ ἐκεῖ, αὐτοῦ ἔσται· κατὰ φυλὰς πατριῶν ὑμῶν κληρονομήσετε.
@@ -440,6 +654,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και θέλετε διαμοιρασθή την γην διά κλήρων μεταξύ των συγγενειών σας· εις τους περισσοτέρους θέλετε δώσει περισσοτέραν κληρονομίαν, και εις τους ολιγωτέρους θέλετε δώσει ολιγωτέραν κληρονομίαν· εκάστου η κληρονομία θέλει είσθαι εις το μέρος όπου πέση ο κλήρος αυτού· κατά τας φυλάς των πατέρων σας θέλετε κληρονομήσει.
 
 **KJV** And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.
+
+**HEB** וְהִתְנַחַלְתֶּם֩ אֶת־הָאָ֨רֶץ בְּגוֹרָ֜ל לְמִשְׁפְּחֹֽתֵיכֶ֗ם לָרַ֞ב תַּרְבּ֤וּ אֶת־נַחֲלָתוֹ֙ וְלַמְעַט֙ תַּמְעִ֣יט אֶת־נַחֲלָת֔וֹ אֶל֩ אֲשֶׁר־יֵ֨צֵא ל֥וֹ שָׁ֛מָּה הַגּוֹרָ֖ל ל֣וֹ יִהְיֶ֑ה לְמַטּ֥וֹת אֲבֹתֵיכֶ֖ם תִּתְנֶחָֽלוּ׃
+
+**JPS** And ye shall inherit the land by lot according to your families--to the more ye shall give the more inheritance, and to the fewer thou shalt give the less inheritance; wheresoever the lot falleth to any man, that shall be his; according to the tribes of your fathers shall ye inherit.
 
 ## 55
 
@@ -449,6 +667,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.
 
+**HEB** וְאִם־לֹ֨א תוֹרִ֜ישׁוּ אֶת־יֹשְׁבֵ֣י הָאָרֶץ֮ מִפְּנֵיכֶם֒ וְהָיָה֙ אֲשֶׁ֣ר תּוֹתִ֣ירוּ מֵהֶ֔ם לְשִׂכִּים֙ בְּעֵ֣ינֵיכֶ֔ם וְלִצְנִינִ֖ם בְּצִדֵּיכֶ֑ם וְצָרֲר֣וּ אֶתְכֶ֔ם עַל־הָאָ֕רֶץ אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֥ים בָּֽהּ׃
+
+**JPS** But if ye will not drive out the inhabitants of the land from before you, then shall those that ye let remain of them be as thorns in your eyes, and as pricks in your sides, and they shall harass you in the land wherein ye dwell.
+
 ## 56
 
 **GRC** καὶ ἔσται καθότι διεγνώκειν ποιῆσαι αὐτούς, ποιήσω ὑμᾶς.
@@ -456,6 +678,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και έτι, καθώς εστοχαζόμην να κάμω εις αυτούς, ούτω θέλω κάμει εις εσάς.
 
 **KJV** Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them.
+
+**HEB** וְהָיָ֗ה כַּאֲשֶׁ֥ר דִּמִּ֛יתִי לַעֲשׂ֥וֹת לָהֶ֖ם אֽ͏ֶעֱשֶׂ֥ה לָכֶֽם׃
+
+**JPS** And it shall come to pass, that as I thought to do unto them, so will I do unto you.
 
 ## Notes
 

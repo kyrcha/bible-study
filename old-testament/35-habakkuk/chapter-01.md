@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** The burden which Habakkuk the prophet did see.
 
+**HEB** הַמַּשָׂא֙ אֲשֶׁ֣ר חָזָ֔ה חֲבַקּ֖וּק הַנָּבִֽיא׃
+
+**JPS** THE BURDEN which Habakkuk the prophet did see.
+
 ## 2
 
 **GRC** Ἕως τίνος, Κύριε, κράξομαι, καὶ οὐ μὴ εἰσακούσῃς; βοήσομαι πρὸς σὲ ἀδικούμενος, καὶ οὐ σώσεις;
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Έως πότε, Κύριε, θέλω κράζει, και δεν θέλεις εισακούει; θέλω βοά προς σε, Αδικία· και δεν θέλεις σώζει;
 
 **KJV** O Lord, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save!
+
+**HEB** עַד־אָ֧נָה יְהוָ֛ה שִׁוַּ֖עְתִּי וְלֹ֣א תִשְׁמָ֑ע אֶזְעַ֥ק אֵלֶ֛יךָ חָמָ֖ס וְלֹ֥א תוֹשִֽׁיעַ׃
+
+**JPS** How long, O HaShem, shall I cry, and Thou wilt not hear? I cry out unto Thee of violence, and Thou wilt not save.
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
 
+**HEB** לָ֣מָּה תַרְאֵ֤נִי אָ֙וֶן֙ וְעָמָ֣ל תַּבִּ֔יט וְשֹׁ֥ד וְחָמָ֖ס לְנֶגְדִּ֑י וַיְהִ֧י רִ֦יב וּמָד֖וֹן יִשָּֽׂא׃
+
+**JPS** Why dost Thou show me iniquity, and beholdest mischief? And why are spoiling and violence before me? so that there is strife, and contention ariseth.
+
 ## 4
 
 **GRC** διὰ τοῦτο διεσκέδασται νόμος, καὶ οὐ διεξάγεται εἰς τέλος κρίμα, ὅτι ἀσεβὴς καταδυναστεύει τὸν δίκαιον· ἕνεκεν τούτου ἐξελεύσεται τὸ κρίμα διεστραμμένον.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διά τούτο ο νόμος είναι αργός, και δεν εξέρχεται κρίσις τελεία· επειδή ο ασεβής καταδυναστεύει τον δίκαιον, διά τούτο εξέρχεταί κρίσις διεστραμμένη.
 
 **KJV** Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
+
+**HEB** עַל־כֵּן֙ תָּפ֣וּג תּוֹרָ֔ה וְלֹֽא־יֵצֵ֥א לָנֶ֖צַח מִשְׁפָּ֑ט כִּ֤י רָשָׁע֙ מַכְתִּ֣יר אֶת־הַצַּדִּ֔יק עַל־כֵּ֛ן יֵצֵ֥א מִשְׁפָּ֖ט מְעֻקָּֽל׃
+
+**JPS** Therefore the law is slacked, and right doth never go forth; for the wicked doth beset the righteous; therefore right goeth forth perverted.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you.
 
+**HEB** רְא֤וּ בַגּוֹיִם֙ וְֽהַבִּ֔יטוּ וְהִֽתַּמְּה֖וּ תְּמָ֑הוּ כִּי־פֹ֙עַל֙ פֹּעֵ֣ל בִּֽימֵיכֶ֔ם לֹ֥א תַאֲמִ֖ינוּ כִּ֥י יְסֻפָּֽר׃
+
+**JPS** Look ye among the nations, and behold, and wonder marvellously; for, behold, a work shall be wrought in your days, which ye will not believe though it be told you.
+
 ## 6
 
 **GRC** διότι ἰδοὺ ἐγὼ ἐξεγείρω τοὺς Χαλδαίους, τὸ ἔθνος τὸ πικρὸν καὶ τὸ ταχινόν, τὸ πορευόμενον ἐπὶ τὰ πλάτη τῆς γῆς τοῦ κατακληρονομῆσαι σκηνώματα οὐκ αὐτοῦ·
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διότι, ιδού, εγώ εξεγείρω τους Χαλδαίους, το έθνος το πικρόν και ορμητικόν, το οποίον θέλει διέλθει το πλάτος του τόπου, διά να κληρονομήση κατοικίας ουχί εαυτού.
 
 **KJV** For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.
+
+**HEB** כִּֽי־הִנְנִ֤י מֵקִים֙ אֶת־הַכַּשְׂדִּ֔ים הַגּ֖וֹי הַמַּ֣ר וְהַנִּמְהָ֑ר הַֽהוֹלֵךְ֙ לְמֶרְחֲבֵי־אֶ֔רֶץ לָרֶ֖שֶׁת מִשְׁכָּנ֥וֹת לֹּא־לֽוֹ׃
+
+**JPS** For, lo, I raise up the Chaldeans, that bitter and impetuous nation, that march through the breadth of the earth, to possess dwelling-places that are not theirs.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** They are terrible and dreadful: their judgment and their dignity shall proceed of themselves.
 
+**HEB** אָיֹ֥ם וְנוֹרָ֖א ה֑וּא מִמֶּ֕נּוּ מִשְׁפָּט֥וֹ וּשְׂאֵת֖וֹ יֵצֵֽא׃
+
+**JPS** They are terrible and dreadful; their law and their majesty proceed from themselves.
+
 ## 8
 
 **GRC** καὶ ἐξαλοῦνται ὑπὲρ παρδάλεις οἱ ἵπποι αὐτοῦ, καὶ ὀξύτεροι ὑπὲρ τοὺς λύκους τῆς Ἀραβίας· καὶ ἐξιππάσονται οἱ ἱππεῖς αὐτοῦ καὶ ὁρμήσουσιν μακρόθεν, καὶ πετασθήσονται ὡς ἀετὸς πρόθυμος εἰς τὸ φαγεῖν.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και οι ίπποι αυτών είναι ταχύτεροι παρδάλεων και οξύτεροι λύκων της εσπέρας· και οι ιππείς αυτών θέλουσι διαχυθή και οι ιππείς αυτών θέλουσιν ελθεί από μακρόθεν· θέλουσι πετάξει ως αετός σπεύδων εις βρώσιν,
 
 **KJV** Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.
+
+**HEB** וְקַלּ֨וּ מִנְּמֵרִ֜ים סוּסָ֗יו וְחַדּוּ֙ מִזְּאֵ֣בֵי עֶ֔רֶב וּפָ֖שׁוּ פָּֽרָשָׁ֑יו וּפָֽרָשָׁיו֙ מֵרָח֣וֹק יָבֹ֔אוּ יָעֻ֕פוּ כְּנֶ֖שֶׁר חָ֥שׁ לֶאֱכֽוֹל׃
+
+**JPS** Their horses also are swifter than leopards, and are more fierce than the wolves of the desert; and their horsemen spread themselves; yea, their horsemen come from far, they fly as a vulture that hasteth to devour.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.
 
+**HEB** כֻּלֹּה֙ לְחָמָ֣ס יָב֔וֹא מְגַמַּ֥ת פְּנֵיהֶ֖ם קָדִ֑ימָה וַיֶּאֱסֹ֥ף כַּח֖וֹל שֶֽׁבִי׃
+
+**JPS** They come all of them for violence; their faces are set eagerly as the east wind; and they gather captives as the sand.
+
 ## 10
 
 **GRC** καὶ αὐτὸς ἐν βασιλεῦσιν ἐντρυφήσει καὶ τύραννοι παίγνια αὐτοῦ, καὶ αὐτὸς εἰς πᾶν ὀχύρωμα ἐμπαίξεται, καὶ βαλεῖ χῶμα καὶ κρατήσει αὐτοῦ.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και θέλουσι περιπαίζει τους βασιλείς, και οι άρχοντες θέλουσιν είσθαι παίγνιον εις αυτούς· θέλουσιν εμπαίζει παν οχύρωμα· διότι θέλουσιν επισωρεύσει χώμα και θέλουσι κυριεύσει αυτό.
 
 **KJV** And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
+
+**HEB** וְהוּא֙ בַּמְּלָכִ֣ים יִתְקַלָּ֔ס וְרֹזְנִ֖ים מִשְׂחָ֣ק ל֑וֹ ה֚וּא לְכָל־מִבְצָ֣ר יִשְׂחָ֔ק וַיִּצְבֹּ֥ר עָפָ֖ר וַֽיִּלְכְּדָֽהּ׃
+
+**JPS** And they scoff at kings, and princes are a derision unto them; they deride every stronghold, for they heap up earth, and take it.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.
 
+**HEB** אָ֣ז חָלַ֥ף ר֛וּחַ וַֽיַּעֲבֹ֖ר וְאָשֵׁ֑ם ז֥וּ כֹח֖וֹ לֵאלֹהֽוֹ׃
+
+**JPS** Then their spirit doth pass over and transgress, and they become guilty: even they who impute their might unto their god.
+
 ## 12
 
 **GRC** Οὐχὶ σὺ ἀπ᾽ ἀρχῆς, Κύριε ὁ θεός, ὁ ἅγιός μου; καὶ οὐ μὴ ἀποθάνωμεν. Κύριε, εἰς κρίμα τέταχας αὐτό· καὶ ἔπλασέν με τοῦ ἐλέγχειν παιδείαν αὐτοῦ.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Δεν είσαι συ απ' αιώνος, Κύριε Θεέ μου, ο Άγιός μου; δεν θέλομεν αποθάνει. Συ, Κύριε, διέταξας αυτούς διά κρίσιν· και συ, Ισχυρέ, κατέστησας αυτούς εις παιδείαν ημών.
 
 **KJV** Art thou not from everlasting, O Lord my God, mine Holy One? we shall not die. O Lord, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.
+
+**HEB** הֲל֧וֹא אַתָּ֣ה מִקֶּ֗דֶם יְהוָ֧ה אֱלֹהַ֛י קְדֹשִׁ֖י לֹ֣א נָמ֑וּת יְהוָה֙ לְמִשְׁפָּ֣ט שַׂמְתּ֔וֹ וְצ֖וּר לְהוֹכִ֥יחַ יְסַדְתּֽוֹ׃
+
+**JPS** Art not Thou from everlasting, O HaShem my G-d, my Holy One? we shall not die. O HaShem, Thou hast ordained them for judgment, and Thou, O Rock, hast established them for correction.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?
 
+**HEB** טְה֤וֹר עֵינַ֙יִם֙ מֵרְא֣וֹת רָ֔ע וְהַבִּ֥יט אֶל־עָמָ֖ל לֹ֣א תוּכָ֑ל לָ֤מָּה תַבִּיט֙ בּֽוֹגְדִ֔ים תַּחֲרִ֕ישׁ בְּבַלַּ֥ע רָשָׁ֖ע צַדִּ֥יק מִמֶּֽנּוּ׃
+
+**JPS** Thou that art of eyes too pure to behold evil, and that canst not look on mischief, wherefore lookest Thou, when they deal treacherously, and holdest Thy peace, when the wicked swalloweth up the man that is more righteous than he;
+
 ## 14
 
 **GRC** καὶ ποιήσεις τοὺς ἀνθρώπους ὡς τοὺς ἰχθύας τῆς θαλάσσης, καὶ ὡς τὰ ἑρπετὰ τὰ οὐκ ἔχοντα ἡγούμενον;
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και κάμνεις τους ανθρώπους ως τους ιχθύας της θαλάσσης, ως τα ερπετά, τα μη έχοντα άρχοντα εφ' εαυτών;
 
 **KJV** And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?
+
+**HEB** וַתַּעֲשֶׂ֥ה אָדָ֖ם כִּדְגֵ֣י הַיָּ֑ם כְּרֶ֖מֶשׂ לֹא־מֹשֵׁ֥ל בּֽוֹ׃
+
+**JPS** And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.
 
+**HEB** כֻּלֹּה֙ בְּחַכָּ֣ה הֵֽעֲלָ֔ה יְגֹרֵ֣הוּ בְחֶרְמ֔וֹ וְיַאַסְפֵ֖הוּ בְּמִכְמַרְתּ֑וֹ עַל־כֵּ֖ן יִשְׂמַ֥ח וְיָגִֽיל׃
+
+**JPS** They take up all of them with the angle, they catch them in their net, and gather them in their drag; therefore they rejoice and exult.
+
 ## 16
 
 **GRC** ἕνεκεν τούτου εὐφρανθήσεται καὶ χαρήσεται ἡ καρδία αὐτοῦ· ἕνεκεν τούτου θύσει τῇ σαγήνῃ αὐτοῦ καὶ θυμιάσει τῷ ἀμφιβλήστρῳ αὐτοῦ, ὅτι ἐν αὐτοῖς ἐλίπανεν μερίδα αὐτοῦ καὶ τὰ βρώματα αὐτοῦ ἐκλεκτά·
@@ -137,6 +199,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous.
 
+**HEB** עַל־כֵּן֙ יְזַבֵּ֣חַ לְחֶרְמ֔וֹ וִֽיקַטֵּ֖ר לְמִכְמַרְתּ֑וֹ כִּ֤י בָהֵ֙מָּה֙ שָׁמֵ֣ן חֶלְק֔וֹ וּמַאֲכָל֖וֹ בְּרִאָֽה׃
+
+**JPS** Therefore they sacrifice unto their net, and offer unto their drag; because by them their portion is fat, and their food plenteous.
+
 ## 17
 
 **GRC** διὰ τοῦτο ἀμφιβαλεῖ τὸ ἀμφίβληστρον αὐτοῦ, καὶ διὰ παντὸς ἀποκτέννειν ἔθνη οὐ φείσεται.
@@ -144,6 +210,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Μη διά τούτο θέλουσι πάντοτε εκκενόνει το δίκτυον αυτών; και δεν θέλουσι φείδεσθαι φονεύοντες πάντοτε τα έθνη;
 
 **KJV** Shall they therefore empty their net, and not spare continually to slay the nations?
+
+**HEB** הַ֥עַל כֵּ֖ן יָרִ֣יק חֶרְמ֑וֹ וְתָמִ֛יד לַהֲרֹ֥ג גּוֹיִ֖ם לֹ֥א יַחְמֽוֹל׃
+
+**JPS** Shall they therefore empty their net, and not spare to slay the nations continually?
 
 ## Notes
 

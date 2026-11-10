@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,
 
+**HEB** אָ֚ז יִקְרָ֣א יְהוֹשֻׁ֔עַ לָרֽאוּבֵנִ֖י וְלַגָּדִ֑י וְלַחֲצִ֖י מַטֵּ֥ה מְנַשֶּֽׁה׃
+
+**JPS** Then Joshua called the Reubenites, and the Gadites, and the half-tribe of Manasseh,
+
 ## 2
 
 **GRC** καὶ εἶπεν αὐτοῖς Ὑμεῖς ἀκηκόατε πάντα ὅσα ἐνετείλατο ὑμῖν Μωυσῆς ὁ παῖς Κυρίου, καὶ ἐπηκούσατε τῆς φωνῆς μου κατὰ πάντα ὅσα ἐνετείλατο ὑμῖν.
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και είπε προς αυτούς, Σεις εφυλάξατε πάντα όσα προσέταξεν εις εσάς Μωϋσής ο δούλος του Κυρίου, και υπηκούσατε εις την φωνήν μου κατά πάντα όσα εγώ προσέταξα εις εσάς·
 
 **KJV** And said unto them, Ye have kept all that Moses the servant of the Lord commanded you, and have obeyed my voice in all that I commanded you:
+
+**HEB** וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֣ם שְׁמַרְתֶּ֔ם אֵ֚ת כָּל־אֲשֶׁ֣ר צִוָּ֣ה אֶתְכֶ֔ם מֹשֶׁ֖ה עֶ֣בֶד יְהוָ֑ה וַתִּשְׁמְע֣וּ בְקוֹלִ֔י לְכֹ֥ל אֲשֶׁר־צִוִּ֖יתִי אֶתְכֶֽם׃
+
+**JPS** and said unto them: 'Ye have kept all that Moses the servant of HaShem commanded you, and have hearkened unto my voice in all that I commanded you;
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Ye have not left your brethren these many days unto this day, but have kept the charge of the commandment of the Lord your God.
 
+**HEB** לֹֽא־עֲזַבְתֶּ֣ם אֶת־אֲחֵיכֶ֗ם זֶ֚ה יָמִ֣ים רַבִּ֔ים עַ֖ד הַיּ֣וֹם הַזֶּ֑ה וּשְׁמַרְתֶּ֕ם אֶת־מִשְׁמֶ֕רֶת מִצְוַ֖ת יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+
+**JPS** ye have not left your brethren these many days unto this day, but have kept the charge of the commandment of HaShem your G-d.
+
 ## 4
 
 **GRC** νῦν δὲ κατέπαυσεν Κύριος ὁ θεὸς ἡμῶν τοὺς ἀδελφοὺς ἡμῶν, ὃν τρόπον εἶπεν αὐτοῖς· νῦν οὖν ἀποστραφέντες ἀπέλθατε εἰς τοὺς οἴκους ὑμῶν καὶ εἰς τὴν γῆν τῆς κατασχέσεως ὑμῶν, ἣν ἔδωκεν ὑμῖν Μωυσῆς ἐν τῷ πέραν τοῦ Ἰορδάνου.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και τώρα Κύριος ο Θεός σας έδωκεν ανάπαυσιν εις τους αδελφούς σας, καθώς υπεσχέθη προς αυτούς· τώρα λοιπόν επιστρέψατε και υπάγετε εις τας κατοικίας σας, εις την γην της ιδιοκτησίας σας, την οποίαν Μωϋσής ο δούλος του Κυρίου έδωκεν εις εσάς εις το πέραν του Ιορδάνου·
 
 **KJV** And now the Lord your God hath given rest unto your brethren, as he promised them: therefore now return ye, and get you unto your tents, and unto the land of your possession, which Moses the servant of the Lord gave you on the other side Jordan.
+
+**HEB** וְעַתָּ֗ה הֵנִ֨יחַ יְהוָ֤ה אֱלֹֽהֵיכֶם֙ לַֽאֲחֵיכֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֣ר לָהֶ֑ם וְעַתָּ֡ה פְּנוּ֩ וּלְכ֨וּ לָכֶ֜ם לְאָהֳלֵיכֶ֗ם אֶל־אֶ֙רֶץ֙ אֲחֻזַּתְכֶ֔ם אֲשֶׁ֣ר ׀ נָתַ֣ן לָכֶ֗ם מֹשֶׁה֙ עֶ֣בֶד יְהוָ֔ה בְּעֵ֖בֶר הַיַּרְדֵּֽן׃
+
+**JPS** And now HaShem your G-d hath given rest unto your brethren, as He spoke unto them; therefore now turn ye, and get you unto your tents, unto the land of your possession, which Moses the servant of HaShem gave you beyond the Jordan.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** But take diligent heed to do the commandment and the law, which Moses the servant of the Lord charged you, to love the Lord your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
 
+**HEB** רַ֣ק ׀ שִׁמְר֣וּ מְאֹ֗ד לַעֲשׂ֨וֹת אֶת־הַמִּצְוָ֣ה וְאֶת־הַתּוֹרָה֮ אֲשֶׁ֣ר צִוָּ֣ה אֶתְכֶם֮ מֹשֶׁ֣ה עֶֽבֶד־יְהוָה֒ לְ֠אַהֲבָה אֶת־יְהוָ֨ה אֱלֹֽהֵיכֶ֜ם וְלָלֶ֧כֶת בְּכָל־דְּרָכָ֛יו וְלִשְׁמֹ֥ר מִצְוֺתָ֖יו וּלְדָבְקָה־ב֑וֹ וּלְעָבְד֕וֹ בְּכָל־לְבַבְכֶ֖ם וּבְכָל־נַפְשְׁכֶֽם׃
+
+**JPS** Only take diligent heed to do the commandment and the law, which Moses the servant of HaShem commanded you, to love HaShem your G-d, and to walk in all His ways, and to keep His commandments, and to cleave unto Him, and to serve Him with all your heart and with all your soul.'
+
 ## 6
 
 **GRC** καὶ ηὐλόγησεν αὐτοὺς Ἰησοῦς, καὶ ἐξαπέστειλεν αὐτούς· καὶ ἐπορεύθησαν εἰς τοὺς οἴκους αὐτῶν.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ευλόγησεν αυτούς ο Ιησούς και απέλυσεν αυτούς· και απήλθον εις τας κατοικίας αυτών.
 
 **KJV** So Joshua blessed them, and sent them away: and they went unto their tents.
+
+**HEB** וַֽיְבָרְכֵ֖ם יְהוֹשֻׁ֑עַ וַֽיְשַׁלְּחֵ֔ם וַיֵּלְכ֖וּ אֶל־אָהֳלֵיהֶֽם׃
+
+**JPS** So Joshua blessed them, and sent them away; and they went unto their tents.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Now to the one half of the tribe of Manasseh Moses had given possession in Bashan: but unto the other half thereof gave Joshua among their brethren on this side Jordan westward. And when Joshua sent them away also unto their tents, then he blessed them,
 
+**HEB** וְלַחֲצִ֣י ׀ שֵׁ֣בֶט הַֽמְנַשֶּׁ֗ה נָתַ֣ן מֹשֶׁה֮ בַּבָּשָׁן֒ וּלְחֶצְי֗וֹ נָתַ֤ן יְהוֹשֻׁ֙עַ֙ עִם־אֲחֵיהֶ֔ם מעבר בְּעֵ֥בֶר הַיַּרְדֵּ֖ן יָ֑מָּה וְ֠גַם כִּ֣י שִׁלְּחָ֧ם יְהוֹשֻׁ֛עַ אֶל־אָהֳלֵיהֶ֖ם וַיְבָרֲכֵֽם׃
+
+**JPS** Now to the one half-tribe of Manasseh Moses had given inheritance in Bashan; but unto the other half gave Joshua among their brethren beyond the Jordan westward. Moreover when Joshua sent them away unto their tents, he blessed them,
+
 ## 8
 
 **GRC** καὶ ἐν χρήμασιν πολλοῖς ἀπήλθοσαν εἰς τοὺς οἴκους αὐτῶν· καὶ κτήνη πολλὰ σφόδρα καὶ ἀργύριον καὶ χρυσίον καὶ σίδηρον καὶ ἱματισμὸν πολὺν καὶ διείλαντο, τὴν προνομὴν τῶν ἐχθρῶν, μετὰ τῶν ἀδελφῶν αὐτῶν.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και ελάλησε προς αυτούς, λέγων, Επιστρέψατε με πολλά πλούτη εις τας κατοικίας σας, και με κτήνη πολλά σφόδρα, με άργυρον και με χρυσόν και με χαλκόν και με σίδηρον και με ιμάτια πολλά σφόδρα, μοιράσθητε τα λάφυρα των εχθρών σας μετά των αδελφών σας.
 
 **KJV** And he spake unto them, saying, Return with much riches unto your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment: divide the spoil of your enemies with your brethren.
+
+**HEB** וַיֹּ֨אמֶר אֲלֵיהֶ֜ם לֵאמֹ֗ר בִּנְכָסִ֨ים רַבִּ֜ים שׁ֤וּבוּ אֶל־אָֽהֳלֵיכֶם֙ וּבְמִקְנֶ֣ה רַב־מְאֹ֔ד בְּכֶ֨סֶף וּבְזָהָ֜ב וּבִנְחֹ֧שֶׁת וּבְבַרְזֶ֛ל וּבִשְׂלָמ֖וֹת הַרְבֵּ֣ה מְאֹ֑ד חִלְק֥וּ שְׁלַל־אֹיְבֵיכֶ֖ם עִם־אֲחֵיכֶֽם׃
+
+**JPS** and spoke unto them, saying: 'Return with much wealth unto your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment; divide the spoil of your enemies with your brethren.'
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go unto the country of Gilead, to the land of their possession, whereof they were possessed, according to the word of the Lord by the hand of Moses.
 
+**HEB** וַיָּשֻׁ֣בוּ וַיֵּלְכ֡וּ בְּנֵי־רְאוּבֵ֨ן וּבְנֵי־גָ֜ד וַחֲצִ֣י ׀ שֵׁ֣בֶט הַֽמְנַשֶּׁ֗ה מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל מִשִּׁלֹ֖ה אֲשֶׁ֣ר בְּאֶֽרֶץ־כְּנָ֑עַן לָלֶ֜כֶת אֶל־אֶ֣רֶץ הַגִּלְעָ֗ד אֶל־אֶ֤רֶץ אֲחֻזָּתָם֙ אֲשֶׁ֣ר נֹֽאחֲזוּ־בָ֔הּ עַל־פִּ֥י יְהוָ֖ה בְּיַד־מֹשֶֽׁה׃
+
+**JPS** And the children of Reuben and the children of Gad and the half-tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go unto the land of Gilead, to the land of their possession, whereof they were possessed, according to the commandment of HaShem by the hand of Moses.
+
 ## 10
 
 **GRC** καὶ ἦλθον εἰς Γάλγαλα τοῦ Ἰορδάνου, ἥ ἐστιν ἐν γῇ Χανάαν· καὶ ᾠκοδόμησαν οἱ υἱοὶ Γὰδ καὶ οἱ υἱοὶ Ῥουβὴν καὶ τὸ ἥμισυ φυλῆς Μανασσὴ ἐκεῖ βωμὸν ἐπὶ τοῦ Ἰορδάνου, βωμὸν μέγαν ἐπὶ τοῦ ἰδεῖν.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ελθόντες εις τα πέριξ του Ιορδάνου, τα εντός της γης Χαναάν, οι υιοί Ρουβήν και οι υιοί Γαδ και το ήμισυ της φυλής Μανασσή ωκοδόμησαν εκεί θυσιαστήριον παρά τον Ιορδάνην, θυσιαστήριον μέγα εις την όψιν.
 
 **KJV** And when they came unto the borders of Jordan, that are in the land of Canaan, the children of Reuben and the children of Gad and the half tribe of Manasseh built there an altar by Jordan, a great altar to see to.
+
+**HEB** וַיָּבֹ֙אוּ֙ אֶל־גְּלִיל֣וֹת הַיַּרְדֵּ֔ן אֲשֶׁ֖ר בְּאֶ֣רֶץ כְּנָ֑עַן וַיִּבְנ֣וּ בְנֵי־רְאוּבֵ֣ן וּבְנֵי־גָ֡ד וַחֲצִ֣י שֵׁבֶט֩ הַֽמְנַשֶּׁ֨ה שָׁ֤ם מִזְבֵּ֙חַ֙ עַל־הַיַּרְדֵּ֔ן מִזְבֵּ֥חַ גָּד֖וֹל לְמַרְאֶֽה׃
+
+**JPS** And when they came unto the region about the Jordan, that is in the land of Canaan, the children of Reuben and the children of Gad and the half-tribe of Manasseh built there an altar by the Jordan, a great altar to look upon.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the children of Israel heard say, Behold, the children of Reuben and the children of Gad and the half tribe of Manasseh have built an altar over against the land of Canaan, in the borders of Jordan, at the passage of the children of Israel.
 
+**HEB** וַיִּשְׁמְע֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל לֵאמֹ֑ר הִנֵּ֣ה בָנ֣וּ בְנֵֽי־רְאוּבֵ֣ן וּבְנֵי־גָ֡ד וַחֲצִי֩ שֵׁ֨בֶט הַֽמְנַשֶּׁ֜ה אֶת־הַמִּזְבֵּ֗חַ אֶל־מוּל֙ אֶ֣רֶץ כְּנַ֔עַן אֶל־גְּלִילוֹת֙ הַיַּרְדֵּ֔ן אֶל־עֵ֖בֶר בְּנֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** And the children of Israel heard say: 'Behold, the children of Reuben and the children of Gad and the half-tribe of Manasseh have built an altar in the forefront of the land of Canaan, in the region about the Jordan, on the side that pertaineth to the children of Israel.'
+
 ## 12
 
 **GRC** καὶ συνηθροίσθησαν πάντες οἱ υἱοὶ Ἰσραὴλ εἰς Σηλὼ ὥστε ἀναβάντες ἐκπολεμῆσαι αὐτούς.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ότε ήκουσαν οι υιοί Ισραήλ, συνήχθη πάσα η συναγωγή των υιών Ισραήλ εις Σηλώ, διά να αναβώσι να πολεμήσωσι κατ' αυτών.
 
 **KJV** And when the children of Israel heard of it, the whole congregation of the children of Israel gathered themselves together at Shiloh, to go up to war against them.
+
+**HEB** וַֽיִּשְׁמְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וַיִּקָּ֨הֲל֜וּ כָּל־עֲדַ֤ת בְּנֵֽי־יִשְׂרָאֵל֙ שִׁלֹ֔ה לַעֲל֥וֹת עֲלֵיהֶ֖ם לַצָּבָֽא׃
+
+**JPS** And when the children of Israel heard of it, the whole congregation of the children of Israel gathered themselves together at Shiloh, to go up against them to war.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the children of Israel sent unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, into the land of Gilead, Phinehas the son of Eleazar the priest,
 
+**HEB** וַיִּשְׁלְח֨וּ בְנֵֽי־יִשְׂרָאֵ֜ל אֶל־בְּנֵי־רְאוּבֵ֧ן וְאֶל־בְּנֵי־גָ֛ד וְאֶל־חֲצִ֥י שֵֽׁבֶט־מְנַשֶּׁ֖ה אֶל־אֶ֣רֶץ הַגִּלְעָ֑ד אֶת־פִּינְחָ֖ס בֶּן־אֶלְעָזָ֥ר הַכֹּהֵֽן׃
+
+**JPS** And the children of Israel sent unto the children of Reuben, and to the children of Gad, and to the half-tribe of Manasseh, into the land of Gilead, Phinehas the son of Eleazar the priest;
+
 ## 14
 
 **GRC** καὶ δέκα τῶν ἀρχόντων μετ᾽ αὐτοῦ· ἄρχων εἷς ἀπὸ οἴκου πατριᾶς ἀπὸ πασῶν φυλῶν Ἰσραήλ· ἄρχοντες οἴκων πατριῶν εἰσιν, χιλίαρχοι Ἰσραήλ.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και μετ' αυτού δέκα άρχοντας, ανά ένα άρχοντα αρχηγόν πατριών κατά φυλήν του Ισραήλ, και έκαστος ήτο ο πρώτος του οίκου των πατέρων αυτών, επί τας χιλιάδας του Ισραήλ.
 
 **KJV** And with him ten princes, of each chief house a prince throughout all the tribes of Israel; and each one was an head of the house of their fathers among the thousands of Israel.
+
+**HEB** וַעֲשָׂרָ֤ה נְשִׂאִים֙ עִמּ֔וֹ נָשִׂ֨יא אֶחָ֜ד נָשִׂ֤יא אֶחָד֙ לְבֵ֣ית אָ֔ב לְכֹ֖ל מַטּ֣וֹת יִשְׂרָאֵ֑ל וְאִ֨ישׁ רֹ֧אשׁ בֵּית־אֲבוֹתָ֛ם הֵ֖מָּה לְאַלְפֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** and with him ten princes, one prince of a fathers' house for each of the tribes of Israel; and they were every one of them head of their fathers' houses among the thousands of Israel.
 
 ## 15
 
@@ -129,6 +187,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And they came unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, unto the land of Gilead, and they spake with them, saying,
 
+**HEB** וַיָּבֹ֜אוּ אֶל־בְּנֵי־רְאוּבֵ֧ן וְאֶל־בְּנֵי־גָ֛ד וְאֶל־חֲצִ֥י שֵֽׁבֶט־מְנַשֶּׁ֖ה אֶל־אֶ֣רֶץ הַגִּלְעָ֑ד וַיְדַבְּר֥וּ אִתָּ֖ם לֵאמֹֽר׃
+
+**JPS** And they came unto the children of Reuben, and to the children of Gad, and to the half-tribe of Manasseh, unto the land of Gilead, and they spoke with them, saying:
+
 ## 16
 
 **GRC** Τάδε λέγει πᾶσα ἡ συναγωγὴ Κυρίου Τίς ἡ πλημμελία αὕτη ἣν ἐπλημμελήσατε ἐναντίον τοῦ θεοῦ Ἰσραήλ, ἀποστραφῆναι σήμερον ἀπὸ Κυρίου οἰκοδομήσαντες ὑμῖν ἑαυτοῖς βωμόν, ἀποστάτας ὑμᾶς γενέσθαι ἀπὸ τοῦ κυρίου;
@@ -136,6 +198,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ταύτα λέγει πάσα η συναγωγή Κυρίου· Τις αύτη η ανομία, την οποίαν επράξατε εναντίον του Θεού του Ισραήλ, να απομακρυνθήτε σήμερον από του Κυρίου, οικοδομήσαντες θυσιαστήριον εις εαυτούς, ώστε να αποστατήσητε σήμερον από Κυρίου;
 
 **KJV** Thus saith the whole congregation of the Lord, What trespass is this that ye have committed against the God of Israel, to turn away this day from following the Lord, in that ye have builded you an altar, that ye might rebel this day against the Lord?
+
+**HEB** כֹּ֣ה אָמְר֞וּ כֹּ֣ל ׀ עֲדַ֣ת יְהוָ֗ה מָֽה־הַמַּ֤עַל הַזֶּה֙ אֲשֶׁ֤ר מְעַלְתֶּם֙ בֵּאלֹהֵ֣י יִשְׂרָאֵ֔ל לָשׁ֣וּב הַיּ֔וֹם מֵאַחֲרֵ֖י יְהוָ֑ה בִּבְנֽוֹתְכֶ֤ם לָכֶם֙ מִזְבֵּ֔חַ לִמְרָדְכֶ֥ם הַיּ֖וֹם בַּיהוָֽה׃
+
+**JPS** 'Thus saith the whole congregation of HaShem: What treachery is this that ye have committed against the G-d of Israel, to turn away this day from following HaShem, in that ye have builded you an altar, to rebel this day against HaShem?
 
 ## 17
 
@@ -145,6 +211,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Is the iniquity of Peor too little for us, from which we are not cleansed until this day, although there was a plague in the congregation of the Lord,
 
+**HEB** הַמְעַט־לָ֙נוּ֙ אֶת־עֲוֺ֣ן פְּע֔וֹר אֲשֶׁ֤ר לֹֽא־הִטַּהַ֙רְנוּ֙ מִמֶּ֔נּוּ עַ֖ד הַיּ֣וֹם הַזֶּ֑ה וַיְהִ֥י הַנֶּ֖גֶף בַּעֲדַ֥ת יְהוָֽה׃
+
+**JPS** Is the iniquity of Peor too little for us, from which we have not cleansed ourselves unto this day, although there came a plague upon the congregation of HaShem,
+
 ## 18
 
 **GRC** καὶ ὑμεῖς ἀπεστράφητε σήμερον ἀπὸ Κυρίου· καὶ ἔσται ἐὰν ἀποστῆτε σήμερον ἀπὸ Κυρίου, καὶ αὔριον ἐπὶ πάντα Ἰσραὴλ ἔσται ἡ ὀργή.
@@ -152,6 +222,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** και σεις θέλετε σήμερον αποστατήσει από του Κυρίου; βεβαίως, εάν σεις αποστατήσητε σήμερον από του Κυρίου, αύριον θέλει οργισθή εναντίον πάσης της συναγωγής του Ισραήλ.
 
 **KJV** But that ye must turn away this day from following the Lord? and it will be, seeing ye rebel to day against the Lord, that to morrow he will be wroth with the whole congregation of Israel.
+
+**HEB** וְאַתֶּם֙ תָּשֻׁ֣בוּ הַיּ֔וֹם מֵאַחֲרֵ֖י יְהוָ֑ה וְהָיָ֗ה אַתֶּ֞ם תִּמְרְד֤וּ הַיּוֹם֙ בַּֽיהוָ֔ה וּמָחָ֕ר אֶֽל־כָּל־עֲדַ֥ת יִשְׂרָאֵ֖ל יִקְצֹֽף׃
+
+**JPS** that ye must turn away this day from following HaShem? and it will be, seeing ye rebel to-day against HaShem, that to-morrow He will be wroth with the whole congregation of Israel.
 
 ## 19
 
@@ -161,6 +235,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Notwithstanding, if the land of your possession be unclean, then pass ye over unto the land of the possession of the Lord, wherein the Lord’s tabernacle dwelleth, and take possession among us: but rebel not against the Lord, nor rebel against us, in building you an altar beside the altar of the Lord our God.
 
+**HEB** וְאַ֨ךְ אִם־טְמֵאָ֜ה אֶ֣רֶץ אֲחֻזַּתְכֶ֗ם עִבְר֨וּ לָכֶ֜ם אֶל־אֶ֨רֶץ אֲחֻזַּ֤ת יְהוָה֙ אֲשֶׁ֤ר שָֽׁכַן־שָׁם֙ מִשְׁכַּ֣ן יְהוָ֔ה וְהֵאָחֲז֖וּ בְּתוֹכֵ֑נוּ וּבַֽיהוָ֣ה אַל־תִּמְרֹ֗דוּ וְאֹתָ֙נוּ֙ אֶל־תִּמְרֹ֔דוּ בִּבְנֹֽתְכֶ֤ם לָכֶם֙ מִזְבֵּ֔חַ מִֽבַּלְעֲדֵ֔י מִזְבַּ֖ח יְהוָ֥ה אֱלֹהֵֽינוּ׃
+
+**JPS** Howbeit, if the land of your possession be unclean, then pass ye over unto the land of the possession of HaShem, wherein HaShem'S tabernacle dwelleth, and take possession among us; but rebel not against HaShem, nor rebel against us, in building you an altar besides the altar of HaShem our G-d.
+
 ## 20
 
 **GRC** οὐκ ἰδοὺ Ἀχὰρ ὁ τοῦ Ζάρα πλημμελίᾳ ἐπλημμέλησεν ἀπὸ τοῦ ἀναθέματος, καὶ ἐπὶ πᾶσαν συναγωγὴν Ἰσραὴλ ἐγενήθη ὀργή; καὶ οὗτος εἷς μόνος αὐτὸς ἀπέθανεν τῇ ἑαυτοῦ ἁμαρτίᾳ.
@@ -168,6 +246,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Δεν έπραξεν Αχάν ο υιός του Ζερά εν τω αναθέματι, και έπεσεν οργή εφ' όλην την συναγωγήν του Ισραήλ; και ο άνθρωπος εκείνος δεν ηφανίσθη μόνος εν τη ανομία αυτού.
 
 **KJV** Did not Achan the son of Zerah commit a trespass in the accursed thing, and wrath fell on all the congregation of Israel? and that man perished not alone in his iniquity.
+
+**HEB** הֲל֣וֹא ׀ עָכָ֣ן בֶּן־זֶ֗רַח מָ֤עַל מַ֙עַל֙ בַּחֵ֔רֶם וְעַֽל־כָּל־עֲדַ֥ת יִשְׂרָאֵ֖ל הָ֣יָה קָ֑צֶף וְהוּא֙ אִ֣ישׁ אֶחָ֔ד לֹ֥א גָוַ֖ע בַּעֲוֺנֽוֹ׃
+
+**JPS** Did not Achan the son of Zerah commit a trespass concerning the devoted thing, and wrath fell upon all the congregation of Israel? and that man perished not alone in his iniquity.'
 
 ## 21
 
@@ -177,6 +259,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said unto the heads of the thousands of Israel,
 
+**HEB** וַֽיַּעֲנוּ֙ בְּנֵי־רְאוּבֵ֣ן וּבְנֵי־גָ֔ד וַחֲצִ֖י שֵׁ֣בֶט הַֽמְנַשֶּׁ֑ה וַֽיְדַבְּר֔וּ אֶת־רָאשֵׁ֖י אַלְפֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** Then the children of Reuben and the children of Gad and the half-tribe of Manasseh answered, and spoke unto the heads of the thousands of Israel:
+
 ## 22
 
 **GRC** Ὁ θεὸς θεός ἐστιν Κύριος, καὶ ὁ θεὸς θεὸς αὐτὸς οἶδεν, καὶ Ἰσραὴλ αὐτὸς γνώσεται· εἰ ἐν ἀποστασίᾳ ἐπλημμελήσαμεν ἔναντι τοῦ κυρίου, μὴ ῥύσαιτο ἡμᾶς ἐν ταύτῃ·
@@ -184,6 +270,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ο ισχυρός Θεός ο Κύριος, ο ισχυρός Θεός ο Κύριος, αυτός εξεύρει, και αυτός θέλει γνωρίσει· εάν επράξαμεν τούτο διά αποστασίαν ή εάν διά ανομίαν εναντίον του Κυρίου, μη λυτρώσης ημάς την ημέραν ταύτην.
 
 **KJV** The Lord God of gods, the Lord God of gods, he knoweth, and Israel he shall know; if it be in rebellion, or if in transgression against the Lord, (save us not this day,)
+
+**HEB** אֵל֩ ׀ אֱלֹהִ֨ים ׀ יְהוָ֜ה אֵ֣ל ׀ אֱלֹהִ֤ים ׀ יְהוָה֙ ה֣וּא יֹדֵ֔עַ וְיִשְׂרָאֵ֖ל ה֣וּא יֵדָ֑ע אִם־בְּמֶ֤רֶד וְאִם־בְּמַ֙עַל֙ בַּֽיהוָ֔ה אַל־תּוֹשִׁיעֵ֖נוּ הַיּ֥וֹם הַזֶּֽה׃
+
+**JPS** 'G-d, G-d, HaShem, G-d, G-d, HaShem, He knoweth, and Israel he shall know; if it be in rebellion, or if in treachery against HaShem--save Thou us not this day--
 
 ## 23
 
@@ -193,6 +283,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** That we have built us an altar to turn from following the Lord, or if to offer thereon burnt offering or meat offering, or if to offer peace offerings thereon, let the Lord himself require it;
 
+**HEB** לִבְנ֥וֹת לָ֙נוּ֙ מִזְבֵּ֔חַ לָשׁ֖וּב מֵאַחֲרֵ֣י יְהוָ֑ה וְאִם־לְהַעֲל֨וֹת עָלָ֜יו עוֹלָ֣ה וּמִנְחָ֗ה וְאִם־לַעֲשׂ֤וֹת עָלָיו֙ זִבְחֵ֣י שְׁלָמִ֔ים יְהוָ֖ה ה֥וּא יְבַקֵּֽשׁ׃
+
+**JPS** that we have built us an altar to turn away from following HaShem; or if to offer thereon burnt-offering or meal-offering, or if to offer sacrifices of peace-offerings thereon, let HaShem Himself require it;
+
 ## 24
 
 **GRC** ἀλλ᾽ ἕνεκεν εὐλαβείας ῥήματος ἐποιήσαμεν τοῦτο λέγοντες Ἵνα μὴ εἴπωσιν αὔριον τὰ τέκνα ὑμῶν τοῖς τέκνοις ἡμῶν Τί ὑμῖν Κυρίῳ τῷ θεῷ Ἰσραήλ;
@@ -200,6 +294,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εάν δεν επράξαμεν αυτό μάλλον εκ φόβου του πράγματος τούτου, λέγοντες, Αύριον δύνανται τα τέκνα σας να είπωσι προς τα τέκνα ημών, λέγοντα, Τι έχετε σεις να κάμητε μετά του Κυρίου του Θεού του Ισραήλ;
 
 **KJV** And if we have not rather done it for fear of this thing, saying, In time to come your children might speak unto our children, saying, What have ye to do with the Lord God of Israel?
+
+**HEB** וְאִם־לֹ֤א מִדְּאָגָה֙ מִדָּבָ֔ר עָשִׂ֥ינוּ אֶת־זֹ֖את לֵאמֹ֑ר מָחָ֗ר יֹאמְר֨וּ בְנֵיכֶ֤ם לְבָנֵ֙ינוּ֙ לֵאמֹ֔ר מַה־לָּכֶ֕ם וְלַֽיהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** and if we have not rather out of anxiety about a matter done this, saying: In time to come your children might speak unto our children, saying: What have ye to do with HaShem, the G-d of Israel?
 
 ## 25
 
@@ -209,6 +307,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** For the Lord hath made Jordan a border between us and you, ye children of Reuben and children of Gad; ye have no part in the Lord: so shall your children make our children cease from fearing the Lord.
 
+**HEB** וּגְב֣וּל נָֽתַן־יְ֠הוָה בֵּינֵ֨נוּ וּבֵינֵיכֶ֜ם בְּנֵי־רְאוּבֵ֤ן וּבְנֵי־גָד֙ אֶת־הַיַּרְדֵּ֔ן אֵין־לָכֶ֥ם חֵ֖לֶק בַּֽיהוָ֑ה וְהִשְׁבִּ֤יתוּ בְנֵיכֶם֙ אֶת־בָּנֵ֔ינוּ לְבִלְתִּ֖י יְרֹ֥א אֶת־יְהוָֽה׃
+
+**JPS** for HaShem hath made the Jordan a border between us and you, ye children of Reuben and children of Gad; ye have no portion in HaShem; so might your children make our children cease from fearing HaShem.
+
 ## 26
 
 **GRC** καὶ εἴπαμεν ποιῆσαι οὕτως τοῦ οἰκοδομῆσαι τὸν βωμὸν τοῦτον, οὐχ ἕνεκεν καρπωμάτων οὐδὲ ἕνεκεν θυσιῶν,
@@ -216,6 +318,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διά τούτο είπομεν, Ας επιχειρισθώμεν να οικοδομήσωμεν εις εαυτούς το θυσιαστήριον· ουχί διά ολοκαύτωμα ουδέ διά θυσίαν,
 
 **KJV** Therefore we said, Let us now prepare to build us an altar, not for burnt offering, nor for sacrifice:
+
+**HEB** וַנֹּ֕אמֶר נַעֲשֶׂה־נָּ֣א לָ֔נוּ לִבְנ֖וֹת אֶת־הַמִּזְבֵּ֑חַ לֹ֥א לְעוֹלָ֖ה וְלֹ֥א לְזָֽבַח׃
+
+**JPS** Therefore we said: Let us now prepare to build us an altar, not for burnt-offering, nor for sacrifice;
 
 ## 27
 
@@ -225,6 +331,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** But that it may be a witness between us, and you, and our generations after us, that we might do the service of the Lord before him with our burnt offerings, and with our sacrifices, and with our peace offerings; that your children may not say to our children in time to come, Ye have no part in the Lord.
 
+**HEB** כִּי֩ עֵ֨ד ה֜וּא בֵּינֵ֣ינוּ וּבֵינֵיכֶ֗ם וּבֵ֣ין דֹּרוֹתֵינוּ֮ אַחֲרֵינוּ֒ לַעֲבֹ֞ד אֶת־עֲבֹדַ֤ת יְהוָה֙ לְפָנָ֔יו בְּעֹלוֹתֵ֥ינוּ וּבִזְבָחֵ֖ינוּ וּבִשְׁלָמֵ֑ינוּ וְלֹא־יֹאמְר֨וּ בְנֵיכֶ֤ם מָחָר֙ לְבָנֵ֔ינוּ אֵין־לָכֶ֥ם חֵ֖לֶק בַּיהוָֽה׃
+
+**JPS** but it shall be a witness between us and you, and between our generations after us, that we may do the service of HaShem before Him with our burnt-offerings, and with our sacrifices, and with our peace-offerings; that your children may not say to our children in time to come: Ye have no portion in HaShem.
+
 ## 28
 
 **GRC** καὶ εἴπαμεν Ἐὰν γένηταί ποτε καὶ λαλήσωσιν πρὸς ἡμᾶς καὶ ταῖς γενεαῖς ἡμῶν αὔριον, καὶ ἐροῦσιν Ἴδετε ὁμοίωμα τοῦ θυσιαστηρίου Κυρίου, ὃ ἐποίησαν οἱ πατέρες ἡμῶν οὐχ ἕνεκεν καρπωμάτων οὐδὲ ἕνεκεν θυσιῶν, ἀλλὰ μαρτύριόν ἐστιν ἀνὰ μέσον ὑμῶν καὶ ἀνὰ μέσον ἡμῶν καὶ ἀνὰ μέσον τῶν υἱῶν ἡμῶν.
@@ -232,6 +342,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Διά τούτο είπομεν, Εάν τύχη να λαλήσωσιν ούτω προς ημάς ή προς τας γενεάς ημών αύριον, τότε θέλομεν αποκριθή, Ιδού, το ομοίωμα του θυσιαστηρίου του Κυρίου, το οποίον ωκοδόμησαν οι πατέρες ημών, ουχί διά ολοκαύτωμα ουδέ διά θυσίαν, αλλά διά να ήναι μαρτύριον αναμέσον ημών και υμών.
 
 **KJV** Therefore said we, that it shall be, when they should so say to us or to our generations in time to come, that we may say again, Behold the pattern of the altar of the Lord, which our fathers made, not for burnt offerings, nor for sacrifices; but it is a witness between us and you.
+
+**HEB** וַנֹּ֕אמֶר וְהָיָ֗ה כִּֽי־יֹאמְר֥וּ אֵלֵ֛ינוּ וְאֶל־דֹּרֹתֵ֖ינוּ מָחָ֑ר וְאָמַ֡רְנוּ רְא֣וּ אֶת־תַּבְנִית֩ מִזְבַּ֨ח יְהוָ֜ה אֲשֶׁר־עָשׂ֣וּ אֲבוֹתֵ֗ינוּ לֹ֤א לְעוֹלָה֙ וְלֹ֣א לְזֶ֔בַח כִּי־עֵ֣ד ה֔וּא בֵּינֵ֖ינוּ וּבֵינֵיכֶֽם׃
+
+**JPS** Therefore said we: It shall be, when they so say to us or to our generations in time to come, that we shall say: Behold the pattern of the altar of HaShem, which our fathers made, not for burnt-offering, nor for sacrifice; but it is a witness between us and you.
 
 ## 29
 
@@ -241,6 +355,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** God forbid that we should rebel against the Lord, and turn this day from following the Lord, to build an altar for burnt offerings, for meat offerings, or for sacrifices, beside the altar of the Lord our God that is before his tabernacle.
 
+**HEB** חָלִילָה֩ לָּ֨נוּ מִמֶּ֜נּוּ לִמְרֹ֣ד בַּֽיהוָ֗ה וְלָשׁ֤וּב הַיּוֹם֙ מֵאַחֲרֵ֣י יְהוָ֔ה לִבְנ֣וֹת מִזְבֵּ֔חַ לְעֹלָ֖ה לְמִנְחָ֣ה וּלְזָ֑בַח מִלְּבַ֗ד מִזְבַּח֙ יְהוָ֣ה אֱלֹהֵ֔ינוּ אֲשֶׁ֖ר לִפְנֵ֥י מִשְׁכָּנֽוֹ׃
+
+**JPS** Far be it from us that we should rebel against HaShem, and turn away this day from following HaShem, to build an altar for burnt-offering, for meal-offering, or for sacrifice, besides the altar of HaShem our G-d that is before His tabernacle.'
+
 ## 30
 
 **GRC** Καὶ ἀκούσας Φεινεὲς ὁ ἱερεὺς καὶ πάντες οἱ ἄρχοντες τῆς συναγωγῆς Ἰσραὴλ οἳ ἦσαν μετ᾽ αὐτοῦ τοὺς λόγους οὓς ἐλάλησαν οἱ υἱοὶ Ῥουβὴν καὶ οἱ υἱοὶ Γὰδ καὶ τὸ ἥμισυ φυλῆς Μανασσή, καὶ ἤρεσεν αὐτοῖς.
@@ -248,6 +366,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ακούσαντες Φινεές ο ιερεύς και οι άρχοντες της συναγωγής και οι αρχηγοί των χιλιάδων του Ισραήλ, οι όντες μετ' αυτού, τους λόγους τους οποίους ελάλησαν οι υιοί Ρουβήν και οι υιοί Γαδ και οι υιοί Μανασσή, ευχαριστήθησαν.
 
 **KJV** And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which were with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spake, it pleased them.
+
+**HEB** וַיִּשְׁמַ֞ע פִּֽינְחָ֣ס הַכֹּהֵ֗ן וּנְשִׂיאֵ֨י הָעֵדָ֜ה וְרָאשֵׁ֨י אַלְפֵ֤י יִשְׂרָאֵל֙ אֲשֶׁ֣ר אִתּ֔וֹ אֶת־הַ֨דְּבָרִ֔ים אֲשֶׁ֧ר דִּבְּר֛וּ בְּנֵי־רְאוּבֵ֥ן וּבְנֵי־גָ֖ד וּבְנֵ֣י מְנַשֶּׁ֑ה וַיִּיטַ֖ב בְּעֵינֵיהֶֽם׃
+
+**JPS** And when Phinehas the priest, and the princes of the congregation, even the heads of the thousands of Israel that were with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spoke, it pleased them well.
 
 ## 31
 
@@ -257,6 +379,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Phinehas the son of Eleazar the priest said unto the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceive that the Lord is among us, because ye have not committed this trespass against the Lord: now ye have delivered the children of Israel out of the hand of the Lord.
 
+**HEB** וַיֹּ֣אמֶר פִּֽינְחָ֣ס בֶּן־אֶלְעָזָ֣ר הַכֹּהֵ֡ן אֶל־בְּנֵי־רְאוּבֵ֨ן וְאֶל־בְּנֵי־גָ֜ד וְאֶל־בְּנֵ֣י מְנַשֶּׁ֗ה הַיּ֤וֹם ׀ יָדַ֙עְנוּ֙ כִּֽי־בְתוֹכֵ֣נוּ יְהוָ֔ה אֲשֶׁ֛ר לֹֽא־מְעַלְתֶּ֥ם בַּֽיהוָ֖ה הַמַּ֣עַל הַזֶּ֑ה אָ֗ז הִצַּלְתֶּ֛ם אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל מִיַּ֥ד יְהוָֽה׃
+
+**JPS** And Phinehas the son of Eleazar the priest said unto the children of Reuben, and to the children of Gad, and to the children of Manasseh: 'This day we know that HaShem is in the midst of us, because ye have not committed this treachery against HaShem; now have ye delivered the children of Israel out of the hand of HaShem.'
+
 ## 32
 
 **GRC** καὶ ἀπέστρεψεν Φεινεὲς ὁ ἱερεὺς καὶ οἱ ἄρχοντες ἀπὸ τῶν υἱῶν Ῥουβὴν καὶ ἀπὸ τῶν υἱῶν Γὰδ καὶ ἀπὸ τοῦ ἡμίσους φυλῆς Μανασσὴ ἐκ τῆς Γαλαὰδ εἰς γῆν Χανάαν πρὸς τοὺς υἱοὺς Ἰσραήλ, καὶ ἀπεκρίθησαν αὐτοῖς τοὺς λόγους.
@@ -264,6 +390,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και επέστρεψεν ο Φινεές ο υιός του Ελεάζαρ ο ιερεύς και οι άρχοντες από των υιών Ρουβήν και από των υιών Γαδ εκ της γης Γαλαάδ εις την γην Χαναάν προς τους υιούς Ισραήλ, και έφεραν απόκρισιν προς αυτούς.
 
 **KJV** And Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, unto the land of Canaan, to the children of Israel, and brought them word again.
+
+**HEB** וַיָּ֣שָׁב פִּֽינְחָ֣ס בֶּן־אֶלְעָזָ֣ר הַכֹּהֵ֣ן ׀ וְהַנְּשִׂיאִ֡ים מֵאֵ֣ת בְּנֵֽי־רְאוּבֵן֩ וּמֵאֵ֨ת בְּנֵי־גָ֜ד מֵאֶ֧רֶץ הַגִּלְעָ֛ד אֶל־אֶ֥רֶץ כְּנַ֖עַן אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל וַיָּשִׁ֥בוּ אוֹתָ֖ם דָּבָֽר׃
+
+**JPS** And Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, unto the land of Canaan, to the children of Israel, and brought them back word.
 
 ## 33
 
@@ -273,6 +403,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And the thing pleased the children of Israel; and the children of Israel blessed God, and did not intend to go up against them in battle, to destroy the land wherein the children of Reuben and Gad dwelt.
 
+**HEB** וַיִּיטַ֣ב הַדָּבָ֗ר בְּעֵינֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיְבָרֲכ֥וּ אֱלֹהִ֖ים בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֣א אָמְר֗וּ לַעֲל֤וֹת עֲלֵיהֶם֙ לַצָּבָ֔א לְשַׁחֵת֙ אֶת־הָאָ֔רֶץ אֲשֶׁ֛ר בְּנֵי־רְאוּבֵ֥ן וּבְנֵי־גָ֖ד יֹשְׁבִ֥ים בָּֽהּ׃
+
+**JPS** And the thing pleased the children of Israel; and the children of Israel blessed G-d, and spoke no more of going up against them to war, to destroy the land wherein the children of Reuben and the children of Gad dwelt.
+
 ## 34
 
 **GRC** καὶ ἐπωνόμασεν Ἰησοῦς τὸν βωμὸν τῶν Ῥουβὴν καὶ τῶν Γὰδ καὶ τοῦ ἡμίσους φυλῆς Μανασσή, καὶ εἶπεν ὅτι Μαρτύριόν ἐστιν ἀνὰ μέσον αὐτῶν ὅτι Κύριος ὁ θεὸς αὐτῶν ἐστιν.
@@ -280,6 +414,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ωνόμασαν οι υιοί Ρουβήν και οι υιοί Γαδ το θυσιαστήριον Εδ· Διότι, είπαν, τούτο θέλει είσθαι μαρτύριον αναμέσον ημών, ότι ο Κύριος είναι ο Θεός.
 
 **KJV** And the children of Reuben and the children of Gad called the altar Ed: for it shall be a witness between us that the Lord is God.
+
+**HEB** וַֽיִּקְרְא֛וּ בְּנֵי־רְאוּבֵ֥ן וּבְנֵי־גָ֖ד לַמִּזְבֵּ֑חַ כִּ֣י עֵ֥ד הוּא֙ בֵּֽינֹתֵ֔ינוּ כִּ֥י יְהוָ֖ה הָאֱלֹהִֽים׃
+
+**JPS** And the children of Reuben and the children of Gad called the altar--: 'for it is a witness between us that HaShem is G-d.'
 
 ## Notes
 

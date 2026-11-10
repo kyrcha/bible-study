@@ -138,3 +138,9 @@ dialog input { padding: 7px 9px; border: 1px solid var(--border); border-radius:
 code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .9em; background: var(--accent-soft); padding: 0 3px; border-radius: 3px; }
 .nav { min-width: 0; max-width: 100%; }
 .nav select { max-width: 100%; text-overflow: ellipsis; }
+.verse-row .txt[lang="he"], textarea[lang="he"] {
+  font-family: "Noto Serif Hebrew", "SBL Hebrew", "Ezra SIL", serif;
+  font-size: 1.3rem; line-height: 1.75;
+}
+.verse-row .txt[lang="he"] .lbl { margin: 0 0 0 6px; }
+.toggle[hidden] { display: none; }

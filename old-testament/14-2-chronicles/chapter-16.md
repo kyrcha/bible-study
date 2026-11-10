@@ -5,6 +5,8 @@ Format: each verse starts with a '## <number>' heading followed by up to three l
   **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
   **ELL** Modern Greek (Vamvas 1850)
   **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
 Any other text under a verse is shown as a note on that verse.
 Anything under '## Notes' is free-form markdown for your own study notes.
 -->
@@ -17,6 +19,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
 
+**HEB** בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וָשֵׁשׁ֙ לְמַלְכ֣וּת אָסָ֔א עָלָ֞ה בַּעְשָׁ֤א מֶֽלֶךְ־יִשְׂרָאֵל֙ עַל־יְהוּדָ֔ה וַיִּ֖בֶן אֶת־הָרָמָ֑ה לְבִלְתִּ֗י תֵּ֚ת יוֹצֵ֣א וָבָ֔א לְאָסָ֖א מֶ֥לֶךְ יְהוּדָֽה׃
+
+**JPS** In the six and thirtieth year of the reign of Asa, Baasa king of Israel went up against Judah, and built Ramah, that he might not suffer any to go out or come in to Asa king of Judah.
+
 ## 2
 
 **GRC** καὶ ἔλαβεν Ἀσὰ χρυσίον καὶ ἀργύριον ἐκ θησαυρῶν οἴκου Κυρίου καὶ οἴκου τοῦ βασιλέως, καὶ ἀπέστειλεν πρὸς τὸν υἱὸν τοῦ Ἁδὲρ βασιλέως Συρίας τὸν κατοικοῦντα ἐν Δαμασκῷ λέγων
@@ -24,6 +30,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Τότε ο Ασά εξέφερεν αργύριον και χρυσίον εκ των θησαυρών του οίκου του Κυρίου και του οίκου του βασιλέως, και απέστειλε προς τον Βεν-αδάδ βασιλέα της Συρίας, κατοικούντα εν Δαμασκώ, λέγων,
 
 **KJV** Then Asa brought out silver and gold out of the treasures of the house of the Lord and of the king’s house, and sent to Ben–hadad king of Syria, that dwelt at Damascus, saying,
+
+**HEB** וַיֹּצֵ֨א אָסָ֜א כֶּ֣סֶף וְזָהָ֗ב מֵאֹֽצְר֛וֹת בֵּ֥ית יְהוָ֖ה וּבֵ֣ית הַמֶּ֑לֶךְ וַיִּשְׁלַ֗ח אֶל־בֶּן־הֲדַד֙ מֶ֣לֶךְ אֲרָ֔ם הַיּוֹשֵׁ֥ב בְּדַרְמֶ֖שֶׂק לֵאמֹֽר׃
+
+**JPS** Then Asa brought out silver and gold out of the treasures of the house of HaShem and of the king's house, and sent to Ben-hadad king of Aram, that dwelt at Damascus, saying:
 
 ## 3
 
@@ -33,6 +43,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** There is a league between me and thee, as there was between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me.
 
+**HEB** בְּרִית֙ בֵּינִ֣י וּבֵינֶ֔ךָ וּבֵ֥ין אָבִ֖י וּבֵ֣ין אָבִ֑יךָ הִנֵּ֨ה שָׁלַ֤חְתִּֽי לְךָ֙ כֶּ֣סֶף וְזָהָ֔ב לֵ֞ךְ הָפֵ֣ר בְּרִֽיתְךָ֗ אֶת־בַּעְשָׁא֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל וְיַעֲלֶ֖ה מֵעָלָֽי׃
+
+**JPS** 'There is a league between me and thee, as there was between my father and thy father; behold, I have sent thee silver and gold; go, break thy league with Baasa king of Israel, that he may depart from me.'
+
 ## 4
 
 **GRC** καὶ ἤκουσεν υἱὸς Ἁδὲρ τοῦ βασιλέως Ἀσά, καὶ ἀπέστειλεν πρὸς τοὺς ἄρχοντας τῆς δυνάμεως αὐτοῦ ἐπὶ τὰς πόλεις Ἰσραήλ, καὶ ἐπάταξεν τὴν Ἰὼ καὶ τὴν Δανὼ καὶ τὴν Ἀβελμὰν καὶ πάσας τὰς περιχώρους Νεφθαλεί.
@@ -40,6 +54,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και εισήκουσεν ο Βεν-αδάδ εις τον βασιλέα Ασά, και απέστειλε τους αρχηγούς των δυνάμεων αυτού εναντίον των πόλεων του Ισραήλ· και επάταξαν την Ιϊών και την Δαν και την Αβέλ-μαΐμ και πάσας τας αποθήκας των πόλεων Νεφθαλί.
 
 **KJV** And Ben–hadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abel–maim, and all the store cities of Naphtali.
+
+**HEB** וַיִּשְׁמַ֨ע בֶּן הֲדַ֜ד אֶל־הַמֶּ֣לֶךְ אָסָ֗א וַ֠יִּשְׁלַח אֶת־שָׂרֵ֨י הַחֲיָלִ֤ים אֲשֶׁר־לוֹ֙ אֶל־עָרֵ֣י יִשְׂרָאֵ֔ל וַיַּכּוּ֙ אֶת־עִיּ֣וֹן וְאֶת־דָּ֔ן וְאֵ֖ת אָבֵ֣ל מָ֑יִם וְאֵ֥ת כָּֽל־מִסְכְּנ֖וֹת עָרֵ֥י נַפְתָּלִֽי׃
+
+**JPS** And Ben-hadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abelmaim, and all the store-cities of Naphtali.
 
 ## 5
 
@@ -49,6 +67,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And it came to pass, when Baasha heard it, that he left off building of Ramah, and let his work cease.
 
+**HEB** וַיְהִי֙ כִּשְׁמֹ֣עַ בַּעְשָׁ֔א וַיֶּחְדַּ֕ל מִבְּנ֖וֹת אֶת־הָרָמָ֑ה וַיַּשְׁבֵּ֖ת אֶת־מְלַאכְתּֽוֹ׃
+
+**JPS** And it came to pass, when Baasa heard thereof, that he left off building Ramah, and let his work cease.
+
 ## 6
 
 **GRC** καὶ Ἀσὰ ὁ βασιλεὺς ἔλαβεν πάντα τὸν Ἰουδά, καὶ ἔλαβεν τοὺς λίθους τῆς Ῥαμὰ καὶ τὰ ξύλα αὐτῆς ἃ ᾠκοδόμησεν Βαασά, καὶ ᾠκοδόμησεν ἐν αὐτοῖς τὴν Γάβαε καὶ τὴν Μασφά.
@@ -56,6 +78,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και παρέλαβεν ο βασιλεύς Ασά πάντα τον Ιούδαν, και εσήκωσαν τους λίθους της Ραμά και τα ξύλα αυτής, με τα οποία ωκοδόμει ο Βαασά· και με ταύτα ωκοδόμησε την Γαβαά και την Μισπά.
 
 **KJV** Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah.
+
+**HEB** וְאָסָ֣א הַמֶּ֗לֶךְ לָקַח֙ אֶת־כָּל־יְהוּדָ֔ה וַיִּשְׂא֞וּ אֶת־אַבְנֵ֤י הָֽרָמָה֙ וְאֶת־עֵצֶ֔יהָ אֲשֶׁ֥ר בָּנָ֖ה בַּעְשָׁ֑א וַיִּ֣בֶן בָּהֶ֔ם אֶת־גֶּ֖בַע וְאֶת־הַמִּצְפָּֽה׃
+
+**JPS** Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasa had builded; and he built therewith Geba and Mizpah.
 
 ## 7
 
@@ -65,6 +91,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the Lord thy God, therefore is the host of the king of Syria escaped out of thine hand.
 
+**HEB** וּבָעֵ֣ת הַהִ֗יא בָּ֚א חֲנָ֣נִי הָרֹאֶ֔ה אֶל־אָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה וַיֹּ֣אמֶר אֵלָ֗יו בְּהִשָּׁ֨עֶנְךָ֜ עַל־מֶ֤לֶךְ אֲרָם֙ וְלֹ֤א נִשְׁעַ֙נְתָּ֙ עַל־יְהוָ֣ה אֱלֹהֶ֔יךָ עַל־כֵּ֗ן נִמְלַ֛ט חֵ֥יל מֶֽלֶךְ־אֲרָ֖ם מִיָּדֶֽךָ׃
+
+**JPS** And at that time Hanani the seer came to Asa king of Judah, and said unto him: 'Because thou hast relied on the king of Aram, and hast not relied on HaShem thy G-d, therefore is the host of the king of Aram escaped out of thy hand.
+
 ## 8
 
 **GRC** οὐχ οἱ Αἰθίοπες καὶ Λίβυες ἦσαν εἰς δύναμιν πολλὴν εἰς θάρσος, εἰς ἱππεῖς εἰς πλῆθος σφόδρα; καὶ ἐν τῷ πεποιθέναι σε ἐπὶ Κύριον παρέδωκεν εἰς τὰς χεῖράς σου.
@@ -72,6 +102,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** οι Αιθίοπες και οι Λίβυες δεν ήσαν στράτευμα μέγα, μετά πολυαρίθμων αμαξών και ιππέων; επειδή όμως επεστηρίχθης εις τον Κύριον, παρέδωκεν αυτούς εις την χείρα σου·
 
 **KJV** Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the Lord, he delivered them into thine hand.
+
+**HEB** הֲלֹ֧א הַכּוּשִׁ֣ים וְהַלּוּבִ֗ים הָי֨וּ לְחַ֧יִל ׀ לָרֹ֛ב לְרֶ֥כֶב וּלְפָרָשִׁ֖ים לְהַרְבֵּ֣ה מְאֹ֑ד וּבְהִשָּֽׁעֶנְךָ֥ עַל־יְהוָ֖ה נְתָנָ֥ם בְּיָדֶֽךָ׃
+
+**JPS** Were not the Ethiopians and the Lubim a huge host, with chariots and horsemen exceeding many? yet, because thou didst rely on HaShem, He delivered them into thy hand.
 
 ## 9
 
@@ -81,6 +115,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** For the eyes of the Lord run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.
 
+**HEB** כִּ֣י יְהוָ֗ה עֵינָ֞יו מְשֹׁטְט֤וֹת בְּכָל־הָאָ֙רֶץ֙ לְ֠הִתְחַזֵּק עִם־לְבָבָ֥ם שָׁלֵ֛ם אֵלָ֖יו נִסְכַּ֣לְתָּ עַל־זֹ֑את כִּ֣י מֵעַ֔תָּה יֵ֥שׁ עִמְּךָ֖ מִלְחָמֽוֹת׃
+
+**JPS** For the eyes of HaShem run to and fro throughout the whole earth, to show Himself strong in the behalf of them whose heart is whole toward Him. Herein thou hast done foolishly; for from henceforth thou shalt have wars.'
+
 ## 10
 
 **GRC** καὶ ἐθυμώθη Ἀσὰ τῷ προφήτῃ, καὶ παρέθετο αὐτὸν εἰς φυλακὴν ἐπὶ τούτῳ· καὶ ἐλυμήνατο Ἀσὰ ἐν τῷ λαῷ ἐν τῷ καιρῷ ἐκείνῳ.
@@ -88,6 +126,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και ωργίσθη ο Ασά κατά του βλέποντος και έβαλεν αυτόν εις φυλακήν· διότι ηγανάκτησεν εναντίον αυτού διά τούτο. Και κατέθλιψεν ο Ασά τινάς εκ του λαού εν εκείνω τω καιρώ.
 
 **KJV** Then Asa was wroth with the seer, and put him in a prison house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time.
+
+**HEB** וַיִּכְעַ֨ס אָסָ֜א אֶל־הָרֹאֶ֗ה וַֽיִּתְּנֵ֙הוּ֙ בֵּ֣ית הַמַּהְפֶּ֔כֶת כִּֽי־בְזַ֥עַף עִמּ֖וֹ עַל־זֹ֑את וַיְרַצֵּ֥ץ אָסָ֛א מִן־הָעָ֖ם בָּעֵ֥ת הַהִֽיא׃
+
+**JPS** Then Asa was wroth with the seer, and put him in the prison-house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time.
 
 ## 11
 
@@ -97,6 +139,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel.
 
+**HEB** וְהִנֵּה֙ דִּבְרֵ֣י אָסָ֔א הָרִאשׁוֹנִ֖ים וְהָאַחֲרוֹנִ֑ים הִנָּ֤ם כְּתוּבִים֙ עַל־סֵ֣פֶר הַמְּלָכִ֔ים לִיהוּדָ֖ה וְיִשְׂרָאֵֽל׃
+
+**JPS** And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel.
+
 ## 12
 
 **GRC** καὶ ἐμαλακίσθη Ἀσὰ ἐν τῷ ἐνάτῳ καὶ τριακοστῷ ἔτει τῆς βασιλείας αὐτοῦ τοὺς πόδας, ἕως σφόδρα ἐμαλακίσθη· καὶ ἐν τῇ μαλακίᾳ αὐτοῦ οὐκ ἐζήτησεν Κύριον ἀλλὰ τοὺς ἰατρούς.
@@ -104,6 +150,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Ηρρώστησε δε ο Ασά τους πόδας αυτού εν τω τριακοστώ εννάτω έτει της βασιλείας αυτού, εωσού η αρρωστία αυτού έγεινε μεγίστη· αλλ' ουδέ εν τη αρρωστία αυτού εξεζήτησε τον Κύριον, αλλά τους ιατρούς.
 
 **KJV** And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the Lord, but to the physicians.
+
+**HEB** וַיֶּחֱלֶ֣א אָסָ֡א בִּשְׁנַת֩ שְׁלוֹשִׁ֨ים וָתֵ֤שַׁע לְמַלְכוּתוֹ֙ בְּרַגְלָ֔יו עַד־לְמַ֖עְלָה חָלְי֑וֹ וְגַם־בְּחָלְיוֹ֙ לֹא־דָרַ֣שׁ אֶת־יְהוָ֔ה כִּ֖י בָּרֹפְאִֽים׃
+
+**JPS** And in the thirty and ninth year of his reign Asa was diseased in his feet; his disease was exceeding great; yet in his disease he sought not to HaShem, but to the physicians.
 
 ## 13
 
@@ -113,6 +163,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **KJV** And Asa slept with his fathers, and died in the one and fortieth year of his reign.
 
+**HEB** וַיִּשְׁכַּ֥ב אָסָ֖א עִם־אֲבֹתָ֑יו וַיָּ֕מָת בִּשְׁנַ֛ת אַרְבָּעִ֥ים וְאַחַ֖ת לְמָלְכֽוֹ׃
+
+**JPS** And Asa slept with his fathers, and died in the one and fortieth year of his reign.
+
 ## 14
 
 **GRC** καὶ ἔθαψαν αὐτὸν ἐν τῷ μνήματι ᾧ ὤρυξεν ἑαυτῷ ἐν πόλει Δαυεἰδ, καὶ ἐκοίμισαν αὐτὸν ἐπὶ τῆς κλίνης, καὶ ἔπλησαν ἀρωμάτων καὶ γένη μύρων μυρεψῶν, καὶ ἐποίησαν αὐτῷ ἐκφορὰν μεγάλην σφόδρα.
@@ -120,6 +174,10 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 **ELL** Και έθαψαν αυτόν εις τον τάφον αυτού, τον οποίον έσκαψε δι' εαυτόν εν πόλει Δαβίδ, και έθεσαν αυτόν επί κλίνης πλήρους ευωδίας και διαφόρων αρωμάτων μυρεψικών· και έκαμον εις αυτόν καύσιν μεγάλην σφόδρα.
 
 **KJV** And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries’ art: and they made a very great burning for him.
+
+**HEB** וַיִּקְבְּרֻ֣הוּ בְקִבְרֹתָ֗יו אֲשֶׁ֣ר כָּֽרָה־לוֹ֮ בְּעִ֣יר דָּוִיד֒ וַיַּשְׁכִּיבֻ֗הוּ בַּמִּשְׁכָּב֙ אֲשֶׁ֤ר מִלֵּא֙ בְּשָׂמִ֣ים וּזְנִ֔ים מְרֻקָּחִ֖ים בְּמִרְקַ֣חַת מַעֲשֶׂ֑ה וַיִּשְׂרְפוּ־ל֥וֹ שְׂרֵפָ֖ה גְּדוֹלָ֥ה עַד־לִמְאֹֽד׃
+
+**JPS** And they buried him in his own sepulchres, which he had hewn out for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the perfumers' art; and they made a very great burning for him.
 
 ## Notes
 

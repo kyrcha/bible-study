@@ -1,6 +1,7 @@
 # Bible Study · Αγία Γραφή
 
-The 39 books of the Old Testament and the 27 books of the New Testament, verse by verse, in three versions:
+The 39 books of the Old Testament and the 27 books of the New Testament, verse by verse, in three versions, plus two
+Jewish versions of the Old Testament (hidden on the site until you switch them on):
 
 | Tag | Version | Source |
 |-----|---------|--------|
@@ -8,6 +9,8 @@ The 39 books of the Old Testament and the 27 books of the New Testament, verse b
 | `GRC` | Ancient Greek, New Testament — Robinson‑Pierpont Byzantine Textform 2018 | [byztxt/byzantine-majority-text](https://github.com/byztxt/byzantine-majority-text) |
 | `ELL` | Modern Greek — Neophytos Vamvas translation (1850) | [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) |
 | `KJV` | King James Version (1769) | [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) |
+| `HEB` | Hebrew, Old Testament only — Masoretic text, Westminster Leningrad Codex | [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) |
+| `JPS` | Jewish English, Old Testament only — Jewish Publication Society translation (1917) | [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) |
 
 All of these texts are in the public domain. The Swete digitisation is distributed in its repository under the GPL‑3.0.
 
@@ -50,7 +53,7 @@ Free‑form markdown study notes for the whole chapter.
 ```
 
 Rules the website relies on: a verse starts with `## <number>`, each version is a line starting with
-`**GRC**`, `**ELL**` or `**KJV**`, and `## Notes` (if present) is the last section. Everything else is up to you.
+`**GRC**`, `**ELL**`, `**KJV**`, `**HEB**` or `**JPS**`, and `## Notes` (if present) is the last section. Everything else is up to you.
 
 Where the editions number verses differently (e.g. Romans 16:25‑27, which the Byzantine text places after 14:23,
 or verses such as Luke 17:36 and Acts 24:7 that it does not contain), the missing version is simply left empty.
@@ -65,6 +68,12 @@ All three versions use the KJV verse numbering, which Vamvas shares. The Septuag
   the Hebrew/English order.
 - **Daniel:** Theodotion's text. The Prayer of Azariah and Song of the Three (LXX 3:24–90) appear as a note on 3:23.
 - **1 Kings 20–21, Malachi 4,** and chapter breaks that fall in different places (e.g. Jonah 1:17 = LXX 2:1) are adjusted.
+- **Hebrew and JPS** use Hebrew verse numbering, which is mapped to the KJV: chapter breaks in other places
+  (Malachi 3:19–24 = KJV 4:1–6, Joel 3–4, Jonah 2:1 = KJV 1:17, …) and psalm titles, which the Hebrew counts as verse 1
+  and the KJV joins to verse 1. KJV Isaiah 64:1 and Nehemiah 7:68 have no separate Hebrew verse.
+- This digital JPS edition writes "G‑d" and "HaShem", joins the short commandments of the Ten Commandments into one
+  verse (Exodus 20:13, Deuteronomy 5:17), and is missing a few verses (Malachi 3:19–24 = KJV 4:1–6, Leviticus 6:29,
+  Psalms 64:9 and 70:5); those `JPS` lines are empty and can be filled in by hand.
 - The Septuagint really does differ from the Hebrew text in places (Exodus 35–40, 1 Samuel 17–18, 1 Kings, Job, Proverbs,
   Jeremiah, Esther additions). Verses with no Greek counterpart have an empty `GRC` line; Greek‑only verses have empty
   `ELL`/`KJV` lines. In books whose order differs (notably Proverbs 24–31) verses are matched by number only.
@@ -74,7 +83,8 @@ All three versions use the KJV verse numbering, which Vamvas shares. The Septuag
 `index.html` + `assets/` is a static site that reads the markdown files directly — there is no build step, so
 any change to a chapter file shows up on the site.
 
-- **Reading:** works with no setup. Pick a book and chapter, toggle columns, link to a verse
+- **Reading:** works with no setup. Pick a book and chapter, toggle columns (Hebrew and JPS start hidden; tick
+  *עברית* / *JPS* in an Old Testament chapter to show them), link to a verse
   (`#/john/3/16`). The open chapter is re‑checked every minute and refreshes automatically when it changes.
 - **Editing on GitHub:** use the *Edit on GitHub* button (or edit any `.md` file in the repo). Pushing to
   `main` redeploys the site.
@@ -102,5 +112,6 @@ python3 -m http.server 8000
 ## Regenerating the text
 
 `scripts/build_books.py` downloads the sources and creates any missing chapter files (`--only ot` or `--only nt` to build
-one Testament). It never overwrites
+one Testament). For existing files it only inserts version lines that are missing (that is how the Hebrew and JPS
+were added), so your edits are kept. It never overwrites
 existing files unless you pass `--force` (which discards manual edits).

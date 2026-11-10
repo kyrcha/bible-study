@@ -8,7 +8,13 @@ Sources:
                        digitised by https://github.com/eliranwong/LXX-Swete-1930)
   * Modern Greek     - Neophytos Vamvas translation (1850)
   * English          - King James Version (1769)
+  * Hebrew OT        - Westminster Leningrad Codex (Masoretic text)
+  * Jewish English   - Jewish Publication Society translation (1917)
                        https://github.com/scrollmapper/bible_databases
+
+The Hebrew (HEB) and JPS lines are added to Old Testament verses in KJV numbering. Existing
+chapter files are never rewritten; missing version lines are inserted into them instead, so
+manual edits are preserved.
 
 Usage:
     python3 scripts/build_books.py            # create missing files only
@@ -111,8 +117,10 @@ OT_BOOKS = [
 
 SOURCES = {
     "nt": {"GRC": "Robinson-Pierpont 2018", "ELL": "Vamvas 1850", "KJV": "King James Version 1769"},
-    "ot": {"GRC": "Septuagint, Swete 1909-1930", "ELL": "Vamvas 1850", "KJV": "King James Version 1769"},
+    "ot": {"GRC": "Septuagint, Swete 1909-1930", "ELL": "Vamvas 1850", "KJV": "King James Version 1769",
+           "HEB": "Westminster Leningrad Codex", "JPS": "Jewish Publication Society 1917"},
 }
+TAGS = ["GRC", "ELL", "KJV", "HEB", "JPS"]
 
 
 def fetch(url):
@@ -300,34 +308,156 @@ def align_lxx(code, src, kjv):
 
 
 # ---------------------------------------------------------------------------
+# Hebrew-numbered texts (WLC, JPS) -> KJV versification
+# ---------------------------------------------------------------------------
+def load_by_name(name, cleaner=clean):
+    if name not in _SM_CACHE:
+        _SM_CACHE[name] = json.loads(fetch(SM_URL.format(name)))["books"]
+    return {b["name"]: {c["chapter"]: {v["verse"]: cleaner(v["text"]) for v in c["verses"] if v["text"].strip()}
+                        for c in b["chapters"]} for b in _SM_CACHE[name]}
+
+
+def clean_wlc(text):
+    return clean(re.sub(r"׃[\d\s]+$", "׃", text.replace("‍", "")))
+
+
+# Known places where the Hebrew splits a verse differently and the totals cannot balance.
+# {book: {hebrew_chapter: function(verse) -> (kjv_chapter, kjv_verse)}}
+HEBREW_FIXES = {
+    "Num": {25: lambda v: (26, 1) if v == 19 else (25, v)},           # Heb 25:19 = KJV 26:1a
+    "1Sa": {21: lambda v: (20, 42) if v == 1 else (21, v - 1)},       # Heb 21:1 = KJV 20:42b
+    "1Ki": {22: lambda v: (22, v) if v <= 43 else (22, v - 1)},       # Heb 22:43-44 = KJV 22:43
+    "1Ch": {12: lambda v: (12, v) if v <= 4 else (12, v - 1)},        # Heb 12:4-5 = KJV 12:4
+    "Neh": {7: lambda v: (7, v) if v <= 67 else (7, v + 1)},          # KJV 7:68 is not in the Hebrew
+    "Isa": {64: lambda v: (64, v + 1)},                               # KJV 64:1 = Heb 63:19b
+}
+
+
+def hebrew_map(code, heb, kjv):
+    """Return {(heb_chapter, heb_verse): (kjv_chapter, kjv_verse)} for one book.
+
+    Runs of chapters whose verse totals agree are poured into the KJV slots in order (chapter
+    breaks in different places: Malachi 3:19-24 = KJV 4:1-6, Joel 3-4, Jonah 2:1 = KJV 1:17 ...).
+    Psalm titles counted as verses are joined to verse 1. Anything else is matched by number.
+    """
+    mapping = {}
+    fixes = HEBREW_FIXES.get(code, {})
+    for c, fn in fixes.items():
+        for v in heb.get(c, {}):
+            mapping[(c, v)] = fn(v)
+    chapters = [c for c in sorted(set(kjv) | set(heb)) if c not in fixes]
+    keys = lambda c: [(c, v) for v in sorted(heb.get(c, {}))]
+    slots = lambda c: [(c, v) for v in sorted(kjv.get(c, {}))]
+    if code == "Psa":
+        for c in chapters:
+            k, s_ = keys(c), slots(c)
+            extra = len(k) - len(s_)
+            if extra > 0:
+                for key in k[: extra + 1]:
+                    mapping[key] = s_[0]
+                mapping.update(zip(k[extra + 1:], s_[1:]))
+            else:
+                mapping.update({key: key for key in k})
+        return mapping
+    i = 0
+    while i < len(chapters):
+        for j in range(i, min(i + 4, len(chapters))):
+            run = chapters[i:j + 1]
+            k = [x for c in run for x in keys(c)]
+            s_ = [x for c in run for x in slots(c)]
+            if len(k) == len(s_):
+                mapping.update(zip(k, s_))
+                i = j + 1
+                break
+        else:
+            mapping.update({key: key for key in keys(chapters[i])})
+            i += 1
+    return mapping
+
+
+def apply_map(mapping, src):
+    out = collections.defaultdict(dict)
+    for c in sorted(src):
+        for v in sorted(src[c]):
+            kc, kv = mapping.get((c, v), (c, v))
+            out[kc][kv] = (out[kc].get(kv, "") + " " + src[c][v]).strip()
+    return out
+
+
+def normalise_jps(name, src):
+    """This JPS edition prints each Decalogue's short commandments as a single verse; restore Hebrew numbering."""
+    merged = {"Exodus": (20, 13), "Deuteronomy": (5, 17)}
+    if name in merged:
+        c, at = merged[name]
+        src = dict(src)
+        src[c] = {(v + 3 if v > at else v): t for v, t in src[c].items()}
+    return src
+
+
+# ---------------------------------------------------------------------------
 # Markdown output
 # ---------------------------------------------------------------------------
-def render_chapter(book, chapter, grc, ell, kjv, sources, notes=None):
+def render_chapter(book, chapter, texts, sources, notes=None):
+    """texts: {tag: {verse: text}} for the tags this testament has."""
     slug, en, el, _ = book
     notes = notes or {}
-    lines = [
-        f"# {en} {chapter} · {el} {chapter}",
-        "",
-        "<!--",
-        "Format: each verse starts with a '## <number>' heading followed by up to three lines:",
-        f"  **GRC** Ancient Greek ({sources['GRC']})",
-        f"  **ELL** Modern Greek ({sources['ELL']})",
-        f"  **KJV** {sources['KJV']}",
-        "Any other text under a verse is shown as a note on that verse.",
-        "Anything under '## Notes' is free-form markdown for your own study notes.",
-        "-->",
-        "",
-    ]
-    verses = sorted(set(grc) | set(ell) | set(kjv))
+    tags = [t for t in TAGS if t in sources]
+    labels = {"GRC": "Ancient Greek", "ELL": "Modern Greek", "KJV": "English", "HEB": "Hebrew", "JPS": "Jewish English"}
+    lines = [f"# {en} {chapter} · {el} {chapter}", "", "<!--",
+             f"Format: each verse starts with a '## <number>' heading followed by up to {len(tags)} lines:"]
+    lines += [f"  **{t}** {labels[t]} ({sources[t]})" for t in tags]
+    lines += ["Any other text under a verse is shown as a note on that verse.",
+              "Anything under '## Notes' is free-form markdown for your own study notes.", "-->", ""]
+    verses = sorted(set().union(*[set(texts.get(t, {})) for t in tags]))
     for v in verses:
         lines += [f"## {v}", ""]
-        lines += [f"**GRC** {grc.get(v, '')}".rstrip(), ""]
-        lines += [f"**ELL** {ell.get(v, '')}".rstrip(), ""]
-        lines += [f"**KJV** {kjv.get(v, '')}".rstrip(), ""]
+        for t in tags:
+            lines += [f"**{t}** {texts.get(t, {}).get(v, '')}".rstrip(), ""]
         for n in notes.get(v, []):
             lines += [n, ""]
     lines += ["## Notes", "", ""]
     return "\n".join(lines)
+
+
+def add_missing_lines(path, texts, tags):
+    """Insert version lines that an existing chapter file lacks, keeping everything else as is."""
+    with open(path, encoding="utf-8") as f:
+        lines = f.read().split("\n")
+    out, i, changed = [], 0, False
+    labels = {"HEB": "Hebrew", "JPS": "Jewish English"}
+    kjv_doc = next((k for k, l in enumerate(lines) if l.startswith("  **KJV** ")), None)
+    if kjv_doc is not None:
+        doc = [f"  **{t}** {labels[t]} ({SOURCES['ot'][t]})" for t in labels
+               if t in tags and not any(l.startswith(f"  **{t}** ") for l in lines)]
+        if doc:
+            lines[kjv_doc + 1:kjv_doc + 1] = doc
+            changed = True
+    verse_re = re.compile(r"^##\s+(\d+)\s*$")
+    while i < len(lines):
+        m = verse_re.match(lines[i])
+        out.append(lines[i])
+        i += 1
+        if not m:
+            continue
+        v = int(m[1])
+        block = []
+        while i < len(lines) and not lines[i].startswith("## "):
+            block.append(lines[i])
+            i += 1
+        present = {t for t in tags if any(l.startswith(f"**{t}**") for l in block)}
+        missing = [t for t in tags if t not in present and texts.get(t, {}).get(v)]
+        if missing:
+            last = max((k for k, l in enumerate(block) if re.match(r"^\*\*[A-Z]{3}\*\*", l)), default=-1)
+            insert = []
+            for t in missing:
+                insert += ["", f"**{t}** {texts[t][v]}"]
+            block[last + 1:last + 1] = insert
+            changed = True
+        out += block
+    if changed:
+        with open(path, "w", encoding="utf-8") as f:
+            f.write("\n".join(out))
+    return changed
 
 
 def write_testament(key, out_dir, books, grc_for, force):
@@ -335,11 +465,20 @@ def write_testament(key, out_dir, books, grc_for, force):
     print(f"Building {title} ...")
     kjv_all = load_scrollmapper("KJV", key)
     ell_all = load_scrollmapper("GreVamvas", key)
-    manifest, written, skipped = [], 0, 0
+    manifest, written, skipped, updated = [], 0, 0, 0
+    if key == "ot":
+        wlc = load_by_name("WLC", clean_wlc)
+        jps = load_by_name("JPS")
     for i, book in enumerate(books):
         slug, en, el, code = book
         print(f"  {en}")
         grc_book, notes = grc_for(code, kjv_all[i])
+        texts = {"GRC": grc_book, "ELL": ell_all[i], "KJV": kjv_all[i]}
+        if key == "ot":
+            kjv_name = _SM_CACHE["KJV"][i]["name"]
+            mapping = hebrew_map(code, wlc[kjv_name], kjv_all[i])
+            texts["HEB"] = apply_map(mapping, wlc[kjv_name])
+            texts["JPS"] = apply_map(mapping, normalise_jps(kjv_name, jps[kjv_name]))
         n_chapters = max(len(kjv_all[i]), len(ell_all[i]), max(grc_book or [0]))
         pad = max(2, len(str(n_chapters)))
         folder_name = f"{i + 1:02d}-{slug}"
@@ -347,20 +486,22 @@ def write_testament(key, out_dir, books, grc_for, force):
         os.makedirs(folder, exist_ok=True)
         for c in range(1, n_chapters + 1):
             path = os.path.join(folder, f"chapter-{c:0{pad}d}.md")
+            ch_texts = {t: texts[t].get(c, {}) for t in texts}
             if os.path.exists(path) and not force:
+                updated += add_missing_lines(path, ch_texts, [t for t in TAGS if t in SOURCES[key]])
                 skipped += 1
                 continue
             ch_notes = {v: ns for (nc, v), ns in notes.items() if nc == c}
             with open(path, "w", encoding="utf-8") as f:
-                f.write(render_chapter(book, c, grc_book.get(c, {}), ell_all[i].get(c, {}), kjv_all[i].get(c, {}),
-                                       SOURCES[key], ch_notes))
+                f.write(render_chapter(book, c, ch_texts, SOURCES[key], ch_notes))
             written += 1
         readme = os.path.join(folder, "README.md")
         if not os.path.exists(readme) or force:
             with open(readme, "w", encoding="utf-8") as f:
                 f.write(f"# {en} · {el}\n\n")
                 f.write("Each chapter file contains the Ancient Greek (GRC), Modern Greek (ELL) and King James (KJV) "
-                        "text verse by verse.\n\n")
+                        + ("text, plus the Hebrew (HEB) and JPS 1917 (JPS), " if key == "ot" else "text ")
+                        + "verse by verse.\n\n")
                 for c in range(1, n_chapters + 1):
                     f.write(f"- [Chapter {c}](chapter-{c:0{pad}d}.md)\n")
         entry = {"slug": slug, "folder": folder_name, "name": en, "greek": el, "chapters": n_chapters}
@@ -375,7 +516,7 @@ def write_testament(key, out_dir, books, grc_for, force):
         f.write(f"# {title}\n\n")
         for b in manifest:
             f.write(f"- [{b['name']} · {b['greek']}]({b['folder']}/README.md) — {b['chapters']} chapters\n")
-    print(f"  {written} chapter files written, {skipped} existing files kept.")
+    print(f"  {written} chapter files written, {skipped} existing files kept ({updated} given missing lines).")
 
 
 def main():
