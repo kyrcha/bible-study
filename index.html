@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bible Study · Καινή Διαθήκη</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/">Καινή Διαθήκη <span>New Testament</span></a>
+    <nav class="nav">
+      <select id="bookSelect" aria-label="Book"></select>
+      <select id="chapterSelect" aria-label="Chapter"></select>
+      <button id="prevBtn" title="Previous chapter" aria-label="Previous chapter">‹</button>
+      <button id="nextBtn" title="Next chapter" aria-label="Next chapter">›</button>
+    </nav>
+    <div class="tools">
+      <label class="toggle"><input type="checkbox" data-col="GRC" checked> Αρχαία</label>
+      <label class="toggle"><input type="checkbox" data-col="ELL" checked> Νέα</label>
+      <label class="toggle"><input type="checkbox" data-col="KJV" checked> KJV</label>
+      <button id="settingsBtn" title="GitHub connection">⚙</button>
+    </div>
+  </header>
+
+  <main id="main">
+    <div id="status" class="status" hidden></div>
+    <section id="view"></section>
+  </main>
+
+  <dialog id="settingsDialog">
+    <form method="dialog" id="settingsForm">
+      <h2>GitHub connection</h2>
+      <p class="muted">Reading works without any setup. To <strong>edit</strong> from this site, paste a
+        <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">fine‑grained personal access token</a>
+        with <em>Contents: Read and write</em> access to this repository. The token is stored only in this browser.</p>
+      <label>Owner <input name="owner" required></label>
+      <label>Repository <input name="repo" required></label>
+      <label>Branch <input name="branch" placeholder="(repository default)"></label>
+      <label>Token <input name="token" type="password" autocomplete="off" placeholder="github_pat_…"></label>
+      <div class="row">
+        <button value="cancel" formnovalidate>Cancel</button>
+        <button value="clear" formnovalidate class="danger">Forget token</button>
+        <button value="save" class="primary">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

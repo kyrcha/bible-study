@@ -1,0 +1,29 @@
+# New Testament · Καινή Διαθήκη
+
+- [Matthew · Κατά Ματθαίον](01-matthew/README.md) — 28 chapters
+- [Mark · Κατά Μάρκον](02-mark/README.md) — 16 chapters
+- [Luke · Κατά Λουκάν](03-luke/README.md) — 24 chapters
+- [John · Κατά Ιωάννην](04-john/README.md) — 21 chapters
+- [Acts · Πράξεις των Αποστόλων](05-acts/README.md) — 28 chapters
+- [Romans · Προς Ρωμαίους](06-romans/README.md) — 16 chapters
+- [1 Corinthians · Προς Κορινθίους Α΄](07-1-corinthians/README.md) — 16 chapters
+- [2 Corinthians · Προς Κορινθίους Β΄](08-2-corinthians/README.md) — 13 chapters
+- [Galatians · Προς Γαλάτας](09-galatians/README.md) — 6 chapters
+- [Ephesians · Προς Εφεσίους](10-ephesians/README.md) — 6 chapters
+- [Philippians · Προς Φιλιππησίους](11-philippians/README.md) — 4 chapters
+- [Colossians · Προς Κολοσσαείς](12-colossians/README.md) — 4 chapters
+- [1 Thessalonians · Προς Θεσσαλονικείς Α΄](13-1-thessalonians/README.md) — 5 chapters
+- [2 Thessalonians · Προς Θεσσαλονικείς Β΄](14-2-thessalonians/README.md) — 3 chapters
+- [1 Timothy · Προς Τιμόθεον Α΄](15-1-timothy/README.md) — 6 chapters
+- [2 Timothy · Προς Τιμόθεον Β΄](16-2-timothy/README.md) — 4 chapters
+- [Titus · Προς Τίτον](17-titus/README.md) — 3 chapters
+- [Philemon · Προς Φιλήμονα](18-philemon/README.md) — 1 chapters
+- [Hebrews · Προς Εβραίους](19-hebrews/README.md) — 13 chapters
+- [James · Ιακώβου](20-james/README.md) — 5 chapters
+- [1 Peter · Πέτρου Α΄](21-1-peter/README.md) — 5 chapters
+- [2 Peter · Πέτρου Β΄](22-2-peter/README.md) — 3 chapters
+- [1 John · Ιωάννου Α΄](23-1-john/README.md) — 5 chapters
+- [2 John · Ιωάννου Β΄](24-2-john/README.md) — 1 chapters
+- [3 John · Ιωάννου Γ΄](25-3-john/README.md) — 1 chapters
+- [Jude · Ιούδα](26-jude/README.md) — 1 chapters
+- [Revelation · Αποκάλυψις Ιωάννου](27-revelation/README.md) — 22 chapters
