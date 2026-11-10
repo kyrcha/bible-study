@@ -1,0 +1,197 @@
+# Genesis 39 · Γένεσις 39
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Ἰωσὴφ δὲ κατήχθη εἰς Αἴγυπτον· καὶ ἐκτήσατο αὐτὸν Πετεφρῆς ὁ εὐνοῦχος Φαραὼ ὁ ἀρχιμάγειρος, ἀνήρ Αἰγύπτιος, ἐκ χειρῶν Ἰσμαηλειτῶν, οἳ κατήγαγον αὐτὸν ἐκεῖ.
+
+**ELL** Ο δε Ιωσήφ κατεβιβάσθη εις την Αίγυπτον· και ο Πετεφρής ο αυλικός του Φαραώ, ο άρχων των σωματοφυλάκων, άνθρωπος Αιγύπτιος, ηγόρασεν αυτόν εκ των χειρών των Ισμαηλιτών, οίτινες κατεβίβασαν αυτόν εκεί.
+
+**KJV** And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
+
+## 2
+
+**GRC** καὶ ἦν Κύριος μετὰ Ἰωσήφ, καὶ ἦν ἀνὴρ ἐπιτυγχάνων· καὶ ἐγένετο ἐν τῷ οἴκῳ παρὰ τῷ κυρίῳ τῷ Αἰγυπτίῳ.
+
+**ELL** Και ήτο ο Κύριος μετά του Ιωσήφ, και ήτο άνθρωπος ευοδούμενος· και ευρίσκετο εν τω οίκω του κυρίου αυτού Αιγυπτίου.
+
+**KJV** And the Lord was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.
+
+## 3
+
+**GRC** ᾔδει δὲ ὁ κύριος αὐτοῦ ὅτι Κύριος μετ᾽ αὐτοῦ, καὶ ὅσα ἂν ποιῇ, Κύριος εὐοδοῖ ἐν ταῖς χερσὶν αὐτοῦ.
+
+**ELL** Και είδεν ο κύριος αυτού, ότι ο Κύριος ήτο μετ' αυτού, και ευώδωνεν ο Κύριος εις τας χείρας αυτού πάντα όσα έκαμνε.
+
+**KJV** And his master saw that the Lord was with him, and that the Lord made all that he did to prosper in his hand.
+
+## 4
+
+**GRC** καὶ εὗρεν Ἰωσὴφ χάριν ἐναντίον τοῦ κυρίου αὐτοῦ, εὐηρέστει δὲ αὐτῷ· καὶ κατέστησεν αὐτὸν ἐπὶ τοῦ οἴκου αὐτοῦ, καὶ πάντα ὅσα ἦν αὐτῷ ἔδωκεν διὰ χειρὸς Ἰωσήφ.
+
+**ELL** Και εύρηκεν ο Ιωσήφ χάριν έμπροσθεν αυτού και υπηρέτει αυτόν· και κατέστησεν αυτόν επιστάτην επί του οίκου αυτού· και πάντα όσα είχε, παρέδωκεν εις τας χείρας αυτού.
+
+**KJV** And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand.
+
+## 5
+
+**GRC** ἐγένετο δὲ μετὰ τὸ κατασταθῆναι αὐτὸν ἐπὶ τοῦ οἴκου αὐτοῦ καὶ ἐπὶ πάντα ὅσα ἦν αὐτῷ, καὶ ηὐλόγησεν Κύριος τὸν οἶκον τοῦ Αἰγυπτίου διὰ Ἰωσήφ· καὶ ἐγενήθη εὐλογία Κυρίου ἐπὶ πᾶσιν τοῖς ὑπάρχουσιν αὐτῷ ἐν τῷ οἴκῳ καὶ ἐν τῷ ἀγρῷ.
+
+**ELL** Και εξ εκείνου του καιρού, αφού κατέστησεν αυτόν επιστάτην επί του οίκου αυτού και επί πάντων όσα είχεν, ευλόγησεν ο Κύριος τον οίκον του Αιγυπτίου εξ αιτίας του Ιωσήφ· και ήτο η ευλογία του Κυρίου επί πάντα όσα είχεν, εν τω οίκω και εν τοις αγροίς.
+
+**KJV** And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the Lord blessed the Egyptian’s house for Joseph’s sake; and the blessing of the Lord was upon all that he had in the house, and in the field.
+
+## 6
+
+**GRC** καὶ ἐπέστρεψεν πάντα ὅσα ἦν αὐτῷ εἰς χεῖρας Ἰωσήφ, καὶ οὐκ ᾔδει τῶν καθ᾽ ἑαυτὸν οὐδὲν πλὴν τοῦ ἄρτου οὗ ἤσθιεν αὐτός. καὶ ἦν Ἰωσὴφ καλὸς τῷ εἴδει καὶ ὡραῖος τῇ ὄψει σφόδρα.
+
+**ELL** Και παρέδωκε πάντα όσα είχεν εις τας χείρας του Ιωσήφ· και δεν ήξευρεν εκ των υπαρχόντων αυτού ουδέν, πλην του άρτου τον οποίον έτρωγεν. Ήτο δε ο Ιωσήφ ευειδής και ώραίος την όψιν.
+
+**KJV** And he left all that he had in Joseph’s hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured.
+
+## 7
+
+**GRC** καὶ ἐγένετο μετὰ τὰ ῥήματα ταῦτα καὶ ἐπέβαλεν ἡ γυνὴ τοῦ κυρίου αὐτοῦ τοὺς ὀφθαλμοὺς αὐτῆς ἐπὶ Ἰωσήφ, καὶ εἶπεν Κοιμήθητι μετ᾽ ἐμοῦ.
+
+**ELL** Και μετά τα πράγματα ταύτα, η γυνή του κυρίου αυτού έρριψε τους οφθαλμούς αυτής επί τον Ιωσήφ· και είπε, Κοιμήθητι μετ' εμού.
+
+**KJV** And it came to pass after these things, that his master’s wife cast her eyes upon Joseph; and she said, Lie with me.
+
+## 8
+
+**GRC** ὁ δὲ οὐκ ἤθελεν, εἶπεν δὲ τῇ γυναικὶ τοῦ κυρίου αὐτοῦ Εἰ ὁ κύριός μου οὐ γινώσκει δι᾽ ἐμὲ οὐδὲν ἐν τῷ οἴκῳ αὐτοῦ, καὶ πάντα ὅσα ἐστὶν αὐτῷ ἔδωκεν εἰς τὰς χεῖράς μου,
+
+**ELL** Αλλ' εκείνος δεν ήθελε, και είπε προς την γυναίκα του κυρίου αυτού, Ιδού· ο κύριός μου δεν γνωρίζει ουδέν εκ των όσα είναι μετ' εμού εν τω οίκω· και πάντα όσα έχει, παρέδωκεν εις τας χείρας μου·
+
+**KJV** But he refused, and said unto his master’s wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;
+
+## 9
+
+**GRC** καὶ οὐχ ὑπερέχει ἐν τῇ οἰκίᾳ αὐτοῦ οὐθὲν ἐμοῦ, οὐδὲ ὑπεξῄρηται ἀπ᾽ ἐμοῦ οὐδὲν πλὴν σοῦ, διὰ τὸ σὲ γυναῖκα αὐτοῦ εἶναι· καὶ πῶς ποιήσω τὸ ῥῆμα τὸ πονηρὸν τοῦτο καὶ ἁμαρτήσομαι ἐναντίον τοῦ θεοῦ;
+
+**ELL** δεν είναι εν τω οίκω τούτω ουδείς μεγαλήτερός μου, ούτε είναι απηγορευμένον εις εμέ άλλο τι πλην σου, διότι είσαι η γυνή αυτού· και πως να πράξω τούτο το μέγα κακόν, και να αμαρτήσω εναντίον του Θεού;
+
+**KJV** There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?
+
+## 10
+
+**GRC** ἡνίκα δὲ ἐλάλει Ἰωσὴφ ἡμέραν ἐξ ἡμέρας, καὶ οὐχ ὑπήκουεν αὐτῇ καθεύδειν μετ᾽ αὐτῆς τοῦ συγγενέσθαι αὐτῇ.
+
+**ELL** Αν και ελάλει προς τον Ιωσήφ καθ' εκάστην ημέραν, ούτος όμως δεν υπήκουσεν εις αυτήν να κοιμηθή μετ' αυτής, διά να συνευρεθή μετ' αυτής.
+
+**KJV** And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her.
+
+## 11
+
+**GRC** ἐγένετο δὲ τοιαύτη τις ἡμέρα· εἰσῆλθεν Ἰωσὴφ εἰς τὴν οἰκίαν τοῦ ποιεῖν τὰ ἔργα αὐτοῦ, καὶ οὐθεὶς ἦν ἐν τῇ οἰκίᾳ ἔσω·
+
+**ELL** Και ημέραν τινά εισήλθεν ο Ιωσήφ εις την οικίαν διά να κάμη τα έργα αυτού, και ουδείς εκ των ανθρώπων του οίκου ήτο εκεί εν τω οίκω.
+
+**KJV** And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.
+
+## 12
+
+**GRC** καὶ ἐπεσπάσατο αὐτὸν τῶν ἱματίων αὐτοῦ λέγουσα Κοιμήθητι μετ᾽ ἐμοῦ· καὶ καταλείπων τὰ ἱμάτια αὐτοῦ ἔφυγεν καὶ ἐξῆλθεν ἔξω.
+
+**ELL** Και εκείνη ήρπασεν αυτόν από του ιματίου αυτού, λέγουσα, Κοιμήθητι μετ' εμού· αλλ' εκείνος αφήσας το ιμάτιον αυτού εις τας χείρας αυτής, έφυγε, και εξήλθεν έξω.
+
+**KJV** And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
+
+## 13
+
+**GRC** καὶ ἐγένετο ὡς εἶδεν ὅτι κατέλειπεν τὰ ἱμάτια αὐτοῦ ἐν ταῖς χερσὶν αὐτῆς καὶ ἔφυγεν καὶ ἐξῆλθεν ἔξω,
+
+**ELL** Και ως είδεν ότι αφήκε το ιμάτιον αυτού εις τας χείρας αυτής και έφυγεν έξω,
+
+**KJV** And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,
+
+## 14
+
+**GRC** καὶ ἐκάλεσεν τοὺς ὄντας ἐν τῇ οἰκίᾳ καὶ εἶπεν αὐτοῖς λέγουσα Ἴδετε, εἰσήγαγεν ἡμῖν παῖδα Ἐβραῖον ἐμπαίζειν ἡμῖν· εἰσῆλθεν πρὸς μὲ λέγων Κοιμήθητι μετ᾽ ἐμοῦ· καὶ ἐβόησα φωνῇ μεγάλῃ.
+
+**ELL** εβόησε προς τους ανθρώπους της οικίας αυτής και ελάλησε προς αυτούς, λέγουσα, Ίδετε, έφερεν εις ημάς άνθρωπον Εβραίον διά να μας εμπαίξη· εισήλθε προς εμέ διά να κοιμηθή μετ' εμού και εγώ εβόησα μετά φωνής μεγάλης·
+
+**KJV** That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:
+
+## 15
+
+**GRC** ἐν δὲ τῷ ἀκοῦσαι αὐτὸν ὅτι ὕψωσα τὴν φωνήν μου καὶ ἐβόησα, καταλείπων τὰ ἱμάτια αὐτοῦ παρ᾽ ἐμοὶ ἔφυγεν καὶ ἐξῆλθεν ἔξω.
+
+**ELL** και ως ήκουσεν ότι ύψωσα την φωνήν μου και εβόησα, αφήσας το ιμάτιον αυτού παρ' εμοί έφυγε και εξήλθεν έξω.
+
+**KJV** And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.
+
+## 16
+
+**GRC** καὶ καταλιμπάνει τὰ ἱμάτια παρ᾽ ἑαυτῇ ἕως ἦλθεν ὁ κύριος εἰς τὸν οἶκον αὐτοῦ.
+
+**ELL** Και απέθεσε το ιμάτιον αυτού παρ' αυτή, εωσού ήλθεν ο κύριος αυτού εις τον οίκον αυτού.
+
+**KJV** And she laid up his garment by her, until his lord came home.
+
+## 17
+
+**GRC** καὶ ἐλάλησεν αὐτῷ κατὰ τὰ ῥήματα ταῦτα λέγουσα Εἰσῆλθεν πρὸς μὲ ὁ παῖς ὁ Ἐβραῖος, ὃν εἰσήγαγες πρὸς ἡμᾶς, ἐμπαῖξαί μοι, καὶ εἶπέν μοι Κοιμήθητι μετ᾽ ἐμοῦ.
+
+**ELL** Και είπε προς αυτόν κατά τους λόγους τούτους, λέγουσα, Ο δούλος ο Εβραίος, τον οποίον έφερες εις ημάς, εισήλθε προς εμέ διά να με εμπαίξη,
+
+**KJV** And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:
+
+## 18
+
+**GRC** ὡς δὲ ἤκουσεν ὅτι ὕψωσα τὴν φωνήν μου καὶ ἐβόησα, κατέλειπεν τὰ ἱμάτια αὐτοῦ παρ᾽ ἐμοὶ καὶ ἔφυγεν καὶ ἐξῆλθεν ἔξω.
+
+**ELL** και ως ύψωσα την φωνήν μου και εβόησα, αφήσας το ιμάτιον αυτού παρ' εμοί, έφυγεν έξω.
+
+**KJV** And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out.
+
+## 19
+
+**GRC** ἐγένετο δὲ ὡς ἤκουσεν ὁ κύριος τὰ ῥήματα τῆς γυναικὸς αὐτοῦ, ὅσα ἐλάλησεν πρὸς αὐτὸν λέγουσα Οὕτως ἐποίησέν μοι ὁ παῖς σου, καὶ ἐθυμώθη ὀργῇ.
+
+**ELL** Και ως ήκουσεν ο κύριος αυτού τους λόγους της γυναικός αυτού, τους οποίους ελάλησε προς αυτόν, λέγουσα, Ούτω μοι έκαμεν ο δούλός σου, εξήφθη η οργή αυτού.
+
+**KJV** And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled.
+
+## 20
+
+**GRC** καὶ ἔλαβεν ὁ κύριος Ἰωσὴφ καὶ ἐνέβαλεν αὐτὸν εἰς τὸ ὀχύρωμα, εἰς τὸν τόπον ἐν ᾧ οἱ δεσμῶται τοῦ βασιλέως κατέχονται ἐκεῖ ἐν τῷ ὀχυρώματι.
+
+**ELL** Και λαβών ο κύριος του Ιωσήφ αυτόν, έβαλεν αυτόν εις την οχυράν φυλακήν, εις τον τόπον όπου οι δέσμιοι του βασιλέως ήσαν πεφυλακισμένοι και έμενεν εκεί εν τη οχυρά φυλακή.
+
+**KJV** And Joseph’s master took him, and put him into the prison, a place where the king’s prisoners were bound: and he was there in the prison.
+
+## 21
+
+**GRC** καὶ ἦν Κύριος μετὰ Ἰωσὴφ καὶ κατέχεεν αὐτοῦ ἔλεος, καὶ ἔδωκεν αὐτῷ χάριν ἐναντίον τοῦ ἀρχιδεσμοφύλακος.
+
+**ELL** Αλλ' ο Κύριος ήτο μετά του Ιωσήφ και επέχεεν εις αυτόν έλεος, και έδωκε χάριν εις αυτόν έμπροσθεν του αρχιδεσμοφύλακος.
+
+**KJV** But the Lord was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.
+
+## 22
+
+**GRC** καὶ ἔδωκεν ὁ ἀρχιδεσμοφύλαξ τὸ δεσμωτήριον διὰ χειρὸς Ἰωσὴφ καὶ πάντας τοὺς ἀπηγμένους ὅσοι ἐν τῷ δεσμωτηρίῳ, καὶ πάντα ὅσα ποιοῦσιν ἐκεῖ.
+
+**ELL** Και παρέδωκεν ο αρχιδεσμοφύλαξ εις τας χείρας του Ιωσήφ πάντας τους δεσμίους, τους εν τη οχυρά φυλακή· και πάντα όσα επράττοντο εκεί, αυτός έκαμνεν αυτά.
+
+**KJV** And the keeper of the prison committed to Joseph’s hand all the prisoners that were in the prison; and whatsoever they did there, he was the doer of it.
+
+## 23
+
+**GRC** οὐκ ἦν ὁ ἀρχιδεσμοφύλαξ γινώσκων δι᾽ αὐτὸν οὐθέν· πάντα γὰρ ἦν διὰ χειρὸς Ἰωσήφ, διὰ τὸ τὸν κύριον μετ᾽ αὐτοῦ εἶναι· καὶ ὅσα αὐτὸς ἐποίει, Κύριος εὐοδοῖ ἐν ταῖς χερσὶν αὐτοῦ.
+
+**ELL** Ο αρχιδεσμοφύλαξ δεν εθεώρει ουδέν εκ των όσα ήσαν εις τας χείρας αυτού· διότι ο Κύριος ήτο μετ' αυτού και ο Κύριος ευώδονεν όσα αυτός έκαμνε.
+
+**KJV** The keeper of the prison looked not to any thing that was under his hand; because the Lord was with him, and that which he did, the Lord made it to prosper.
+
+## Notes
+

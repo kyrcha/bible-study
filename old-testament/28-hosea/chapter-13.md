@@ -1,0 +1,141 @@
+# Hosea 13 · Ωσηέ 13
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Κατὰ τὸν λόγον Ἐφράιμ δικαιώματα αὐτὸς ἔλαβεν ἐν τῷ Ἰσραήλ, καὶ ἔθετο αὐτὰ τῇ Βάαλ καὶ ἀπέθανεν.
+
+**ELL** Ότε ο Εφραΐμ ελάλει εν τρόμω, αυτός υψώθη εν τω Ισραήλ· ότε δε ημάρτησε περί του Βάαλ, τότε ετελεύτησε.
+
+**KJV** When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.
+
+## 2
+
+**GRC** καὶ προσέθεντο τοῦ ἁμαρτάνειν, καὶ ἐποίησαν ἑαυτοῖς χώνευμα ἐκ τοῦ ἀργυρίου αὐτῶν κατ᾽ εἰκόνα εἰδώλων, ἔργα τεκτόνων συντετελεσμένα αὐτοῖς· αὐτοὶ λέγουσιν Θύσατε ἀνθρώπους, μόσχοι γὰρ ἐκλελοίπασιν.
+
+**ELL** Και τώρα αμαρτάνουσιν επί μάλλον και μάλλον και έκαμον εις εαυτούς χωνευτά εκ του αργυρίου αυτών, είδωλα κατά την φαντασίαν αυτών, πάντα ταύτα έργον τεχνιτών· αυτοί λέγουσι περί αυτών, οι άνθρωποι οι θυσιάζοντες ας φιλήσωσι τους μόσχους.
+
+**KJV** And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.
+
+## 3
+
+**GRC** διὰ τοῦτο ἔσονται ὡς νεφέλη πρωινὴ καὶ ὡς δρόσος ὀρθρινὴ πορευομένη, ὡς χνοῦς ἀποφυσώμενος ἀφ᾽ ἅλωνος καὶ ὡς ἀτμὶς ἀπὸ δακρύων.
+
+**ELL** Διά τούτο θέλουσιν είσθαι ως νεφέλη πρωϊνή και ως δρόσος εωθινή διαβαίνουσα, ως λεπτόν άχυρον εκφυσώμενον εκ του αλωνίου και ως καπνός εκ της καπνοδόχου.
+
+**KJV** Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney.
+
+## 4
+
+**GRC** ἐγὼ δὲ Κύριος ὁ θεός σου, στερεῶν τὸν οὐρανὸν καὶ κτίζων γῆν, οὗ αἱ χεῖρες ἔκτισαν πᾶσαν τὴν στρατείαν τοῦ οὐρανοῦ, καὶ οὐ παρέδειξά σοι αὐτὰ τοῦ πορεύεσθαι ὀπίσω αὐτῶν· καὶ ἐγὼ ἀνήγαγόν σε ἐκ γῆς Αἰγύπτου, καὶ θεὸν πλὴν ἐμοῦ οὐ γνώσῃ, καὶ σώζων οὐκ ἔστιν παρὲξ ἐμοῦ.
+
+**ELL** Αλλ' εγώ είμαι Κύριος ο Θεός σου εκ γης Αιγύπτου· και άλλον θεόν πλην εμού δεν θέλεις γνωρίσει· διότι δεν υπάρχει άλλος σωτήρ εκτός εμού.
+
+**KJV** Yet I am the Lord thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me.
+
+## 5
+
+**GRC** ἐγὼ ἐποίμαινόν σε ἐν τῇ ἐρήμῳ, ἐν γῇ ἀοικήτῳ
+
+**ELL** Εγώ σε εγνώρισα εν τη ερήμω, εν γη ανύδρω.
+
+**KJV** I did know thee in the wilderness, in the land of great drought.
+
+## 6
+
+**GRC** κατὰ τὰς νομὰς αὐτῶν· καὶ ἐνεπλήσθησαν εἰς πλησμονήν, καὶ ὑψώθησαν αἱ καρδίαι αὐτῶν, ἕνεκα τούτου ἐπελάθοντό μου.
+
+**ELL** Κατά τας βοσκάς αυτών, ούτως εχορτάσθησαν· εχορτάσθησαν, και υψώθη η καρδία αυτών· διά τούτο με ελησμόνησαν.
+
+**KJV** According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me.
+
+## 7
+
+**GRC** καὶ ἔσομαι αὐτοῖς ὡς πανθὴρ καὶ ὡς πάρδαλις κατὰ τὴν ὁδὸν Ἀσσυρίων·
+
+**ELL** Όθεν θέλω είσθαι εις αυτούς ως λέων· ως πάρδαλις εν οδώ θέλω παραμονεύει αυτούς.
+
+**KJV** Therefore I will be unto them as a lion: as a leopard by the way will I observe them:
+
+## 8
+
+**GRC** ἀπαντήσομαι αὐτοῖς ὡς ἄρκος ἀπορουμένη, καὶ διαρρήξω συνκλεισμὸν καρδίας αὐτῶν, καὶ καταφάγονται αὐτοὺς ἐκεῖ σκύμνοι δρυμοῦ, θηρία ἀγροῦ διασπάσει αὐτούς.
+
+**ELL** Θέλω απαντήσει αυτούς ως άρκτος στερηθείσα των τέκνων αυτής, και θέλω διασπαράξει το περίφραγμα της καρδίας αυτών και καταφάγει αυτούς εκεί ως λέων· θηρίον άγριον θέλει διασπαράξει αυτούς.
+
+**KJV** I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.
+
+## 9
+
+**GRC** τῇ διαφθορᾷ σου, Ἰσραήλ, τίς βοηθήσει;
+
+**ELL** Απωλέσθης, Ισραήλ· πλην εν εμοί είναι η βοήθειά σου.
+
+**KJV** O Israel, thou hast destroyed thyself; but in me is thine help.
+
+## 10
+
+**GRC** ποῦ ὁ βασιλεύς σου οὗτος; καὶ διασωσάτω σε ἐν πάσαις ταῖς πόλεσίν σου· κρινάτω σε ὃν εἶπας Δός μοι βασιλέα καὶ ἄρχοντα.
+
+**ELL** Που είναι ο βασιλεύς σου; που; ας σε σώση τώρα εν πάσαις σου ταις πόλεσι· και που οι κριταί σου, περί των οποίων είπας, Δος μοι βασιλέα και άρχοντας;
+
+**KJV** I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?
+
+## 11
+
+**GRC** καὶ ἔδωκά σοι βασιλέα ἐν ὀργῇ μου, καὶ ἔσχον ἐν τῷ θυμῷ μου.
+
+**ELL** Σοι έδωκα βασιλέα εν τω θυμώ μου και αφήρεσα αυτόν εν τη οργή μου.
+
+**KJV** I gave thee a king in mine anger, and took him away in my wrath.
+
+## 12
+
+**GRC** συστροφὴν ἀδικίας Ἐφράιμ, ἐνκεκρυμμένη ἡ ἁμαρτία αὐτοῦ·
+
+**ELL** Η ανομία του Εφραΐμ είναι περιδεδεμένη· η αμαρτία αυτού αποτεταμιευμένη.
+
+**KJV** The iniquity of Ephraim is bound up; his sin is hid.
+
+## 13
+
+**GRC** ὠδῖνες ὡς τικτούσης ἥξουσιν αὐτῷ. οὗτος ὁ υἱός σου ὁ φρόνιμος, διότι οὐ μὴ ὑποστῇ ἐν συντριβῇ τέκνων.
+
+**ELL** Πόνοι τικτούσης θέλουσιν ελθεί επ' αυτόν· είναι υιός ασύνετος· διότι δεν είναι καιρός να στέκηται εν τω ανοίγματι της μήτρας.
+
+**KJV** The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children.
+
+## 14
+
+**GRC** ἐκ χειρὸς ᾅδου ῥύσομαι καὶ ἐκ θανάτου λυτρώσομαι αὐτούς· ποῦ ἡ δίκη σου, θάνατε; ποῦ τὸ κέντρον σου, ᾅδη; παράκλησις κέκρυπται ἀπὸ ὀφθαλμῶν μοῦ,
+
+**ELL** Εκ χειρός άδου θέλω ελευθερώσει αυτούς, εκ θανάτου θέλω σώσει αυτούς. Που είναι, θάνατε, ο όλεθρός σου; που, άδη, η φθορά σου; η μεταμέλεια θέλει κρύπτεσθαι από των οφθαλμών μου.
+
+**KJV** I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.
+
+## 15
+
+**GRC** διότι οὗτος ἀνὰ μέσον ἀδελφῶν διαστελεῖ. ἐπάξει καύσωνα ἄνεμον Κύριος ἐκ τῆς ἐρήμου ἐπ᾽ αὐτόν, καὶ ἀναξηρανεῖ τὰς φλέβας αὐτοῦ, ἐξερημώσει τὰς πηγὰς αὐτοῦ· αὐτὸς καταξηρανεῖ τὴν γῆν αὐτοῦ καὶ πάντα τὰ σκεύη τὰ ἐπιθυμητὰ αὐτοῦ.
+
+**ELL** Αν και ούτος εστάθη καρποφόρος μεταξύ των αδελφών αυτού, ανατολικός άνεμος όμως θέλει ελθεί, ο άνεμος του Κυρίου θέλει αναβή από της ερήμου, και αι βρύσεις αυτού θέλουσιν εκλείψει και θέλει καταξηρανθή η πηγή αυτού· ούτος θέλει αφαρπάσει τον θησαυρόν πάντων των επιθυμητών αυτού σκευών.
+
+**KJV** Though he be fruitful among his brethren, an east wind shall come, the wind of the Lord shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.
+
+## 16
+
+**GRC** ἀφανισθήσεται Σαμάρεια, ὅτι ἀντέστη πρὸς τὸν θεὸν αὐτῆς· ἐν ῥομφαίᾳ πεσοῦνται αὐτοί, καὶ τὰ ὑποτίτθια αὐτῶν ἐδαφισθήσονται, καὶ αἱ ἐν γαστρὶ ἔχουσαι αὐτῶν διαρραγήσονται.
+
+**ELL** Η Σαμάρεια θέλει αφανισθή, διότι απεστάτησε κατά του Θεού αυτής· θέλουσι πέσει εν ρομφαία· τα θηλάζοντα νήπια αυτών θέλουσι συντριφθή, και αι εγκυμονούσαι αυτών θέλουσι διασχισθή.
+
+**KJV** Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.
+
+## Notes
+

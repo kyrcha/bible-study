@@ -9,11 +9,14 @@
   "use strict";
 
   const COLS = [
-    { tag: "GRC", label: "Αρχαία Ελληνικά", sub: "Robinson‑Pierpont 2018" },
-    { tag: "ELL", label: "Νέα Ελληνικά", sub: "Βάμβας 1850" },
-    { tag: "KJV", label: "King James Version", sub: "1769" },
+    { tag: "GRC", label: "Αρχαία Ελληνικά" },
+    { tag: "ELL", label: "Νέα Ελληνικά" },
+    { tag: "KJV", label: "English" },
   ];
-  const ROOT = "new-testament";
+  const TESTAMENTS = [
+    { root: "old-testament", title: "Παλαιά Διαθήκη", en: "Old Testament" },
+    { root: "new-testament", title: "Καινή Διαθήκη", en: "New Testament" },
+  ];
   const POLL_MS = 60_000;
 
   const $ = (sel) => document.querySelector(sel);
@@ -224,12 +227,19 @@
     setInterval(poll, POLL_MS);
 
     try {
-      books = JSON.parse((await loadFile(`${ROOT}/books.json`)).text).books;
+      const lists = await Promise.all(TESTAMENTS.map(async (t) => {
+        const data = JSON.parse((await loadFile(`${t.root}/books.json`)).text);
+        t.sources = data.sources || {};
+        return data.books.map((b) => ({ ...b, testament: t }));
+      }));
+      books = lists.flat();
     } catch (e) {
       setStatus("Could not load the book list: " + e.message, "error");
       return;
     }
-    $("#bookSelect").innerHTML = books.map((b) => `<option value="${b.slug}">${esc(b.greek)} · ${esc(b.name)}</option>`).join("");
+    $("#bookSelect").innerHTML = TESTAMENTS.map((t) => `<optgroup label="${t.title} · ${t.en}">${
+      books.filter((b) => b.testament === t).map((b) => `<option value="${b.slug}">${esc(b.greek)} · ${esc(b.name)}</option>`).join("")
+    }</optgroup>`).join("");
     route();
   }
 
@@ -257,7 +267,7 @@
     else renderChapter();
   }
 
-  function chapterPath(book, ch) { return `${ROOT}/${book.folder}/chapter-${String(ch).padStart(2, "0")}.md`; }
+  function chapterPath(book, ch) { return `${book.testament.root}/${book.folder}/chapter-${String(ch).padStart(book.pad || 2, "0")}.md`; }
 
   async function loadChapter() {
     state.path = chapterPath(state.book, state.chapter);
@@ -295,12 +305,14 @@
     $("#chapterSelect").innerHTML = "";
     view.innerHTML = `
       <div class="home">
-        <h1>Καινή Διαθήκη · New Testament</h1>
-        <p class="muted">Ancient Greek (Robinson‑Pierpont 2018), Modern Greek (Vamvas 1850) and the King James Version, verse by verse.
+        <h1>Αγία Γραφή · Holy Bible</h1>
+        <p class="muted">Ancient Greek (Septuagint and Robinson‑Pierpont), Modern Greek (Vamvas 1850) and the King James Version, verse by verse.
         Every chapter is a markdown file in the repository — edit it on GitHub or right here.</p>
-        <div class="book-grid">
-          ${books.map((b) => `<a class="book-card" href="#/${b.slug}/1"><span class="gr">${esc(b.greek)}</span><span class="en">${esc(b.name)} · ${b.chapters} ch.</span></a>`).join("")}
-        </div>
+        ${TESTAMENTS.map((t) => `
+          <h2 class="testament">${t.title} <span class="muted">· ${t.en}</span></h2>
+          <div class="book-grid">
+            ${books.filter((b) => b.testament === t).map((b) => `<a class="book-card" href="#/${b.slug}/1"><span class="gr">${esc(b.greek)}</span><span class="en">${esc(b.name)} · ${b.chapters} ch.</span></a>`).join("")}
+          </div>`).join("")}
       </div>`;
   }
 
@@ -320,7 +332,7 @@
           <button type="button" id="rawBtn" ${canEdit ? "" : "disabled title='Connect GitHub (⚙) to edit here'"}>Edit markdown</button>
         </div>
       </div>
-      <div class="colheads"><span></span>${cols.map((c) => `<span>${c.label} <span class="muted">· ${c.sub}</span></span>`).join("")}<span></span></div>
+      <div class="colheads"><span></span>${cols.map((c) => `<span>${c.label} <span class="muted">· ${esc(state.book.testament.sources[c.tag] || "")}</span></span>`).join("")}<span></span></div>
       <div id="verses">
         ${ch.verses.map((v) => verseRow(v, cols, canEdit)).join("")}
       </div>

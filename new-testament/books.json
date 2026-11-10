@@ -1,5 +1,10 @@
 {
-  "testament": "New Testament",
+  "testament": "New Testament · Καινή Διαθήκη",
+  "sources": {
+    "GRC": "Robinson-Pierpont 2018",
+    "ELL": "Vamvas 1850",
+    "KJV": "King James Version 1769"
+  },
   "books": [
     {
       "slug": "matthew",

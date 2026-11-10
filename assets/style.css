@@ -73,6 +73,7 @@ main { max-width: 1280px; margin: 0 auto; padding: 16px; }
 
 /* Home */
 .home h1 { font-family: var(--serif); font-size: 2rem; margin: 8px 0 4px; }
+.home h2.testament { font-family: var(--serif); font-size: 1.4rem; margin: 28px 0 0; }
 .book-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; margin-top: 16px; }
 .book-card {
   display: block; padding: 12px 14px; border: 1px solid var(--border); border-radius: 8px;
@@ -135,3 +136,5 @@ dialog input { padding: 7px 9px; border: 1px solid var(--border); border-radius:
 }
 .notes blockquote, .extra blockquote { margin: 6px 0; padding-left: 10px; border-left: 3px solid var(--border); color: var(--muted); }
 code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .9em; background: var(--accent-soft); padding: 0 3px; border-radius: 3px; }
+.nav { min-width: 0; max-width: 100%; }
+.nav select { max-width: 100%; text-overflow: ellipsis; }

@@ -1,0 +1,245 @@
+# 1 Chronicles 15 · Παραλειπομένων Α΄ 15
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Καὶ ἐποίησεν αὐτῷ οἰκίας ἐν πόλει Δαυείδ, καὶ ἡτοίμασεν τὸν τόπον τῇ κιβωτῷ τοῦ θεοῦ καὶ ἐποίησεν αὐτῇ σκηνήν.
+
+**ELL** Και ο Δαβίδ έκαμεν εις εαυτόν οικίας εν τη πόλει Δαβίδ, και ητοίμασε τόπον διά την κιβωτόν του Θεού και έστησε σκηνήν δι' αυτήν.
+
+**KJV** And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.
+
+## 2
+
+**GRC** τότε εἶπεν Δαυείδ Οὐκ ἔστιν ἆραι τὴν κιβωτὸν τοῦ θεοῦ ἀλλ᾽ ἢ τοὺς Λευείτας, ὅτι αὐτοὺς ἐξελέξατο Κύριος καὶ λειτουργεῖν αὐτῷ ἕως αἰῶνος.
+
+**ELL** Τότε είπεν ο Δαβίδ, Δεν πρέπει να σηκώσωσι την κιβωτόν του Θεού ειμή οι Λευΐται διότι αυτούς εξέλεξεν ο Κύριος διά να σηκόνωσι την κιβωτόν του Θεού και να λειτουργώσιν εν αυτή διαπαντός.
+
+**KJV** Then David said, None ought to carry the ark of God but the Levites: for them hath the Lord chosen to carry the ark of God, and to minister unto him for ever.
+
+## 3
+
+**GRC** καὶ ἐξεκλησίασεν Δαυεὶδ τὸν πάντα Ἰσραὴλ εἰς Ἰερουσαλὴμ τοῦ ἀνενέγκαι τὴν κιβωτὸν Κυρίου εἰς τὸν τόπον ὃν ἡτοίμασεν αὐτῇ.
+
+**ELL** Και συνήθροισεν ο Δαβίδ πάντα τον Ισραήλ εις την Ιερουσαλήμ, διά να αναβιβάσωσι την κιβωτόν του Κυρίου εις τον τόπον αυτής, τον οποίον ητοίμασε δι' αυτήν.
+
+**KJV** And David gathered all Israel together to Jerusalem, to bring up the ark of the Lord unto his place, which he had prepared for it.
+
+## 4
+
+**GRC** καὶ συνήγαγεν Δαυεὶδ τοὺς υἱοὺς Ἀαρὼν τοὺς Λευείτας.
+
+**ELL** Και συνήθροισεν ο Δαβίδ τους υιούς του Ααρών και τους Λευΐτας·
+
+**KJV** And David assembled the children of Aaron, and the Levites:
+
+## 5
+
+**GRC** τῶν υἱῶν Καάθ, Οὐριὴλ ὁ ἄρχων καὶ οἱ ἀδελφοὶ αὐτοῦ ἑκατὸν δέκα·
+
+**ELL** εκ των υιών Καάθ, Ουριήλ τον αρχηγόν και τους αδελφούς αυτού, εκατόν είκοσι·
+
+**KJV** Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:
+
+## 6
+
+**GRC** τῶν υἱῶν Μερραρεί, Ἀσαὶ ὁ ἄρχων καὶ οἱ ἀδελφοὶ αὐτοῦ διακόσιοι πεντήκοντα·
+
+**ELL** εκ των υιών Μεραρί, Ασαΐαν τον αρχηγόν και τους αδελφούς αυτού, διακοσίους είκοσι·
+
+**KJV** Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:
+
+## 7
+
+**GRC** τῶν υἱῶν Γηρσάμ, Ἰωὴλ ὁ ἄρχων καὶ οἱ ἀδελφοὶ αὐτοῦ ἑκατὸν πεντήκοντα·
+
+**ELL** εκ των υιών Γηρσώμ, Ιωήλ τον αρχηγόν και τους αδελφούς αυτού, εκατόν τριάκοντα·
+
+**KJV** Of the sons of Gershom; Joel the chief, and his brethren an hundred and thirty:
+
+## 8
+
+**GRC** τῶν υἱῶν Ἐλεισαφάτ, Σαμαίας ὁ ἄρχων καὶ οἱ ἀδελφοὶ αὐτοῦ διακόσιοι·
+
+**ELL** εκ των υιών Ελισαφάν, Σεμαΐαν τον αρχηγόν και τους αδελφούς αυτού, διακοσίους·
+
+**KJV** Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:
+
+## 9
+
+**GRC** τῶν υἱῶν Χεβρών, Ἐνὴρ ὁ ἄρχων καὶ οἱ ἀδελφοὶ αὐτῶν ὀγδοήκοντα·
+
+**ELL** εκ των υιών Χεβρών, Ελιήλ τον αρχηγόν και τους αδελφούς αυτού, ογδοήκοντα·
+
+**KJV** Of the sons of Hebron; Eliel the chief, and his brethren fourscore:
+
+## 10
+
+**GRC** τῶν υἱῶν Ὀζειήλ, Ἀμειναδὰβ ὁ ἄρχων καὶ οἱ ἀδελφοὶ αὐτοῦ ἑκατὸν δέκα δύο.
+
+**ELL** εκ των υιών Οζιήλ, Αμμιναδάβ τον αρχηγόν και τους αδελφούς αυτού, εκατόν δώδεκα.
+
+**KJV** Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve.
+
+## 11
+
+**GRC** Καὶ ἐκάλεσεν Δαυεὶδ τὸν Σαδὼκ καὶ Ἀβιαθὰρ τοὺς ἱερεῖς καὶ τοὺς Λευείτας, τὸν Ἀριὴλ, Ἀσαιά, Ἰωήλ, Σαμαίαν, Ἐνήλ, Ἀμειναδάβ,
+
+**ELL** Και εκάλεσεν ο Δαβίδ τον Σαδώκ και τον Αβιάθαρ, τους ιερείς, και τους Λευΐτας Ουριήλ, Ασαΐαν, και Ιωήλ, Σεμαΐαν και Ελιήλ και Αμμιναδάβ,
+
+**KJV** And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,
+
+## 12
+
+**GRC** καὶ εἶπεν αὐτοῖς Ὑμεῖς ἄρχοντες πατριῶν τῶν Λευειτῶν· ἁγνίσθητε ὑμεῖς καὶ οἱ ἀδελφοὶ ὑμῶν, καὶ ἀνοίσετε τὴν κιβωτὸν τοῦ θεοῦ Ἰσραὴλ οὗ ἡτοίμασα αὐτῇ.
+
+**ELL** και είπε προς αυτούς, σεις οι άρχοντες των πατριών των Λευϊτών, αγιάσθητε σεις και οι αδελφοί σας, και αναβιβάσατε την κιβωτόν Κυρίου του Θεού του Ισραήλ εις τον τόπον τον οποίον ητοίμασα δι' αυτήν·
+
+**KJV** And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the Lord God of Israel unto the place that I have prepared for it.
+
+## 13
+
+**GRC** ὅτι οὐκ ἐν τῷ πρότερον ὑμᾶς εἶναι διέκοψεν ὁ θεὸς ἡμῶν ἐν ἡμῖν, ὅτι οὐκ ἐζητήσαμεν ἐν κρίματι.
+
+**ELL** διότι, επειδή σεις δεν εκάμετε τούτο την αρχήν, Κύριος ο Θεός ημών έκαμε χαλασμόν εν ημίν, καθότι δεν εζητήσαμεν αυτόν κατά το διατεταγμένον.
+
+**KJV** For because ye did it not at the first, the Lord our God made a breach upon us, for that we sought him not after the due order.
+
+## 14
+
+**GRC** καὶ ἡγνίσθησαν οἱ ἱερεῖς καὶ οἱ Λευεῖται τοῦ ἀνενέγκαι τὴν κιβωτὸν θεοῦ Ἰσραήλ.
+
+**ELL** Οι ιερείς λοιπόν και οι Λευΐται ηγιάσθησαν, διά να αναβιβάσωσι την κιβωτόν Κυρίου του Θεού του Ισραήλ.
+
+**KJV** So the priests and the Levites sanctified themselves to bring up the ark of the Lord God of Israel.
+
+## 15
+
+**GRC** καὶ ἔλαβον οἱ υἱοὶ τῶν Λευειτῶν τὴν κιβωτὸν τοῦ θεοῦ, ὡς ἐνετείλατο Μωυσῆς ἐν λόγῳ θεοῦ κατὰ τὴν γραφήν, ἐν ἀναφορεῦσιν ἐπ᾽ αὐτούς·
+
+**ELL** Και εσήκωσαν οι υιοί των Λευϊτών την κιβωτόν του Θεού επί ώμων με τους μοχλούς εφ' εαυτών, καθώς προσέταξεν ο Μωϋσής κατά τον λόγον του Κυρίου.
+
+**KJV** And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the Lord.
+
+## 16
+
+**GRC** καὶ εἶπεν Δαυεὶδ τοῖς ἄρχουσιν τῶν Λευειτῶν Στήσατε τοὺς ἀδελφοὺς αὐτῶν τοὺς ψαλτῳδοὺς ἐν ὀργάνοις, νάβλαις, κινύραις καὶ κυμβάλοις, τοῦ φωνῆσαι εἰς ὕψος ἐν φωνῇ εὐφροσύνης.
+
+**ELL** Και είπεν ο Δαβίδ προς τους αρχηγούς των Λευϊτών να στήσωσι τους αδελφούς αυτών τους ψαλτωδούς με όργανα μουσικά, ψαλτήρια και κιθάρας και κύμβαλα, διά να ηχώσιν υψόνοντες φωνήν εν ευφροσύνη.
+
+**KJV** And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.
+
+## 17
+
+**GRC** καὶ ἔστησαν οἱ Λευεῖται τὸν Αἱμὰν υἱὸν Ἰωήλ· ἐκ τῶν ἀδελφῶν αὐτοῦ Ἀσὰφ υἱὸς Βαραχιά, καὶ ἐκ τῶν υἱῶν Μερραεὶ ἀδελφῶν αὐτοῦ Αἰθὰν υἱὸς Κεισαιού.
+
+**ELL** Και έστησαν οι Λευΐται τον Αιμάν υιόν του Ιωήλ· και εκ των αδελφών αυτού, τον Ασάφ υιόν του Βαραχίου· και εκ των υιών Μεραρί των αδελφών αυτών, τον Εθάν υιόν του Κεισαΐα·
+
+**KJV** So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;
+
+## 18
+
+**GRC** καὶ μετ᾽ αὐτῶν ἀδελφοὶ αὐτῶν οἱ δεύτεροι, Ζαχαρίας καὶ Ὀζειὴλ καὶ Σεμειραμὼθ καὶ Ἰειὴλ καὶ Ἐλιωὴλ καὶ Ἐλιαβὰ καὶ Βαναιὰ καὶ Μαασσαιὰ καὶ Ἰματταθιὰ καὶ Ἐλειφενὰ καὶ Μακελλειὰ καὶ Ἀβαεδὸμ καὶ Ἰεειὴλ καὶ Ὀζείας, οἱ πυλωροί.
+
+**ELL** και μετ' αυτών, τους δευτερεύοντας αδελφούς αυτών, Ζαχαρίαν, Βεν και Ιααζιήλ και Σεμιραμώθ και Ιεχιήλ και Ουννί, Ελιάβ και Βεναΐαν και Μαασίαν και Ματταθίαν και Ελιφελεού και Μικνεΐαν και Ωβήδ-εδώμ και Ιεϊήλ, τους πυλωρούς.
+
+**KJV** And with them their brethren of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obed–edom, and Jeiel, the porters.
+
+## 19
+
+**GRC** καὶ οἱ ψαλτῳδοί· Αἱμάν, Ἀσὰφ καὶ Αἰθὰν ἐν κυμβάλοις χαλκοῖς τοῦ ἀκουσθῆναι ποιῆσαι·
+
+**ELL** Ούτως οι ψαλτωδοί, Αιμάν, Ασάφ και Εθάν, διωρίσθησαν διά να ηχώσι με κύμβαλα χάλκινα·
+
+**KJV** So the singers, Heman, Asaph, and Ethan, were appointed to sound with cymbals of brass;
+
+## 20
+
+**GRC** Ζαχαρίας καὶ Ὀζειήλ, Σαμειραμώθ, Εἰθήλ, Ὠνεί, Ἐλιάβ, Μασσαίας, Βαναίας ἐν νάβλαις ἐπὶ ἀλαιμώθ·
+
+**ELL** ο δε Ζαχαρίας και Αζιήλ και Σεμιραμώθ και Ιεχιήλ και Ουννί και Ελιάβ και Μαασίας και Βεναΐας, με ψαλτήρια επί Αλαμώθ·
+
+**KJV** And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;
+
+## 21
+
+**GRC** καὶ Μετταθίας καὶ Ἐνφαναίας, Μακενιὰ καὶ Ἀβδεδὸμ καὶ Ἰειὴλ καὶ Ὀζείας ἐν κινύραις ἁμασενεὶθ τοῦ ἰσχῦσαι·
+
+**ELL** και ο Ματταθίας και Ελιφελεού και Μικνεΐας και Ωβήδ-εδώμ και Ιεϊήλ και Αζαζίας, με κιθάρας επί Σεμινίθ, διά να ενισχύσωσι τον τόνον.
+
+**KJV** And Mattithiah, and Elipheleh, and Mikneiah, and Obed–edom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.
+
+## 22
+
+**GRC** καὶ Κωνενιὰ ἄρχων τῶν Λευειτῶν ἄρχων τῶν ᾠδῶν, ὅτι συνετὸς ἦν.
+
+**ELL** Και ο Χενανίας ήτο πρωταοιδός των Λευϊτών, προεδρεύων εις το άδειν, επειδή ήτο συνετός.
+
+**KJV** And Chenaniah, chief of the Levites, was for song: he instructed about the song, because he was skilful.
+
+## 23
+
+**GRC** καὶ Βαραχιὰ καὶ Ἠλκανὰ πυλωροὶ τῆς κιβωτοῦ.
+
+**ELL** Ο δε Βαραχίας και Ελκανά ήσαν πυλωροί της κιβωτού.
+
+**KJV** And Berechiah and Elkanah were doorkeepers for the ark.
+
+## 24
+
+**GRC** καὶ Σομνιὰ καὶ Ἰωσαφὰτ καὶ Ναθαναὴλ καὶ Ἀμασαὶ καὶ Ζαχαριὰ καὶ Βαναὶ καὶ Ἐλιέζερ οἱ ἱερεῖς, σαλπίζοντες ταῖς σὰλπιγξιν ἔμπροσθεν τῆς κιβωτοῦ τοῦ θεοῦ. καὶ Ἀβδεδὸμ καὶ Ἰειά, πυλωροὶ τῆς κιβωτοῦ τοῦ θεοῦ.
+
+**ELL** Και ο Σεβανίας και Ιωσαφάτ και Ναθαναήλ και Αμασαΐ και Ζαχαρίας και Βεναΐας και Ελιέζερ, οι ιερείς, εσάλπιζον με τας σάλπιγγας έμπροσθεν της κιβωτού του Θεού· ο δε Ωβήδ-εδώμ και Ιεχιά ήσαν πυλωροί της κιβωτού.
+
+**KJV** And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obed–edom and Jehiah were doorkeepers for the ark.
+
+## 25
+
+**GRC** Καὶ ἦν Δαυεὶδ καὶ πρεσβύτεροι Ἰσραὴλ καὶ οἱ χιλίαρχοι οἱ πορευόμενοι τοῦ ἀναγαγεῖν τὴν κιβωτὸν τῆς διαθήκης ἐξ οἴκου Ἀβδοδὸμ ἐν εὐφροσύνῃ.
+
+**ELL** Και υπήγαν ο Δαβίδ και οι πρεσβύτεροι του Ισραήλ και οι χιλίαρχοι να αναβιβάσωσι την κιβωτόν της διαθήκης του Κυρίου εκ του οίκου του Ωβήδ-εδώμ εν ευφροσύνη.
+
+**KJV** So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the Lord out of the house of Obed–edom with joy.
+
+## 26
+
+**GRC** καὶ ἐγένετο ἐν τῷ κατισχῦσαι τὸν θεὸν τοὺς Λευείτας αἴροντας τὴν κιβωτὸν τῆς διαθήκης Κυρίου, καὶ ἔθυσαν ἀν᾽ ἑπτὰ μόσχους καὶ ἀν᾽ ἑπτὰ κριούς.
+
+**ELL** Και ότε ο Θεός ενίσχυε τους Λευΐτας τους βαστάζοντας την κιβωτόν της διαθήκης του Κυρίου, εθυσίαζον επτά μόσχους και επτά κριούς.
+
+**KJV** And it came to pass, when God helped the Levites that bare the ark of the covenant of the Lord, that they offered seven bullocks and seven rams.
+
+## 27
+
+**GRC** καὶ Δαυεὶδ περιεζωσμένος ἐν στολῇ βυσσίνῃ, καὶ πάντες οἱ Λευεῖται αἴροντες τὴν κιβωτὸν διαθήκης Κυρίου καὶ οἱ ψαλτῳδοί, Ἰεχονίας ὁ ἄρχων τῶν ᾠδῶν τῶν ᾀδόντων· καὶ ἐπὶ Δαυεὶδ στολὴ βυσσίνη.
+
+**ELL** Και ο Δαβίδ ήτο ενδεδυμένος στολήν βυσσίνην, και πάντες οι Λευΐται οι βαστάζοντες την κιβωτόν και οι ψαλτωδοί και ο Χενανίας ο πρωταοιδός των ψαλτωδών· και εφόρει ο Δαβίδ εφόδ λινούν.
+
+**KJV** And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen.
+
+## 28
+
+**GRC** καὶ πᾶς Ἰσραὴλ ἀνάγοντες τὴν κιβωτὸν διαθήκης Κυρίου ἐν σημασίᾳ καὶ ἐν φωνῇ σωφὲρ καὶ ἐν σάλπιγξιν καὶ ἐν κυμβάλοις, ἀναφωνοῦντες νάβλαις καὶ ἐν κινύραις.
+
+**ELL** Ούτω πας ο Ισραήλ ανεβίβαζε την κιβωτόν της διαθήκης του Κυρίου εν αλαλαγμώ και εν φωνή κερατίνης και εν σάλπιγξι και εν κυμβάλοις, ηχούντες εν ψαλτηρίοις και εν κιθάραις.
+
+**KJV** Thus all Israel brought up the ark of the covenant of the Lord with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps.
+
+## 29
+
+**GRC** καὶ ἐγένετο κιβωτὸς διαθήκης Κυρίου καὶ ἦλθεν ἕως πόλεως Δαυείδ· καὶ Μελχὸλ θυγάτηρ Σαοὺλ παρέκυψεν διὰ τῆς θυρίδος, καὶ εἶδεν τὸν βασιλέα Δαυεὶδ ὀρχούμενον καὶ παίζοντα, καὶ ἐξουδένωσεν αὐτὸν ἐν τῇ ψυχῇ αὐτῆς.
+
+**ELL** Και ενώ η κιβωτός της διαθήκης του Κυρίου εισήρχετο εις την πόλιν Δαβίδ, Μιχάλ, η θυγάτηρ του Σαούλ, έκυψε διά της θυρίδος και ιδούσα τον βασιλέα Δαβίδ χορεύοντα και παίζοντα, εξουδένωσεν αυτόν εν τη καρδία αυτής.
+
+**KJV** And it came to pass, as the ark of the covenant of the Lord came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.
+
+## Notes
+

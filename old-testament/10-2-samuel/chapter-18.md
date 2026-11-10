@@ -1,0 +1,277 @@
+# 2 Samuel 18 · Βασιλειών Β΄ 18
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Καὶ ἐπεσκέψατο Δαυεὶδ τὸν λαὸν τὸν μετ᾽ αὐτοῦ, καὶ κατέστησεν ἐπ᾽ αὐτῶν χιλιάρχους καὶ ἑκατοντάρχους.
+
+**ELL** Και απηρίθμησεν ο Δαβίδ τον λαόν τον μετ' αυτού, και κατέστησεν επ' αυτούς χιλιάρχους και εκατοντάρχους.
+
+**KJV** And David numbered the people that were with him, and set captains of thousands and captains of hundreds over them.
+
+## 2
+
+**GRC** καὶ ἀπέστειλεν Δαυεὶδ τὸν λαὸν τὸ τρίτον ἐν χειρὶ Ἰωάβ, καὶ τὸ τρίτον ἐν χειρὶ Ἀβεισὰ υἱοῦ Σαρουίας ἀδελφοῦ Ἰωάβ, καὶ τὸ τρίτον ἐν χειρὶ Ἐθθεὶ τοῦ Γεθθαίου· καὶ εἶπεν Δαυεὶδ πρὸς τὸν λαόν Ἐξελθὼν ἐξελεύσομαι καί γε ἐγὼ μεθ᾽ ὑμῶν.
+
+**ELL** Και απέστειλεν ο Δαβίδ τον λαόν, εν τρίτον υπό την χείρα του Ιωάβ, και εν τρίτον υπό την χείρα του Αβισαί, υιού της Σερουΐας, αδελφού του Ιωάβ, και εν τρίτον υπό την χείρα Ιτταΐ του Γετθαίου. Και είπεν ο βασιλεύς προς τον λαόν, Θέλω βεβαίως εξέλθει και εγώ μεθ' υμών.
+
+**KJV** And David sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai the Gittite. And the king said unto the people, I will surely go forth with you myself also.
+
+## 3
+
+**GRC** καὶ εἶπαν Οὐκ ἐξελεύσῃ, ὅτι ἐὰν φυγῇ φύγωμεν, οὐ θήσουσιν ἐφ᾽ ἡμᾶς καρδίαν, καὶ ἐὰν ἀποθάνωμεν τὸ ἥμισυ ἡμῶν, οὐ θήσουσιν ἐφ᾽ ἡμᾶς καρδίαν, ὅτι σὺ ὡς ἡμεῖς δέκα χιλιάδες· καὶ νῦν ἀγαθὸν ὅτι ἔσῃ ἡμῖν ἐν τῇ πόλει βοήθεια τοῦ βοηθεῖν.
+
+**ELL** Ο λαός όμως απεκρίθη, Δεν θέλεις εξέλθει διότι, εάν τραπώμεν εις φυγήν, δεν μέλει αυτούς περί ημών· ουδέ εάν το ήμισυ εξ ημών αποθάνη, δεν μέλει αυτούς περί ημών· επειδή τώρα συ είσαι ως ημείς δέκα χιλιάδες· όθεν τώρα είναι καλήτερον να ήσαι βοηθός ημών εκ της πόλεως.
+
+**KJV** But the people answered, Thou shalt not go forth: for if we flee away, they will not care for us; neither if half of us die, will they care for us: but now thou art worth ten thousand of us: therefore now it is better that thou succour us out of the city.
+
+## 4
+
+**GRC** καὶ εἶπεν πρὸς αὐτοὺς ὁ βασιλεύς Ὃ ἐὰν ἀρέσῃ ἐν ὀφθαλμοῖς ὑμῶν ποιήσω· καὶ ἔστη ὁ βασιλεὺς ἀνὰ χεῖρα τῆς πύλης, καὶ πᾶς ὁ λαὸς ἐξεπορεύετο εἰς ἑκατοντάδας καὶ εἰς χιλιάδας.
+
+**ELL** Και είπε προς αυτούς ο βασιλεύς, ό,τι σας φαίνεται καλόν, θέλω κάμει. Και εστάθη ο βασιλεύς εις το πλάγιον της πύλης· και πας ο λαός εξήρχετο κατά εκατοντάδας και κατά χιλιάδας.
+
+**KJV** And the king said unto them, What seemeth you best I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands.
+
+## 5
+
+**GRC** καὶ ἐνετείλατο ὁ βασιλεὺς τῷ Ἰωὰβ καὶ τῷ Ἀβεισὰ καὶ τῷ Ἐθθεὶ λέγων Φείσασθέ μου τοῦ παιδαρίου τοῦ Ἀβεσσαλώμ· καὶ πᾶς ὁ λαὸς ἤκουσεν ἐντελλομένου τοῦ βασιλέως πᾶσιν τοῖς ἄρχουσιν ὑπὲρ Ἀβεσσαλώμ.
+
+**ELL** Και προσέταξεν ο βασιλεύς εις τον Ιωάβ και εις τον Αβισαί και εις τον Ιτταΐ, λέγων, Σώσατέ μοι τον νέον, τον Αβεσσαλώμ. Και πας ο λαός ήκουσεν, ενώ ο βασιλεύς προσέταττεν εις πάντας τους άρχοντας υπέρ του Αβεσσαλώμ.
+
+**KJV** And the king commanded Joab and Abishai and Ittai, saying, Deal gently for my sake with the young man, even with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom.
+
+## 6
+
+**GRC** καὶ ἐξῆλθεν πᾶς ὁ λαὸς εἰς τὸν δρυμὸν ἐξ ἐναντίας Ἰσραήλ· καὶ ἐγένετο ὁ πόλεμος ἐν τῷ δρυμῷ Ἐφράιμ.
+
+**ELL** Εξήλθε λοιπόν ο λαός εις το πεδίον εναντίον του Ισραήλ· και η μάχη έγεινεν εν τω δάσει Εφραΐμ.
+
+**KJV** So the people went out into the field against Israel: and the battle was in the wood of Ephraim;
+
+## 7
+
+**GRC** καὶ ἔπταισεν ἐκεῖ ὁ λαὸς Ἰσραὴλ ἐνώπιον τῶν παίδων Δαυείδ, καὶ ἐγένετο ἡ θραῦσις μεγάλη ἐν τῇ ἡμέρᾳ ἐκείνῃ, εἴκοσι χιλιάδες ἀνδρῶν.
+
+**ELL** Και κατετροπώθη εκεί ο λαός Ισραήλ υπό των δούλων του Δαβίδ· και έγεινεν εκεί την ημέραν εκείνην θραύσις μεγάλη, είκοσι χιλιάδων.
+
+**KJV** Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand men.
+
+## 8
+
+**GRC** καὶ ἐγένετο ἐκεῖ ὁ πόλεμος διεσπαρμένος ἐπὶ πρόσωπον πάσης τῆς γῆς· καὶ ἐπλεόνασεν ὁ δρυμὸς τοῦ καταφαγεῖν ἐκ τοῦ λαοῦ ὑπὲρ οὓς κατέφαγεν ἐν τῷ λαῷ ἡ μάχαιρα ἐν τῇ ἡμέρᾳ ἐκείνῃ.
+
+**ELL** διότι η μάχη έγεινεν εκεί διεσπαρμένη επί το πρόσωπον όλου του τόπου· και το δάσος κατέφαγε πλειότερον λαόν, παρ' όσον κατέφαγεν η μάχαιρα, την ημέραν εκείνην.
+
+**KJV** For the battle was there scattered over the face of all the country: and the wood devoured more people that day than the sword devoured.
+
+## 9
+
+**GRC** καὶ συνήντησεν Ἀβεσσαλὼμ ἐνώπιον τῶν παίδων Δαυείδ· καὶ Ἀβεσσαλὼμ ἐπιβεβηκὼς ἐπὶ τοῦ ἡμιόνου αὐτοῦ, καὶ εἰσῆλθεν ὁ ἡμίονος ὑπὸ τὸ δάσος τῆς δρυὸς τῆς μεγάλης, καὶ ἐκρεμάσθη ἡ κεφαλὴ αὐτοῦ ἐν τῇ δρυί· καὶ ἐκρεμάσθη ἀνὰ μέσον τοῦ οὐρανοῦ καὶ ἀνὰ μέσον τῆς γῆς, καὶ ὁ ἡμίονος ὑποκάτω αὐτοῦ παρῆλθεν.
+
+**ELL** Και συνήντησεν ο Αβεσσαλώμ τους δούλους του Δαβίδ. Και εκάθητο ο Αβεσσαλώμ επί ημιόνου, και εισήλθεν ο ημίονος υπό τους πυκνούς κλάδους μεγάλης δρυός, και επιάσθη η κεφαλή αυτού εις την δρυν, και εκρεμάσθη αναμέσον του ουρανού και της γής· ο δε ημίονος ο υποκάτω αυτού διεπέρασεν.
+
+**KJV** And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away.
+
+## 10
+
+**GRC** καὶ εἶδεν ἀνὴρ εἷς καὶ ἀνήγγειλεν Ἰωὰβ καὶ εἶπεν Ἰδοὺ ἑόρακα τὸν Ἀβεσσαλὼμ κρεμάμενον ἐν τῇ δρυί.
+
+**ELL** Ιδών δε ανήρ τις, απήγγειλε προς τον Ιωάβ, και είπεν, Ιδού, είδον τον Αβεσσαλώμ κρεμάμενον εις δρυν.
+
+**KJV** And a certain man saw it, and told Joab, and said, Behold, I saw Absalom hanged in an oak.
+
+## 11
+
+**GRC** καὶ εἶπεν Ἰωὰβ τῷ ἀνδρὶ τῷ ἀναγγέλλοντι Καὶ ἰδοὺ ἑόρακας· τί ὅτι οὐκ ἐπάταξας αὐτὸν εἰς τὴν γῆν; καὶ ἐγὼ ἂν δεδώκειν σοι δέκα ἀργυρίου καὶ παραζώνην μίαν.
+
+**ELL** Και είπεν ο Ιωάβ προς τον άνδρα, τον απαγγείλαντα προς αυτόν, Και ιδού, είδες, και διά τι πατάξας δεν κατέβαλες αυτόν εκεί εις την γην; βεβαίως ήθελον σοι δώσει δέκα σίκλους αργυρίου και μίαν ζώνην.
+
+**KJV** And Joab said unto the man that told him, And, behold, thou sawest him, and why didst thou not smite him there to the ground? and I would have given thee ten shekels of silver, and a girdle.
+
+## 12
+
+**GRC** εἶπεν δὲ ὁ ἀνὴρ πρὸς Ἰωάβ Καὶ ἐγώ εἰμι ἵστημι ἐπὶ τὰς χεῖράς μου χιλίους σίκλους ἀργυρίου, οὐ μὴ ἐπιβάλω χεῖρά μου ἐπὶ τὸν υἱὸν τοῦ βασιλέως· ὅτι ἐν τοῖς ὠσὶν ἡμῶν ἐνετείλατο ὁ βασιλεὺς σοὶ καὶ Ἀβεισὰ καὶ τῷ Ἐθθεὶ λέγων Φυλάξατέ μοι τὸ παιδάριον τὸν Ἀβεσσαλώμ,
+
+**ELL** Ο δε ανήρ είπε προς τον Ιωάβ, Και χίλιοι σίκλοι αργυρίου αν ήθελον μετρηθή εις την παλάμην μου, δεν ήθελον βάλει την χείρα μου επί τον υιόν του βασιλέως· διότι εις επήκοον ημών προσέταξεν ο βασιλεύς εις σε και εις τον Αβισαί και εις τον Ιτταΐ, λέγων, Φυλάχθητε μη εγγίση μηδείς τον νέον, τον Αβεσσαλώμ·
+
+**KJV** And the man said unto Joab, Though I should receive a thousand shekels of silver in mine hand, yet would I not put forth mine hand against the king’s son: for in our hearing the king charged thee and Abishai and Ittai, saying, Beware that none touch the young man Absalom.
+
+## 13
+
+**GRC** μὴ ποιῆσαι ἐν τῇ ψυχῇ αὐτοῦ ἄδικον· καὶ πᾶς ὁ λόγος οὐ λήσεται ἀπὸ τοῦ βασιλέως, καὶ σὺ στήσῃ ἐξ ἐναντίας.
+
+**ELL** αλλά και εάν ήθελον πράξει δολίως εναντίον της ζωής μου, δεν κρύπτεται ουδέν από του βασιλέως· και συ ήθελες σταθή εναντίος.
+
+**KJV** Otherwise I should have wrought falsehood against mine own life: for there is no matter hid from the king, and thou thyself wouldest have set thyself against me.
+
+## 14
+
+**GRC** καὶ εἶπεν Ἰωάβ Τοῦτο ἐγὼ ἄρξομαι· οὐχ οὕτως μενῶ ἐνώπιόν σου. καὶ ἔλαβεν Ἰωὰβ τρία βέλη ἐν τῇ χειρὶ αὐτοῦ, καὶ ἐνέπηξαν αὐτὰ ἐν τῇ καρδίᾳ Ἀβεσσαλώμ, ἔτι αὐτοῦ ζῶντος ἐν τῇ καρδίᾳ τῆς δρύος.
+
+**ELL** Τότε είπεν ο Ιωάβ, Δεν πρέπει να χρονοτριβώ ούτω μετά σου. Και λαβών εις την χείρα αυτού τρία βέλη, διεπέρασεν αυτά διά της καρδίας του Αβεσσαλώμ, ενώ έτι έζη εν τω μέσω της δρυός.
+
+**KJV** Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak.
+
+## 15
+
+**GRC** καὶ ἐκύκλωσαν δέκα παιδάρια αἴροντα τὰ σκεύη Ἰωάβ, καὶ ἐπάταξαν τὸν Ἀβεσσαλὼμ καὶ ἐθανάτωσαν αὐτόν.
+
+**ELL** Και περικυκλώσαντες δέκα νέοι, οι βαστάζοντες τα όπλα του Ιωάβ, επάταξαν τον Αβεσσαλώμ και εθανάτωσαν αυτόν.
+
+**KJV** And ten young men that bare Joab’s armour compassed about and smote Absalom, and slew him.
+
+## 16
+
+**GRC** καὶ ἐσάλπισεν Ἰωὰβ ἐν κερατίνῃ, καὶ ἀπέστρεψεν ὁ λαὸς τοῦ μὴ διώκειν ὀπίσω Ἰσραήλ, ὅτι ἐφείδετο Ἰωὰβ τοῦ λαοῦ.
+
+**ELL** Και εσάλπισεν ο Ιωάβ διά της σάλπιγγος, και επέστρεψεν ο λαός από του να καταδιώκη οπίσω του Ισραήλ· διότι ανεχαίτισεν ο Ιωάβ τον λαόν.
+
+**KJV** And Joab blew the trumpet, and the people returned from pursuing after Israel: for Joab held back the people.
+
+## 17
+
+**GRC** καὶ ἔλαβεν τὸν Ἀβεσσαλὼμ καὶ ἔρριψεν αὐτὸν εἰς χάσμα μέγα ἐν τῷ δρυμῷ εἰς τὸν βόθυνον τὸν μέγαν, καὶ ἐστήλωσεν ἐπ᾽ αὐτὸν σωρὸν λίθων μέγαν σφόδρα· καὶ πᾶς Ἰσραὴλ ἔφυγεν ἀνὴρ εἰς τὸ σκήνωμα αὐτοῦ.
+
+**ELL** Και λαβόντες τον Αβεσσαλώμ, έρριψαν αυτόν εις λάκκον μέγαν εντός του δάσους· και έστησαν επ' αυτόν σωρόν λίθων μέγαν σφόδρα· και πας ο Ισραήλ έφυγεν έκαστος εις την σκηνήν αυτού.
+
+**KJV** And they took Absalom, and cast him into a great pit in the wood, and laid a very great heap of stones upon him: and all Israel fled every one to his tent.
+
+## 18
+
+**GRC** καὶ Ἀβεσσαλὼμ ἔτι ζῶν καὶ ἔστησεν ἑαυτῷ τὴν στήλην ἐν ᾗ ἐλήμφθη καὶ ἐστήλωσεν αὐτὴν λαβεῖν, τὴν στήλην τὴν ἐν τῇ κοιλάδι τοῦ βασιλέως, ὅτι εἶπεν οὐκ ἔστιν αὐτῷ υἱὸς ἕνεκεν τοῦ ἀναμνῆσαι τὸ ὄνομα αὐτοῦ· καὶ ἐκάλεσεν τὴν στήλην Χεὶρ Ἀβεσσαλὼμ ἕως τῆς ἡμέρας ταύτης.
+
+**ELL** Έτι δε ζων ο Αβεσσαλώμ είχε λάβει και στήσει δι' εαυτόν στήλην, την εν τη κοιλάδι του βασιλέως· διότι είπεν, Δεν έχω υιόν διά να διατηρή την μνήμην του ονόματός μου· και εκάλεσε την στήλην με το όνομα αυτού· και καλείται έως της ημέρας ταύτης Στήλη του Αβεσσαλώμ.
+
+**KJV** Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king’s dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom’s place.
+
+## 19
+
+**GRC** Καὶ Ἀχειμάας υἱὸς Σαδὼκ εἶπεν Δράμω δὴ καὶ εὐαγγελιῶ τῷ βασιλεῖ ὅτι ἔκρινεν Κύριος ἐκ χειρὸς τῶν ἐχθρῶν αὐτοῦ.
+
+**ELL** Τότε είπεν Αχιμάας ο υιός του Σαδώκ, Ας τρέξω τώρα και ας φέρω προς τον βασιλέα αγγελίας, ότι ο Κύριος εξεδίκησεν αυτόν εκ χειρός των εχθρών αυτού.
+
+**KJV** Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the Lord hath avenged him of his enemies.
+
+## 20
+
+**GRC** καὶ εἶπεν αὐτῷ Ἰωάβ Οὐκ ἀνὴρ εὐαγγελίας σὺ ἐν τῇ ἡμέρᾳ ταύτῃ, καὶ εὐαγγελιῇ ἐν ἡμέρᾳ ἄλλῃ· ἐν δὲ τῇ ἡμέρᾳ ταύτῃ οὐκ εὐαγγελιῇ, οὗ εἵνεκεν ὁ υἱὸς τοῦ βασιλέως ἀπέθανεν.
+
+**ELL** Και είπε προς αυτόν ο Ιωάβ, Δεν θέλεις είσθαι την ημέραν ταύτην αγγελιαφόρος, αλλ' εις άλλην ημέραν θέλεις φέρει αγγελίας· εις ταύτην δε την ημέραν δεν θέλεις φέρει αγγελίας, επειδή ο υιός του βασιλέως απέθανε.
+
+**KJV** And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bear tidings another day: but this day thou shalt bear no tidings, because the king’s son is dead.
+
+## 21
+
+**GRC** καὶ εἶπεν Ἰωὰβ τῷ Χουσεί Βαδίσας ἀνάγγειλον τῷ βασιλεῖ ὅσα εἶδες· καὶ προσεκύνησεν Χουσεὶ τῷ Ἰωὰβ καὶ ἐξῆλθεν.
+
+**ELL** Τότε είπεν ο Ιωάβ προς τον Χουσεί, Ύπαγε, απάγγειλον προς τον βασιλέα όσα είδες. Και ο Χουσεί προσεκύνησε τον Ιωάβ και έτρεξε.
+
+**KJV** Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran.
+
+## 22
+
+**GRC** καὶ προσέθετο ἔτι Ἀχειμάας υἱὸς Σαδὼκ καὶ εἶπεν πρὸς Ἰωάβ Καὶ ἔστω ὅτι δράμω καί γε ἐγὼ ὀπίσω τοῦ Χουσεί· καὶ εἶπεν Ἰωάβ Ἵνα τί τοῦτο τρέχεις, υἱέ μου; δεῦρο, οὐκ ἔστιν σοι εὐαγγελία εἰς ὠφελίαν πορευομένῳ.
+
+**ELL** Τότε Αχιμάας ο υιός του Σαδώκ είπε πάλιν προς τον Ιωάβ, Αλλ' ό,τι και αν ήναι, ας τρέξω και εγώ, παρακαλώ, κατόπιν του Χουσεί. Ο δε Ιωάβ είπε, Διά τι θέλεις να τρέξης, τέκνον μου, ενώ δεν έχεις αρμοδίους αγγελίας;
+
+**KJV** Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?
+
+## 23
+
+**GRC** καὶ εἶπεν Τί γὰρ ἐὰν δραμοῦμαι; καὶ εἶπεν αὐτῷ Ἰωάβ Δράμε· καὶ ἔδραμεν Ἀχειμάας ὁδὸν τὴν τοῦ Κεχὰρ καὶ ὑπερέβη τὸν Χουσεί.
+
+**ELL** Αλλ' ό,τι και αν ήναι, είπεν, ας τρέξω. Τότε είπε προς αυτόν, Τρέχε. Και έτρεξεν ο Αχιμάας διά της οδού της πεδιάδος και επέρασε τον Χουσεί.
+
+**KJV** But howsoever, said he, let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi.
+
+## 24
+
+**GRC** καὶ Δαυεὶδ ἐκάθητο ἀνὰ μέσον τῶν δύο πυλῶν· καὶ ἐπορεύθη ὁ σκοπὸς εἰς τὸ δῶμα τῆς πύλης πρὸς τὸ τεῖχος, καὶ ἐπῆρεν τοὺς ὀφθαλμοὺς αὐτοῦ καὶ εἶδεν, καὶ ἰδοὺ ἀνὴρ τρέχων μόνος ἐνώπιον αὐτοῦ.
+
+**ELL** Εκάθητο δε ο Δαβίδ μεταξύ των δύο πυλών· και ανέβη ο σκοπός εις το δώμα της πύλης, επί το τείχος, και υψώσας τους οφθαλμούς αυτού, είδε, και ιδού, άνθρωπος τρέχων μόνος.
+
+**KJV** And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.
+
+## 25
+
+**GRC** καὶ ἀνεβόησεν ὁ σκοπὸς καὶ ἀπήγγειλεν τῷ βασιλεῖ· καὶ εἶπεν ὁ βασιλεύς Εἰ μόνος ἐστίν, εὐαγγελία ἐν τῷ στόματι αὐτοῦ. καὶ ἐπορεύετο πορευόμενος καὶ ἐγγίζων.
+
+**ELL** Και ανεβόησεν ο σκοπός και απήγγειλε προς τον βασιλέα. Και ο βασιλεύς είπεν, Εάν ήναι μόνος, έχει αγγελίας εις το στόμα αυτού. Και ήρχετο προχωρών και επλησίαζε.
+
+**KJV** And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came apace, and drew near.
+
+## 26
+
+**GRC** καὶ εἶδεν ὁ σκοπὸς ἄνδρα ἕτερον τρέχοντα, καὶ ἐβόησεν ὁ σκοπὸς πρὸς τῇ πύλῃ καὶ εἶπεν Ἰδοὺ ἀνὴρ ἕτερος τρέχων μόνος· καὶ εἶπεν ὁ βασιλεύς Καί γε οὗτος εὐαγγελιζόμενος.
+
+**ELL** Και είδεν ο σκοπός άλλον άνθρωπον τρέχοντα· και ανεβόησεν ο σκοπός προς τον θυρωρόν, και είπεν, Ιδού, άλλος άνθρωπος τρέχων μόνος. Και είπεν ο βασιλεύς, Και ούτος είναι αγγελιαφόρος.
+
+**KJV** And the watchman saw another man running: and the watchman called unto the porter, and said, Behold another man running alone. And the king said, He also bringeth tidings.
+
+## 27
+
+**GRC** καὶ εἶπεν ὁ σκοπός Ἐγὼ ὁρῶ τὸν δρόμον τοῦ πρώτου ὡς δρόμον Ἀχειμάας υἱοῦ Σαδώκ· καὶ εἶπεν ὁ βασιλεύς Ἀνὴρ ἀγαθὸς οὗτος, καί γε εἰς εὐαγγελίαν ἀγαθὴν ἐλεύσεται.
+
+**ELL** Και είπεν ο σκοπός, Το τρέξιμον του πρώτου μοι φαίνεται ως το τρέξιμον του Αχιμάας, υιού του Σαδώκ. Και είπεν ο βασιλεύς, Καλός άνθρωπος είναι ούτος και έρχεται με αγαθάς αγγελίας.
+
+**KJV** And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings.
+
+## 28
+
+**GRC** καὶ ἐβόησεν Ἀχειμάας καὶ εἶπεν πρὸς τὸν βασιλέα Εἰρήνη· καὶ προσεκύνησεν τῷ βασιλεῖ ἐπὶ πρόσωπον αὐτοῦ ἐπὶ τὴν γῆν καὶ εἶπεν Εὐλογητὸς Κύριος ὁ θεός σου ὃς ἀπέκλεισεν τοὺς ἄνδρας τοὺς μισοῦντας τὴν χεῖρα αὐτῶν ἐν τῷ κυρίῳ μου τῷ βασιλεῖ.
+
+**ELL** Και εβόησεν ο Αχιμάας και είπε προς τον βασιλέα, Χαίρε. και προσεκύνησε τον βασιλέα κατά πρόσωπον αυτού έως εδάφους· και είπεν, Ευλογητός Κύριος ο Θεός σου, όστις παρέδωκε τους ανθρώπους, τους σηκώσαντας την χείρα αυτών κατά του κυρίου μου του βασιλέως.
+
+**KJV** And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the Lord thy God, which hath delivered up the men that lifted up their hand against my lord the king.
+
+## 29
+
+**GRC** καὶ εἶπεν ὁ βασιλεύς Εἰρήνη τῷ παιδαρίῳ τῷ Ἀβεσσαλώμ; καὶ εἶπεν Ἀχειμάας Εἶδον τὸ πλῆθος τὸ μέγα τοῦ ἀποστεῖλαι τὸν δοῦλον τοῦ βασιλέως Ἰωὰβ καὶ τὸν δοῦλόν σου, καὶ οὐκ ἔγνων τί ἐκεῖ.
+
+**ELL** Και είπεν ο βασιλεύς, Υγιαίνει ο νέος, ο Αβεσσαλώμ; Και απεκρίθη ο Αχιμάας, Ότε ο Ιωάβ απέστελλε τον δούλον του βασιλέως, και εμέ τον δούλον σου, είδον τον μέγαν θόρυβον, πλην δεν ήξευρον τι ήτο.
+
+**KJV** And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king’s servant, and me thy servant, I saw a great tumult, but I knew not what it was.
+
+## 30
+
+**GRC** καὶ εἶπεν ὁ βασιλεύς Ἐπίστρεψον, στηλώθητι ὧδε· καὶ ἐπεστράφη καὶ ἔστη.
+
+**ELL** Και είπεν ο βασιλεύς, Στρέψον, στάθητι εκεί. Και εστράφη και εστάθη.
+
+**KJV** And the king said unto him, Turn aside, and stand here. And he turned aside, and stood still.
+
+## 31
+
+**GRC** καὶ ἰδοὺ ὁ Χουσεὶ παρεγένετο καὶ εἶπεν τῷ βασιλεῖ Εὐαγγελισθήτω ὁ κύριός μου ὁ βασιλεύς, ὅτι ἔκρινέν σοι Κύριος σήμερον ἐκ χειρὸς πάντων τῶν ἐπεγειρομένων ἐπὶ σέ.
+
+**ELL** Και ιδού, ήλθεν ο Χουσεί· και είπεν ο Χουσεί, Αγγελίας, κύριέ μου βασιλεύ· διότι ο Κύριος σε εξεδίκησε την ημέραν ταύτην εκ χειρός πάντων των επανισταμένων επί σε.
+
+**KJV** And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the Lord hath avenged thee this day of all them that rose up against thee.
+
+## 32
+
+**GRC** καὶ εἶπεν ὁ βασιλεὺς πρὸς τὸν Χουσεί Εἰ εἰρήνη τῷ παιδαρίῳ τῷ Ἀβεσσαλώμ; καὶ εἶπεν ὁ Χουσεί Γένοιντο ὡς τὸ παιδάριον οἱ ἐχθροὶ τοῦ κυρίου μου τοῦ βασιλέως καὶ πάντες ὅσοι ἐπανέστησαν ἐπ᾽ αὐτὸν εἰς κακά.
+
+**ELL** Και είπεν ο βασιλεύς προς τον Χουσεί, Υγιαίνει ο νέος, ο Αβεσσαλώμ; Και απεκρίθη ο Χουσεί, είθε να γείνωσιν ως ο νέος εκείνος οι εχθροί του κυρίου μου του βασιλέως, και πάντες οι επανιστάμενοι επί σε διά κακόν.
+
+**KJV** And the king said unto Cushi, Is the young man Absalom safe? And Cushi answered, The enemies of my lord the king, and all that rise against thee to do thee hurt, be as that young man is.
+
+## 33
+
+**GRC** καὶ ἐταράχθη ὁ βασιλεύς, καὶ ἀνέβη εἰς τὸ ὑπερῷον τῆς πύλης καὶ ἔκλαυσεν· καὶ οὕτως εἶπεν ἐν τῷ πορεύεσθαι αὐτόν Υἱέ μου υἱέ μου Ἀβεσσαλώμ, τίς δῴη τὸν θάνατόν μου ἀντὶ σοῦ; ἐγὼ ἀντὶ σοῦ, Ἀβεσσαλὼμ υἱέ μου υἱέ μου.
+
+**ELL** Και εταράχθη ο βασιλεύς και ανέβη εις το υπερώον της πύλης, και έκλαυσε· και ενώ επορεύετο, έλεγεν ούτως· Υιέ μου Αβεσσαλώμ, υιέ μου, υιέ μου Αβεσσαλώμ· είθε να απέθνησκον εγώ αντί σου, Αβεσσαλώμ, υιέ μου, υιέ μου.
+
+**KJV** And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!
+
+## Notes
+

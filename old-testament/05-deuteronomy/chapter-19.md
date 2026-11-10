@@ -1,0 +1,181 @@
+# Deuteronomy 19 · Δευτερονόμιον 19
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Ἐὰν δὲ ἀφανίσῃ Κύριος ὁ θεός σου τὰ ἔθνη ἃ ὁ θεὸς δίδωσίν σοι τὴν γῆν, καὶ κατακληρονομήσητε αὐτούς, καὶ κατοικήσητε ἐν ταῖς πόλεσιν αὐτῶν καὶ ἐν τοῖς οἴκοις αὐτῶν,
+
+**ELL** Αφού Κύριος ο Θεός σου αφανίση τα έθνη, των οποίων την γην δίδει εις σε Κύριος ο Θεός σου, και κατακληρονομήσης αυτά και κατοικήσης εις τας πόλεις αυτών και εις τας οικίας αυτών,
+
+**KJV** When the Lord thy God hath cut off the nations, whose land the Lord thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;
+
+## 2
+
+**GRC** τρεῖς πόλεις διαστελεῖς σεαυτῷ ἐν μέσῳ τῆς γῆς σου ἧς Κύριος ὁ θεός σου δίδωσίν σοι.
+
+**ELL** θέλεις χωρίσει τρεις πόλεις εις σεαυτόν εν τω μέσω της γης σου, την οποίαν Κύριος ο Θεός σου δίδει εις σε να κληρονομήσης αυτήν.
+
+**KJV** Thou shalt separate three cities for thee in the midst of thy land, which the Lord thy God giveth thee to possess it.
+
+## 3
+
+**GRC** στόχασαί σοι τὴν ὁδόν· καὶ τριμεριεῖς τὰ ὅρια τῆς γῆς σου ἣν καταμερίζει σοι Κύριος ὁ θεός σου, καὶ ἔσται καταφυγὴ ἐκεῖ παντὶ φονευτῇ.
+
+**ELL** Θέλεις ετοιμάσει εις σεαυτόν την οδόν· και θέλεις διαιρέσει εις τρία τα όρια της γης σου, την οποίαν δίδει εις σε Κύριος ο Θεός σου να κληρονομήσης, διά να φεύγη εκεί πας φονεύς.
+
+**KJV** Thou shalt prepare thee a way, and divide the coasts of thy land, which the Lord thy God giveth thee to inherit, into three parts, that every slayer may flee thither.
+
+## 4
+
+**GRC** τοῦτο δὲ ἔσται τὸ πρόσταγμα τοῦ φονευτοῦ ὃς ἂν φύγῃ ἐκεῖ καὶ ζήσεται· ὃς ἂν πατάξῃ τὸν πλησίον αὐτοῦ οὐκ εἰδώς, καὶ οὗτος οὐ μισῶν αὐτὸν πρὸ τῆς ἐχθὲς καὶ τρίτης.
+
+**ELL** Και αύτη είναι η διάταξις περί του φονέως, όστις φύγη εκεί, διά να ζήση· Όστις κτυπήση τον πλησίον αυτού εξ αγνοίας, τον οποίον πρότερον δεν εμίσει,
+
+**KJV** And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;
+
+## 5
+
+**GRC** καὶ ὃς ἂν εἰσέλθῃ μετὰ τοῦ πλησίον εἰς τὸν δρυμὸν συναγαγεῖν ξύλα, καὶ ἐκκρουσθῇ ἡ χεὶρ αὐτοῦ τῇ ἀξίνῃ κόπτοντος τὸ ξύλον, καὶ ἐκπεσὸν τὸ σιδήριον ἀπὸ τοῦ ξύλου τύχῃ τοῦ πλησίον, καὶ ἀποθάνῃ, οὗτος καταφεύξεται εἰς μίαν τῶν πόλεων τούτων καὶ ζήσεται·
+
+**ELL** καθώς όταν υπάγη τις μετά του πλησίον αυτού εις το δάσος διά να κόψη ξύλα, και ενώ η χειρ αυτού καταβιβάζη κτύπημα με τον πέλεκυν διά να κόψη το δένδρον, εκβή το σιδήριον από του ξύλου και τύχη τον πλησίον αυτού και αυτός αποθάνη, ούτος θέλει φύγει εις μίαν εκ των πόλεων εκείνων και θέλει ζήσει·
+
+**KJV** As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:
+
+## 6
+
+**GRC** ἵνα μὴ διώξας ὁ ἀγχιστεύων τοῦ αἵματος ὀπίσω τοῦ φονεύσαντος, ὅτι παρατεθέρμανται τῇ καρδίᾳ, καὶ καταλάβῃ αὐτόν, ἐὰν μακροτέρα ἦν ἡ ὁδός, καὶ πατάξῃ αὐτοῦ ψυχήν· καὶ τούτῳ οὐκ ἔστιν κρίσις θανάτου, ὅτι οὐ μισῶν ἦν αὐτὸν πρὸ τῆς ἐχθὲς οὐδὲ πρὸ τῆς τρίτης.
+
+**ELL** μήποτε καταδιώξη τον φονέα ο εκδικητής του αίματος, ενώ είναι εις έξαψιν η καρδία αυτού, και προφθάση αυτόν, εάν η οδός ήναι μακρά, και φονεύση αυτόν, καίτοι μη όντα άξιον θανάτου, επειδή δεν εμίσει αυτόν πρότερον.
+
+**KJV** Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past.
+
+## 7
+
+**GRC** διὰ τοῦτο ἐγὼ ἐντέλλομαί σοι τὸ ῥῆμα τοῦτο λέγων Τρεῖς πόλεις διαστελεῖς σεαυτῷ.
+
+**ELL** Διά τούτο εγώ προστάζω εις σε λέγων, τρεις πόλεις θέλεις χωρίσει εις σεαυτόν.
+
+**KJV** Wherefore I command thee, saying, Thou shalt separate three cities for thee.
+
+## 8
+
+**GRC** ἐὰν δὲ ἐμπλατύνῃ Κύριος ὁ θεός σου τὰ ὅριά σου ὃν τρόπον ὤμοσεν τοῖς πατράσιν σου, καὶ δῷ σοι Κύριος πᾶσαν τὴν γῆν ἣν εἶπεν δοῦναι τοῖς πατράσιν σου,
+
+**ELL** Και εάν Κύριος ο Θεός σου πλατύνη τα όριά σου, καθώς ώμοσε προς τους πατέρας σου, και δώση εις σε πάσαν την γην, την οποίαν υπεσχέθη να δώση εις τους πατέρας σου,
+
+**KJV** And if the Lord thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;
+
+## 9
+
+**GRC** ἐὰν ἀκούσῃς ποιεῖν πάσας τὰς ἐντολὰς ταύτας ἃς ἐγὼ ἐντέλλομαί σοι σήμερον, ἀγαπᾷν Κύριον τὸν θεόν σου, πορεύεσθαι ἐν πάσαις ταῖς ὁδοῖς αὐτοῦ πάσας τὰς ἡμέρας· καὶ προσθήσεις σαυτῷ ἔτι τρεῖς πόλεις πρὸς τὰς τρεῖς ταύτας·
+
+**ELL** εάν φυλάττης πάσας τας εντολάς ταύτας, ώστε να εκτελής αυτάς, τας οποίας εγώ προστάζω εις σε σήμερον, να αγαπάς Κύριον τον Θεόν σου και να περιπατής πάντοτε εις τας οδούς αυτού, τότε θέλεις προσθέσει εις σεαυτόν έτι τρεις πόλεις προς τας τρεις εκείνας·
+
+**KJV** If thou shalt keep all these commandments to do them, which I command thee this day, to love the Lord thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:
+
+## 10
+
+**GRC** καὶ οὐκ ἐκχυθήσεται αἷμα ἀναίτιον ἐν τῇ γῇ ᾗ Κύριος ὁ θεός σου δίδωσίν σοι ἐν κλήρῳ, καὶ οὐκ ἔσται ἐν σοὶ αἵματι ἔνοχος.
+
+**ELL** διά να μη χυθή αίμα αθώον εν μέσω της γης σου, την οποίαν Κύριος ο Θεός σου δίδει εις σε κληρονομίαν, και να ήναι αίμα επάνω σου.
+
+**KJV** That innocent blood be not shed in thy land, which the Lord thy God giveth thee for an inheritance, and so blood be upon thee.
+
+## 11
+
+**GRC** ἐὰν δὲ γένηται ἐν σοὶ ἄνθρωπος μισῶν τὸν πλησίον, καὶ ἐνεδρεύσῃ αὐτὸν καὶ ἐπαναστῇ ἐπ᾽ αὐτὸν καὶ πατάξῃ αὐτοῦ ψυχήν, καὶ ἀποθάνῃ, καὶ φύγῃ εἰς μίαν τῶν πόλεων τούτων·
+
+**ELL** Εάν δε τις έχη μίσος κατά του πλησίον αυτού, και παραμονεύσας αυτόν εφορμήση επ' αυτόν και πατάξη αυτόν, και αποθάνη, και φύγη εις μίαν των πόλεων τούτων,
+
+**KJV** But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:
+
+## 12
+
+**GRC** καὶ ἀποστελοῦσιν ἡ γερουσία τῆς πόλεως αὐτοῦ καὶ λήμψονται αὐτὸν ἐκεῖθεν, καὶ παραδώσουσιν αὐτὸν εἰς χεῖρας τῶν ἀγχιστευόντων τοῦ αἵματος, καὶ ἀποθανεῖται·
+
+**ELL** τότε θέλουσιν αποστείλει οι πρεσβύτεροι της πόλεως αυτού και θέλουσι λάβει αυτόν εκείθεν, και θέλουσι παραδώσει αυτόν εις την χείρα του εκδικητού του αίματος, διά να αποθάνη.
+
+**KJV** Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
+
+## 13
+
+**GRC** οὐ φείσεται ὁ ὀφθαλμός σου ἐπ᾽ αὐτῷ, καὶ καθαριεῖς τὸ αἷμα τὸ ἀναίτιον ἐξ Ἰσραήλ, καὶ εὖ σοι ἔσται.
+
+**ELL** Ο οφθαλμός σου δεν θέλει φεισθή αυτόν, αλλά θέλεις εξαλείψει από του Ισραήλ το αθώον αίμα, διά να ευημερής.
+
+**KJV** Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee.
+
+## 14
+
+**GRC** Οὐ μετακινήσεις ὅρια τοῦ πλησίον ἃ ἔστησαν οἱ πατέρες σου ἐν τῇ κληρονομίᾳ ᾗ κατεκληρονομήθης ἐν τῇ γῇ ᾗ Κύριος ὁ θεός σου δίδωσίν σοι ἐν κλήρῳ.
+
+**ELL** Δεν θέλεις μετακινήσει τα όρια του πλησίον σου, όσα οι πατέρες σου έστησαν εις την κληρονομίαν σου, την οποίαν θέλεις κατακληρονομήσει, εν τη γη την οποίαν Κύριος ο Θεός σου δίδει εις σε διά να κατακληρονομήσης αυτήν.
+
+**KJV** Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the Lord thy God giveth thee to possess it.
+
+## 15
+
+**GRC** Οὐκ ἐμμενεῖ μάρτυς εἷς μαρτυρῆσαι κατὰ ἀνθρώπου κατὰ πᾶσαν ἀδικίαν καὶ κατὰ πᾶν ἁμάρτημα καὶ κατὰ πᾶσαν ἁμαρτίαν ἣν ἂν ἁμάρτῃ· ἐπὶ στόματος δύο μαρτύρων καὶ ἐπὶ στόματος τριῶν μαρτύρων στήσεται πᾶν ῥῆμα.
+
+**ELL** Εις μάρτυς δεν θέλει σηκωθή εναντίον τινός ανθρώπου, δι' οποιανδήποτε ανομίαν ή δι' οποιονδήποτε αμάρτημα, ό,τι αμάρτημα αμαρτήση· επί στόματος δύο μαρτύρων ή επί στόματος τριών μαρτύρων θέλει βεβαιούσθαι πας λόγος.
+
+**KJV** One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
+
+## 16
+
+**GRC** ἐὰν δὲ καταστῇ μάρτυς ἄδικος κατὰ ἀνθρώπου καταλέγων αὐτοῦ ἀσέβειαν,
+
+**ELL** Εάν ψευδής μάρτυς σηκωθή εναντίον ανθρώπου, διά να μαρτυρήση κατ' αυτού αδίκως,
+
+**KJV** If a false witness rise up against any man to testify against him that which is wrong;
+
+## 17
+
+**GRC** καὶ γνώσονται οἱ δύο ἄνθρωποι οἷς ἐστιν αὐτοῖς ἡ ἀντιλογία ἔναντι Κυρίου καὶ ἔναντι τῶν ἱερέων καὶ ἔναντι τῶν κριτῶν οἳ ἐὰν ὦσιν ἐν ταῖς ἡμέραις ἐκείναις,
+
+**ELL** τότε και οι δύο άνθρωποι, μεταξύ των οποίων είναι η διαφορά, θέλουσι σταθή ενώπιον του Κυρίου, ενώπιον των ιερέων και των κριτών των όντων κατ' εκείνας τας ημέρας·
+
+**KJV** Then both the men, between whom the controversy is, shall stand before the Lord, before the priests and the judges, which shall be in those days;
+
+## 18
+
+**GRC** καὶ ἐξετάσωσιν οἱ κριταὶ ἀκριβῶς, καὶ ἰδοὺ μάρτυς ἄδικος ἐμαρτύρησεν ἄδικα, ἀντέστη κατὰ τοῦ ἀδελφοῦ αὐτοῦ·
+
+**ELL** και οι κριταί θέλουσιν εξετάσει ακριβώς, και ιδού, εάν ο μάρτυς ήναι ψευδομάρτυς και εμαρτύρησε ψευδώς κατά του αδελφού αυτού,
+
+**KJV** And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;
+
+## 19
+
+**GRC** καὶ ποιήσετε αὐτῷ ὃν τρόπον ἐπονηρεύσατο ποιῆσαι κατὰ τοῦ ἀδελφοῦ αὐτοῦ, καὶ ἐξαρεῖς τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν.
+
+**ELL** τότε θέλετε κάμει εις αυτόν, καθώς αυτός εστοχάσθη να κάμη εις τον αδελφόν αυτού· και θέλεις εκβάλει το κακόν εκ μέσου σου.
+
+**KJV** Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.
+
+## 20
+
+**GRC** καὶ οἱ ἐπίλοιποι ἀκούσαντες φοβηθήσονται, καὶ οὐ προσθήσουσιν ἔτι ποιῆσαι κατὰ τὸ ῥῆμα τοῦτο τὸ πονηρὸν ἐν ὑμῖν.
+
+**ELL** Και οι λοιποί θέλουσιν ακούσει και φοβηθή, και δεν θέλουσιν εις το εξής πράξει τοιούτον κακόν εν μέσω σου.
+
+**KJV** And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.
+
+## 21
+
+**GRC** οὐ φείσεται ὁ ὀφθαλμός σου ἐπ᾽ αὐτῷ· ψυχὴν ἀντὶ ψυχῆς, ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ, ὀδόντα ἀντὶ ὀδόντος, χεῖρα ἀντὶ χειρός, πόδα ἀντὶ ποδός.
+
+**ELL** Και ο οφθαλμός σου δεν θέλει φεισθή· θέλει δοθή ζωή αντί ζωής, οφθαλμός αντί οφθαλμού, οδούς αντί οδόντος, χειρ αντί χειρός, πους αντί ποδός.
+
+**KJV** And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
+
+## Notes
+

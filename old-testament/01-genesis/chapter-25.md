@@ -1,0 +1,285 @@
+# Genesis 25 · Γένεσις 25
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Προσθέμενος δὲ Ἀβραὰμ ἔλαβεν γυναῖκα ᾗ ὄνομα Χεττούρα.
+
+**ELL** Έλαβε δε ο Αβραάμ και άλλην γυναίκα, ονομαζομένην Χεττούραν.
+
+**KJV** Then again Abraham took a wife, and her name was Keturah.
+
+## 2
+
+**GRC** ἔτεκεν δὲ αὐτῷ τὸν Ζεβρὰν καὶ τὸν Ἰεξὰν καὶ τὸν Μαδαὶμ καὶ τὸν Μαδιὰμ καὶ τὸν Ἰεσβὸκ καὶ τὸν Σωύε.
+
+**ELL** Και αύτη εγέννησεν εις αυτόν τον Ζεμβράν και τον Ιοξάν και τον Μαδάν και τον Μαδιάμ και τον Ιεσβώκ και τον Σουά.
+
+**KJV** And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.
+
+## 3
+
+**GRC** Ἰεξὰν δὲ ἐγέννησεν τὸν Σαβὰν καὶ τὸν Θαιμὰν καὶ τὸν Δαιδάν· υἱοὶ δὲ Δαιδὰν ἐγένοντο Ῥαγουὴλ καὶ Ναβδεὴλ καὶ Ἀσουρὶμ καὶ Δατουσιεὶμ καὶ Λοωμείμ·
+
+**ELL** και ο Ιοξάν εγέννησε τον Σεβά και τον Δαιδάν· οι δε υιοί του Δαιδάν ήσαν Ασσουρείμ και Λετουσιείμ και Λαωμείμ.
+
+**KJV** And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.
+
+## 4
+
+**GRC** υἱοὶ δὲ Μαδιὰμ Γεφὰρ καὶ Ἄφερ καὶ Ἑνὼχ καὶ Ἀβιρὰ καὶ Θεργαμά. οὗτοι πάντες ἦσαν υἱοὶ Χεττούρας.
+
+**ELL** Οι υιοί δε του Μαδιάμ ήσαν Γεφά και Εφέρ και Ανώχ και Αβειδά και Ελδαγά· πάντες ούτοι υιοί της Χεττούρας.
+
+**KJV** And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah.
+
+## 5
+
+**GRC** ἔδωκεν δὲ Ἀβραὰμ πάντα τὰ ὑπάρχοντα αὐτοῦ Ἰσαὰκ τῷ υἱῷ αὐτοῦ·
+
+**ELL** Έδωκε δε ο Αβραάμ πάντα τα υπάρχοντα αυτού εις τον Ισαάκ.
+
+**KJV** And Abraham gave all that he had unto Isaac.
+
+## 6
+
+**GRC** καὶ τοῖς υἱοῖς τῶν παλλακῶν αὐτοῦ ἔδωκεν Ἀβραὰμ δόματα, καὶ ἐξαπέστειλεν αὐτοὺς ἀπὸ Ἰσαὰκ τοῦ υἱοῦ αὐτοῦ ἔτι ζῶντος αὐτοῦ πρὸς ἀνατολὰς εἰς γῆν ἀνατολῶν.
+
+**ELL** Εις δε τους υιούς των παλλακών αυτού έδωκεν ο Αβραάμ χαρίσματα, και εξαπέστειλεν αυτούς, έτι ζων, μακράν από του υιού αυτού Ισαάκ προς ανατολάς, εις την γην της Ανατολής.
+
+**KJV** But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.
+
+## 7
+
+**GRC** ταῦτα δὲ τὰ ἔτη ἡμερῶν ζωῆς Ἀβραὰμ ὅσα ἔζησεν, ἑκατὸν ἑβδομήκοντα πέντε ἔτη·
+
+**ELL** Και ταύτα είναι τα έτη των ημερών της ζωής του Αβραάμ, όσα έζησεν, έτη εκατόν εβδομήκοντα πέντε.
+
+**KJV** And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.
+
+## 8
+
+**GRC** καὶ ἐκλείπων ἀπέθανεν Ἀβραὰμ ἐν γήρει καλῷ πρεσβύτης καὶ πλήρης ἡμερῶν, καὶ προσετέθη πρὸς τὸν λαὸν αὐτοῦ.
+
+**ELL** Και εκπνεύσας απέθανεν ο Αβραάμ εν γήρατι καλώ, γέρων και πλήρης ημερών· και προσετέθη εις τον λαόν αυτού.
+
+**KJV** Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people.
+
+## 9
+
+**GRC** καὶ ἔθαψαν αὐτὸν Ἰσαὰκ καὶ Ἰσμαὴλ οἱ δύο υἱοὶ αὐτοῦ εἰς τὸ σπήλαιον τὸ διπλοῦν, εἰς τὸν ἀγρὸν Ἐφρὼν τοῦ Σάαρ τοῦ Χετταίου, ὅ ἐστιν ἀπέναντι Μαμβρή,
+
+**ELL** Και έθαψαν αυτόν ο Ισαάκ και ο Ισμαήλ οι υιοί αυτού εν τω σπηλαίω Μαχπελάχ, εν τω αγρώ του Εφρών, υιού του Σωάρ του Χετταίου, τω απέναντι της Μαμβρή·
+
+**KJV** And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;
+
+## 10
+
+**GRC** τὸν ἀγρὸν καὶ τὸ σπήλαιον ὃ ἐκτήσατο Ἀβραὰμ παρὰ τῶν υἱῶν Χέτ· ἐκεῖ ἔθαψαν Ἀβραὰμ καὶ Σάρραν τὴν γυναῖκα αὐτοῦ.
+
+**ELL** τω αγρώ, τον οποίον ηγόρασεν ο Αβραάμ παρά των υιών του Χέτ· εκεί ετάφη ο Αβραάμ και Σάρρα η γυνή αυτού.
+
+**KJV** The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.
+
+## 11
+
+**GRC** ἐγένετο δὲ μετὰ τὸ ἀποθανεῖν Ἀβραὰμ εὐλόγησεν ὁ θεὸς τὸν Ἰσαὰκ τὸν υἱὸν αὐτοῦ· καὶ κατῴκησεν Ἰσαὰκ παρὰ τὸ φρέαρ τῆς ὁράσεως.
+
+**ELL** Και μετά τον θάνατον του Αβραάμ, ευλόγησεν ο Θεός Ισαάκ τον υιόν αυτού· και κατώκησεν ο Ισαάκ πλησίον του φρέατος Λαχαΐ-ροΐ.
+
+**KJV** And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai–roi.
+
+## 12
+
+**GRC** Αὗται δὲ αἱ γενέσεις Ἰσμαὴλ τοῦ υἱοῦ Ἀβραάμ, ὃν ἔτεκεν Ἁγὰρ ἡ παιδίσκη Σάρρας τῷ Ἀβραάμ.
+
+**ELL** Αύτη δε είναι η γενεαλογία του Ισμαήλ, υιού του Αβραάμ, τον οποίον εγέννησεν εις τον Αβραάμ Άγαρ η Αιγυπτία, η δούλη της Σάρρας·
+
+**KJV** Now these are the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:
+
+## 13
+
+**GRC** καὶ ταῦτα τὰ ὀνόματα τῶν υἱῶν Ἰσμαὴλ κατ᾽ ὄνομα τῶν γενεῶν αὐτοῦ· πρωτότοκος Ἰσμαὴλ Ναβαιώθ, καὶ Κηδὰρ καὶ Ναβδεὴλ καὶ Μασσὰμ
+
+**ELL** και ταύτα είναι τα ονόματα των υιών του Ισμαήλ, κατά τα ονόματα αυτών, εις τας γενεάς αυτών· πρωτότοκος του Ισμαήλ Ναβαϊώθ, έπειτα Κηδάρ και Αβδεήλ και Μιβσάμ,
+
+**KJV** And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,
+
+## 14
+
+**GRC** καὶ Μασμὰ καὶ Ἰδουμὰ καὶ Μασσὴ
+
+**ELL** και Μισμά, και Δουμά και Μασσά
+
+**KJV** And Mishma, and Dumah, and Massa,
+
+## 15
+
+**GRC** καὶ Χοδδὰν καὶ Θαιμὰν καὶ Ἰετοὺρ καὶ Ναφὲς καὶ Κέδμα.
+
+**ELL** Χαδδάρ, και Θαιμά, Ιετούρ, Ναφίς, και Κεδμά·
+
+**KJV** Hadar, and Tema, Jetur, Naphish, and Kedemah:
+
+## 16
+
+**GRC** οὗτοί εἰσιν οἱ υἱοὶ Ἰσμαήλ, καὶ ταῦτα τὰ ὀνόματα αὐτῶν ἐν ταῖς σκηναῖς αὐτῶν καὶ ἐν ταῖς ἐπαύλεσιν αὐτῶν· δώδεκα ἄρχοντες κατὰ ἔθνος αὐτῶν.
+
+**ELL** ούτοι είναι οι υιοί του Ισμαήλ, και ταύτα τα ονόματα αυτών κατά τας κώμας αυτών και κατά τας κατοικίας αυτών· δώδεκα άρχοντες κατά τα έθνη αυτών.
+
+**KJV** These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.
+
+## 17
+
+**GRC** καὶ ταῦτα τὰ ἔτη τῆς ζωῆς Ἰσμαήλ, ἑκατὸν τριάκοντα ἑπτὰ ἔτη· καὶ ἐκλείπων ἀπέθανεν καὶ προσετέθη πρὸς τὸ γένος αὐτοῦ.
+
+**ELL** Και ταύτα είναι τα έτη της ζωής του Ισμαήλ, έτη εκατόν τριάκοντα επτά· και εκπνεύσας απέθανε και προσετέθη εις τον λαόν αυτού.
+
+**KJV** And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.
+
+## 18
+
+**GRC** κατῴκησεν δὲ ἀπὸ Εὑειλὰτ ἕως Σουήλ, ἥ ἐστιν κατὰ πρόσωπον Αἰγύπτου ἕως ἐλθεῖν πρὸς Ἀσσυρίους· κατὰ πρόσωπον πάντων τῶν ἀδελφῶν αὐτοῦ κατῴκησεν.
+
+**ELL** Κατώκησαν δε από Αβιλά έως Σούρ, της κατά πρόσωπον Αιγύπτου, καθώς υπάγει τις προς την Ασσυρίαν· ο Ισμαήλ κατώκησεν έμπροσθεν πάντων των αδελφών αυτού.
+
+**KJV** And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren.
+
+## 19
+
+**GRC** Καὶ αὗται αἱ γενέσεις Ἰσαὰκ τοῦ υἱοῦ Ἀβραάμ· Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ.
+
+**ELL** Και αύτη είναι η γενεαλογία του Ισαάκ, υιού του Αβραάμ· ο Αβραάμ εγέννησε τον Ισαάκ·
+
+**KJV** And these are the generations of Isaac, Abraham’s son: Abraham begat Isaac:
+
+## 20
+
+**GRC** ἦν δὲ Ἰσαὰκ ἐτῶν τεσσεράκοντα ὅτε ἔλαβεν τὴν Ῥεβέκκαν θυγατέρα Βαθουὴλ τοῦ Σύρου ἐκ τῆς Μεσοποταμίας, ἀδελφὴν Λαβὰν τοῦ Σύρου, ἑαυτῷ γυναῖκα.
+
+**ELL** ήτο δε ο Ισαάκ ετών τεσσαράκοντα, ότε έλαβεν εις εαυτόν γυναίκα την Ρεβέκκαν, θυγατέρα Βαθουήλ του Σύρου από Παδάν-αράμ, αδελφήν Λάβαν του Σύρου.
+
+**KJV** And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan–aram, the sister to Laban the Syrian.
+
+## 21
+
+**GRC** ἐδεῖτο δὲ Ἰσαὰκ Κυρίου περὶ Ῥεβέκκας τῆς γυναικὸς αὐτοῦ, ὅτι στεῖρα ἦν· ἐπήκουσεν δὲ αὐτοῦ ὁ θεός, καὶ ἔλαβεν ἐν γαστρὶ Ῥεβέκκα ἡ γυνὴ αὐτοῦ.
+
+**ELL** Και εδέετο ο Ισαάκ προς τον Κύριον περί της γυναικός αυτού, διότι ήτο στείρα· και επήκουσεν ο Κύριος αυτού, και συνέλαβεν η Ρεβέκκα η γυνή αυτού.
+
+**KJV** And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
+
+## 22
+
+**GRC** ἐσκίρτων δὲ τὰ παιδία ἐν αὐτῇ· εἶπεν δέ Εἰ οὕτως μοι μέλλει γίνεσθαι, ἵνα τί μοι τοῦτο; ἐπορεύθη δὲ πυθέσθαι παρὰ Κυρίου.
+
+**ELL** Και τα παιδία συνεκρούοντο εντός αυτής· και είπεν, Αν μέλλη ούτω να γείνη, διά τι εγώ να συλλάβω; και υπήγε να ερωτήση τον Κύριον.
+
+**KJV** And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
+
+## 23
+
+**GRC** καὶ εἶπεν Κύριος αὐτῇ Δύο ἔθνη ἐν τῇ γαστρί σού εἰσιν, καὶ δύο λαοὶ ἐκ τῆς κοιλίας σου διασταλήσονται· καὶ λαὸς λαοῦ ὑπερέξει, καὶ ὁ μείζων δουλεύσει τῷ ἐλάσσονι.
+
+**ELL** Και είπεν ο Κύριος προς αυτήν, Δύο έθνη είναι εν τη κοιλία σου· και δύο λαοί θέλουσι διαχωρισθή από των εντοσθίων σου· και ο εις λαός θέλει είσθαι δυνατώτερος του άλλου λαού· και ο μεγαλήτερος θέλει δουλεύσει εις τον μικρότερον.
+
+**KJV** And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
+
+## 24
+
+**GRC** καὶ ἐπληρώθησαν αἱ ἡμέραι τοῦ τεκεῖν αὐτήν· καὶ τῇδε ἦν δίδυμα ἐν τῇ γαστρὶ αὐτῆς.
+
+**ELL** Και ότε επληρώθησαν αι ημέραι αυτής διά να γεννήση, ιδού, ήσαν δίδυμα εν τη κοιλία αυτής.
+
+**KJV** And when her days to be delivered were fulfilled, behold, there were twins in her womb.
+
+## 25
+
+**GRC** ἐξῆλθεν δὲ ὁ υἱὸς ὁ πρωτότοκος πυρράκης, ὅλος ὡσεὶ δορὰ δασύς· ἐπωνόμασεν δὲ τὸ ὄνομα αὐτοῦ Ἠσαύ.
+
+**ELL** Εξήλθε δε ο πρώτος ερυθρός και όλος ως δέρμα δασύτριχος· και εκάλεσαν το όνομα αυτού, Ησαύ.
+
+**KJV** And the first came out red, all over like an hairy garment; and they called his name Esau.
+
+## 26
+
+**GRC** καὶ μετὰ τοῦτο ἐξῆλθεν ὁ ἀδελφὸς αὐτοῦ, καὶ ἡ χεὶρ αὐτοῦ ἐπειλημμένη τῆς πτέρνης Ἠσαύ· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰακώβ. Ἰσαὰκ δὲ ἦν ἐτῶν ἑξήκοντα ὅτε ἐγέννησεν αὐτοὺς Ῥεβέκκα.
+
+**ELL** Και έπειτα εξήλθεν ο αδελφός αυτού· και η χειρ αυτού εκράτει την πτέρναν του Ησαύ· διά τούτο ωνομάσθη Ιακώβ· ο δε Ισαάκ ήτο ετών εξήκοντα, ότε εγέννησεν αυτούς.
+
+**KJV** And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
+
+## 27
+
+**GRC** ηὐξήθησαν δὲ οἱ νεανίσκοι· καὶ ἦν Ἠσαὺ ἄνθρωπος εἰδὼς κυνηγεῖν, ἄγροικος· Ἰακὼβ δὲ ἦν ἄνθρωπος ἄπλαστος, οἰκῶν οἰκίαν.
+
+**ELL** Ηύξησαν δε τα παιδία· και έγεινεν ο μεν Ησαύ άνθρωπος έμπειρος εις το κυνήγιον, άνθρωπος του αγρού· ο δε Ιακώβ, άνθρωπος απλούς, κατοικών εν σκηναίς.
+
+**KJV** And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
+
+## 28
+
+**GRC** ἠγάπησεν δὲ Ἰσαὰκ τὸν Ἠσαύ, ὅτι ἡ θήρα αὐτοῦ βρῶσις αὐτῷ· Ῥεβέκκα δὲ ἠγάπα τὸν Ἰακώβ.
+
+**ELL** Και ο μεν Ισαάκ ηγάπα τον Ησαύ, διότι το κυνήγιον ήτο τροφή εις αυτόν· η δε Ρεβέκκα ηγάπα τον Ιακώβ.
+
+**KJV** And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
+
+## 29
+
+**GRC** Ἥψησεν δὲ Ἰακὼβ ἕψεμα· ἦλθεν δὲ Ἠσαὺ ἐκ τοῦ πεδίου ἐκλείπων.
+
+**ELL** Εμαγείρευε δε ο Ιακώβ μαγείρευμα· και ήλθεν ο Ησαύ εκ του αγρού και ήτο αποκαμωμένος·
+
+**KJV** And Jacob sod pottage: and Esau came from the field, and he was faint:
+
+## 30
+
+**GRC** καὶ εἶπεν Ἠσαὺ τῷ Ἰακώβ Γεῦσόν με ἀπὸ τοῦ ἑψέματος τοῦ πυρροῦ τούτου, ὅτι ἐκλείπω ἐγώ· διὰ τοῦτο ἐκλήθη τὸ ὄνομα αὐτοῦ Ἐδώμ.
+
+**ELL** και είπεν ο Ησαύ προς τον Ιακώβ, Δος μοι, παρακαλώ, να φάγω από το κόκκινον, το κόκκινον τούτο, διότι είμαι αποκαμωμένος· διά τούτο εκλήθη το όνομα αυτού, Εδώμ.
+
+**KJV** And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
+
+## 31
+
+**GRC** εἶπεν δὲ Ἰακὼβ τῷ Ἠσαύ Ἀπόδου μοι σήμερον τὰ πρωτοτοκεῖά σου ἐμοί.
+
+**ELL** Και είπεν ο Ιακώβ, Πώλησόν μοι σήμερον τα πρωτοτόκιά σου.
+
+**KJV** And Jacob said, Sell me this day thy birthright.
+
+## 32
+
+**GRC** εἶπεν δε Ἠσαύ Ἰδοὺ ἐγὼ πορεύομαι τελευτᾷν, καὶ ἵνα τί μοι ταῦτα τὰ πρωτοτοκεῖα;
+
+**ELL** Και ο Ησαύ είπεν, Ιδού, εγώ υπάγω να αποθάνω, και τι με ωφελούσι ταύτα τα πρωτοτόκια;
+
+**KJV** And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?
+
+## 33
+
+**GRC** καὶ εἶπεν αὐτῷ Ἰακώβ Ὄμοσόν μοι σήμερον. καὶ ὤμοσεν αὐτῷ· ἀπέδοτο δὲ Ἠσαὺ τὰ πρωτοτοκεῖα τῷ Ἰακώβ.
+
+**ELL** Και είπεν ο Ιακώβ, Ομοσόν μοι σήμερον· και ώμοσεν εις αυτόν· και επώλησε τα πρωτοτόκια αυτού εις τον Ιακώβ.
+
+**KJV** And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.
+
+## 34
+
+**GRC** Ἰακὼβ δὲ ἔδωκεν τῷ Ἠσαὺ ἄρτον καὶ ἕψεμα φακοῦ· καὶ ἔφαγεν καὶ ἔπιεν, καὶ ἀναστὰς ᾤχετο· καὶ ἐφαύλισεν Ἠσαὺ τὰ πρωτοτοκεῖα.
+
+**ELL** Τότε ο Ιακώβ έδωκεν εις τον Ησαύ άρτον και μαγείρευμα της φακής· και έφαγε και έπιε και σηκωθείς ανεχώρησεν· ούτως ο Ησαύ κατεφρόνησε τα πρωτοτόκια.
+
+**KJV** Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
+
+## Notes
+

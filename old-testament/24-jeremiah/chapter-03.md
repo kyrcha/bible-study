@@ -1,0 +1,213 @@
+# Jeremiah 3 · Ιερεμίας 3
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Ἐὰν ἐξαποστείλῃ ἀνὴρ τὴν γυναῖκα αὐτοῦ, καὶ ἀπέλθῃ ἀπ᾽ αὐτοῦ καὶ γένηται ἀνδρὶ ἑτέρῳ, μὴ ἀνακάμπτουσα ἀνακάμψει πρὸς αὐτὸν ἔτι; οὐ μιαινομένη μιανθήσεται ἡ γυνὴ ἐκείνη; καὶ σὺ ἐξεπόρνευσας ἐν ποιμέσιν πολλοῖς, καὶ ἀνέκαμπτες πρὸς μέ; λέγει Κύριος.
+
+**ELL** Λέγουσιν, Εάν τις αποβάλη την γυναίκα αυτού και αναχωρήση από αυτού και γείνη άλλου ανδρός, θέλει επιστρέψει πάλιν εκείνος προς αυτήν; η γη εκείνη δεν θέλει όλως μιανθή; συ επόρνευσας μεν μετά πολλών εραστών· επίστρεψον δε πάλιν προς εμέ, λέγει Κύριος.
+
+**KJV** They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the Lord.
+
+## 2
+
+**GRC** ἆρον εἰς εὐθεῖαν τοὺς ὀφθαλμούς σου καὶ ἴδε· ποῦ οὐχὶ ἐξεφύρθης; ἐπὶ ταῖς ὁδοῖς ἐκάθισας αὐτοῖς ὡσεὶ κορώνη ἐρημουμένη, καὶ ἐμίανας τὴν γῆν ἐν ταῖς πορνίαις σου καὶ ἐν ταῖς κακίαις σου,
+
+**ELL** Σήκωσον τους οφθαλμούς σου προς τους υψηλούς τόπους, και ιδέ που δεν εσέλγησας. Εν ταις οδοίς εκάθησας δι' αυτούς, ως ο Άραψ εν τη ερήμω, και εμίανας την γην με τας πορνείας σου και με την κακίαν σου.
+
+**KJV** Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
+
+## 3
+
+**GRC** καὶ ἔσχες ποιμένας πολλοὺς εἰς πρόσκομμα σεαυτῇ· ὄψις πόρνης ἐγένετό σοι, ἀπηναισχύντησας πρὸς πάντας.
+
+**ELL** Διά τούτο εκρατήθησαν αι βροχαί, και δεν έγεινε βροχή όψιμος· και συ είχες το μέτωπον της πόρνης, απέβαλες πάσαν εντροπήν.
+
+**KJV** Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.
+
+## 4
+
+**GRC** οὐχ ὡς οἶκόν με ἐκάλεσας καὶ πατέρα καὶ ἀρχηγὸν τῆς παρθενίας σου;
+
+**ELL** Δεν θέλεις κράζει από του νυν προς εμέ, Πάτερ μου, συ είσαι ο οδηγός της νεότητός μου;
+
+**KJV** Wilt thou not from this time cry unto me, My father, thou art the guide of my youth?
+
+## 5
+
+**GRC** μὴ διαμενεῖ εἰς τὸν αἰῶνα, ἢ φυλαχθήσεται εἰς νῖκος; ἰδοὺ ἐλάλησας καὶ ἐποίησας τὰ πονηρὰ ταῦτα καὶ ἠδυνάσθης.
+
+**ELL** Θέλει διατηρεί την οργήν αυτού διαπαντός; θέλει φυλάττει αυτήν έως τέλους; ιδού, ελάλησας και έπραξας τα κακά, όσον ηδυνήθης.
+
+**KJV** Will he reserve his anger for ever? will he keep it to the end? Behold, thou hast spoken and done evil things as thou couldest.
+
+## 6
+
+**GRC** Καὶ εἶπεν Κύριος πρὸς μὲ ἐν ταῖς ἡμέραις Ἰωσείου τοῦ βασιλέως Εἶδες ἃ ἐποίησέν μοι ἡ κατοικία τοῦ Ἰσραήλ; ἐπορεύθησαν ἐπὶ πᾶν ὄρος ὑψηλὸν καὶ ὑποκάτω παντὸς ξύλου ἀλσώδους καὶ ἐπόρνευσαν ἐκεῖ.
+
+**ELL** Ο Κύριος είπεν έτι προς εμέ εν ταις ημέραις Ιωσίου του βασιλέως, Είδες εκείνα, τα οποία Ισραήλ η αποστάτις έπραξεν; υπήγεν επί παν υψηλόν όρος και υποκάτω παντός πρασίνου δένδρου και επόρνευσεν εκεί.
+
+**KJV** The Lord said also unto me in the days of Josiah the king, Hast thou seen that which backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot.
+
+## 7
+
+**GRC** καὶ εἶπα μετὰ τὸ πορνεῦσαι αὐτὴν ταῦτα πάντα Πρὸς μὲ ἀνάστρεψον· καὶ οὐκ ἀνέστρεψεν, καὶ εἶδεν τὴν ἀσυνθεσίαν αὐτῆς ἡ ἀσύνθετος Ἰουδά.
+
+**ELL** Και αφού έπραξε πάντα ταύτα, είπα, Επίστρεψον προς εμέ· και δεν επέστρεψε. Και είδε τούτο Ιούδας η άπιστος αυτής αδελφή.
+
+**KJV** And I said after she had done all these things, Turn thou unto me. But she returned not. And her treacherous sister Judah saw it.
+
+## 8
+
+**GRC** καὶ εἶδον διότι περὶ πάντων ὧν καὶ εἶδον, περὶ πάντων ὧν κατελήμφθη ἐν οἷς ἐμοιχᾶτο ἡ κατοικία τοῦ Ἰσραήλ, καὶ ἐξαπέστειλα αὐτὴν καὶ ἔδωκα αὐτῇ βιβλίον ἀποστασίου εἰς τὰς χεῖρας αὐτῆς· καὶ οὐκ ἐφοβήθη ἡ ἀσύνθετος Ἰουδά, καὶ ἐπορεύθη καὶ ἐπόρνευσεν καὶ αὐτή,
+
+**ELL** Και είδον ότι ενώ επειδή Ισραήλ η αποστάτις εμοίχευσεν εγώ απέπεμψα αυτήν και έδωκα εις αυτήν το γράμμα του διαζυγίου αυτής, Ιούδας η άπιστος αυτής αδελφή δεν εφοβήθη αλλ' υπήγε και επόρνευσε και αυτή.
+
+**KJV** And I saw, when for all the causes whereby backsliding Israel committed adultery I had put her away, and given her a bill of divorce; yet her treacherous sister Judah feared not, but went and played the harlot also.
+
+## 9
+
+**GRC** καὶ ἐγένετο εἰς οὐθὲν ἡ πορνεία αὐτῆς, καὶ ἐμοίχευσεν τὸ ξύλον καὶ τὸν λίθον.
+
+**ELL** Και με την διαφήμισιν της πορνείας αυτής εμίανε τον τόπον και εμοίχευσε μετά των λίθων και μετά των ξύλων.
+
+**KJV** And it came to pass through the lightness of her whoredom, that she defiled the land, and committed adultery with stones and with stocks.
+
+## 10
+
+**GRC** καὶ ἐν πᾶσιν τούτοις οὐκ ἐπεστράφη πρὸς μὲ ἡ ἀσύνθετος Ἰουδὰ ἐξ ὃλης τῆς καρδίας αὐτῆς ἀλλ᾽ ἐπὶ ψεύδει.
+
+**ELL** Και εν πάσι τούτοις Ιούδας η άπιστος αυτής αδελφή δεν επέστρεψε προς εμέ εξ όλης της καρδίας αυτής αλλά ψευδώς, λέγει Κύριος.
+
+**KJV** And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the Lord.
+
+## 11
+
+**GRC** καὶ εἶπεν Κύριος πρὸς μέ Ἐδικαίωσεν τὴν ψυχὴν αὐτοῦ Ἰσραὴλ ἀπὸ τῆς ἀσυνθέτου Ἰουδά.
+
+**ELL** Και είπε Κύριος προς εμέ, Ισραήλ η αποστάτις εδικαίωσεν εαυτήν περισσότερον παρά Ιούδας η άπιστος.
+
+**KJV** And the Lord said unto me, The backsliding Israel hath justified herself more than treacherous Judah.
+
+## 12
+
+**GRC** πορεύου καὶ ἀνάγνωθι τοὺς λόγους τούτους πρὸς βορρᾶν, καὶ ἐρεῖς Ἐπιστράφητι πρὸς μέ, ἡ κατοικία τοῦ Ἰσραήλ, λέγει Κύριος, καὶ οὐ στηριῶ τὸ πρόσωπόν μου ἐφ᾽ ὑμᾶς· ὅτι ἐλεήμων ἐγώ εἰμι, λέγει Κύριος, καὶ οὐ μηνιῶ ὑμῖν εἰς τὸν αἰῶνα.
+
+**ELL** Ύπαγε και διακήρυξον τους λόγους τούτους προς τον βορράν και ειπέ, Επίστρεψον, Ισραήλ η αποστάτις, λέγει Κύριος, και δεν θέλω κάμει να πέση η οργή μου εφ' υμάς· διότι ελεήμων είμαι, λέγει Κύριος· δεν θέλω φυλάττει την οργήν διαπαντός.
+
+**KJV** Go and proclaim these words toward the north, and say, Return, thou backsliding Israel, saith the Lord; and I will not cause mine anger to fall upon you: for I am merciful, saith the Lord, and I will not keep anger for ever.
+
+## 13
+
+**GRC** πλὴν γνῶθι τὴν ἀδικίαν σου, ὅτι εἰς Κύριον τὸν θεόν σου ἠσέβησας, καὶ διέχεας τὰς ὁδούς σου εἰς ἀλλοτρίους ὑποκάτω παντὸς ξύλου ἀλσώδους, τῆς δὲ φωνῆς μου οὐχ ὑπήκουσας, λέγει Κύριος.
+
+**ELL** Μόνον γνώρισον την ανομίαν σου, ότι ημάρτησας εις Κύριον τον Θεόν σου, και διήρεσας τας οδούς σου εις τους ξένους υποκάτω παντός πρασίνου δένδρου, και δεν υπηκούσατε εις την φωνήν μου, λέγει Κύριος.
+
+**KJV** Only acknowledge thine iniquity, that thou hast transgressed against the Lord thy God, and hast scattered thy ways to the strangers under every green tree, and ye have not obeyed my voice, saith the Lord.
+
+## 14
+
+**GRC** ἐπιστράφητε, υἱοὶ ἀφεστηκότες, λέγει Κύριος, διότι ἐγὼ κατακυριεύσω ὑμῶν, καὶ λήμψομαι ὑμᾶς ἕνα ἐκ πόλεως καὶ δύο ἐκ πατριᾶς καὶ εἰσάξω ὑμᾶς εἰς Σειών,
+
+**ELL** Επιστρέψατε, υιοί αποστάται, λέγει Κύριος, αν και εγώ σας απεστράφην· και θέλω σας λάβει ένα εκ πόλεως και δύο εκ συγγενείας και θέλω σας εισάξει εις την Σιών·
+
+**KJV** Turn, O backsliding children, saith the Lord; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion:
+
+## 15
+
+**GRC** καὶ δώσω ὑμῖν ποιμένας κατὰ τὴν καρδίαν μου, καὶ ποιμανοῦσιν ὑμᾶς ποιμαίνοντες μετ᾽ ἐπιστήμης.
+
+**ELL** και θέλω σας δώσει ποιμένας κατά την καρδίαν μου και θέλουσι σας ποιμάνει εν γνώσει και συνέσει.
+
+**KJV** And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
+
+## 16
+
+**GRC** καὶ ἔσται ἐὰν πληθυνθῆτε καὶ αὐξηθῆτε ἐπὶ τῆς γῆς ἐν ταῖς ἡμέραις ἐκείναις, λέγει Κύριος, οὐκ ἐροῦσιν ἔτι Κιβωτὸς διαθήκης Ἁγίου Ἰσραήλ, οὐκ ἀναβήσεται ἐπὶ καρδίαν, οὐκ ὀνομασθήσεται οὐδὲ ἐπισκεφθήσεται καὶ οὐ ποιηθήσεται ἔτι.
+
+**ELL** Και όταν πληθυνθήτε και αυξηνθήτε επί της γης, εν εκείναις ταις ημέραις, λέγει Κύριος, δεν θέλουσι προφέρει πλέον, Η κιβωτός της διαθήκης του Κυρίου, ουδέ θέλει αναβή επί καρδίαν αυτών, ουδέ θέλουσιν ενθυμηθή αυτήν, ουδέ θέλουσιν επισκεφθή, ουδέ θέλει κατασκευασθή πλέον.
+
+**KJV** And it shall come to pass, when ye be multiplied and increased in the land, in those days, saith the Lord, they shall say no more, The ark of the covenant of the Lord: neither shall it come to mind: neither shall they remember it; neither shall they visit it; neither shall that be done any more.
+
+## 17
+
+**GRC** ἐν ταῖς ἡμέραις ἐκείναις καὶ ἐν τῷ καιρῷ ἐκείνῳ καλέσουσιν τὴν Ἰερουσαλήμ Θρόνος Κυρίου, καὶ συναχθήσονται πάντα τὰ ἔθνη εἰς αὐτήν, καὶ οὐ πορεύσονται ἔτι ὀπίσω τῶν ἐνθυμημάτων τῆς καρδίας αὐτῶν τῆς πονηρᾶς.
+
+**ELL** Εν εκείνω τω καιρώ θέλουσιν ονομάσει την Ιερουσαλήμ· θρόνον του Κυρίου· και πάντα τα έθνη θέλουσι συναχθή προς αυτήν εν τω ονόματι του Κυρίου, προς την Ιερουσαλήμ· και δεν θέλουσι περιπατήσει πλέον οπίσω της ορέξεως της πονηράς αυτών καρδίας.
+
+**KJV** At that time they shall call Jerusalem the throne of the Lord; and all the nations shall be gathered unto it, to the name of the Lord, to Jerusalem: neither shall they walk any more after the imagination of their evil heart.
+
+## 18
+
+**GRC** ἐν ταῖς ἡμέραις ἐκείναις συνελεύσονται οἶκος Ἰούδα ἐπὶ τὸν οἶκον τοῦ Ἰσραήλ, καὶ ἥξουσιν ἐπὶ τὸ αὐτὸ ἀπὸ γῆς βορρᾶ καὶ ἀπὸ πασῶν τῶν χωρῶν ἐπὶ τὴν γῆν ἣν κατεκληρονόμησα τοὺς πατέρας αὐτῶν.
+
+**ELL** Εν εκείναις ταις ημέραις ο οίκος Ιούδα θέλει περιπατήσει μετά του οίκου Ισραήλ, και θέλουσιν ελθεί ομού από της γης του βορρά, εις την γην την οποίαν εκληροδότησα εις τους πατέρας σας.
+
+**KJV** In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given for an inheritance unto your fathers.
+
+## 19
+
+**GRC** καὶ ἐγὼ εἶπα Γένοιτο, Κύριε· ὅτι τάξω σε εἰς ἔθνη, καὶ δώσω σοι γῆν ἐκλεκτὴν κληρονομίαν θεοῦ Παντοκράτορος ἐθνῶν· καὶ εἶπα Πατέρα καλέσετέ με, καὶ ἀπ᾽ ἐμοῦ οὐκ ἀποστραφήσεσθε.
+
+**ELL** Αλλ' εγώ είπα, Πως θέλω σε κατατάξει μεταξύ των τέκνων και δώσει εις σε γην επιθυμητήν, ένδοξον κληρονομίαν των δυνάμεων των εθνών; Και είπα, Συ θέλεις με κράξει, Πάτερ μου· και δεν θέλεις αποστρέψει από όπισθέν μου.
+
+**KJV** But I said, How shall I put thee among the children, and give thee a pleasant land, a goodly heritage of the hosts of nations? and I said, Thou shalt call me, My father; and shalt not turn away from me.
+
+## 20
+
+**GRC** πλὴν ὡς ἀθετεῖ γυνὴ εἰς τὸν συνόντα αὐτῇ, οὕτως ἠθέτησεν εἰς ἐμὲ οἶκος Ἰσραήλ, λέγει Κύριος.
+
+**ELL** Βεβαίως καθώς γυνή αθετεί εις τον άνδρα αυτής, ούτως ηθετήσατε εις εμέ, οίκος Ισραήλ, λέγει Κύριος.
+
+**KJV** Surely as a wife treacherously departeth from her husband, so have ye dealt treacherously with me, O house of Israel, saith the Lord.
+
+## 21
+
+**GRC** φωνὴ ἐκ χειλέων ἠκούσθη κλαυθμοῦ καὶ δεήσεως υἱῶν Ἰσραήλ, ὅτι ἠδίκησαν ἐν ταῖς ὁδοῖς αὐτῶν, ἐπελάθοντο θεοῦ Ἁγίου αὐτῶν.
+
+**ELL** Φωνή ηκούσθη επί των υψηλών τόπων, κλαυθμός και δεήσεις των υιών Ισραήλ· διότι διέστρεψαν την οδόν αυτών, ελησμόνησαν Κύριον τον Θεόν αυτών.
+
+**KJV** A voice was heard upon the high places, weeping and supplications of the children of Israel: for they have perverted their way, and they have forgotten the Lord their God.
+
+## 22
+
+**GRC** ἐπιστράφητε, υἱοὶ ἐπιστρέφοντες, καὶ ἰάσομαι τὰ συντρίμματα ὑμῶν. ἰδοὺ δοῦλοι ἡμεῖς ἐσόμεθά σοι, ὅτι σὺ Κύριος ὁ θεὸς ἡμῶν εἶ.
+
+**ELL** Επιστρέψατε, υιοί αποστάται, και θέλω ιατρεύσει τας αποστασίας σας. Ιδού, ημείς ερχόμεθα προς σέ· διότι συ είσαι Κύριος ο Θεός ημών.
+
+**KJV** Return, ye backsliding children, and I will heal your backslidings. Behold, we come unto thee; for thou art the Lord our God.
+
+## 23
+
+**GRC** ὄντως εἰς ψεῦδος ἦσαν οἱ βουνοὶ καὶ ἡ δύναμις τῶν ὀρέων, πλὴν διὰ Κυρίου θεοῦ ἡμῶν ἡ σωτηρία τοῦ Ἰσραήλ.
+
+**ELL** Τωόντι εις μάτην ελπίζεται σωτηρία εκ των λόφων και εκ του πλήθους των ορέων· μόνον εν Κυρίω τω Θεώ ημών είναι η σωτηρία του Ισραήλ.
+
+**KJV** Truly in vain is salvation hoped for from the hills, and from the multitude of mountains: truly in the Lord our God is the salvation of Israel.
+
+## 24
+
+**GRC** ἡ δὲ αἰσχύνη κατανάλωσεν τοὺς μόχθους τῶν πατέρων ἡμῶν ἀπὸ νεότητος ἡμῶν, τὰ πρόβατα αὐτῶν καὶ τοὺς μόσχους αὐτῶν, καὶ τοὺς υἱοὺς αὐτῶν καὶ τὰς θυγατέρας αὐτῶν.
+
+**ELL** Διότι η αισχύνη κατέφαγε τον κόπον των πατέρων ημών εκ της νεότητος ημών· τα ποίμνια αυτών και τας αγέλας αυτών, τους υιούς αυτών και τας θυγατέρας αυτών.
+
+**KJV** For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters.
+
+## 25
+
+**GRC** ἐκοιμήθημεν ἐν τῇ αἰσχύνῃ ἡμῶν, καὶ ἐπεκάλυψεν ἡμᾶς ἡ ἀτιμία ἡμῶν, διότι ἔναντι τοῦ θεοῦ ἡμῶν ἡμάρτομεν ἡμεῖς καὶ οἱ πατέρες ἡμῶν ἀπὸ νεότητος ἡμῶν ἕως τῆς ἡμέρας ταύτης, καὶ οὐχ ὑπηκούσαμεν τῆς φωνῆς Κυρίου τοῦ θεοῦ ἡμῶν.
+
+**ELL** Εν τη αισχύνη ημών κατακείμεθα, και η ατιμία ημών καλύπτει ημάς· διότι ημαρτήσαμεν εις Κύριον τον Θεόν ημών, ημείς και οι πατέρες ημών, εκ της νεότητος ημών έως της ημέρας ταύτης, και δεν υπηκούσαμεν εις την φωνήν Κυρίου του Θεού ημών.
+
+**KJV** We lie down in our shame, and our confusion covereth us: for we have sinned against the Lord our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the Lord our God.
+
+## Notes
+

@@ -1,0 +1,205 @@
+# Genesis 22 · Γένεσις 22
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Καὶ ἐγένετο μετὰ τὰ ῥήματα ταῦτα ὁ θεὸς ἐπείραζεν τὸν Ἀβραάμ· καὶ εἶπεν πρὸς αὐτόν Ἀβραὰμ Ἀβραάμ. ὁ δὲ εἶπεν Ἰδοὺ ἐγώ.
+
+**ELL** Μετά δε τα πράγματα ταύτα ο Θεός εδοκίμασε τον Αβραάμ, και είπε προς αυτόν, Αβραάμ· ο δε είπεν, Ιδού, εγώ.
+
+**KJV** And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
+
+## 2
+
+**GRC** καὶ εἶπεν Λάβε τὸν υἱόν σου τὸν ἀγαπητὸν ὃν ἠγάπησας, τὸν Ἰσαάκ, καὶ πορεύθητι εἰς τὴν γῆν τὴν ὑψηλήν, καὶ ἀνένεγκον αὐτὸν ἐκεῖ εἰς ὁλοκάρπωσιν ἐφ᾽ ἓν τῶν ὀρέων ὧν ἄν σοι εἴπω.
+
+**ELL** Και είπε, Λάβε τώρα τον υιόν σου τον μονογενή, τον οποίον ηγάπησας, τον Ισαάκ, και ύπαγε εις τον τόπον Μοριά, και πρόσφερε αυτόν εκεί εις ολοκαύτωμα, επί ενός των ορέων, το οποίον θέλω σοι ειπεί.
+
+**KJV** And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.
+
+## 3
+
+**GRC** ἀναστὰς δὲ Ἀβραὰμ τὸ πρωὶ ἐπέσαξεν τὴν ὄνον αὐτοῦ. παρέλαβεν δὲ μεθ᾽ ἑαυτοῦ δύο παῖδας καὶ Ἰσαὰκ τὸν υἱὸν αὐτοῦ, καὶ σχὶσας ξύλα εἰς ὁλοκάρπωσιν ἀναστὰς ἐπορεύθη. καὶ ἦλθεν ἐπὶ τὸν τόπον ὃν εἶπεν αὐτῷ ὁ θεὸς
+
+**ELL** Σηκωθείς δε Αβραάμ ενωρίς το πρωΐ, εσαμάρωσε την όνον αυτού και έλαβε μεθ' εαυτού δύο εκ των δούλων αυτού και Ισαάκ τον υιόν αυτού· και σχίσας ξύλα διά την ολοκαύτωσιν, εσηκώθη και υπήγεν εις τον τόπον τον οποίον είπε προς αυτόν ο Θεός.
+
+**KJV** And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.
+
+## 4
+
+**GRC** τῇ ἡμέρᾳ τῇ τρίτῃ. καὶ ἀναβλέψας Ἀβραὰμ τοῖς ὀφθαλμοῖς ἴδεν τὸν τόπον μακρόθεν·
+
+**ELL** Την δε τρίτην ημέραν υψώσας ο Αβραάμ τους οφθαλμούς αυτού, είδε τον τόπον μακρόθεν.
+
+**KJV** Then on the third day Abraham lifted up his eyes, and saw the place afar off.
+
+## 5
+
+**GRC** καὶ εἶπεν Ἀβραὰμ τοῖς παισὶν αὐτοῦ Καθίσατε αὐτοῦ μετὰ τῆς ὄνου, ἐγὼ δὲ καὶ τὸ παιδίον διελευσόμεθα ἕως ὧδε· καὶ προσκυνήσαντες ἀναστρέψωμεν πρὸς ὑμᾶς.
+
+**ELL** Και είπεν ο Αβραάμ προς τους δούλους αυτού, Σεις καθίσατε αυτού μετά της όνου· εγώ δε και το παιδάριον θέλομεν υπάγει έως εκεί· και αφού προσκυνήσωμεν, θέλομεν επιστρέψει προς εσάς.
+
+**KJV** And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.
+
+## 6
+
+**GRC** ἔλαβεν δὲ Ἀβραὰμ τὰ ξύλα τῆς ὁλοκαρπώσεως καὶ ἐπέθηκεν Ἰσαὰκ τῷ υἱῷ αὐτοῦ· ἔλαβεν δὲ καὶ τὸ πῦρ μετὰ χεῖρα καὶ τὴν μάχαιραν, καὶ ἐπορεύθησαν οἱ δύο ἅμα.
+
+**ELL** Και λαβών ο Αβραάμ τα ξύλα της ολοκαυτώσεως, επέθεσεν επί τον Ισαάκ τον υιόν αυτού· και έλαβεν εις την χείρα αυτού το πυρ, και την μάχαιραν, και υπήγον οι δύο ομού.
+
+**KJV** And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.
+
+## 7
+
+**GRC** καὶ εἶπεν Ἰσαὰκ πρὸς Ἀβραὰμ τὸν πατέρα αὐτοῦ εἴπας Πάτερ· ὁ δὲ εἶπεν Τί ἐστιν, τέκνον; λέγων Ἰδού τὸ πῦρ καὶ τὰ ξύλα· ποῦ ἔστιν τὸ πρόβατον τὸ εἰς ὁλοκάρπωσιν;
+
+**ELL** Τότε ελάλησεν ο Ισαάκ προς Αβραάμ τον πατέρα αυτού και είπε, Πάτερ μου. Ο δε είπεν, Ιδού, εγώ, τέκνον μου. Και είπεν ο Ισαάκ, Ιδού, το πυρ και τα ξύλα· αλλά που το πρόβατον διά την ολοκαύτωσιν;
+
+**KJV** And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?
+
+## 8
+
+**GRC** εἶπεν δὲ Ἀβραάμ Ὁ θεὸς ὄψεται ἑαυτῷ πρόβατον εἰς ὁλοκάρπωσιν, τέκνον. πορευθέντες δὲ ἀμφότεροι ἅμα
+
+**ELL** Και είπεν ο Αβραάμ, Ο Θεός, τέκνον μου, θέλει προβλέψει εις εαυτόν το πρόβατον διά την ολοκαύτωσιν. Και επορεύοντο οι δύο ομού.
+
+**KJV** And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.
+
+## 9
+
+**GRC** ἦλθον ἐπὶ τὸν τόπον ὃν εἶπεν αὐτῷ ὁ θεός. καὶ ᾠκοδόμησεν ἐκεῖ Ἀβραὰμ θυσιαστήριον καὶ ἐπέθηκεν τὰ ξύλα· καὶ συμποδίσας Ἰσαὰκ τὸν υἱὸν αὐτοῦ ἐπέθηκεν αὐτὸν ἐπὶ τὸ θυσιαστήριον ἐπάνω τῶν ξύλων.
+
+**ELL** Αφού δε έφθασαν εις τον τόπον τον οποίον είπε προς αυτόν ο Θεός, ωκοδόμησεν εκεί ο Αβραάμ το θυσιαστήριον και διέθεσε τα ξύλα, και δέσας τον Ισαάκ τον υιόν αυτού έβαλεν αυτόν επί το θυσιαστήριον επάνω των ξύλων·
+
+**KJV** And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.
+
+## 10
+
+**GRC** καὶ ἐξέτεινεν Ἀβραὰμ τὴν χεῖρα αὐτοῦ λαβεῖν τὴν μάχαιραν, σφάξαι τὸν υἱὸν αὐτοῦ.
+
+**ELL** και εκτείνας ο Αβραάμ την χείρα αυτού, έλαβε την μάχαιραν διά να σφάξη τον υιόν αυτού.
+
+**KJV** And Abraham stretched forth his hand, and took the knife to slay his son.
+
+## 11
+
+**GRC** καὶ ἐκάλεσεν αὐτὸν ἄγγελος Κυρίου ἐκ τοῦ οὐρανοῦ καὶ εἶπεν αὐτῷ Ἀβραὰμ Ἀβραάμ. ὁ δὲ εἶπεν Ἰδού ἐγώ.
+
+**ELL** Άγγελος δε Κυρίου εφώνησε προς αυτόν εκ του ουρανού και είπεν, Αβραάμ, Αβραάμ. Ο δε είπεν, Ιδού, εγώ.
+
+**KJV** And the angel of the Lord called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.
+
+## 12
+
+**GRC** καὶ εἶπεν Μὴ ἐπιβάλῃς τὴν χεῖρά σου ἐπὶ τὸ παιδάριον, μηδὲ ποιήσῃς αὐτῷ μηδέν· νῦν γὰρ ἔγνων ὅτι φοβῇ τὸν θεὸν σύ, καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι᾽ ἐμέ.
+
+**ELL** Και είπε, Μη επιβάλης την χείρα σου επί το παιδάριον, και μη πράξης εις αυτό μηδέν· διότι τώρα εγνώρισα ότι συ φοβείσαι τον Θεόν, επειδή δεν ελυπήθης τον υιόν σου τον μονογενή δι' εμέ.
+
+**KJV** And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.
+
+## 13
+
+**GRC** καὶ ἀναβλέψας Ἀβραὰμ τοῖς ὀφθαλμοῖς αὐτοῦ ἴδεν, καὶ ἰδοὺ κριὸς εἷς κατεχόμενος ἐν φυτῷ σαβὲκ τῶν κεράτων. καὶ ἐπορεύθη Ἀβραὰμ καὶ ἔλαβεν τὸν κριόν, καὶ ἀνήνεγκεν αὐτὸν εἰς ὁλοκάρπωσιν ἀντὶ Ἰσαὰκ τοῦ υἱοῦ αὐτοῦ.
+
+**ELL** Και υψώσας ο Αβραάμ τους οφθαλμούς αυτού είδε· και ιδού, κριός όπισθεν αυτού, κρατούμενος από των κεράτων αυτού εις φυτόν πυκνόκλαδον· και ελθών ο Αβραάμ, έλαβε τον κριόν και προσέφερεν αυτόν εις ολοκαύτωμα αντί του υιού αυτού.
+
+**KJV** And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
+
+## 14
+
+**GRC** καὶ ἐκάλεσεν Ἀβραὰμ τὸ ὄνομα τοῦ τόπου ἐκείνου Κύριος ἴδεν· ἵνα εἴπωσιν σήμερον Ἐν τῷ ὄρει Κύριος ὤφθη.
+
+**ELL** Και εκάλεσεν ο Αβραάμ το όνομα του τόπου εκείνου Ιεοβά-ιρέ· ως λέγεται και την σήμερον, Εν τω όρει ο Κύριος θέλει εμφανισθή.
+
+**KJV** And Abraham called the name of that place Jehovah–jireh: as it is said to this day, In the mount of the Lord it shall be seen.
+
+## 15
+
+**GRC** καὶ ἐκάλεσεν ἄγγελος Κυρίου τὸν Ἀβραὰμ δεύτερον ἐκ τοῦ οὐρανοῦ
+
+**ELL** Και εφώνησε δεύτερον ο άγγελος του Κυρίου προς τον Αβραάμ εκ του ουρανού,
+
+**KJV** And the angel of the Lord called unto Abraham out of heaven the second time,
+
+## 16
+
+**GRC** λέγων Κατ᾽ ἐμαυτοῦ ὤμοσα, λέγει Κύριος, οὗ εἵνεκεν ἐποίησας τὸ ῥῆμα τοῦτο καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι᾽ ἐμέ,
+
+**ELL** και είπεν, Ώμοσα εις εμαυτόν, λέγει Κύριος, ότι, επειδή έπραξας το πράγμα τούτο και δεν ελυπήθης τον υιόν σου, τον μονογενή σου,
+
+**KJV** And said, By myself have I sworn, saith the Lord, for because thou hast done this thing, and hast not withheld thy son, thine only son:
+
+## 17
+
+**GRC** εἰ μήν εὐλογῶν εὐλογήσω σε, καὶ πληθύνων πληθυνῶ τὸ σπέρμα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ ὡς τὴν ἄμμον τὴν παρὰ τὸ χεῖλος τῆς θαλάσσης· καὶ κληρονομήσει τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων.
+
+**ELL** ότι ευλογών θέλω σε ευλογήσει, και πληθύνων θέλω πληθύνει το σπέρμα σου ως τα άστρα του ουρανού και ως την άμμον την παρά το χείλος της θαλάσσης· και το σπέρμα σου θέλει κυριεύσει τας πύλας των εχθρών αυτού·
+
+**KJV** That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
+
+## 18
+
+**GRC** καὶ ἐνευλογηθήσονται ἐν τῷ σπέρματι σου πάντα τὰ ἔθνη, ἀνθ᾽ ὧν ὑπήκουσας τῆς ἐμῆς φωνῆς.
+
+**ELL** και εν τω σπέρματί σου θέλουσιν ευλογηθή πάντα τα έθνη της γής· διότι υπήκουσας εις την φωνήν μου.
+
+**KJV** And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
+
+## 19
+
+**GRC** ἀπεστράφη δὲ Ἀβραὰμ πρὸς τοὺς παῖδας αὐτοῦ, καὶ ἀναστάντες ἐπορεύθησαν ἐπὶ τὸ φρέαρ τοῦ ὃρκου· καὶ κατῴκησεν Ἀβραὰμ ἐπὶ τῷ φρέατι τοῦ ὅρκου.
+
+**ELL** Και επέστρεψεν ο Αβραάμ προς τους δούλους αυτού· και σηκωθέντες, υπήγον ομού εις Βηρ-σαβεέ· και κατώκησεν ο Αβραάμ εν Βηρ-σαβεέ.
+
+**KJV** So Abraham returned unto his young men, and they rose up and went together to Beer–sheba; and Abraham dwelt at Beer–sheba.
+
+## 20
+
+**GRC** Ἐγένετο· δὲ μετὰ τὰ ῥήματα ταῦτα καὶ ἀνηγγέλη τῷ Ἀβραὰμ λέγοντες Ἰδοὺ τέτοκεν Μελχὰ καὶ αὐτὴ υἱοὺς Ναχὼρ τῷ ἀδελφῷ σου,
+
+**ELL** Μετά δε τα πράγματα ταύτα, ανήγγειλαν προς τον Αβραάμ λέγοντες, Ιδού, η Μελχά εγέννησε και αυτή υιούς εις τον Ναχώρ τον αδελφόν σου·
+
+**KJV** And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;
+
+## 21
+
+**GRC** τὸν Ὢξ πρωτότοκον καὶ τὸν Βαὺξ ἀδελφὸν αὐτοῦ, καὶ τὸν Καμουὴλ πατέρα Σύρων,
+
+**ELL** τον Ουζ πρωτότοκον αυτού, και τον Βουζ αδελφόν αυτού, και τον Κεμουήλ τον πατέρα του Αράμ,
+
+**KJV** Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,
+
+## 22
+
+**GRC** καὶ τὸν Χάσζαδ καὶ τὸν Ἁζαῦ καὶ τὸν φαλδὰς καὶ τὸν Ἰελδὰφ καὶ τὸν Βαθουήλ.
+
+**ELL** και τον Κεσέδ, και τον Αζαύ, και τον Φαλδές, και τον Ιελδάφ, και τον Βαθουήλ.
+
+**KJV** And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.
+
+## 23
+
+**GRC** καὶ Βαθουὴλ ἐγέννησεν τὴν Ῥεβέκκαν. ὀκτὼ οὗτοι υἱοὶ οὓς ἔτεκεν Μελχὰ τῷ Ναχὼρ τῷ ἀδελφῷ Ἀβραάμ.
+
+**ELL** Ο δε Βαθουήλ εγέννησε την Ρεβέκκαν· τους οκτώ τούτους εγέννησεν η Μελχά εις τον Ναχώρ τον αδελφόν του Αβραάμ.
+
+**KJV** And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother.
+
+## 24
+
+**GRC** καὶ ἡ παλλακὴ αὐτοῦ ᾗ ὄνομα Ῥεηρά, ἔτεκεν καὶ αὐτὴ τὸν Τάβεκ καὶ τὸν Τάαμ καὶ τὸν Τόχος καὶ τὸν Μωχά.
+
+**ELL** Και η παλλακή αυτού, η ονομαζομένη Ρευμά, εγέννησε και αυτή τον Ταβέκ και τον Γαάμ και τον Ταχάς και τον Μααχά.
+
+**KJV** And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.
+
+## Notes
+
