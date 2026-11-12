@@ -1,0 +1,286 @@
+{
+  "testament": "Old Testament · Παλαιά Διαθήκη",
+  "sources": {
+    "GRC": "Septuagint, Swete 1909-1930",
+    "ELL": "Vamvas 1850",
+    "KJV": "King James Version 1769",
+    "HEB": "Westminster Leningrad Codex",
+    "JPS": "Jewish Publication Society 1917"
+  },
+  "books": [
+    {
+      "slug": "genesis",
+      "folder": "01-genesis",
+      "name": "Genesis",
+      "greek": "Γένεσις",
+      "chapters": 50
+    },
+    {
+      "slug": "exodus",
+      "folder": "02-exodus",
+      "name": "Exodus",
+      "greek": "Έξοδος",
+      "chapters": 40
+    },
+    {
+      "slug": "leviticus",
+      "folder": "03-leviticus",
+      "name": "Leviticus",
+      "greek": "Λευιτικόν",
+      "chapters": 27
+    },
+    {
+      "slug": "numbers",
+      "folder": "04-numbers",
+      "name": "Numbers",
+      "greek": "Αριθμοί",
+      "chapters": 36
+    },
+    {
+      "slug": "deuteronomy",
+      "folder": "05-deuteronomy",
+      "name": "Deuteronomy",
+      "greek": "Δευτερονόμιον",
+      "chapters": 34
+    },
+    {
+      "slug": "joshua",
+      "folder": "06-joshua",
+      "name": "Joshua",
+      "greek": "Ιησούς του Ναυή",
+      "chapters": 24
+    },
+    {
+      "slug": "judges",
+      "folder": "07-judges",
+      "name": "Judges",
+      "greek": "Κριταί",
+      "chapters": 21
+    },
+    {
+      "slug": "ruth",
+      "folder": "08-ruth",
+      "name": "Ruth",
+      "greek": "Ρουθ",
+      "chapters": 4
+    },
+    {
+      "slug": "1-samuel",
+      "folder": "09-1-samuel",
+      "name": "1 Samuel",
+      "greek": "Βασιλειών Α΄",
+      "chapters": 31
+    },
+    {
+      "slug": "2-samuel",
+      "folder": "10-2-samuel",
+      "name": "2 Samuel",
+      "greek": "Βασιλειών Β΄",
+      "chapters": 24
+    },
+    {
+      "slug": "1-kings",
+      "folder": "11-1-kings",
+      "name": "1 Kings",
+      "greek": "Βασιλειών Γ΄",
+      "chapters": 22
+    },
+    {
+      "slug": "2-kings",
+      "folder": "12-2-kings",
+      "name": "2 Kings",
+      "greek": "Βασιλειών Δ΄",
+      "chapters": 25
+    },
+    {
+      "slug": "1-chronicles",
+      "folder": "13-1-chronicles",
+      "name": "1 Chronicles",
+      "greek": "Παραλειπομένων Α΄",
+      "chapters": 29
+    },
+    {
+      "slug": "2-chronicles",
+      "folder": "14-2-chronicles",
+      "name": "2 Chronicles",
+      "greek": "Παραλειπομένων Β΄",
+      "chapters": 36
+    },
+    {
+      "slug": "ezra",
+      "folder": "15-ezra",
+      "name": "Ezra",
+      "greek": "Έσδρας",
+      "chapters": 10
+    },
+    {
+      "slug": "nehemiah",
+      "folder": "16-nehemiah",
+      "name": "Nehemiah",
+      "greek": "Νεεμίας",
+      "chapters": 13
+    },
+    {
+      "slug": "esther",
+      "folder": "17-esther",
+      "name": "Esther",
+      "greek": "Εσθήρ",
+      "chapters": 10
+    },
+    {
+      "slug": "job",
+      "folder": "18-job",
+      "name": "Job",
+      "greek": "Ιώβ",
+      "chapters": 42
+    },
+    {
+      "slug": "psalms",
+      "folder": "19-psalms",
+      "name": "Psalms",
+      "greek": "Ψαλμοί",
+      "chapters": 151,
+      "pad": 3
+    },
+    {
+      "slug": "proverbs",
+      "folder": "20-proverbs",
+      "name": "Proverbs",
+      "greek": "Παροιμίαι",
+      "chapters": 31
+    },
+    {
+      "slug": "ecclesiastes",
+      "folder": "21-ecclesiastes",
+      "name": "Ecclesiastes",
+      "greek": "Εκκλησιαστής",
+      "chapters": 12
+    },
+    {
+      "slug": "song-of-solomon",
+      "folder": "22-song-of-solomon",
+      "name": "Song of Solomon",
+      "greek": "Άσμα Ασμάτων",
+      "chapters": 8
+    },
+    {
+      "slug": "isaiah",
+      "folder": "23-isaiah",
+      "name": "Isaiah",
+      "greek": "Ησαΐας",
+      "chapters": 66
+    },
+    {
+      "slug": "jeremiah",
+      "folder": "24-jeremiah",
+      "name": "Jeremiah",
+      "greek": "Ιερεμίας",
+      "chapters": 52
+    },
+    {
+      "slug": "lamentations",
+      "folder": "25-lamentations",
+      "name": "Lamentations",
+      "greek": "Θρήνοι",
+      "chapters": 5
+    },
+    {
+      "slug": "ezekiel",
+      "folder": "26-ezekiel",
+      "name": "Ezekiel",
+      "greek": "Ιεζεκιήλ",
+      "chapters": 48
+    },
+    {
+      "slug": "daniel",
+      "folder": "27-daniel",
+      "name": "Daniel",
+      "greek": "Δανιήλ",
+      "chapters": 12
+    },
+    {
+      "slug": "hosea",
+      "folder": "28-hosea",
+      "name": "Hosea",
+      "greek": "Ωσηέ",
+      "chapters": 14
+    },
+    {
+      "slug": "joel",
+      "folder": "29-joel",
+      "name": "Joel",
+      "greek": "Ιωήλ",
+      "chapters": 3
+    },
+    {
+      "slug": "amos",
+      "folder": "30-amos",
+      "name": "Amos",
+      "greek": "Αμώς",
+      "chapters": 9
+    },
+    {
+      "slug": "obadiah",
+      "folder": "31-obadiah",
+      "name": "Obadiah",
+      "greek": "Αβδιού",
+      "chapters": 1
+    },
+    {
+      "slug": "jonah",
+      "folder": "32-jonah",
+      "name": "Jonah",
+      "greek": "Ιωνάς",
+      "chapters": 4
+    },
+    {
+      "slug": "micah",
+      "folder": "33-micah",
+      "name": "Micah",
+      "greek": "Μιχαίας",
+      "chapters": 7
+    },
+    {
+      "slug": "nahum",
+      "folder": "34-nahum",
+      "name": "Nahum",
+      "greek": "Ναούμ",
+      "chapters": 3
+    },
+    {
+      "slug": "habakkuk",
+      "folder": "35-habakkuk",
+      "name": "Habakkuk",
+      "greek": "Αμβακούμ",
+      "chapters": 3
+    },
+    {
+      "slug": "zephaniah",
+      "folder": "36-zephaniah",
+      "name": "Zephaniah",
+      "greek": "Σοφονίας",
+      "chapters": 3
+    },
+    {
+      "slug": "haggai",
+      "folder": "37-haggai",
+      "name": "Haggai",
+      "greek": "Αγγαίος",
+      "chapters": 2
+    },
+    {
+      "slug": "zechariah",
+      "folder": "38-zechariah",
+      "name": "Zechariah",
+      "greek": "Ζαχαρίας",
+      "chapters": 14
+    },
+    {
+      "slug": "malachi",
+      "folder": "39-malachi",
+      "name": "Malachi",
+      "greek": "Μαλαχίας",
+      "chapters": 4
+    }
+  ]
+}

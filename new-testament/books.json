@@ -1,0 +1,199 @@
+{
+  "testament": "New Testament · Καινή Διαθήκη",
+  "sources": {
+    "GRC": "Robinson-Pierpont 2018",
+    "ELL": "Vamvas 1850",
+    "KJV": "King James Version 1769"
+  },
+  "books": [
+    {
+      "slug": "matthew",
+      "folder": "01-matthew",
+      "name": "Matthew",
+      "greek": "Κατά Ματθαίον",
+      "chapters": 28
+    },
+    {
+      "slug": "mark",
+      "folder": "02-mark",
+      "name": "Mark",
+      "greek": "Κατά Μάρκον",
+      "chapters": 16
+    },
+    {
+      "slug": "luke",
+      "folder": "03-luke",
+      "name": "Luke",
+      "greek": "Κατά Λουκάν",
+      "chapters": 24
+    },
+    {
+      "slug": "john",
+      "folder": "04-john",
+      "name": "John",
+      "greek": "Κατά Ιωάννην",
+      "chapters": 21
+    },
+    {
+      "slug": "acts",
+      "folder": "05-acts",
+      "name": "Acts",
+      "greek": "Πράξεις των Αποστόλων",
+      "chapters": 28
+    },
+    {
+      "slug": "romans",
+      "folder": "06-romans",
+      "name": "Romans",
+      "greek": "Προς Ρωμαίους",
+      "chapters": 16
+    },
+    {
+      "slug": "1-corinthians",
+      "folder": "07-1-corinthians",
+      "name": "1 Corinthians",
+      "greek": "Προς Κορινθίους Α΄",
+      "chapters": 16
+    },
+    {
+      "slug": "2-corinthians",
+      "folder": "08-2-corinthians",
+      "name": "2 Corinthians",
+      "greek": "Προς Κορινθίους Β΄",
+      "chapters": 13
+    },
+    {
+      "slug": "galatians",
+      "folder": "09-galatians",
+      "name": "Galatians",
+      "greek": "Προς Γαλάτας",
+      "chapters": 6
+    },
+    {
+      "slug": "ephesians",
+      "folder": "10-ephesians",
+      "name": "Ephesians",
+      "greek": "Προς Εφεσίους",
+      "chapters": 6
+    },
+    {
+      "slug": "philippians",
+      "folder": "11-philippians",
+      "name": "Philippians",
+      "greek": "Προς Φιλιππησίους",
+      "chapters": 4
+    },
+    {
+      "slug": "colossians",
+      "folder": "12-colossians",
+      "name": "Colossians",
+      "greek": "Προς Κολοσσαείς",
+      "chapters": 4
+    },
+    {
+      "slug": "1-thessalonians",
+      "folder": "13-1-thessalonians",
+      "name": "1 Thessalonians",
+      "greek": "Προς Θεσσαλονικείς Α΄",
+      "chapters": 5
+    },
+    {
+      "slug": "2-thessalonians",
+      "folder": "14-2-thessalonians",
+      "name": "2 Thessalonians",
+      "greek": "Προς Θεσσαλονικείς Β΄",
+      "chapters": 3
+    },
+    {
+      "slug": "1-timothy",
+      "folder": "15-1-timothy",
+      "name": "1 Timothy",
+      "greek": "Προς Τιμόθεον Α΄",
+      "chapters": 6
+    },
+    {
+      "slug": "2-timothy",
+      "folder": "16-2-timothy",
+      "name": "2 Timothy",
+      "greek": "Προς Τιμόθεον Β΄",
+      "chapters": 4
+    },
+    {
+      "slug": "titus",
+      "folder": "17-titus",
+      "name": "Titus",
+      "greek": "Προς Τίτον",
+      "chapters": 3
+    },
+    {
+      "slug": "philemon",
+      "folder": "18-philemon",
+      "name": "Philemon",
+      "greek": "Προς Φιλήμονα",
+      "chapters": 1
+    },
+    {
+      "slug": "hebrews",
+      "folder": "19-hebrews",
+      "name": "Hebrews",
+      "greek": "Προς Εβραίους",
+      "chapters": 13
+    },
+    {
+      "slug": "james",
+      "folder": "20-james",
+      "name": "James",
+      "greek": "Ιακώβου",
+      "chapters": 5
+    },
+    {
+      "slug": "1-peter",
+      "folder": "21-1-peter",
+      "name": "1 Peter",
+      "greek": "Πέτρου Α΄",
+      "chapters": 5
+    },
+    {
+      "slug": "2-peter",
+      "folder": "22-2-peter",
+      "name": "2 Peter",
+      "greek": "Πέτρου Β΄",
+      "chapters": 3
+    },
+    {
+      "slug": "1-john",
+      "folder": "23-1-john",
+      "name": "1 John",
+      "greek": "Ιωάννου Α΄",
+      "chapters": 5
+    },
+    {
+      "slug": "2-john",
+      "folder": "24-2-john",
+      "name": "2 John",
+      "greek": "Ιωάννου Β΄",
+      "chapters": 1
+    },
+    {
+      "slug": "3-john",
+      "folder": "25-3-john",
+      "name": "3 John",
+      "greek": "Ιωάννου Γ΄",
+      "chapters": 1
+    },
+    {
+      "slug": "jude",
+      "folder": "26-jude",
+      "name": "Jude",
+      "greek": "Ιούδα",
+      "chapters": 1
+    },
+    {
+      "slug": "revelation",
+      "folder": "27-revelation",
+      "name": "Revelation",
+      "greek": "Αποκάλυψις Ιωάννου",
+      "chapters": 22
+    }
+  ]
+}

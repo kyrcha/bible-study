@@ -1,0 +1,99 @@
+# Psalms 11 · Ψαλμοί 11
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Εἰς τὸ τέλος· τῷ Δαυεὶδ ψαλμός. Ἐπὶ τῷ κυρίῳ πέποιθα· πῶς ἐρεῖτε τῇ ψυχῇ μου Μεταναστεύου ἐπὶ τὰ ὄρη ὡς στρουθίον;
+
+**ELL** «Εις τον πρώτον μουσικόν. Ψαλμός του Δαβίδ.» Επί τον Κύριον πέποιθα· πως λέγετε εις την ψυχήν μου, Φεύγε εις το όρος σας, ως πτηνόν;
+
+**KJV** To the chief Musician, A Psalm of David. In the Lord put I my trust: how say ye to my soul, Flee as a bird to your mountain?
+
+**HEB** לַמְנַצֵּ֗חַ לְדָ֫וִ֥ד בַּֽיהוָ֨ה ׀ חָסִ֗יתִי אֵ֭יךְ תֹּאמְר֣וּ לְנַפְשִׁ֑י נודו נ֝֗וּדִי הַרְכֶ֥ם צִפּֽוֹר׃
+
+**JPS** For the Leader. A Psalm of David. In HaShem have I taken refuge; how say ye to my soul: 'Flee thou! to your mountain, ye birds'?
+
+## 2
+
+**GRC** ὅτι ἰδοὺ οἱ ἁμαρτωλοὶ ἐνέτειναν τόξον, ἡτοίμασαν βέλη εἰς φαρέτραν, τοῦ κατατοξεῦσαι ἐν σκοτομήνῃ τοὺς εὐθεῖς τῇ καρδίᾳ.
+
+**ELL** Διότι, ιδού, οι ασεβείς ενέτειναν τόξον· ητοίμασαν τα βέλη αυτών επί την χορδήν, διά να τοξεύσωσιν εν σκότει τους ευθείς την καρδίαν.
+
+**KJV** For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.
+
+**HEB** כִּ֤י הִנֵּ֪ה הָרְשָׁעִ֡ים יִדְרְכ֬וּן קֶ֗שֶׁת כּוֹנְנ֣וּ חִצָּ֣ם עַל־יֶ֑תֶר לִיר֥וֹת בְּמוֹ־אֹ֝֗פֶל לְיִשְׁרֵי־לֵֽב׃
+
+**JPS** For, lo, the wicked bend the bow, they have made ready their arrow upon the string, that they may shoot in darkness at the upright in heart.
+
+## 3
+
+**GRC** ὅτι ἃ κατηρτίσω καθεῖλον· ὁ δὲ δίκαιος τί ἐποίησεν;
+
+**ELL** Εάν τα θεμέλια καταστραφώσιν, ο δίκαιος τι δύναται να κάμη;
+
+**KJV** If the foundations be destroyed, what can the righteous do?
+
+**HEB** כִּ֣י הַ֭שָּׁתוֹת יֵֽהָרֵס֑וּן צַ֝דִּ֗יק מַה־פָּעָֽל׃
+
+**JPS** When the foundations are destroyed, what hath the righteous wrought?
+
+## 4
+
+**GRC** Κύριος ἐν ναῷ ἁγίῳ αὐτοῦ. Κύριος, ἐν οὐρανῷ ὁ θρόνος αὐτοῦ. οἱ ὀφθαλμοὶ αὐτοῦ εἰς τὸν πένητα ἀποβλέπουσιν, τὰ βλέφαρα αὐτοῦ ἐξετάζει τοὺς υἱοὺς τῶν ἀνθρώπων.
+
+**ELL** Ο Κύριος είναι εν τω ναώ τω αγίω αυτού· ο Κύριος εν τω ουρανώ έχει τον θρόνον αυτού· οι οφθαλμοί αυτού βλέπουσι, τα βλέφαρα αυτού εξετάζουσι, τους υιούς των ανθρώπων.
+
+**KJV** The Lord is in his holy temple, the Lord’s throne is in heaven: his eyes behold, his eyelids try, the children of men.
+
+**HEB** יְהוָ֤ה ׀ בְּֽהֵ֘יכַ֤ל קָדְשׁ֗וֹ יְהוָה֮ בַּשָּׁמַ֢יִם כִּ֫סְא֥וֹ עֵינָ֥יו יֶחֱז֑וּ עַפְעַפָּ֥יו יִ֝בְחֲנ֗וּ בְּנֵ֣י אָדָֽם׃
+
+**JPS** HaShem is in His holy temple, HaShem, His throne is in heaven; His eyes behold, His eyelids try, the children of men.
+
+## 5
+
+**GRC** Κύριος ἐξετάζει τὸν δίκαιον καὶ τὸν ἀσεβῆ· ὁ δὲ ἀγαπῶν ἀδικίαν μισεῖ τὴν ἑαυτοῦ ψυχήν.
+
+**ELL** Ο Κύριος εξετάζει τον δίκαιον· τον δε ασεβή και τον αγαπώντα την αδικίαν μισεί η ψυχή αυτού.
+
+**KJV** The Lord trieth the righteous: but the wicked and him that loveth violence his soul hateth.
+
+**HEB** יְהוָה֮ צַדִּ֢יק יִ֫בְחָ֥ן וְ֭רָשָׁע וְאֹהֵ֣ב חָמָ֑ס שָֽׂנְאָ֥ה נַפְשֽׁוֹ׃
+
+**JPS** HaShem trieth the righteous; but the wicked and him that loveth violence His soul hateth.
+
+## 6
+
+**GRC** ἐπιβρέξει ἐπὶ ἁμαρτωλοὺς παγίδας· πῦρ καὶ θεῖον καὶ πνεῦμα καταιγίδος ἡ μερὶς τοῦ ποτηρίου αὐτῶν.
+
+**ELL** Θέλει βρέξει επί τους ασεβείς παγίδας· πυρ και θείον και ανεμοζάλη είναι η μερίς του ποτηρίου αυτών.
+
+**KJV** Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.
+
+**HEB** יַמְטֵ֥ר עַל־רְשָׁעִ֗ים פַּ֫חִ֥ים אֵ֣שׁ וְ֭גָפְרִית וְר֥וּחַ זִלְעָפ֗וֹת מְנָ֣ת כּוֹסָֽם׃
+
+**JPS** Upon the wicked He will cause to rain coals; fire and brimstone and burning wind shall be the portion of their cup.
+
+## 7
+
+**GRC** ὅτι δίκαιος Κύριος καὶ δικαιοσύνας ἠγάπησεν, εὐθύτητα εἶδεν τὸ πρόσωπον αὐτοῦ.
+
+**ELL** Διότι δίκαιος ων ο Κύριος, αγαπά δικαιοσύνην· το πρόσωπον αυτού βλέπει ευθύτητα.
+
+**KJV** For the righteous Lord loveth righteousness; his countenance doth behold the upright.
+
+**HEB** כִּֽי־צַדִּ֣יק יְ֭הוָה צְדָק֣וֹת אָהֵ֑ב יָ֝שָׁ֗ר יֶחֱז֥וּ פָנֵֽימוֹ׃
+
+**JPS** For HaShem is righteous, He loveth righteousness; the upright shall behold His face.
+
+## Notes
+

@@ -1,0 +1,41 @@
+# Old Testament · Παλαιά Διαθήκη
+
+- [Genesis · Γένεσις](01-genesis/README.md) — 50 chapters
+- [Exodus · Έξοδος](02-exodus/README.md) — 40 chapters
+- [Leviticus · Λευιτικόν](03-leviticus/README.md) — 27 chapters
+- [Numbers · Αριθμοί](04-numbers/README.md) — 36 chapters
+- [Deuteronomy · Δευτερονόμιον](05-deuteronomy/README.md) — 34 chapters
+- [Joshua · Ιησούς του Ναυή](06-joshua/README.md) — 24 chapters
+- [Judges · Κριταί](07-judges/README.md) — 21 chapters
+- [Ruth · Ρουθ](08-ruth/README.md) — 4 chapters
+- [1 Samuel · Βασιλειών Α΄](09-1-samuel/README.md) — 31 chapters
+- [2 Samuel · Βασιλειών Β΄](10-2-samuel/README.md) — 24 chapters
+- [1 Kings · Βασιλειών Γ΄](11-1-kings/README.md) — 22 chapters
+- [2 Kings · Βασιλειών Δ΄](12-2-kings/README.md) — 25 chapters
+- [1 Chronicles · Παραλειπομένων Α΄](13-1-chronicles/README.md) — 29 chapters
+- [2 Chronicles · Παραλειπομένων Β΄](14-2-chronicles/README.md) — 36 chapters
+- [Ezra · Έσδρας](15-ezra/README.md) — 10 chapters
+- [Nehemiah · Νεεμίας](16-nehemiah/README.md) — 13 chapters
+- [Esther · Εσθήρ](17-esther/README.md) — 10 chapters
+- [Job · Ιώβ](18-job/README.md) — 42 chapters
+- [Psalms · Ψαλμοί](19-psalms/README.md) — 151 chapters
+- [Proverbs · Παροιμίαι](20-proverbs/README.md) — 31 chapters
+- [Ecclesiastes · Εκκλησιαστής](21-ecclesiastes/README.md) — 12 chapters
+- [Song of Solomon · Άσμα Ασμάτων](22-song-of-solomon/README.md) — 8 chapters
+- [Isaiah · Ησαΐας](23-isaiah/README.md) — 66 chapters
+- [Jeremiah · Ιερεμίας](24-jeremiah/README.md) — 52 chapters
+- [Lamentations · Θρήνοι](25-lamentations/README.md) — 5 chapters
+- [Ezekiel · Ιεζεκιήλ](26-ezekiel/README.md) — 48 chapters
+- [Daniel · Δανιήλ](27-daniel/README.md) — 12 chapters
+- [Hosea · Ωσηέ](28-hosea/README.md) — 14 chapters
+- [Joel · Ιωήλ](29-joel/README.md) — 3 chapters
+- [Amos · Αμώς](30-amos/README.md) — 9 chapters
+- [Obadiah · Αβδιού](31-obadiah/README.md) — 1 chapters
+- [Jonah · Ιωνάς](32-jonah/README.md) — 4 chapters
+- [Micah · Μιχαίας](33-micah/README.md) — 7 chapters
+- [Nahum · Ναούμ](34-nahum/README.md) — 3 chapters
+- [Habakkuk · Αμβακούμ](35-habakkuk/README.md) — 3 chapters
+- [Zephaniah · Σοφονίας](36-zephaniah/README.md) — 3 chapters
+- [Haggai · Αγγαίος](37-haggai/README.md) — 2 chapters
+- [Zechariah · Ζαχαρίας](38-zechariah/README.md) — 14 chapters
+- [Malachi · Μαλαχίας](39-malachi/README.md) — 4 chapters

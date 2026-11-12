@@ -1,0 +1,767 @@
+# Proverbs 24 · Παροιμίαι 24
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** υἱέ, μὴ ζηλώσῃς κακοὺς ἄνδρας, μηδὲ ἐπιθυμήσῃς εἶναι μετ᾽ αὐτῶν·
+
+**ELL** Μη ζήλευε τους κακούς ανθρώπους, μηδέ επιθύμει να ήσαι μετ' αυτών·
+
+**KJV** Be not thou envious against evil men, neither desire to be with them.
+
+**HEB** אַל־תְּ֭קַנֵּא בְּאַנְשֵׁ֣י רָעָ֑ה וְאַל־תתאו תִּ֝תְאָ֗יו לִהְי֥וֹת אִתָּֽם׃
+
+**JPS** Be not thou envious of evil men, neither desire to be with them.
+
+## 2
+
+**GRC** ψευδῆ γὰρ μελετᾷ ἡ καρδία αὐτῶν, καὶ πόνους τὰ χείλη αὐτῶν λαλεῖ.
+
+**ELL** διότι η καρδία αυτών μελετά καταδυνάστευσιν, και τα χείλη αυτών λαλούσι κακουργίας.
+
+**KJV** For their heart studieth destruction, and their lips talk of mischief.
+
+**HEB** כִּי־שֹׁ֭ד יֶהְגֶּ֣ה לִבָּ֑ם וְ֝עָמָ֗ל שִׂפְתֵיהֶ֥ם תְּדַבֵּֽרְנָה׃
+
+**JPS** For their heart studieth destruction, and their lips talk of mischief.
+
+## 3
+
+**GRC** μετὰ σοφίας οἰκοδομεῖται οἶκος, καὶ μετὰ συνέσεως ἀνορθοῦται·
+
+**ELL** Διά της σοφίας οικοδομείται οίκος και διά της συνέσεως στερεόνεται.
+
+**KJV** Through wisdom is an house builded; and by understanding it is established:
+
+**HEB** בְּ֭חָכְמָה יִבָּ֣נֶה בָּ֑יִת וּ֝בִתְבוּנָ֗ה יִתְכּוֹנָֽן׃
+
+**JPS** Through wisdom is a house builded; and by understanding it is established;
+
+## 4
+
+**GRC** μετὰ αἰσθήσεως ἐμπίμπλανται ταμεῖα ἐκ παντὸς πλούτου τιμίου καὶ καλοῦ.
+
+**ELL** Και διά της γνώσεως τα ταμεία θέλουσι γεμισθή από παντός πολυτίμου και ευφροσύνου πλούτου.
+
+**KJV** And by knowledge shall the chambers be filled with all precious and pleasant riches.
+
+**HEB** וּ֭בְדַעַת חֲדָרִ֣ים יִמָּלְא֑וּ כָּל־ה֖וֹן יָקָ֣ר וְנָעִֽים׃
+
+**JPS** And by knowledge are the chambers filled with all precious and pleasant riches.
+
+## 5
+
+**GRC** κρείσσων σοφὸς ἰσχυροῦ, καὶ ἀνὴρ φρόνησιν ἔχων γεωργίου μεγάλου.
+
+**ELL** Ο σοφός άνθρωπος ισχύει, και ο άνθρωπος ο φρόνιμος αυξάνει δύναμιν.
+
+**KJV** A wise man is strong; yea, a man of knowledge increaseth strength.
+
+**HEB** גֶּֽבֶר־חָכָ֥ם בַּע֑וֹז וְאִֽישׁ־דַּ֝֗עַת מְאַמֶּץ־כֹּֽחַ׃
+
+**JPS** A wise man is strong; yea, a man of knowledge increaseth strength.
+
+## 6
+
+**GRC** μετὰ κυβερνήσεως γίνεται πόλεμος, βοήθεια δὲ μετὰ καρδίας βουλευτικῆς.
+
+**ELL** Διότι διά σοφών βουλών θέλεις κάμει τον πόλεμόν σου· εκ του πλήθους δε των συμβούλων προέρχεται σωτηρία.
+
+**KJV** For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.
+
+**HEB** כִּ֣י בְ֭תַחְבֻּלוֹת תַּעֲשֶׂה־לְּךָ֣ מִלְחָמָ֑ה וּ֝תְשׁוּעָ֗ה בְּרֹ֣ב יוֹעֵֽץ׃
+
+**JPS** For with wise advice thou shalt make thy war; and in the multitude of counsellors there is safety.
+
+## 7
+
+**GRC** σοφία καὶ ἔννοια ἀγαθὴ ἐν πύλαις σοφῶν· σοφοὶ οὐκ ἐκκλίνουσιν ἐκ στόματος Κυρίου,
+
+**ELL** Η σοφία είναι παραπολύ υψηλή διά τον άφρονα· δεν θέλει ανοίξει το στόμα αυτού εν τη πύλη.
+
+**KJV** Wisdom is too high for a fool: he openeth not his mouth in the gate.
+
+**HEB** רָאמ֣וֹת לֶֽאֱוִ֣יל חָכְמ֑וֹת בַּ֝שַּׁ֗עַר לֹ֣א יִפְתַּח־פִּֽיהוּ׃
+
+**JPS** Wisdom is as unattainable to a fool as corals; he openeth not his mouth in the gate.
+
+## 8
+
+**GRC** ἀλλὰ λογίζονται ἐν συνεδρίοις. ἀπαιδεύτοις συναντᾷ θάνατος,
+
+**ELL** Όστις μελετά να πράξη κακόν, θέλει ονομασθή ανήρ κακεντρεχής.
+
+**KJV** He that deviseth to do evil shall be called a mischievous person.
+
+**HEB** מְחַשֵּׁ֥ב לְהָרֵ֑עַ ל֝֗וֹ בַּֽעַל־מְזִמּ֥וֹת יִקְרָֽאוּ׃
+
+**JPS** He that deviseth to do evil, men shall call him a mischievous person.
+
+## 9
+
+**GRC** ἀποθνήσκει δὲ ἄφρων ἐν ἁμαρτίαις. ἀκαθαρσία δὲ ἀνδρὶ λοιμῷ ἐμμολυνθήσεται
+
+**ELL** Η μελέτη της αφροσύνης είναι αμαρτία· και ο χλευαστής βδέλυγμα εις τους ανθρώπους.
+
+**KJV** The thought of foolishness is sin: and the scorner is an abomination to men.
+
+**HEB** זִמַּ֣ת אִוֶּ֣לֶת חַטָּ֑את וְתוֹעֲבַ֖ת לְאָדָ֣ם לֵֽץ׃
+
+**JPS** The thought of foolishness is sin; and the scorner is an abomination to men.
+
+## 10
+
+**GRC** ἐν ἡμέρᾳ κακῇ καὶ ἐν ἡμέρᾳ θλίψεως ἕως ἂν ἐκλίπῃ.
+
+**ELL** Εάν μικροψυχήσης εν τη ημέρα της συμφοράς, μικρά είναι η δύναμίς σου.
+
+**KJV** If thou faint in the day of adversity, thy strength is small.
+
+**HEB** הִ֭תְרַפִּיתָ בְּי֥וֹם צָרָ֗ה צַ֣ר כֹּחֶֽכָה׃
+
+**JPS** If thou faint in the day of adversity, thy strength is small indeed.
+
+## 11
+
+**GRC** ῥῦσαι ἀγομένους εἰς θάνατον καὶ ἐκπρίου κτεινομένους, μὴ φείσῃ.
+
+**ELL** Ελευθέρονε τους συρομένους εις θάνατον, και μη αποσύρου από των όντων εις ακμήν σφαγής.
+
+**KJV** If thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;
+
+**HEB** הַ֭צֵּל לְקֻחִ֣ים לַמָּ֑וֶת וּמָטִ֥ים לַ֝הֶ֗רֶג אִם־תַּחְשֽׂוֹךְ׃
+
+**JPS** Deliver them that are drawn unto death; and those that are ready to be slain wilt thou forbear to rescue?
+
+## 12
+
+**GRC** ἐὰν δὲ εἴπῃς Οὐκ οἶδα τοῦτον, γίνωσκε ὅτι Κύριος καρδίας πάντων γινώσκει· καὶ ὁ πλάσας πνοὴν πᾶσιν αὐτὸς οἶδεν πάντα, ὃς ἀποδίδωσιν ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ.
+
+**ELL** Εάν είπης, Ιδού, ημείς δεν εξεύρομεν τούτο· δεν γνωρίζει ο σταθμίζων τας καρδίας; και ο φυλάττων την ψυχήν σου και αποδίδων εις έκαστον κατά τα έργα αυτού, δεν εξεύρει;
+
+**KJV** If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?
+
+**HEB** כִּֽי־תֹאמַ֗ר הֵן֮ לֹא־יָדַ֢עְנ֫וּ זֶ֥ה הֲֽלֹא־תֹ֘כֵ֤ן לִבּ֨וֹת ׀ הֽוּא־יָבִ֗ין וְנֹצֵ֣ר נַ֭פְשְׁךָ ה֣וּא יֵדָ֑ע וְהֵשִׁ֖יב לְאָדָ֣ם כְּפָעֳלֽוֹ׃
+
+**JPS** If thou sayest: 'Behold, we knew not this', doth not He that weigheth the hearts consider it? And He that keepeth thy soul, doth not He know it? And shall not He render to every man according to his works?
+
+## 13
+
+**GRC** φάγε μέλι, υἱέ, ἀγαθὸν γὰρ κηρίον, ἵνα γλυκανθῇ σου ὁ φάρυγξ.
+
+**ELL** Υιέ μου, φάγε μέλι, διότι είναι καλόν· και κηρήθραν, διότι είναι γλυκεία επί του ουρανίσκον σου·
+
+**KJV** My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:
+
+**HEB** אֱכָל־בְּנִ֣י דְבַ֣שׁ כִּי־ט֑וֹב וְנֹ֥פֶת מָ֝ת֗וֹק עַל־חִכֶּֽךָ׃
+
+**JPS** My son, eat thou honey, for it is good, and the honeycomb is sweet to thy taste;
+
+## 14
+
+**GRC** οὕτως αἰσθηθήσῃ σοφίαν τῇ σῇ ψυχῇ· ἐὰν γὰρ εὕρῃς, ἔσται καλὴ ἡ τελευτή σου καὶ ἐλπίς σε οὐκ ἐγκαταλείψει.
+
+**ELL** Τοιαύτη θέλει είσθαι εις την ψυχήν σου η γνώσις της σοφίας· όταν εύρης αυτήν, τότε θέλεις λάβει αμοιβήν, και η ελπίς σου δεν θέλει εκκοπή.
+
+**KJV** So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.
+
+**HEB** כֵּ֤ן ׀ דְּעֶ֥ה חָכְמָ֗ה לְנַ֫פְשֶׁ֥ךָ אִם־מָ֭צָאתָ וְיֵ֣שׁ אַחֲרִ֑ית וְ֝תִקְוָתְךָ֗ לֹ֣א תִכָּרֵֽת׃
+
+**JPS** So know thou wisdom to be unto thy soul; if thou hast found it, then shall there be a future, and thy hope shall not be cut off.
+
+## 15
+
+**GRC** μὴ προσαγάγῃς ἀσεβῆ νομῇ δικαίων, μηδὲ ἀπατηθῇς χορτασίᾳ κοιλίας.
+
+**ELL** Μη στήνε παγίδα, ω άνομε, κατά της κατοικίας του δικαίου· μη ταράξης τον τόπον της αναπαύσεως αυτού·
+
+**KJV** Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:
+
+**HEB** אַל־תֶּאֱרֹ֣ב רָ֭שָׁע לִנְוֵ֣ה צַדִּ֑יק אַֽל־תְּשַׁדֵּ֥ד רִבְצוֹ׃
+
+**JPS** Lie not in wait, O wicked man, against the dwelling of the righteous, spoil not his resting-place;
+
+## 16
+
+**GRC** ἑπτάκι γὰρ πεσεῖται δίκαιος καὶ ἀναστήσεται, οἱ δὲ ἀσεβεῖς ἀσθενήσουσιν ἐν κακοῖς.
+
+**ELL** διότι ο δίκαιος πίπτει επτάκις και σηκόνεται· αλλ' οι ασεβείς θέλουσι πέσει εις όλεθρον.
+
+**KJV** For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.
+
+**HEB** כִּ֤י שֶׁ֨בַע ׀ יִפּ֣וֹל צַדִּ֣יק וָקָ֑ם וּ֝רְשָׁעִ֗ים יִכָּשְׁל֥וּ בְרָעָֽה׃
+
+**JPS** For a righteous man falleth seven times, and riseth up again, but the wicked stumble under adversity.
+
+## 17
+
+**GRC** ἐὰν πέσῃ ὁ ἐχθρός σου, μὴ ἐπιχαρῇς αὐτῷ, ἐν δὲ τῷ ὑποσκελίσματι αὐτοῦ μὴ ἐπαίρου·
+
+**ELL** Εις την πτώσιν του εχθρού σου μη χαρής· και εις το ολίσθημα αυτού ας μη ευφραίνεται η καρδία σου·
+
+**KJV** Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:
+
+**HEB** בִּנְפֹ֣ל אויביך אֽ֭וֹיִבְךָ אַל־תִּשְׂמָ֑ח וּ֝בִכָּשְׁל֗וֹ אַל־יָגֵ֥ל לִבֶּֽךָ׃
+
+**JPS** Rejoice not when thine enemy falleth, and let not thy heart be glad when he stumbleth;
+
+## 18
+
+**GRC** ὅτι ὄψεται Κύριος καὶ οὐκ ἀρέσει αὐτῷ, καὶ ἀποστρέψει τὸν θυμὸν αὐτοῦ ἀπ᾽ αὐτοῦ.
+
+**ELL** Μήποτε ο Κύριος ίδη και φανή τούτο κακόν εις τους οφθαλμούς αυτού και μεταστρέψη τον θυμόν αυτού απ' αυτού.
+
+**KJV** Lest the Lord see it, and it displease him, and he turn away his wrath from him.
+
+**HEB** פֶּן־יִרְאֶ֣ה יְ֭הוָה וְרַ֣ע בְּעֵינָ֑יו וְהֵשִׁ֖יב מֵעָלָ֣יו אַפּֽוֹ׃
+
+**JPS** Lest HaShem see it, and it displease Him, and He turn away His wrath from him.
+
+## 19
+
+**GRC** μὴ χαῖρε ἐπὶ κακοποιοῖς, μηδὲ ζήλου ἁμαρτωλούς·
+
+**ELL** Μη αγανάκτει περί των πονηρευομένων· μη ζήλευε τους ασεβείς·
+
+**KJV** Fret not thyself because of evil men, neither be thou envious at the wicked;
+
+**HEB** אַל־תִּתְחַ֥ר בַּמְּרֵעִ֑ים אַל־תְּ֝קַנֵּ֗א בָּרְשָׁעִֽים׃
+
+**JPS** Fret not thyself because of evildoers, neither be thou envious at the wicked;
+
+## 20
+
+**GRC** οὐ γὰρ μὴ γένηται ἔκγονα πονηρῷ, λαμπτὴρ δὲ ἀσεβῶν σβεσθήσεται.
+
+**ELL** διότι δεν θέλει έχει τέλος αγαθόν ο κακός· ο λύχνος των ασεβών θέλει σβεσθή.
+
+**KJV** For there shall be no reward to the evil man; the candle of the wicked shall be put out.
+
+**HEB** כִּ֤י ׀ לֹֽא־תִהְיֶ֣ה אַחֲרִ֣ית לָרָ֑ע נֵ֖ר רְשָׁעִ֣ים יִדְעָֽךְ׃
+
+**JPS** For there will be no future to the evil man, the lamp of the wicked shall be put out.
+
+## 21
+
+**GRC** φοβοῦ τὸν θεόν, υἱέ, καὶ βασιλέα, καὶ μηθετέρῳ αὐτῶν ἀπειθήσῃς·
+
+**ELL** Υιέ μου, φοβού τον Κύριον και τον βασιλέα· και μη έχε συγκοινωνίαν μετά στασιαστών·
+
+**KJV** My son, fear thou the Lord and the king: and meddle not with them that are given to change:
+
+**HEB** יְרָֽא־אֶת־יְהוָ֣ה בְּנִ֣י וָמֶ֑לֶךְ עִם־שׁ֝וֹנִ֗ים אַל־תִּתְעָרָֽב׃
+
+**JPS** My son, fear thou HaShem and the king, and meddle not with them that are given to change;
+
+## 22
+
+**GRC** ἐξαίφνης γὰρ τίσονται τοὺς ἀσεβεῖς, τὰς δὲ τιμωρίας ἀμφοτέρων τίς γνώσεται; [1] λόγον φυλασσόμενος υἱὸς ἀπωλείας ἐκτὸς ἔσται, δεχόμενος δὲ ἐδέξατο αὐτόν. [2] μηδὲν ψεῦδος ἀπὸ γλώσσης βασιλεῖ λεγέσθω, καὶ οὐδὲν ψεῦδος αὐτοῦ ἀπὸ γλώσσης μὴ ἐξέλθῃ. [3] μάχαιρα γλῶσσα βασιλέως καὶ οὐ σαρκίνη· ὃς δ᾽ ἂν παραδοθῇ, συντριβήσεται. [4] ἐὰν γὰρ ὀξυνθῇ ὁ θυμὸς αὐτοῦ, σὺν νεύροις ἀνθρώπους ἀναλίσκει, [5] καὶ ὀστᾶ ἀνθρώπων κατατρώγει, καὶ συνκαίει ὥσπερ φλόξ, ὥστε ἄβρωτα εἶναι νεοσσοῖς ἀετῶν.
+
+**ELL** διότι η συμφορά αυτών θέλει επέλθει εξαίφνης· και τις γνωρίζει αμφοτέρων τας τιμωρίας;
+
+**KJV** For their calamity shall rise suddenly; and who knoweth the ruin of them both?
+
+**HEB** כִּֽי־פִ֭תְאֹם יָק֣וּם אֵידָ֑ם וּפִ֥יד שְׁ֝נֵיהֶ֗ם מִ֣י יוֹדֵֽעַ׃
+
+**JPS** For their calamity shall rise suddenly; and who knoweth the ruin from them both?
+
+## 23
+
+**GRC**
+
+**ELL** Ταύτα προσέτι είναι διά τους σοφούς. Η προσωποληψία εν τη κρίσει δεν είναι καλόν.
+
+**KJV** These things also belong to the wise. It is not good to have respect of persons in judgment.
+
+**HEB** גַּם־אֵ֥לֶּה לַֽחֲכָמִ֑ים הַֽכֵּר־פָּנִ֖ים בְּמִשְׁפָּ֣ט בַּל־טֽוֹב׃
+
+**JPS** These also are sayings of the wise. To have respect of persons in judgment is not good.
+
+## 24
+
+**GRC** Τοὺς ἐμοὺς λόγους, υἱέ, φοβήθητι, καὶ δεξάμενος αὐτοὺς μετανόει. τάδε λέγει ὁ ἀνὴρ τοῖς πιστεύουσιν θεῷ, καὶ παύομαι.
+
+**ELL** Τον λέγοντα προς τον ασεβή, Είσαι δίκαιος, τούτον οι λαοί θέλουσι καταρασθή και τα έθνη θέλουσι βδελύττεσθαι·
+
+**KJV** He that saith unto the wicked, Thou art righteous; him shall the people curse, nations shall abhor him:
+
+**HEB** אֹ֤מֵ֨ר ׀ לְרָשָׁע֮ צַדִּ֢יק אָ֥תָּה יִקְּבֻ֥הוּ עַמִּ֑ים יִזְעָמ֥וּהוּ לְאֻמִּֽים׃
+
+**JPS** He that saith unto the wicked: 'Thou art righteous', peoples shall curse him, nations shall execrate him;
+
+## 25
+
+**GRC** ἀφρονέστατος γάρ εἰμι πάντων ἀνθρώπων, καὶ φρόνησις ἀνθρώπων οὐκ ἔστιν ἐν ἐμοί.
+
+**ELL** αλλ' εις τους ελέγχοντας αυτόν θέλει είσθαι χάρις, και ευλογία αγαθών θέλει ελθεί επ' αυτούς.
+
+**KJV** But to them that rebuke him shall be delight, and a good blessing shall come upon them.
+
+**HEB** וְלַמּוֹכִיחִ֥ים יִנְעָ֑ם וַֽ֝עֲלֵיהֶ֗ם תָּב֥וֹא בִרְכַּת־טֽוֹב׃
+
+**JPS** But to them that decide justly shall be delight, and a good blessing shall come upon them.
+
+## 26
+
+**GRC** θεὸς δεδίδαχέν με σοφίαν, καὶ γνῶσιν ἁγίων ἔγνωκα.
+
+**ELL** Όστις αποκρίνεται λόγους ορθούς, είναι ως ο φιλών τα χείλη.
+
+**KJV** Every man shall kiss his lips that giveth a right answer.
+
+**HEB** שְׂפָתַ֥יִם יִשָּׁ֑ק מֵ֝שִׁ֗יב דְּבָרִ֥ים נְכֹחִֽים׃
+
+**JPS** He kisseth the lips that giveth a right answer.
+
+## 27
+
+**GRC** τίς ἀνέβη εἰς τὸν οὐρανὸν καὶ κατέβη; τίς συνήγαγεν ἀνέμους ἐν κόλπῳ; τίς συνέστρεψεν ὕδωρ ἐν ἱματίῳ; τίς ἐκράτησεν τῶν ἄκρων τῆς γῆς, τί ὄνομα αὐτῷ; ἢ τί ὄνομα τοῖς τέκνοις αὐτοῦ;
+
+**ELL** Διάταττε το έργον σου έξω και προετοίμαζε αυτό εις σεαυτόν εν τω αγρώ· και έπειτα οικοδόμησον τον οίκόν σου.
+
+**KJV** Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.
+
+**HEB** הָ֘כֵ֤ן בַּח֨וּץ ׀ מְלַאכְתֶּ֗ךָ וְעַתְּדָ֣הּ בַּשָּׂדֶ֣ה לָ֑ךְ אַ֝חַ֗ר וּבָנִ֥יתָ בֵיתֶֽךָ׃
+
+**JPS** Prepare thy work without, and make it fit for thyself in the field; and afterwards build thy house.
+
+## 28
+
+**GRC** πάντες γὰρ λόγοι θεοῦ πεπυρωμένοι, ὑπερασπίζει δὲ αὐτὸς τῶν εὐλαβουμένων αὐτόν.
+
+**ELL** Μη ήσο μάρτυς άδικος κατά του πλησίον σου, μηδέ απάτα διά των χειλέων σου.
+
+**KJV** Be not a witness against thy neighbour without cause; and deceive not with thy lips.
+
+**HEB** אַל־תְּהִ֣י עֵד־חִנָּ֣ם בְּרֵעֶ֑ךָ וַ֝הֲפִתִּ֗יתָ בִּשְׂפָתֶֽיךָ׃
+
+**JPS** Be not a witness against thy neighbour without cause; and deceive not with thy lips.
+
+## 29
+
+**GRC** μὴ προσθῇς τοῖς λόγοις αὐτοῦ, ἵνα μὴ ἐλέγξῃ σε καὶ ψευδὴς γένῃ.
+
+**ELL** Μη είπης, Καθώς έκαμεν εις εμέ, ούτω θέλω κάμει εις αυτόν· θέλω αποδώσει εις τον άνθρωπον κατά το έργον αυτού.
+
+**KJV** Say not, I will do so to him as he hath done to me: I will render to the man according to his work.
+
+**HEB** אַל־תֹּאמַ֗ר כַּאֲשֶׁ֣ר עָֽשָׂה־לִ֭י כֵּ֤ן אֶֽעֱשֶׂה־לּ֑וֹ אָשִׁ֖יב לָאִ֣ישׁ כְּפָעֳלֽוֹ׃
+
+**JPS** Say not: 'I will do so to him as he hath done to me; I will render to the man according to his work.'
+
+## 30
+
+**GRC** δύο αἰτοῦμαι παρὰ σοῦ, μὴ ἀφέλῃς μου χάριν πρὸ τοῦ ἀποθανεῖν με·
+
+**ELL** Διέβαινον διά του αγρού του οκνηρού και διά του αμπελώνος του ανθρώπου του ενδεούς φρενών·
+
+**KJV** I went by the field of the slothful, and by the vineyard of the man void of understanding;
+
+**HEB** עַל־שְׂדֵ֣ה אִישׁ־עָצֵ֣ל עָבַ֑רְתִּי וְעַל־כֶּ֝֗רֶם אָדָ֥ם חֲסַר־לֵֽב׃
+
+**JPS** I went by the field of the slothful, and by the vineyard of the man void of understanding;
+
+## 31
+
+**GRC** μάταιον λόγον καὶ ψευδῆ μακράν μου ποίησον, πλοῦτον δὲ καὶ πενίαν μή μοι δῷς, σύνταξον δέ μοι τὰ δέοντα καὶ τὰ αὐτάρκη·
+
+**ELL** και ιδού, πανταχού είχον βλαστήσει άκανθαι· κνίδαι είχον σκεπάσει το πρόσωπον αυτού, και το λιθόφραγμα αυτού ήτο κατακεκρημνισμένον.
+
+**KJV** And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down.
+
+**HEB** וְהִנֵּ֨ה עָ֘לָ֤ה כֻלּ֨וֹ ׀ קִמְּשֹׂנִ֗ים כָּסּ֣וּ פָנָ֣יו חֲרֻלִּ֑ים וְגֶ֖דֶר אֲבָנָ֣יו נֶהֱרָֽסָה׃
+
+**JPS** And, lo, it was all grown over with thistles, the face thereof was covered with nettles, and the stone wall thereof was broken down.
+
+## 32
+
+**GRC** ἵνα μὴ πλησθεὶς ψευδὴς γένωμαι καὶ εἴπω Τίς με ὁρᾷ; ἢ πενηθεὶς κλέψω καὶ ὀμόσω τὸ ὄνομα τοῦ θεοῦ.
+
+**ELL** Τότε εγώ θεωρήσας εσυλλογίσθην εν τη καρδία μου· είδον, και έλαβον διδασκαλίαν.
+
+**KJV** Then I saw, and considered it well: I looked upon it, and received instruction.
+
+**HEB** וָֽאֶחֱזֶ֣ה אָ֭נֹכִֽי אָשִׁ֣ית לִבִּ֑י רָ֝אִ֗יתִי לָקַ֥חְתִּי מוּסָֽר׃
+
+**JPS** Then I beheld, and considered well; I saw, and received instruction.
+
+## 33
+
+**GRC** μὴ παραδῷς οἰκέτην εἰς χεῖρας δεσπότου, μή ποτε καταράσηταί σε καὶ ἀφανισθῇς.
+
+**ELL** Ολίγος ύπνος, ολίγος νυσταγμός, ολίγη συμπλοκή των χειρών εις τον ύπνον·
+
+**KJV** Yet a little sleep, a little slumber, a little folding of the hands to sleep:
+
+**HEB** מְעַ֣ט שֵׁ֭נוֹת מְעַ֣ט תְּנוּמ֑וֹת מְעַ֓ט ׀ חִבֻּ֖ק יָדַ֣יִם לִשְׁכָּֽב׃
+
+**JPS** 'Yet a little sleep, a little slumber, a little folding of the hands to sleep'--
+
+## 34
+
+**GRC** ἔκγονον κακὸν πατέρα καταρᾶται, τὴν δὲ μητέρα οὐκ εὐλογεῖ.
+
+**ELL** έπειτα η πτωχεία σου έρχεται ως ταχυδρόμος, και η ένδειά σου ως ανήρ ένοπλος.
+
+**KJV** So shall thy poverty come as one that travelleth; and thy want as an armed man.
+
+**HEB** וּבָֽא־מִתְהַלֵּ֥ךְ רֵישֶׁ֑ךָ וּ֝מַחְסֹרֶ֗יךָ כְּאִ֣ישׁ מָגֵֽן׃
+
+**JPS** So shall thy poverty come as a runner, and thy want as an armed man.
+
+## 35
+
+**GRC** ἔκγονον κακὸν δίκαιον ἑαυτὸν κρίνει, τὴν δὲ ἔξοδον αὐτοῦ οὐκ ἀπένιψεν.
+
+**ELL**
+
+**KJV**
+
+## 36
+
+**GRC** ἔκγονον κακὸν ὑψηλοὺς ὀφθαλμοὺς ἔχει, τοῖς δὲ βλεφάροις αὐτοῦ ἐπαίρεται.
+
+**ELL**
+
+**KJV**
+
+## 37
+
+**GRC** ἔκγονον κακὸν μαχαίρας τοὺς ὀδόντας ἔχει καὶ τὰς μύλας τομίδας, ὥστε ἀναλίσκειν καὶ κατεσθίειν τοὺς ταπεινοὺς ἀπὸ τῆς γῆς καὶ τοὺς πένητας αὐτῶν ἐξ ἀνθρώπων.
+
+**ELL**
+
+**KJV**
+
+## 38
+
+**GRC** Ταῦτα δὲ λέγω ὑμῖν τοῖς σοφοῖς ἐπιγινώσκειν· αἰδεῖσθαι πρόσωπον ἐν κρίσει οὐ καλόν.
+
+**ELL**
+
+**KJV**
+
+## 39
+
+**GRC** ὁ εἰπὼν τὸν ἀσεβῆ Δίκαιός ἐστιν, ἐπικατάρατος λαοῖς ἔσται καὶ μισητὸς εἰς ἔθνη·
+
+**ELL**
+
+**KJV**
+
+## 40
+
+**GRC** οἱ δὲ ἐλέγχοντες βελτίους φανοῦνται, ἐπ᾽ αὐτοὺς δὲ ἥξει εὐλογία.
+
+**ELL**
+
+**KJV**
+
+## 41
+
+**GRC** χείλη δὲ φιλήσουσιν ἀποκρινόμενα λόγους ἀγαθούς.
+
+**ELL**
+
+**KJV**
+
+## 42
+
+**GRC** ἑτοίμαζε εἰς τὴν ἔξοδον τὰ ἔργα σου, καὶ παρασκευάζου εἰς τὸν ἀγρόν, καὶ πορεύου κατόπισθέν μου καὶ ἀνοικοδομήσεις τὸν οἶκόν σου.
+
+**ELL**
+
+**KJV**
+
+## 43
+
+**GRC** μὴ ἴσθι ψευδὴς μάρτυς ἐπὶ σὸν πολίτην, μηδὲ πλατύνου σοῖς χείλεσιν.
+
+**ELL**
+
+**KJV**
+
+## 44
+
+**GRC** μὴ εἴπῃς Ὃν τρόπον ἐχρήσατό μοι χρήσομαι αὐτῷ, τίσομαι δὲ αὐτὸν ἅ με ἠδίκησεν.
+
+**ELL**
+
+**KJV**
+
+## 45
+
+**GRC** ὥσπερ γεώργιον ἀνὴρ ἄφρων, καὶ ὥσπερ ἀμπελὼν ἄνθρωπος ἐνδεὴς φρενῶν·
+
+**ELL**
+
+**KJV**
+
+## 46
+
+**GRC** ἐὰν ἀφῇς αὐτόν, χερσωθήσεται καὶ χορτομανήσει ὅλος, καὶ γίνεται ἐκλελιμμένος, οἱ δὲ φραγμοὶ τῶν λίθων αὐτοῦ κατασκάπτονται.
+
+**ELL**
+
+**KJV**
+
+## 47
+
+**GRC** ὕστερον ἐγὼ μετενόησα, ἀπέβλεψα τοῦ ἐκλέξασθαι παιδείαν.
+
+**ELL**
+
+**KJV**
+
+## 48
+
+**GRC** ὀλίγον νυστάζω, ὀλίγον δὲ καθυπνῶ, ὀλίγον δὲ ἐναγκαλίζομαι χερσὶν στήθη·
+
+**ELL**
+
+**KJV**
+
+## 49
+
+**GRC** ἐὰν δὲ τοῦτο ποιῇς, ἥξει προπορευομένη ἡ πενία σου, καὶ ἡ ἔνδειά σου ὥσπερ ἀγαθὸς δρομεύς.
+
+**ELL**
+
+**KJV**
+
+## 50
+
+**GRC** Τῇ βδέλλῃ τρεῖς θυγατέρες ἦσαν ἀγαπήσει ἀγαπώμεναι, καὶ αἱ τρεῖς αὗται οὐκ ἐνεπίμπλασαν αὐτήν. καὶ ἡ τετάρτη οὐκ ἠρκέσθη εἰπεῖν Ἱκανόν·
+
+**ELL**
+
+**KJV**
+
+## 51
+
+**GRC** ᾅδης καὶ ἔρως γυναικὸς καὶ τάρταρος καὶ γῆ οὐκ ἐμπιπλαμένη ὕδατος καὶ ὕδωρ καὶ πῦρ οὐ μὴ εἴπωσιν Ἀρκεῖ.
+
+**ELL**
+
+**KJV**
+
+## 52
+
+**GRC** ὀφθαλμὸν καταγελῶντα πατρὸς καὶ ἀτιμάζοντα γῆρας μητρός, ἐκκόψαισαν αὐτὸν κόρακες ἐκ τῶν φαράγγων, καὶ καταφἅγοισαν αὐτὸν νεοσσοὶ ἀετῶν.
+
+**ELL**
+
+**KJV**
+
+## 53
+
+**GRC** τρία δέ ἐστιν ἀδύνατά μοι νοῆσαι, καὶ τὸ τέταρτον οὐκ ἐπιγινώσκω·
+
+**ELL**
+
+**KJV**
+
+## 54
+
+**GRC** ἴχνη ἀετοῦ πετομένου, καὶ ὁδοὺς ὄφεως ἐπὶ πέτρας, καὶ τρίβους νηὸς ποντοπορούσης, καὶ ὁδοὺς ἀνδρὸς ἐν νεότητι.
+
+**ELL**
+
+**KJV**
+
+## 55
+
+**GRC** τοιαύτη ὁδὸς γυναικὸς μοιχαλίδος, ἣ ὅταν πράξῃ, ἀπονιψαμένη οὐδέν φησιν πεπραχέναι ἄτοπον.
+
+**ELL**
+
+**KJV**
+
+## 56
+
+**GRC** διὰ τριῶν σείεται ἡ γῆ, τὸ δὲ τέταρτον οὐ δύναται φέρειν·
+
+**ELL**
+
+**KJV**
+
+## 57
+
+**GRC** ἐὰν οἰκέτης βασιλεύσῃ, καὶ ἄφρων πλησθῇ σιτίων,
+
+**ELL**
+
+**KJV**
+
+## 58
+
+**GRC** καὶ οἰκέτις ἐὰν ἐκβάλῃ τὴν ἑαυτῆς κυρίαν, καὶ μισητὴ γυνὴ ἐὰν τύχῃ ἀνδρὸς ἀγαθοῦ.
+
+**ELL**
+
+**KJV**
+
+## 59
+
+**GRC** τέσσερα δὲ ἐλάχιστα ἐπὶ τῆς γῆς, ταῦτα δέ ἐστιν σοφώτερα τῶν σοφῶν·
+
+**ELL**
+
+**KJV**
+
+## 60
+
+**GRC** οἱ μύρμηκες οἷς μὴ ἔστιν ἰσχύς, καὶ ἑτοιμάζονται θέρους τὴν τροφήν·
+
+**ELL**
+
+**KJV**
+
+## 61
+
+**GRC** καὶ οἱ χοιρογρύλλιοι, ἔθνος οὐκ ἰσχυρόν, οἳ ἐποιήσαντο ἐν πέτραις τοὺς ἑαυτῶν οἴκους·
+
+**ELL**
+
+**KJV**
+
+## 62
+
+**GRC** ἀβασίλευτόν ἐστιν ἡ ἀκρίς, καὶ στρατεύει ἀφ᾽ ἑνὸς κελεύσματος εὐτάκτως·
+
+**ELL**
+
+**KJV**
+
+## 63
+
+**GRC** καὶ καλαβώτης χερσὶν ἐρειδόμενος καὶ εὐάλωτος ὤν, κατοικεῖ ἐν ὀχυρώμασιν βασιλέων.
+
+**ELL**
+
+**KJV**
+
+## 64
+
+**GRC** τρία δέ ἐστιν ἃ εὐόδως πορεύεται, καὶ τέταρτον ὃ καλῶς διαβαίνει·
+
+**ELL**
+
+**KJV**
+
+## 65
+
+**GRC** σκύμνος λέοντος ἰσχυρότερος κτηνῶν, ὃς οὐκ ἀποστρέφεται οὐδὲ καταπτήσσει κτῆνος,
+
+**ELL**
+
+**KJV**
+
+## 66
+
+**GRC** καὶ ἀλέκτωρ ἐνπεριπατῶν θηλείαις εὔψυχος, καὶ τράγος ἡγούμενος αἰπολίου. καὶ βασιλεὺς δημηγορῶν ἐν ἔθνει.
+
+**ELL**
+
+**KJV**
+
+## 67
+
+**GRC** ἐὰν πρόῃ σεαυτὸν ἐν εὐφροσύνῃ, καὶ ἐκτείνῃς τὴν χεῖρά σου μετὰ μάχης, ἀτιμασθήσῃ.
+
+**ELL**
+
+**KJV**
+
+## 68
+
+**GRC** ἄμελγε γάλα, καὶ ἔσται βούτυρον· ἐὰν δὲ ἐκπιέζῃς μυκτῆρας, ἐξελεύσεται αἷμα· ἐὰν δὲ ἐξέλκῃς λόγους, ἐξελεύσονται κρίσεις καὶ μάχαι.
+
+**ELL**
+
+**KJV**
+
+## 69
+
+**GRC** Οἱ ἐμοὶ λόγοι εἴρηνται ὑπὸ θεοῦ· βασιλέως χρηματισμὸς ὃν ἐπαίδευσεν ἡ μήτηρ αὐτοῦ.
+
+**ELL**
+
+**KJV**
+
+## 70
+
+**GRC** τί, τέκνον, τηρήσεις; τί; ῥήσεις θεοῦ· πρωτογενές, σοὶ λέγω, υἱέ· τί, τέκνον ἐμῆς κοιλίας; τί, τέκνον ἐμῶν εὐχῶν;
+
+**ELL**
+
+**KJV**
+
+## 71
+
+**GRC** μὴ δῷς γυναιξὶ σὸν πλοῦτον, καὶ τὸν σὸν νοῦν καὶ βίον εἰς ὑστεροβουλίαν.
+
+**ELL**
+
+**KJV**
+
+## 72
+
+**GRC** μετὰ βουλῆς πάντα ποίει, μετὰ βουλῆς οἰνοπότει. οἱ δυνάσται θυμώδεις εἰσίν, οἶνον δὲ μὴ πινέτωσαν·
+
+**ELL**
+
+**KJV**
+
+## 73
+
+**GRC** ἵνα μὴ πιόντες ἐπιλάθωνται τῆς σοφίας, καὶ ὀρθὰ κρῖναι οὐ μὴ δύνωνται τοὺς ἀσθενεῖς.
+
+**ELL**
+
+**KJV**
+
+## 74
+
+**GRC** δίδοτε μέθην τοῖς ἐν λύπαις, καὶ οἶνον πίνειν τοῖς ἐν ὀδύναις,
+
+**ELL**
+
+**KJV**
+
+## 75
+
+**GRC** ἵνα ἐπιλάθωνται τῆς πενίας, καὶ τῶν πόνων μὴ μνησθῶσιν ἔτι.
+
+**ELL**
+
+**KJV**
+
+## 76
+
+**GRC** ἄνοιγε σὸν στόμα λόγῳ θεοῦ, καὶ κρῖνε πάντας ὑγιῶς·
+
+**ELL**
+
+**KJV**
+
+## 77
+
+**GRC** ἄνοιγε σὸν στόμα καὶ κρῖνε δικαίως, διάκρινε δὲ πένητα καὶ ἀσθενῆ.
+
+**ELL**
+
+**KJV**
+
+## Notes
+

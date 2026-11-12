@@ -1,0 +1,447 @@
+# 2 Kings 10 · Βασιλειών Δ΄ 10
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Καὶ τῷ Ἀχαὰβ ἑβδομήκοντα υἱοὶ ἐν Σαμαρείᾳ. καὶ ἔγραψεν Εἰοὺ βιβλίον καὶ ἀπέστειλεν ἐν Σαμαρείᾳ πρὸς τοὺς ἄρχοντας Σαμαρείας καὶ πρὸς τοὺς πρεσβυτέρους καὶ πρὸς τοὺς τιθηνοὺς Ἀχαὰβ λέγων
+
+**ELL** Είχε δε ο Αχαάβ εβδομήκοντα υιούς εν Σαμαρεία. Και έγραψεν ο Ιηού επιστολάς, και απέστειλεν εις την Σαμάρειαν προς τους άρχοντας της Ιεζραέλ, προς τους πρεσβυτέρους και προς τους παιδοτρόφους του Αχαάβ, λέγων,
+
+**KJV** And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab’s children, saying,
+
+**HEB** וּלְאַחְאָ֛ב שִׁבְעִ֥ים בָּנִ֖ים בְּשֹׁמְר֑וֹן וַיִּכְתֹּב֩ יֵה֨וּא סְפָרִ֜ים וַיִּשְׁלַ֣ח שֹׁמְר֗וֹן אֶל־שָׂרֵ֤י יִזְרְעֶאל֙ הַזְּקֵנִ֔ים וְאֶל־הָאֹמְנִ֥ים אַחְאָ֖ב לֵאמֹֽר׃
+
+**JPS** Now Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, even the elders, and unto them that brought up the sons of Ahab, saying:
+
+## 2
+
+**GRC** Καὶ νῦν ὡς ἐὰν ἔλθῃ τὸ βιβλίον τοῦτο πρὸς ὑμᾶς, καὶ μεθ᾽ ὑμῶν οἱ υἱοὶ τοῦ κυρίου ὑμῶν, καὶ μεθ᾽ ὑμῶν τὸ ἅρμα καὶ ἵπποι καὶ πόλεις ὀχυραὶ καὶ τὰ ὅπλα.
+
+**ELL** Τώρα, καθώς φθάση προς εσάς η επιστολή αύτη, επειδή έχετε τους υιούς του κυρίου σας και έχετε τας αμάξας και τους ίππους και πόλιν οχυράν και όπλα,
+
+**KJV** Now as soon as this letter cometh to you, seeing your master’s sons are with you, and there are with you chariots and horses, a fenced city also, and armour;
+
+**HEB** וְעַתָּ֗ה כְּבֹ֨א הַסֵּ֤פֶר הַזֶּה֙ אֲלֵיכֶ֔ם וְאִתְּכֶ֖ם בְּנֵ֣י אֲדֹנֵיכֶ֑ם וְאִתְּכֶם֙ הָרֶ֣כֶב וְהַסּוּסִ֔ים וְעִ֥יר מִבְצָ֖ר וְהַנָּֽשֶׁק׃
+
+**JPS** 'And now as soon as this letter cometh to you, seeing your master's sons are with you, and there are with you chariots and horses, fortified cities also, and armour;
+
+## 3
+
+**GRC** καὶ ὄψεσθε τὸν ἀγαθὸν καὶ τὸν εὐθῆ ἐν τοῖς υἱοῖς τοῦ κυρίου ὑμῶν καὶ καταστήσετε αὐτὸν ἐπὶ τὸν θρόνον τοῦ πατρὸς αὐτοῦ, καὶ πολεμεῖτε ὑπὲρ τοῦ οἴκου τοῦ κυρίου ὑμῶν.
+
+**ELL** ιδέτε ποίος είναι ο καλήτερος και αρεστότερος μεταξύ των υιών του κυρίου σας, και καταστήσατε αυτόν επί του θρόνου του πατρός αυτού και πολεμείτε υπέρ του οίκου του κυρίου σας.
+
+**KJV** Look even out the best and meetest of your master’s sons, and set him on his father’s throne, and fight for your master’s house.
+
+**HEB** וּרְאִיתֶ֞ם הַטּ֤וֹב וְהַיָּשָׁר֙ מִבְּנֵ֣י אֲדֹנֵיכֶ֔ם וְשַׂמְתֶּ֖ם עַל־כִּסֵּ֣א אָבִ֑יו וְהִֽלָּחֲמ֖וּ עַל־בֵּ֥ית אֲדֹנֵיכֶֽם׃
+
+**JPS** look ye out the best and meetest of your master's sons, and set him on his father's throne, and fight for your master's house.'
+
+## 4
+
+**GRC** καὶ ἐφοβήθησαν σφόδρα, καὶ εἶπον Ἰδοὺ οἱ δύο βασιλεῖς οὐκ ἔστησαν κατὰ πρόσωπον αὐτοῦ, καὶ πῶς στησόμεθα ἡμεῖς;
+
+**ELL** Εκείνοι όμως εφοβήθησαν σφόδρα και είπον, Ιδού, δύο βασιλείς δεν εστάθησαν κατά πρόσωπον αυτού· και πως ημείς θέλομεν σταθή;
+
+**KJV** But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then shall we stand?
+
+**HEB** וַיִּֽרְאוּ֙ מְאֹ֣ד מְאֹ֔ד וַיֹּ֣אמְר֔וּ הִנֵּה֙ שְׁנֵ֣י הַמְּלָכִ֔ים לֹ֥א עָמְד֖וּ לְפָנָ֑יו וְאֵ֖יךְ נַעֲמֹ֥ד אֲנָֽחְנוּ׃
+
+**JPS** But they were exceedingly afraid, and said: 'Behold, the two kings stood not before him; how then shall we stand?'
+
+## 5
+
+**GRC** καὶ ἀπέστειλαν οἱ ἐπὶ τοῦ οἴκου καὶ οἱ ἐπὶ τῆς πόλεως καὶ οἱ πρεσβύτεροι καὶ οἱ τιθηνοὶ πρὸς Εἰοὺ λέγοντες Παῖδές σου ἡμεῖς, καὶ ὅσα ἐὰν εἴπῃς πρὸς ἡμᾶς ποιήσομεν· οὐ βασιλεύσομεν ἄνδρα, τὸ ἀγαθὸν ἐν ὀφθαλμοῖς σου ποιήσομεν.
+
+**ELL** Και απέστειλαν προς τον Ιηού ο επιστάτης του οίκου και ο επιστάτης της πόλεως και οι πρεσβύτεροι και οι παιδοτρόφοι, λέγοντες, Ημείς είμεθα δούλοί σου και θέλομεν κάμει παν ό,τι μας είπης· δεν θέλομεν κάμει ουδένα βασιλέα· κάμε ό,τι είναι αρεστόν εις τους οφθαλμούς σου.
+
+**KJV** And he that was over the house, and he that was over the city, the elders also, and the bringers up of the children, sent to Jehu, saying, We are thy servants, and will do all that thou shalt bid us; we will not make any king: do thou that which is good in thine eyes.
+
+**HEB** וַיִּשְׁלַ֣ח אֲשֶׁר־עַל־הַבַּ֣יִת וַאֲשֶׁ֪ר עַל־הָעִ֟יר וְהַזְּקֵנִים֩ וְהָאֹמְנִ֨ים אֶל־יֵה֤וּא ׀ לֵאמֹר֙ עֲבָדֶ֣יךָ אֲנַ֔חְנוּ וְכֹ֛ל אֲשֶׁר־תֹּאמַ֥ר אֵלֵ֖ינוּ נַעֲשֶׂ֑ה לֹֽא־נַמְלִ֣יךְ אִ֔ישׁ הַטּ֥וֹב בְּעֵינֶ֖יךָ עֲשֵֽׂה׃
+
+**JPS** And he that was over the household, and he that was over the city, the elders also, and they that brought up the children, sent to Jehu, saying: 'We are thy servants, and will do all that thou shalt bid us; we will not make any man king; do thou that which is good in thine eyes.'
+
+## 6
+
+**GRC** καὶ ἔγραψεν πρὸς αὐτοὺς βιβλίον δεύτερον λέγων Εἰ ἐμοὶ ὑμεῖς καὶ τῆς φωνῆς μου ὑμεῖς εἰσακούετε, λάβετε τὴν κεφαλὴν ἀνδρῶν τῶν υἱῶν τοῦ κυρίου ὑμῶν καὶ ἐνέγκατε πρὸς μὲ ὡς ἡ ὥρα αὔριον εἰς Ἰσραήλ. καὶ οἱ υἱοὶ τοῦ βασιλέως ἦσαν ἑβδομήκοντα ἄνδρες· οὗτοι ἁδροὶ τῆς πόλεως ἐξέτρεφον αὐτούς.
+
+**ELL** Τότε έγραψε προς αυτούς επιστολήν δευτέραν, λέγων, Εάν ήσθε εμού και εισακούητε της φωνής μου, λάβετε τας κεφαλάς των ανθρώπων, των υιών του κυρίου σας, και έλθετε προς εμέ εις Ιεζραέλ αύριον την ώραν ταύτην· οι δε υιοί του βασιλέως, εβδομήκοντα άνθρωποι, ήσαν μετά των μεγάλων της πόλεως, οίτινες ανέτρεφον αυτούς.
+
+**KJV** Then he wrote a letter the second time to them, saying, If ye be mine, and if ye will hearken unto my voice, take ye the heads of the men your master’s sons, and come to me to Jezreel by to morrow this time. Now the king’s sons, being seventy persons, were with the great men of the city, which brought them up.
+
+**HEB** וַיִּכְתֹּ֣ב אֲלֵיהֶם֩ סֵ֨פֶר ׀ שֵׁנִ֜ית לֵאמֹ֗ר אִם־לִ֨י אַתֶּ֜ם וּלְקֹלִ֣י ׀ אַתֶּ֣ם שֹׁמְעִ֗ים קְחוּ֙ אֶת־רָאשֵׁי֙ אַנְשֵׁ֣י בְנֵֽי־אֲדֹנֵיכֶ֔ם וּבֹ֧אוּ אֵלַ֛י כָּעֵ֥ת מָחָ֖ר יִזְרְעֶ֑אלָה וּבְנֵ֤י הַמֶּ֙לֶךְ֙ שִׁבְעִ֣ים אִ֔ישׁ אֶת־גְּדֹלֵ֥י הָעִ֖יר מְגַדְּלִ֥ים אוֹתָֽם׃
+
+**JPS** Then he wrote a letter the second time to them, saying: 'If ye be on my side, and if ye will hearken unto my voice, take ye the heads of the men your master's sons, and come to me to Jezreel by to-morrow this time.' Now the king's sons, being seventy persons, were with the great men of the city, who brought them up.
+
+## 7
+
+**GRC** καὶ ἐγένετο ὡς ἦλθεν τὸ βιβλίον πρὸς αὐτούς, καὶ ἔλαβον τοὺς υἱοὺς τοῦ βασιλέως καὶ ἔσφαξαν αὐτούς, ἑβδομήκοντα ἄνδρας· καὶ ἔθηκαν τὰς κεφαλὰς αὐτῶν ἐν καρτάλλοις καὶ ἀπέστειλαν αὐτὰς πρὸς αὐτὸν εἰς Ἰσραήλ.
+
+**ELL** Και καθώς έφθασεν η επιστολή προς αυτούς, λαβόντες τους υιούς του βασιλέως, έσφαξαν εβδομήκοντα ανθρώπους και έβαλον τας κεφαλάς αυτών εις καλάθια και έστειλαν προς αυτόν εις Ιεζραέλ.
+
+**KJV** And it came to pass, when the letter came to them, that they took the king’s sons, and slew seventy persons, and put their heads in baskets, and sent him them to Jezreel.
+
+**HEB** וַיְהִ֗י כְּבֹ֤א הַסֵּ֙פֶר֙ אֲלֵיהֶ֔ם וַיִּקְחוּ֙ אֶת־בְּנֵ֣י הַמֶּ֔לֶךְ וַֽיִּשְׁחֲט֖וּ שִׁבְעִ֣ים אִ֑ישׁ וַיָּשִׂ֤ימוּ אֶת־רָֽאשֵׁיהֶם֙ בַּדּוּדִ֔ים וַיִּשְׁלְח֥וּ אֵלָ֖יו יִזְרְעֶֽאלָה׃
+
+**JPS** And it came to pass, when the letter came to them, that they took the king's sons, and slew them, even seventy persons, and put their heads in baskets, and sent them unto him to Jezreel.
+
+## 8
+
+**GRC** καὶ ἦλθεν ὁ ἄγγελος καὶ ἀπήγγειλεν λέγων Ἤνεγκα τὰς κεφαλὰς τῶν υἱῶν τοῦ βασιλέως· καὶ εἶπεν Θέτε αὐτὰς βουνοὺς δύο παρὰ τὴν θύραν τῆς πύλης πόλεως εἰς πρωί.
+
+**ELL** Και ήλθεν ο μηνυτής και ανήγγειλε προς αυτόν, λέγων, Έφεραν τας κεφαλάς των υιών του βασιλέως. Και είπε, Βάλετε αυτάς κατά δύο σωρούς, εν τη εισόδω της πύλης, έως πρωΐ.
+
+**KJV** And there came a messenger, and told him, saying, They have brought the heads of the king’s sons. And he said, Lay ye them in two heaps at the entering in of the gate until the morning.
+
+**HEB** וַיָּבֹ֤א הַמַּלְאָךְ֙ וַיַּגֶּד־ל֣וֹ לֵאמֹ֔ר הֵבִ֖יאוּ רָאשֵׁ֣י בְנֵֽי־הַמֶּ֑לֶךְ וַיֹּ֗אמֶר שִׂ֣ימוּ אֹתָ֞ם שְׁנֵ֧י צִבֻּרִ֛ים פֶּ֥תַח הַשַּׁ֖עַר עַד־הַבֹּֽקֶר׃
+
+**JPS** And there came a messenger, and told him, saying: `They have brought the heads of the king's sons.' And he said: 'Lay ye them in two heaps at the entrance of the gate until the morning.'
+
+## 9
+
+**GRC** καὶ ἐγένετο πρωὶ καὶ ἐξῆλθεν καὶ ἔστη, καὶ εἶπεν πρὸς πάντα τὸν λαόν Δίκαιοι ὑμεῖς, ἰδοὺ ἐγώ εἰμι συνεστράφην ἐπὶ τὸν κύριόν μου καὶ ἀπέκτεινα αὐτόν· καὶ τίς ἐπάταξεν πάντας τούτους;
+
+**ELL** Και το πρωΐ εξήλθε και σταθείς είπε προς πάντα τον λαόν, Σεις είσθε δίκαιοι· ιδού, εγώ συνώμοσα εναντίον του κυρίου μου και εθανάτωσα αυτόν· αλλά πάντας τούτους τις επάταξε;
+
+**KJV** And it came to pass in the morning, that he went out, and stood, and said to all the people, Ye be righteous: behold, I conspired against my master, and slew him: but who slew all these?
+
+**HEB** וַיְהִ֤י בַבֹּ֙קֶר֙ וַיֵּצֵ֣א וַֽיַּעֲמֹ֔ד וַיֹּ֙אמֶר֙ אֶל־כָּל־הָעָ֔ם צַדִּקִ֖ים אַתֶּ֑ם הִנֵּ֨ה אֲנִ֜י קָשַׁ֤רְתִּי עַל־אֲדֹנִי֙ וָאֶהְרְגֵ֔הוּ וּמִ֥י הִכָּ֖ה אֶת־כָּל־אֵֽלֶּה׃
+
+**JPS** And it came to pass in the morning, that he went out, and stood, and said to all the people: 'Ye are righteous; behold, I conspired against my master, and slew him; but who smote all these?
+
+## 10
+
+**GRC** ἴδετε ἀφφώ, ὅτι οὐ πεσεῖται ἀπὸ τοῦ ῥήματος Κυρίου εἰς τὴν γῆν οὗ ἐλάλησεν Κύριος ἐπὶ τὸν οἶκον Ἀχαάβ· καὶ Κύριος ἐποίησεν ὅσα ἐλάλησεν ἐν χειρὶ δούλου αὐτοῦ Ἠλειού.
+
+**ELL** γνωρίσατε τώρα, ότι δεν θέλει πέσει εις την γην ουδέν εκ του λόγου του Κυρίου, τον οποίον ελάλησεν ο Κύριος κατά του οίκου του Αχαάβ· διότι εξετέλεσεν ο Κύριος όσα ελάλησε διά του δούλου αυτού Ηλία.
+
+**KJV** Know now that there shall fall unto the earth nothing of the word of the Lord, which the Lord spake concerning the house of Ahab: for the Lord hath done that which he spake by his servant Elijah.
+
+**HEB** דְּע֣וּ אֵפ֗וֹא כִּי֩ לֹ֨א יִפֹּ֜ל מִדְּבַ֤ר יְהוָה֙ אַ֔רְצָה אֲשֶׁר־דִּבֶּ֥ר יְהוָ֖ה עַל־בֵּ֣ית אַחְאָ֑ב וַיהוָ֣ה עָשָׂ֔ה אֵ֚ת אֲשֶׁ֣ר דִּבֶּ֔ר בְּיַ֖ד עַבְדּ֥וֹ אֵלִיָּֽהוּ׃
+
+**JPS** Know now that there shall fall unto the earth nothing of the word of HaShem, which HaShem spoke concerning the house of Ahab; for HaShem hath done that which He spoke by His servant Elijah.'
+
+## 11
+
+**GRC** καὶ ἐπάταξεν Εἰοὺ πάντας τοὺς ἐν τῷ οἴκῳ Ἀχαὰβ καταλειφθέντας ἐν Ἰσραήλ, καὶ πάντας τοὺς ἁδροὺς αὐτοῦ καὶ τοὺς γνωστοὺς αὐτοῦ καὶ τοὺς ἱερεῖς αὐτοῦ, ὥστε μὴ καταλιπεῖν αὐτοὺς κατάλιμμα.
+
+**ELL** Και επάταξεν ο Ιηού πάντας τους εναπολειφθέντας εκ του οίκου του Αχαάβ εν Ιεζραέλ, και πάντας τους μεγάλους αυτού και τους οικείους αυτού και τους ιερείς αυτού, ώστε δεν αφήκεν εις αυτόν υπόλοιπον.
+
+**KJV** So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining.
+
+**HEB** וַיַּ֣ךְ יֵה֗וּא אֵ֣ת כָּל־הַנִּשְׁאָרִ֤ים לְבֵית־אַחְאָב֙ בְּיִזְרְעֶ֔אל וְכָל־גְּדֹלָ֖יו וּמְיֻדָּעָ֣יו וְכֹהֲנָ֑יו עַד־בִּלְתִּ֥י הִשְׁאִֽיר־ל֖וֹ שָׂרִֽיד׃
+
+**JPS** So Jehu smote all that remained of the house of Ahab in Jezreel, and all his great men, and his familiar friends, and his priests, until there was left him none remaining.
+
+## 12
+
+**GRC** καὶ ἀνέστη καὶ ἐπορεύθη εἰς Σαμάρειαν. Αὐτὸς ἐν Βαιθάκαθ τῶν ποιμένων ἐν τῇ ὁδῷ,
+
+**ELL** Έπειτα σηκωθείς ανεχώρησε και ήλθεν εις Σαμάρειαν. Και εν τη οδώ, ενώ ήτο πλησίον τινός μάνδρας ποιμένων,
+
+**KJV** And he arose and departed, and came to Samaria. And as he was at the shearing house in the way,
+
+**HEB** וַיָּ֙קָם֙ וַיָּבֹ֔א וַיֵּ֖לֶךְ שֹׁמְר֑וֹן ה֛וּא בֵּֽית־עֵ֥קֶד הָרֹעִ֖ים בַּדָּֽרֶךְ׃
+
+**JPS** And he arose and departed, and went to Samaria. And as he was at the shearing-house of the shepherds in the way,
+
+## 13
+
+**GRC** καὶ Εἰοὺ εὗρεν τοὺς ἀδελφοὺς Ὀχοζείου βασιλέως Ἰούδα καὶ εἶπεν Τίνες ὑμεῖς; καὶ εἶπον Οἱ ἀδελφοὶ Ὀχοζείου ἡμεῖς, καὶ κατέβημεν εἰς εἰρήνην τῶν υἱῶν τοῦ βασιλέως καὶ τῶν υἱῶν τῆς δυναστευούσης.
+
+**ELL** εύρηκεν ο Ιηού τους αδελφούς του Οχοζίου βασιλέως του Ιούδα και είπε, Τίνες είσθε; Οι δε είπον, Είμεθα οι αδελφοί του Οχοζίου, και καταβαίνομεν να χαιρετήσωμεν τους υιούς του βασιλέως και τους υιούς της βασιλίσσης.
+
+**KJV** Jehu met with the brethren of Ahaziah king of Judah, and said, Who are ye? And they answered, We are the brethren of Ahaziah; and we go down to salute the children of the king and the children of the queen.
+
+**HEB** וְיֵה֗וּא מָצָא֙ אֶת־אֲחֵי֙ אֲחַזְיָ֣הוּ מֶֽלֶךְ־יְהוּדָ֔ה וַיֹּ֖אמֶר מִ֣י אַתֶּ֑ם וַיֹּאמְר֗וּ אֲחֵ֤י אֲחַזְיָ֙הוּ֙ אֲנַ֔חְנוּ וַנֵּ֛רֶד לִשְׁל֥וֹם בְּנֵֽי־הַמֶּ֖לֶךְ וּבְנֵ֥י הַגְּבִירָֽה׃
+
+**JPS** Jehu met with the brethren of Ahaziah king of Judah, and said: 'Who are ye?' And they answered: 'We are the brethren of Ahaziah; and we go down to salute the children of the king and the children of the queen.'
+
+## 14
+
+**GRC** καὶ εἶπεν Συλλάβετε αὐτοὺς ζῶντας· καὶ ἔσφαξαν αὐτοὺς εἰς Βαιθάκαθ τεσσεράκοντα καὶ δύο ἄνδρας· οὐ κατέλιπεν ἄνδρα ἐξ αὐτῶν.
+
+**ELL** Και είπε, Συλλάβετε αυτούς ζώντας. Και συνέλαβον αυτούς ζώντας και έσφαξαν αυτούς πλησίον του φρέατος της μάνδρας, τεσσαράκοντα δύο ανθρώπους· δεν αφήκαν ουδέ ένα εξ αυτών.
+
+**KJV** And he said, Take them alive. And they took them alive, and slew them at the pit of the shearing house, even two and forty men; neither left he any of them.
+
+**HEB** וַיֹּ֙אמֶר֙ תִּפְשׂ֣וּם חַיִּ֔ים וַֽיִּתְפְּשׂ֖וּם חַיִּ֑ים וַֽיִּשְׁחָט֞וּם אֶל־בּ֣וֹר בֵּֽית־עֵ֗קֶד אַרְבָּעִ֤ים וּשְׁנַ֙יִם֙ אִ֔ישׁ וְלֹֽא־הִשְׁאִ֥יר אִ֖ישׁ מֵהֶֽם׃
+
+**JPS** And he said: 'Take them alive.' And they took them alive, and slew them at the pit of the shearing-house, even two and forty men; neither left he any of them.
+
+## 15
+
+**GRC** Καὶ ἐπορεύθη ἐκεῖθεν καὶ ἔλαβεν τὸν Ἰωναδὰβ υἱὸν Ῥηχὰβ εἰς ἀπαντὴν αὐτοῦ, καὶ εὐλόγησεν αὐτόν· καὶ εἶπεν πρὸς αὐτὸν Εἰού Εἰ ἔστιν καρδία σου μετὰ καρδίας μου εὐθεῖα καθὼς ἡ καρδία μου μετὰ τῆς καρδίας σου; καὶ εἶπεν Ἰωναδάβ Ἔστιν· καὶ εἶπεν Εἰού Καὶ εἰ ἔστιν, δὸς τὴν χεῖρά σου· καὶ ἔδωκεν τὴν χεῖρα αὐτοῦ· καὶ ἀνεβίβασεν αὐτὸν πρὸς αὐτὸν ἐπὶ τὸ ἅρμα,
+
+**ELL** Και αναχωρήσας εκείθεν, εύρηκε τον Ιωναδάβ υιόν του Ρηχάβ, ερχόμενον εις συνάντησιν αυτού· και εχαιρέτησεν αυτόν και είπε προς αυτόν, Η καρδία σου είναι ευθεία, καθώς η καρδία μου μετά της καρδίας σου; Και απεκρίθη ο Ιωναδάβ, Είναι. Εάν ναι, δος την χείρα σου. Και έδωκε την χείρα αυτού· και ανεβίβασεν αυτόν προς εαυτόν επί την άμαξαν.
+
+**KJV** And when he was departed thence, he lighted on Jehonadab the son of Rechab coming to meet him: and he saluted him, and said to him, Is thine heart right, as my heart is with thy heart? And Jehonadab answered, It is. If it be, give me thine hand. And he gave him his hand; and he took him up to him into the chariot.
+
+**HEB** וַיֵּ֣לֶךְ מִשָּׁ֡ם וַיִּמְצָ֣א אֶת־יְהוֹנָדָב֩ בֶּן־רֵכָ֨ב לִקְרָאת֜וֹ וַֽיְבָרְכֵ֗הוּ וַיֹּ֨אמֶר אֵלָ֜יו הֲיֵ֧שׁ אֶת־לְבָבְךָ֣ יָשָׁ֗ר כַּאֲשֶׁ֤ר לְבָבִי֙ עִם־לְבָבֶ֔ךָ וַיֹּ֨אמֶר יְהוֹנָדָ֥ב יֵ֛שׁ וָיֵ֖שׁ תְּנָ֣ה אֶת־יָדֶ֑ךָ וַיִּתֵּ֣ן יָד֔וֹ וַיַּעֲלֵ֥הוּ אֵלָ֖יו אֶל־הַמֶּרְכָּבָֽה׃
+
+**JPS** And when he was departed thence, he lighted on Jehonadab the son of Rechab coming to meet him; and he saluted him, and said to him: 'Is thy heart right, as my heart is with thy heart?' And Jehonadab answered: 'It is.' 'If it be, said Jehu, give me thy hand.' And he gave him his hand; and he took him up to him into the chariot.
+
+## 16
+
+**GRC** καὶ εἶπεν πρὸς αὐτόν Δεῦρο μετ᾽ ἐμοῦ καὶ ἴδε ἐν τῷ ζηλῶσαί με τῷ κυρίῳ· καὶ ἐπεκάθισεν αὐτὸν ἐν τῷ ἅρματι αὐτοῦ.
+
+**ELL** Και είπεν, Ελθέ μετ' εμού και ιδέ τον ζήλον μου υπέρ του Κυρίου. Και επεβίβασαν αυτόν εις την άμαξαν αυτού.
+
+**KJV** And he said, Come with me, and see my zeal for the Lord. So they made him ride in his chariot.
+
+**HEB** וַיֹּ֙אמֶר֙ לְכָ֣ה אִתִּ֔י וּרְאֵ֖ה בְּקִנְאָתִ֣י לַיהוָ֑ה וַיַּרְכִּ֥בוּ אֹת֖וֹ בְּרִכְבּֽוֹ׃
+
+**JPS** And he said: 'Come with me, and see my zeal for HaShem.' So they made him ride in his chariot.
+
+## 17
+
+**GRC** καὶ εἰσῆλθεν εἰς Σαμάρειαν, καὶ ἐπάταξεν πάντας τοὺς καταλειφθέντας τοῦ Ἀχαὰβ ἐν Σαμαρείᾳ ἕως τοῦ ἀφανίσαι αὐτόν, κατὰ τὸ ῥῆμα Κυρίου ὃ ἐλάλησεν πρὸς Ἠλειού.
+
+**ELL** Και ότε ήλθεν εις Σαμάρειαν, επάταξε πάντας τους εναπολειφθέντας εκ του Αχαάβ εν Σαμαρεία, εωσού ηφάνισεν αυτόν, κατά τον λόγον του Κυρίου, τον οποίον ελάλησε προς τον Ηλίαν.
+
+**KJV** And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of the Lord, which he spake to Elijah.
+
+**HEB** וַיָּבֹא֙ שֹֽׁמְר֔וֹן וַ֠יַּךְ אֶת־כָּל־הַנִּשְׁאָרִ֧ים לְאַחְאָ֛ב בְּשֹׁמְר֖וֹן עַד־הִשְׁמִיד֑וֹ כִּדְבַ֣ר יְהוָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר אֶל־אֵלִיָּֽהוּ׃
+
+**JPS** And when he came to Samaria, he smote all that remained unto Ahab in Samaria, till he had destroyed him, according to the word of HaShem, which He spoke to Elijah.
+
+## 18
+
+**GRC** καὶ ἐζήλωσεν Εἰοὺ πάντα τὸν λαὸν καὶ εἶπεν πρὸς αὐτούς Ἀχαὰβ ἐδούλευσεν τῷ Βάαλ ὀλίγα, Εἰοὺ δουλεύσει αὐτῷ πολλά.
+
+**ELL** Τότε συνήθροισεν ο Ιηού πάντα τον λαόν και είπε προς αυτούς, Ο Αχαάβ εδούλευσε τον Βάαλ ολίγον· ο Ιηού θέλει δουλεύσει αυτόν πολύ·
+
+**KJV** And Jehu gathered all the people together, and said unto them, Ahab served Baal a little; but Jehu shall serve him much.
+
+**HEB** וַיִּקְבֹּ֤ץ יֵהוּא֙ אֶת־כָּל־הָעָ֔ם וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַחְאָ֕ב עָבַ֥ד אֶת־הַבַּ֖עַל מְעָ֑ט יֵה֖וּא יַעַבְדֶ֥נּוּ הַרְבֵּֽה׃
+
+**JPS** And Jehu gathered all the people together, and said unto them: 'Ahab served Baal a little; but Jehu will serve him much.
+
+## 19
+
+**GRC** καὶ νῦν, πάντες οἱ προφῆται τοῦ Βάαλ, πάντας τοὺς δούλους αὐτοῦ καὶ τοὺς ἱερεῖς αὐτοῦ καλέσατε πρὸς μέ· ἀνὴρ μὴ ἐπισκεπήτω, ὅτι θυσία μεγάλη μοι τῷ Βάαλ· πᾶς ὃς ἐὰν ἐπισκεπῇ οὐ ζήσεται. καὶ Εἰοὺ ἐποίησεν ἐν πτερνισμῷ, ἵνα ἀπολέσῃ τοὺς δούλους τοῦ Βάαλ.
+
+**ELL** τώρα λοιπόν καλέσατε προς εμέ πάντας τους προφήτας του Βάαλ, πάντας τους λατρευτάς αυτού και πάντας τους ιερείς αυτού· ας μη λείψη μηδείς· διότι έχω θυσίαν μεγάλην εις τον Βάαλ· πας όστις λείψη, δεν θέλει ζήσει. Πλην ο Ιηού έπραξε τούτο δολίως, επί σκοπώ να εξολοθρεύση τους λατρευτάς του Βάαλ.
+
+**KJV** Now therefore call unto me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice to do to Baal; whosoever shall be wanting, he shall not live. But Jehu did it in subtilty, to the intent that he might destroy the worshippers of Baal.
+
+**HEB** וְעַתָּ֣ה כָל־נְבִיאֵ֣י הַבַּ֡עַל כָּל־עֹבְדָ֣יו וְכָל־כֹּהֲנָיו֩ קִרְא֨וּ אֵלַ֜י אִ֣ישׁ אַל־יִפָּקֵ֗ד כִּי֩ זֶ֨בַח גָּד֥וֹל לִי֙ לַבַּ֔עַל כֹּ֥ל אֲשֶׁר־יִפָּקֵ֖ד לֹ֣א יִֽחְיֶ֑ה וְיֵהוּא֙ עָשָׂ֣ה בְעָקְבָּ֔ה לְמַ֥עַן הַאֲבִ֖יד אֶת־עֹבְדֵ֥י הַבָּֽעַל׃
+
+**JPS** Now therefore call unto me all the prophets of Baal, all his worshippers, and all his priests, let none be wanting; for I have a great sacrifice to do to Baal; whosoever shall be wanting, he shall not live.' But Jehu did it in subtlety, to the intent that he might destroy the worshippers of Baal.
+
+## 20
+
+**GRC** καὶ εἶπεν Εἰού Ἁγιάσατε ἱερείαν τῷ Βάαλ· καὶ ἐκήρυξεν.
+
+**ELL** Και είπεν ο Ιηού, Κηρύξατε πανήγυριν διά τον Βάαλ. Και εκήρυξαν.
+
+**KJV** And Jehu said, Proclaim a solemn assembly for Baal. And they proclaimed it.
+
+**HEB** וַיֹּ֣אמֶר יֵה֗וּא קַדְּשׁ֧וּ עֲצָרָ֛ה לַבַּ֖עַל וַיִּקְרָֽאוּ׃
+
+**JPS** And Jehu said: 'Sanctify a solemn assembly for Baal.' And they proclaimed it.
+
+## 21
+
+**GRC** καὶ ἀπέστειλεν Εἰοὺ ἐν παντὶ Ἰσραὴλ λέγων Καὶ νῦν πάντες οἱ δοῦλοι αὐτοῦ καὶ πάντες οἱ ἱερεῖς αὐτοῦ καὶ πάντες οἱ προφῆται αὐτοῦ, μηδεὶς ἀπολειπέσθω, ὅτι θυσίαν μεγάλην ποιῶ· ὃς ἂν ἀπολειφθῇ οὐ ζήσεται. καὶ ἦλθον πάντες οἱ δοῦλοι τοῦ Βάαλ καὶ πάντες οἱ ἱερεῖς αὐτοῦ καὶ πάντες οἱ προφῆται αὐτοῦ· οὐ κατελείφθη ἀνὴρ ὃς οὐ παρεγένετο· καὶ εἰσῆλθον εἰς τὸν οἶκον τοῦ Βάαλ, καὶ ἐπλήσθη ὁ οἶκος τοῦ Βάαλ στόμα εἰς στόμα.
+
+**ELL** Και έπεμψεν ο Ιηού προς πάντα τον Ισραήλ· και ήλθον πάντες οι λατρευταί του Βάαλ· και δεν έμεινεν ουδείς, όστις δεν ήλθε. Και ήλθον εις τον οίκον του Βάαλ· και επλήσθη ο οίκος του Βάαλ, στόμα εις στόμα.
+
+**KJV** And Jehu sent through all Israel: and all the worshippers of Baal came, so that there was not a man left that came not. And they came into the house of Baal; and the house of Baal was full from one end to another.
+
+**HEB** וַיִּשְׁלַ֤ח יֵהוּא֙ בְּכָל־יִשְׂרָאֵ֔ל וַיָּבֹ֙אוּ֙ כָּל־עֹבְדֵ֣י הַבַּ֔עַל וְלֹֽא־נִשְׁאַ֥ר אִ֖ישׁ אֲשֶׁ֣ר לֹֽא־בָ֑א וַיָּבֹ֙אוּ֙ בֵּ֣ית הַבַּ֔עַל וַיִּמָּלֵ֥א בֵית־הַבַּ֖עַל פֶּ֥ה לָפֶֽה׃
+
+**JPS** And Jehu sent through all Israel; and all the worshippers of Baal came, so that there was not a man left that came not. And they came into the house of Baal; and the house of Baal was filled from one end to another.
+
+## 22
+
+**GRC** καὶ εἶπεν τῷ ἐπὶ τοῦ οἴκου μεσθαάλ Ἐξάγαγε ἔνδυμα πᾶσι τοῖς δούλοις τοῦ Βάαλ· καὶ ἐξήνεγκεν αὐτοῖς ὁ στολιστής.
+
+**ELL** Και είπε προς τον ιματιοφύλακα, Εξάγαγε ιμάτια διά πάντας τους λατρευτάς του Βάαλ. Και εξήγαγεν εις αυτούς τα ιμάτια.
+
+**KJV** And he said unto him that was over the vestry, Bring forth vestments for all the worshippers of Baal. And he brought them forth vestments.
+
+**HEB** וַיֹּ֗אמֶר לַֽאֲשֶׁר֙ עַל־הַמֶּלְתָּחָ֔ה הוֹצֵ֣א לְב֔וּשׁ לְכֹ֖ל עֹבְדֵ֣י הַבָּ֑עַל וַיֹּצֵ֥א לָהֶ֖ם הַמַּלְבּֽוּשׁ׃
+
+**JPS** And he said unto him that was over the vestry: 'Bring forth vestments for all the worshippers of Baal.' And he brought them forth vestments.
+
+## 23
+
+**GRC** καὶ εἰσῆλθεν Εἰοὺ καὶ Ἰωναδὰβ υἱὸς Ῥηχὰβ εἰς οἶκον τοῦ Βάαλ· καὶ εἶπεν τοῖς δούλοις τοῦ Βάαλ Ἐρευνήσατε καὶ ἴδετε εἰ ἔστιν μεθ᾽ ὑμῶν τῶν δούλων Κυρίου, ὅτι ἀλλ᾽ ἢ οἱ δοῦλοι τοῦ Βάαλ μονώτατοι.
+
+**ELL** Και εισήλθεν ο Ιηού και ο Ιωναδάβ ο υιός του Ρηχάβ εις τον οίκον του Βάαλ· και είπε προς τους λατρευτάς του Βάαλ, Ερευνήσατε και ιδέτε να μη ήναι εδώ με σας μηδείς εκ των δούλων του Κυρίου, αλλά μόνον οι λατρευταί του Βάαλ.
+
+**KJV** And Jehu went, and Jehonadab the son of Rechab, into the house of Baal, and said unto the worshippers of Baal, Search, and look that there be here with you none of the servants of the Lord, but the worshippers of Baal only.
+
+**HEB** וַיָּבֹ֥א יֵה֛וּא וִיהוֹנָדָ֥ב בֶּן־רֵכָ֖ב בֵּ֣ית הַבָּ֑עַל וַיֹּ֜אמֶר לְעֹבְדֵ֣י הַבַּ֗עַל חַפְּשׂ֤וּ וּרְאוּ֙ פֶּן־יֶשׁ־פֹּ֤ה עִמָּכֶם֙ מֵעַבְדֵ֣י יְהוָ֔ה כִּ֛י אִם־עֹבְדֵ֥י הַבַּ֖עַל לְבַדָּֽם׃
+
+**JPS** And Jehu went, and Jehonadab the son of Rechab, into the house of Baal; and he said unto the worshippers of Baal: 'Search, and look that there be here with you none of the servants of HaShem, but the worshippers of Baal only.'
+
+## 24
+
+**GRC** καὶ εἰσῆλθεν τοῦ ποιῆσαι τὰ θύματα καὶ τὰ ὁλοκαυτώματα· καὶ Εἰοὺ ἔταξεν ἑαυτῷ ἔξω ὀγδοήκοντα ἄνδρας καὶ εἶπεν Ἀνὴρ ὃς ἐὰν διασωθῇ ἀπὸ τῶν ἀνδρῶν ὧν ἐγὼ ἀνάγω ἐπὶ χεῖρας ὑμῶν, ἡ ψυχὴ αὐτοῦ ἀντὶ τῆς ψυχῆς αὐτοῦ.
+
+**ELL** Και ότε εισήλθον διά να προσφέρωσι θυσίας και ολοκαυτώματα, ο Ιηού διέταξεν έξω ογδοήκοντα άνδρας και είπεν, Όστις αφήση να διασωθή τις εκ των ανθρώπων, τους οποίους εγώ έφερα εις τας χείρας σας, η ζωή αυτού θέλει είσθαι αντί της ζωής εκείνου.
+
+**KJV** And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, If any of the men whom I have brought into your hands escape, he that letteth him go, his life shall be for the life of him.
+
+**HEB** וַיָּבֹ֕אוּ לַעֲשׂ֖וֹת זְבָחִ֣ים וְעֹל֑וֹת וְיֵה֞וּא שָׂם־ל֤וֹ בַחוּץ֙ שְׁמֹנִ֣ים אִ֔ישׁ וַיֹּ֗אמֶר הָאִ֤ישׁ אֲשֶׁר־יִמָּלֵט֙ מִן־הָאֲנָשִׁ֗ים אֲשֶׁ֤ר אֲנִי֙ מֵבִ֣יא עַל־יְדֵיכֶ֔ם נַפְשׁ֖וֹ תַּ֥חַת נַפְשֽׁוֹ׃
+
+**JPS** And they went in to offer sacrifices and burnt-offerings. Now Jehu had appointed him fourscore men without, and said: 'If any of the men whom I bring into your hands escape, his life shall be for the life of him.'
+
+## 25
+
+**GRC** καὶ ἐγένετο ὡς συνετέλεσεν ποιῶν τὴν ὁλοκαύτωσιν, καὶ εἶπεν Εἰοὺ τοῖς παρατρέχουσιν καὶ τοῖς τριστάταις Εἰσελθόντες πατάξατε αὐτούς, ἀνὴρ μὴ ἐξελθάτω ἐξ αὐτῶν· καὶ ἐπάταξαν αὐτοὺς ἐν στόματι ῥομφαίας, καὶ ἔρριψαν οἱ παρατρέχοντες καὶ οἱ τριστάται, καὶ ἐπορεύθησαν ἕως πόλεως οἴκου τοῦ Βάαλ.
+
+**ELL** Και ως ετελείωσε προσφέρων το ολοκαύτωμα, είπεν ο Ιηού προς τους δορυφόρους και προς τους ταγματάρχας, Εισέλθετε, πατάξατε αυτούς· μηδείς ας μη εξέλθη. Και επάταξαν αυτούς οι δορυφόροι και οι ταγματάρχαι εν στόματι μαχαίρας και έρριψαν έξω· και υπήγαν έως της πόλεως του οίκου του Βάαλ.
+
+**KJV** And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in, and slay them; let none come forth. And they smote them with the edge of the sword; and the guard and the captains cast them out, and went to the city of the house of Baal.
+
+**HEB** וַיְהִ֞י כְּכַלֹּת֣וֹ ׀ לַעֲשׂ֣וֹת הָעֹלָ֗ה וַיֹּ֣אמֶר יֵ֠הוּא לָרָצִ֨ים וְלַשָּׁלִשִׁ֜ים בֹּ֤אוּ הַכּוּם֙ אִ֣ישׁ אַל־יֵצֵ֔א וַיַּכּ֖וּם לְפִי־חָ֑רֶב וַיַּשְׁלִ֗כוּ הָֽרָצִים֙ וְהַשָּׁ֣לִשִׁ֔ים וַיֵּלְכ֖וּ עַד־עִ֥יר בֵּית־הַבָּֽעַל׃
+
+**JPS** And it came to pass, as soon as he had made an end of offering the burnt-offering, that Jehu said to the guard and to the captains: 'Go in, and slay them; let none come forth.' And they smote them with the edge of the sword; and the guard and the captains cast them out, and went to the city of the house of Baal.
+
+## 26
+
+**GRC** καὶ ἐξήνεγκαν τὴν στολὴν τοῦ Βὰαλ καὶ ἐνέπρησαν αὐτήν.
+
+**ELL** Και εξέβαλον τα είδωλα του οίκου του Βάαλ και κατέκαυσαν αυτά.
+
+**KJV** And they brought forth the images out of the house of Baal, and burned them.
+
+**HEB** וַיֹּצִ֛אוּ אֶת־מַצְּב֥וֹת בֵּית־הַבַּ֖עַל וַֽיִּשְׂרְפֽוּהָ׃
+
+**JPS** And they brought forth the pillars that were in the house of Baal, and burned them.
+
+## 27
+
+**GRC** καὶ κατέσπασαν τὰς στήλας τοῦ Βάαλ, καὶ ἐπάταξεν αὐτὸν εἰς λυτρῶνας ἕως τῆς ἡμέρας ταύτης.
+
+**ELL** Και κατεσύντριψαν το είδωλον του Βάαλ και κατεκρήμνισαν τον οίκον του Βάαλ, και έκαμον αυτόν κοπρώνα έως της ημέρας ταύτης.
+
+**KJV** And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day.
+
+**HEB** וַֽיִּתְּצ֔וּ אֵ֖ת מַצְּבַ֣ת הַבָּ֑עַל וַֽיִּתְּצוּ֙ אֶת־בֵּ֣ית הַבַּ֔עַל וַיְשִׂמֻ֥הוּ למחראות לְמֽוֹצָא֖וֹת עַד־הַיּֽוֹם׃
+
+**JPS** And they broke down the pillar of Baal, and broke down the house of Baal, and made it a draught-house, unto this day.
+
+## 28
+
+**GRC** καὶ ἠφάνισεν Εἰοὺ τὸν Βάαλ ἐξ Ἰσραήλ.
+
+**ELL** Ούτως ηφάνισεν ο Ιηού τον Βάαλ εκ του Ισραήλ.
+
+**KJV** Thus Jehu destroyed Baal out of Israel.
+
+**HEB** וַיַּשְׁמֵ֥ד יֵה֛וּא אֶת־הַבַּ֖עַל מִיִּשְׂרָאֵֽל׃
+
+**JPS** Thus Jehu destroyed Baal out of Israel.
+
+## 29
+
+**GRC** πλὴν ἁμαρτιῶν Ἰεροβοὰμ υἱοῦ Ναβὰτ ὃς ἐξήμαρτεν τὸν Ἰσραήλ, οὐκ ἀπέστη Εἰοὺ ἔμπροσθεν αὐτῶν, αἱ δαμάλεις αἱ χρυσαῖ ἐν Βαιθὴλ καὶ ἐν Δάν.
+
+**ELL** Πλην δεν απεμακρύνθη ο Ιηού από των αμαρτιών του Ιεροβοάμ υιού του Ναβάτ, όστις έκαμε τον Ισραήλ να αμαρτήση, από των χρυσών μόσχων των εν Βαιθήλ και των εν Δαν.
+
+**KJV** Howbeit from the sins of Jeroboam the son of Nebat, who made Israel to sin, Jehu departed not from after them, to wit, the golden calves that were in Beth–el, and that were in Dan.
+
+**HEB** רַ֠ק חֲטָאֵ֞י יָרָבְעָ֤ם בֶּן־נְבָט֙ אֲשֶׁ֣ר הֶחֱטִ֣יא אֶת־יִשְׂרָאֵ֔ל לֹֽא־סָ֥ר יֵה֖וּא מֵאַֽחֲרֵיהֶ֑ם עֶגְלֵי֙ הַזָּהָ֔ב אֲשֶׁ֥ר בֵּֽית־אֵ֖ל וַאֲשֶׁ֥ר בְּדָֽן׃
+
+**JPS** Howbeit from the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin, Jehu departed not from after them, the golden calves that were in Beth-el, and that were in Dan.
+
+## 30
+
+**GRC** Καὶ εἶπεν Κύριος πρὸς Εἰού Ἀνθ᾽ ὧν ὅσα ἠγάθυνας ποιῆσαι τὸ εὐθὲς ἐν ὀφθαλμοῖς μου κατὰ πάντα ὅσα ἐν τῇ καρδίᾳ μου ἐποίησας τῷ οἴκῳ Ἀχαάβ, υἱοὶ τέταρτοι καθήσονταί σοι ἐπὶ θρόνου Ἰσραήλ.
+
+**ELL** Και είπε Κύριος προς τον Ιηού, Επειδή έπραξας καλώς εκτελέσας το αρεστόν εις τους οφθαλμούς μου, και έκαμες εις τον οίκον του Αχαάβ κατά πάντα όσα ήσαν εν τη καρδία μου, οι υιοί σου μέχρι της τετάρτης γενεάς θέλουσι καθίσει επί του θρόνου του Ισραήλ.
+
+**KJV** And the Lord said unto Jehu, Because thou hast done well in executing that which is right in mine eyes, and hast done unto the house of Ahab according to all that was in mine heart, thy children of the fourth generation shall sit on the throne of Israel.
+
+**HEB** וַיֹּ֨אמֶר יְהוָ֜ה אֶל־יֵה֗וּא יַ֤עַן אֲשֶׁר־הֱטִיבֹ֙תָ֙ לַעֲשׂ֤וֹת הַיָּשָׁר֙ בְּעֵינַ֔י כְּכֹל֙ אֲשֶׁ֣ר בִּלְבָבִ֔י עָשִׂ֖יתָ לְבֵ֣ית אַחְאָ֑ב בְּנֵ֣י רְבִעִ֔ים יֵשְׁב֥וּ לְךָ֖ עַל־כִּסֵּ֥א יִשְׂרָאֵֽל׃
+
+**JPS** And HaShem said unto Jehu: 'Because thou hast done well in executing that which is right in Mine eyes, and hast done unto the house of Ahab according to all that was in My heart, thy sons of the fourth generation shall sit on the throne of Israel.'
+
+## 31
+
+**GRC** καὶ Εἰοὺ οὐκ ἐφύλαξεν πορεύεσθαι ἐν νόμῳ Κυρίου θεοῦ Ἰσραὴλ ἐν ὅλῃ καρδίᾳ αὐτοῦ, οὐκ ἀπέστη ἐπάνωθεν ἁμαρτιῶν Ἰεροβοὰμ ὃς ἐξήμαρτεν τὸν Ἰσραήλ.
+
+**ELL** Και δεν επρόσεξεν ο Ιηού να περιπατή εξ όλης της καρδίας αυτού εν τω νόμω Κυρίου του Θεού του Ισραήλ· δεν απεμακρύνθη από των αμαρτιών του Ιεροβοάμ, όστις έκαμε τον Ισραήλ να αμαρτήση.
+
+**KJV** But Jehu took no heed to walk in the law of the Lord God of Israel with all his heart: for he departed not from the sins of Jeroboam, which made Israel to sin.
+
+**HEB** וְיֵה֗וּא לֹ֥א שָׁמַ֛ר לָלֶ֛כֶת בְּתֽוֹרַת־יְהוָ֥ה אֱלֹהֵֽי־יִשְׂרָאֵ֖ל בְּכָל־לְבָב֑וֹ לֹ֣א סָ֗ר מֵעַל֙ חַטֹּ֣אות יָֽרָבְעָ֔ם אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־יִשְׂרָאֵֽל׃
+
+**JPS** But Jehu took no heed to walk in the law of HaShem, the G-d of Israel, with all his heart; he departed not from the sins of Jeroboam, wherewith he made Israel to sin.
+
+## 32
+
+**GRC** Ἐν ταῖς ἡμέραις ἐκείναις ἤρξατο Κύριος συνκόπτειν ἐν τῷ Ἰσραὴλ, καὶ ἐπάταξεν αὐτοὺς Ἁζαὴλ καὶ ἐν παντὶ ὁρίῳ Ἰσραήλ,
+
+**ELL** Εν εκείναις ταις ημέραις ήρχισεν ο Κύριος να κολοβόνη τον Ισραήλ· και επάταξεν αυτούς ο Αζαήλ εις πάντα τα όρια του Ισραήλ·
+
+**KJV** In those days the Lord began to cut Israel short: and Hazael smote them in all the coasts of Israel;
+
+**HEB** בַּיָּמִ֣ים הָהֵ֔ם הֵחֵ֣ל יְהוָ֔ה לְקַצּ֖וֹת בְּיִשְׂרָאֵ֑ל וַיַּכֵּ֥ם חֲזָאֵ֖ל בְּכָל־גְּב֥וּל יִשְׂרָאֵֽל׃
+
+**JPS** In those days HaShem began to cut Israel short; and Hazael smote them in all the borders of Israel:
+
+## 33
+
+**GRC** ἀπὸ τοῦ Ἰορδάνου κατ᾽ ἀνατολὰς ἡλίου πᾶσαν τὴν Γαλαάδ, τοῦ Γαδδεὶ καὶ τοῦ Ῥουβὴν καὶ τοῦ Μανασσή, ἀπὸ Ἀροὴρ ἥ ἐστιν ἐπὶ τοῦ χεὶλους χειμάρρου Ἀρνών, καὶ τὴν Γαλαὰδ καὶ τὴν Βασάν.
+
+**ELL** από Ιορδάνου, προς ανατολάς ηλίου, πάσαν την γην Γαλαάδ, τους Γαδίτας και τους Ρουβηνίτας και τους Μανασσίτας από Αροήρ, της επί του χειμάρρου Αρνών, την τε Γαλαάδ και την Βασάν.
+
+**KJV** From Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the river Arnon, even Gilead and Bashan.
+
+**HEB** מִן־הַיַּרְדֵּן֙ מִזְרַ֣ח הַשֶּׁ֔מֶשׁ אֵ֚ת כָּל־אֶ֣רֶץ הַגִּלְעָ֔ד הַגָּדִ֥י וְהָרֻאובֵנִ֖י וְהַֽמְנַשִּׁ֑י מֵעֲרֹעֵר֙ אֲשֶׁ֣ר עַל־נַ֣חַל אַרְנֹ֔ן וְהַגִּלְעָ֖ד וְהַבָּשָֽׁן׃
+
+**JPS** from the Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the valley of Arnon, even Gilead and Bashan.
+
+## 34
+
+**GRC** καὶ τὰ λοιπὰ τῶν λόγων Εἰοὺ καὶ πάντα ὅσα ἐποίησεν καὶ πᾶσα ἡ δυναστεία αὐτοῦ καὶ τὰς συνάψεις ἃς συνῆψεν, οὐχὶ ταῦτα γεγραμμένα ἐπὶ βιβλίῳ λόγων τῶν ἡμερῶν τοῖς βασιλεῦσιν Ἰσραήλ;
+
+**ELL** Αι δε λοιπαί πράξεις του Ιηού και πάντα όσα έπραξε και πάντα τα κατορθώματα αυτού, δεν είναι γεγραμμένα εν τω βιβλίω των χρονικών των βασιλέων του Ισραήλ;
+
+**KJV** Now the rest of the acts of Jehu, and all that he did, and all his might, are they not written in the book of the chronicles of the kings of Israel?
+
+**HEB** וְיֶ֨תֶר דִּבְרֵ֥י יֵה֛וּא וְכָל־אֲשֶׁ֥ר עָשָׂ֖ה וְכָל־גְּבוּרָת֑וֹ הֲלֽוֹא־הֵ֣ם כְּתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃
+
+**JPS** Now the rest of the acts of Jehu, and all that he did, and all his might, are they not written in the book of the chronicles of the kings of Israel?
+
+## 35
+
+**GRC** καὶ ἐκοιμήθη Εἰοὺ μετὰ τῶν πατέρων αὐτοῦ, καὶ ἔθαψαν αὐτὸν ἐν Σαμαρείᾳ· καὶ ἐβασίλευσεν Ἰωαχὰς υἱὸς αὐτοῦ ἀντ᾽ αὐτοῦ.
+
+**ELL** Και εκοιμήθη ο Ιηού μετά των πατέρων αυτού· και έθαψαν αυτόν εν Σαμαρεία. Εβασίλευσε δε αντ' αυτού Ιωάχαζ ο υιός αυτού.
+
+**KJV** And Jehu slept with his fathers: and they buried him in Samaria. And Jehoahaz his son reigned in his stead.
+
+**HEB** וַיִּשְׁכַּ֤ב יֵהוּא֙ עִם־אֲבֹתָ֔יו וַיִּקְבְּר֥וּ אֹת֖וֹ בְּשֹׁמְר֑וֹן וַיִּמְלֹ֛ךְ יְהוֹאָחָ֥ז בְּנ֖וֹ תַּחְתָּֽיו׃
+
+**JPS** And Jehu slept with his fathers; and they buried him in Samaria. And Jehoahaz his son reigned in his stead.
+
+## 36
+
+**GRC** καὶ αἱ ἡμέραι ἃς ἐβασίλευσεν Εἰοὺ ἐπὶ Ἰσραὴλ εἴκοσι ὀκτὼ ἔτη ἐν Σαμαρείᾳ.
+
+**ELL** Και ο καιρός, καθ' ον ο Ιηού εβασίλευσεν επί τον Ισραήλ εν Σαμαρεία, ήτο εικοσιοκτώ έτη.
+
+**KJV** And the time that Jehu reigned over Israel in Samaria was twenty and eight years.
+
+**HEB** וְהַיָּמִ֗ים אֲשֶׁ֨ר מָלַ֤ךְ יֵהוּא֙ עַל־יִשְׂרָאֵ֔ל עֶשְׂרִ֥ים וּשְׁמֹנֶֽה־שָׁנָ֖ה בְּשֹׁמְרֽוֹן׃
+
+**JPS** And the time that Jehu reigned over Israel in Samaria was twenty and eight years.
+
+## Notes
+

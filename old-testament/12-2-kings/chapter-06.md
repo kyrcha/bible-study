@@ -1,0 +1,411 @@
+# 2 Kings 6 · Βασιλειών Δ΄ 6
+
+<!--
+Format: each verse starts with a '## <number>' heading followed by up to three lines:
+  **GRC** Ancient Greek (Septuagint, Swete 1909-1930)
+  **ELL** Modern Greek (Vamvas 1850)
+  **KJV** King James Version 1769
+  **HEB** Hebrew (Westminster Leningrad Codex)
+  **JPS** Jewish English (Jewish Publication Society 1917)
+Any other text under a verse is shown as a note on that verse.
+Anything under '## Notes' is free-form markdown for your own study notes.
+-->
+
+## 1
+
+**GRC** Καὶ εἶπον οἱ υἱοὶ τῶν προφητῶν πρὸς Ἐλεισαῖε Ἰδοὺ δὴ ὁ τόπος ἐν ᾧ ἡμεῖς οἰκοῦμεν ἐνώπιόν σου στενὸς ἀφ᾽ ἡμῶν·
+
+**ELL** Και είπον οι υιοί των προφητών προς τον Ελισσαιέ, Ιδού τώρα, ο τόπος, εις τον οποίον ημείς κατοικούμεν ενώπιόν σου, είναι στενός δι' ημάς·
+
+**KJV** And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.
+
+**HEB** וַיֹּאמְר֥וּ בְנֵֽי־הַנְּבִיאִ֖ים אֶל־אֱלִישָׁ֑ע הִנֵּֽה־נָ֣א הַמָּק֗וֹם אֲשֶׁ֨ר אֲנַ֜חְנוּ יֹשְׁבִ֥ים שָׁ֛ם לְפָנֶ֖יךָ צַ֥ר מִמֶּֽנּוּ׃
+
+**JPS** And the sons of the prophets said unto Elisha: 'Behold now, the place where we dwell before thee is too strait for us.
+
+## 2
+
+**GRC** πορευθῶμεν δὴ ἕως τοῦ Ἰορδάνου καὶ λάβωμεν ἐκεῖθεν ἀνὴρ εἷς δοκὸν μίαν, καὶ ποιήσωμεν ἑαυτοῖς ἐκεῖ τοῦ οἰκεῖν ἐκεῖ. καὶ εἶπεν Δεῦτε.
+
+**ELL** ας υπάγωμεν, παρακαλούμεν, έως του Ιορδάνου, και εκείθεν ας λάβωμεν έκαστος μίαν δοκόν, και ας κάμωμεν εις εαυτούς εκεί τόπον, διά να κατοικώμεν εκεί. Ο δε είπεν, Υπάγετε.
+
+**KJV** Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye.
+
+**HEB** נֵֽלְכָה־נָּ֣א עַד־הַיַּרְדֵּ֗ן וְנִקְחָ֤ה מִשָּׁם֙ אִ֚ישׁ קוֹרָ֣ה אֶחָ֔ת וְנַעֲשֶׂה־לָּ֥נוּ שָׁ֛ם מָק֖וֹם לָשֶׁ֣בֶת שָׁ֑ם וַיֹּ֖אמֶר לֵֽכוּ׃
+
+**JPS** Let us go, we pray thee, unto the Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell.' And he answered: 'Go ye.'
+
+## 3
+
+**GRC** καὶ εἶπεν ὁ εἷς Ἐπιεικῶς, δεῦρο μετὰ τῶν δούλων σου· καὶ εἶπεν Ἐγὼ πορεύσομαι.
+
+**ELL** Και είπεν ο εις, Ευαρεστήθητι, παρακαλώ, να έλθης μετά των δούλων σου. Και είπε, Θέλω ελθεί.
+
+**KJV** And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go.
+
+**HEB** וַיֹּ֙אמֶר֙ הָֽאֶחָ֔ד ה֥וֹאֶל נָ֖א וְלֵ֣ךְ אֶת־עֲבָדֶ֑יךָ וַיֹּ֖אמֶר אֲנִ֥י אֵלֵֽךְ׃
+
+**JPS** And one said: 'Be content, I pray thee, and go with thy servants.' And he answered: 'I will go.'
+
+## 4
+
+**GRC** καὶ ἐπορεύθη μετ᾽ αὐτῶν, καὶ ἦλθον εἰς τὸν Ἰορδάνην καὶ ἔτεμνον τὰ ξύλα.
+
+**ELL** Και υπήγε μετ' αυτών. Και ελθόντες εις τον Ιορδάνην, έκοπτον τα ξύλα.
+
+**KJV** So he went with them. And when they came to Jordan, they cut down wood.
+
+**HEB** וַיֵּ֖לֶךְ אִתָּ֑ם וַיָּבֹ֙אוּ֙ הַיַּרְדֵּ֔נָה וַֽיִּגְזְר֖וּ הָעֵצִֽים׃
+
+**JPS** So he went with them. And when they came to the Jordan, they cut down wood.
+
+## 5
+
+**GRC** καὶ ἰδοὺ ὁ εἷς καταβάλλων τὴν δοκόν, καὶ τὸ σιδήριον ἐξέπεσεν εἰς τὸ ὕδωρ· καὶ ἐβόησεν Ὤ, κύριε· καὶ αὐτὸ κεκρυμμένον.
+
+**ELL** Ενώ δε ο εις κατέβαλλε την δοκόν, έπεσε το σιδήριον εις το ύδωρ· και εβόησε και είπεν, Ω, κύριε· και τούτο ήτο δάνειον·
+
+**KJV** But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.
+
+**HEB** וַיְהִ֤י הָֽאֶחָד֙ מַפִּ֣יל הַקּוֹרָ֔ה וְאֶת־הַבַּרְזֶ֖ל נָפַ֣ל אֶל־הַמָּ֑יִם וַיִּצְעַ֥ק וַיֹּ֛אמֶר אֲהָ֥הּ אֲדֹנִ֖י וְה֥וּא שָׁאֽוּל׃
+
+**JPS** But as one was felling a beam, the axe-head fell into the water; and he cried, and said: 'Alas, my master! for it was borrowed.'
+
+## 6
+
+**GRC** καὶ εἶπεν ὁ ἄνθρωπος τοῦ θεοῦ Ποῦ ἔπεσεν; καὶ ἔδειξεν αὐτῷ τὸν τόπον· καὶ ἀπέκνισεν ξύλον καὶ ἔρριψεν ἐκεῖ, καὶ ἐπεπόλασεν τὸ σιδήριον.
+
+**ELL** είπε δε ο άνθρωπος του Θεού, Που έπεσε; Και έδειξε τον τόπον εις αυτόν. Τότε έκοψε σχίζαν ξύλου, και έρριψεν εκεί· και το σιδήριον επέπλευσε.
+
+**KJV** And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast it in thither; and the iron did swim.
+
+**HEB** וַיֹּ֥אמֶר אִישׁ־הָאֱלֹהִ֖ים אָ֣נָה נָפָ֑ל וַיַּרְאֵ֙הוּ֙ אֶת־הַמָּק֔וֹם וַיִּקְצָב־עֵץ֙ וַיַּשְׁלֶךְ־שָׁ֔מָּה וַיָּ֖צֶף הַבַּרְזֶֽל׃
+
+**JPS** And the man of G-d said: 'Where fell it?' And he showed him the place. And he cut down a stick, and cast it in thither, and made the iron to swim.
+
+## 7
+
+**GRC** καὶ εἴρηκεν Ὕψωσον σαυτῷ· καὶ ἐξέτεινεν τὴν χεῖρα καὶ ἔλαβεν αὐτό.
+
+**ELL** Και είπεν, Ανάλαβε προς σεαυτόν. Και εκτείνας την χείρα αυτού, έλαβεν αυτό.
+
+**KJV** Therefore said he, Take it up to thee. And he put out his hand, and took it.
+
+**HEB** וַיֹּ֖אמֶר הָ֣רֶם לָ֑ךְ וַיִּשְׁלַ֥ח יָד֖וֹ וַיִּקָּחֵֽהוּ׃
+
+**JPS** And he said: 'Take it up to thee.' So he put out his hand, and took it.
+
+## 8
+
+**GRC** Καὶ βασιλεὺς Συρίας ἦν πολεμῶν ἐν Ἰσραήλ, καὶ ἐβουλεύσατο πρὸς τοὺς παῖδας αὐτοῦ λέγων Εἰς τὸν τόπον τόνδε τινὰ ἐλιμωνὶ παρεμβαλῶ.
+
+**ELL** Ο δε βασιλεύς της Συρίας επολέμει εναντίον του Ισραήλ, και συνεβουλεύθη μετά των δούλων αυτού, λέγων, Εις τον δείνα και δείνα τόπον θέλω στρατοπεδεύσει.
+
+**KJV** Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place shall be my camp.
+
+**HEB** וּמֶ֣לֶךְ אֲרָ֔ם הָיָ֥ה נִלְחָ֖ם בְּיִשְׂרָאֵ֑ל וַיִּוָּעַץ֙ אֶל־עֲבָדָ֣יו לֵאמֹ֗ר אֶל־מְק֛וֹם פְּלֹנִ֥י אַלְמֹנִ֖י תַּחֲנֹתִֽי׃
+
+**JPS** Now the king of Aram warred against Israel; and he took counsel with his servants, saying: `In such and such a place shall be my camp.'
+
+## 9
+
+**GRC** καὶ ἀπέστειλεν Ἐλεισαῖε πρὸς βασιλέα Ἰσραὴλ λέγων Φύλαξαι μὴ παρελθεῖν ἐν τῷ τόπῳ τούτῳ, ὅτι ἐκεῖ Συρία κέκρυπται.
+
+**ELL** Και απέστειλεν ο άνθρωπος του Θεού προς τον βασιλέα του Ισραήλ, λέγων, Φυλάχθητι να μη περάσης τον τόπον εκείνον, διότι οι Σύριοι στρατοπεδεύουσιν εκεί.
+
+**KJV** And the man of God sent unto the king of Israel, saying, Beware that thou pass not such a place; for thither the Syrians are come down.
+
+**HEB** וַיִּשְׁלַ֞ח אִ֣ישׁ הָאֱלֹהִ֗ים אֶל־מֶ֤לֶךְ יִשְׂרָאֵל֙ לֵאמֹ֔ר הִשָּׁ֕מֶר מֵעֲבֹ֖ר הַמָּק֣וֹם הַזֶּ֑ה כִּֽי־שָׁ֖ם אֲרָ֥ם נְחִתִּֽים׃
+
+**JPS** And the man of G-d sent unto the king of Israel, saying: 'Beware that thou pass not such a place; for thither the Arameans are coming down.'
+
+## 10
+
+**GRC** καὶ ἀπέστειλεν ὁ βασιλεὺς Ἰσραὴλ εἰς τὸν τόπον ὃν εἶπεν αὐτῷ Ἐλεισαῖε, καὶ ἐφυλάξατο ἐκεῖθεν οὐ μίαν οὐδὲ δύο.
+
+**ELL** Και απέστειλεν ο βασιλεύς του Ισραήλ εις τον τόπον, τον οποίον είπε προς αυτόν ο άνθρωπος του Θεού και παρήγγειλε περί αυτού· και προεφυλάχθη εκείθεν ουχί άπαξ ουδέ δις.
+
+**KJV** And the king of Israel sent to the place which the man of God told him and warned him of, and saved himself there, not once nor twice.
+
+**HEB** וַיִּשְׁלַ֞ח מֶ֣לֶךְ יִשְׂרָאֵ֗ל אֶֽל־הַמָּק֞וֹם אֲשֶׁ֨ר אָֽמַר־ל֧וֹ אִישׁ־הָאֱלֹהִ֛ים והזהירה וְהִזְהִיר֖וֹ וְנִשְׁמַ֣ר שָׁ֑ם לֹ֥א אַחַ֖ת וְלֹ֥א שְׁתָּֽיִם׃
+
+**JPS** And the king of Israel sent to the place which the man of G-d told him and warned him of; and he guarded himself there, not once nor twice.
+
+## 11
+
+**GRC** καὶ ἐξεκινήθη ἡ ψυχὴ βασιλέως Συρίας περὶ τοῦ λόγου τούτου, καὶ ἐκάλεσεν τοὺς παῖδας αὐτοῦ καὶ εἶπεν πρὸς αὐτούς Οὐκ ἀναγγελεῖτέ μοι τίς προδίδωσίν με βασιλεῖ Ἰσραήλ;
+
+**ELL** Και εταράχθη η καρδία του βασιλέως της Συρίας διά το πράγμα τούτο· και συγκαλέσας τους δούλους αυτού, είπε προς αυτούς, Δεν θέλετε με αναγγείλει, τις εξ ημών είναι υπέρ του βασιλέως του Ισραήλ;
+
+**KJV** Therefore the heart of the king of Syria was sore troubled for this thing; and he called his servants, and said unto them, Will ye not shew me which of us is for the king of Israel?
+
+**HEB** וַיִּסָּעֵר֙ לֵ֣ב מֶֽלֶךְ־אֲרָ֔ם עַל־הַדָּבָ֖ר הַזֶּ֑ה וַיִּקְרָ֤א אֶל־עֲבָדָיו֙ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם הֲלוֹא֙ תַּגִּ֣ידוּ לִ֔י מִ֥י מִשֶּׁלָּ֖נוּ אֶל־מֶ֥לֶךְ יִשְׂרָאֵֽל׃
+
+**JPS** And the heart of the king of Aram was sore troubled for this thing; and he called his servants, and said unto them: 'Will ye not tell me which of us is for the king of Israel?'
+
+## 12
+
+**GRC** καὶ εἶπεν εἷς τῶν παίδων αὐτοῦ Οὐχί, κύριε μου βασιλεῦ, ὅτι Ἐλεισαῖε ὁ προφήτης ὁ ἐν Ἰσραὴλ ἀναγγέλλει τῷ βασιλεῖ Ἰσραὴλ πάντας τοὺς λόγους οὓς ἐὰν λαλήσῃς ἐν τῷ ταμείῳ τοῦ κοιτῶνός σου.
+
+**ELL** Και είπεν εις εκ των δούλων αυτού, Ουδείς, κύριέ μου βασιλεύ· αλλ' ο Ελισσαιέ ο προφήτης, ο εν τω Ισραήλ, αναγγέλλει προς τον βασιλέα του Ισραήλ τους λόγους, τους οποίους λαλείς εν τω ταμείω του κοιτώνός σου.
+
+**KJV** And one of his servants said, None, my lord, O king: but Elisha, the prophet that is in Israel, telleth the king of Israel the words that thou speakest in thy bedchamber.
+
+**HEB** וַיֹּ֙אמֶר֙ אַחַ֣ד מֵֽעֲבָדָ֔יו ל֖וֹא אֲדֹנִ֣י הַמֶּ֑לֶךְ כִּֽי־אֱלִישָׁ֤ע הַנָּבִיא֙ אֲשֶׁ֣ר בְּיִשְׂרָאֵ֔ל יַגִּיד֙ לְמֶ֣לֶךְ יִשְׂרָאֵ֔ל אֶת־הַ֨דְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר בַּחֲדַ֥ר מִשְׁכָּבֶֽךָ׃
+
+**JPS** And one of his servants said: 'Nay, my lord, O king; but Elisha, the prophet that is in Israel, telleth the king of Israel the words that thou speakest in thy bed-chamber.'
+
+## 13
+
+**GRC** καὶ εἶπεν Δεῦτε ἴδετε ποῦ οὗτος, καὶ ἀποστείλας λήμψομαι αὐτόν· καὶ ἀνήγγειλαν αὐτῷ λέγοντες Ἰδοὺ ἐν Δωθάειμ.
+
+**ELL** Και είπεν, Υπάγετε και ιδέτε που είναι, διά να στείλω να συλλάβω αυτόν. Και ανήγγειλαν προς αυτόν, λέγοντες, Ιδού, είναι εν Δωθάν.
+
+**KJV** And he said, Go and spy where he is, that I may send and fetch him. And it was told him, saying, Behold, he is in Dothan.
+
+**HEB** וַיֹּ֗אמֶר לְכ֤וּ וּרְאוּ֙ אֵיכֹ֣ה ה֔וּא וְאֶשְׁלַ֖ח וְאֶקָּחֵ֑הוּ וַיֻּגַּד־ל֥וֹ לֵאמֹ֖ר הִנֵּ֥ה בְדֹתָֽן׃
+
+**JPS** And he said: 'Go and see where he is, that I may send and fetch him.' And it was told him, saying: 'Behold, he is in Dothan.'
+
+## 14
+
+**GRC** καὶ ἀπέστειλεν ἐκεῖ ἵππον καὶ ἅρμα καὶ δύναμιν βαρεῖαν, καὶ ἦλθον νυκτὸς καὶ περιεκύκλωσαν τὴν πόλιν.
+
+**ELL** Και απέστειλεν εκεί ίππους και αμάξας και στράτευμα μέγα, οίτινες, ελθόντες διά νυκτός, περιεκύκλωσαν την πόλιν.
+
+**KJV** Therefore sent he thither horses, and chariots, and a great host: and they came by night, and compassed the city about.
+
+**HEB** וַיִּשְׁלַח־שָׁ֛מָּה סוּסִ֥ים וְרֶ֖כֶב וְחַ֣יִל כָּבֵ֑ד וַיָּבֹ֣אוּ לַ֔יְלָה וַיַּקִּ֖פוּ עַל־הָעִֽיר׃
+
+**JPS** Therefore sent he thither horses, and chariots, and a great host; and they came by night, and compassed the city about.
+
+## 15
+
+**GRC** καὶ ὤρθρισεν ὁ λειτουργὸς Ἐλεισαῖε ἀναστῆναι καὶ ἐξῆλθεν, καὶ ἰδοὺ δύναμις κυκλοῦσα τὴν πόλιν καὶ ἵππος καὶ ἅρμα· καὶ εἶπεν τὸ παιδάριον πρὸς αὐτόν Ὤ, κύριε· πῶς ποιήσωμεν;
+
+**ELL** Και ότε εξηγέρθη το πρωΐ ο υπηρέτης του ανθρώπου του Θεού και εξήλθεν, ιδού, στράτευμα είχε περικυκλωμένην την πόλιν με ίππους και αμάξας. Και είπεν ο υπηρέτης αυτού προς αυτόν, Ω, κύριε, τι θέλομεν κάμει;
+
+**KJV** And when the servant of the man of God was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do?
+
+**HEB** וַ֠יַּשְׁכֵּם מְשָׁרֵ֨ת אִ֥ישׁ הָֽאֱלֹהִים֮ לָקוּם֒ וַיֵּצֵ֕א וְהִנֵּה־חַ֛יִל סוֹבֵ֥ב אֶת־הָעִ֖יר וְס֣וּס וָרָ֑כֶב וַיֹּ֨אמֶר נַעֲר֥וֹ אֵלָ֛יו אֲהָ֥הּ אֲדֹנִ֖י אֵיכָ֥ה נֽ͏ַעֲשֶֽׂה׃
+
+**JPS** And when the servant of the man of G-d was risen early, and gone forth, behold, a host with horses and chariots was round about the city. And his servant said unto him: 'Alas, my master! how shall we do?'
+
+## 16
+
+**GRC** καὶ εἶπεν Ἐλεισαῖε Μὴ φοβοῦ, ὅτι πλείους οἱ μεθ᾽ ἡμῶν ὑπὲρ τοὺς μετ᾽ αὐτῶν.
+
+**ELL** Ο δε είπε, Μη φοβού· διότι πλειότεροι είναι οι μεθ' ημών παρά τους μετ' αυτών.
+
+**KJV** And he answered, Fear not: for they that be with us are more than they that be with them.
+
+**HEB** וַיֹּ֖אמֶר אַל־תִּירָ֑א כִּ֤י רַבִּים֙ אֲשֶׁ֣ר אִתָּ֔נוּ מֵאֲשֶׁ֖ר אוֹתָֽם׃
+
+**JPS** And he answered: 'Fear not: for they that are with us are more than they that are with them.'
+
+## 17
+
+**GRC** καὶ προσεύξατο Ἐλεισαῖε καὶ εἶπεν Κύριε, διάνοιξον τοὺς ὀφθαλμοὺς τοῦ παιδαρίου καὶ ἰδέτω· καὶ διήνοιξεν Κύριος τοὺς ὀφθαλμοὺς αὐτοῦ, καὶ εἶδεν· καὶ ἰδοὺ τὸ ὄρος πλῆρες ἵππων, καὶ ἅρμα πυρὸς περικύκλῳ Ἐλεισαῖε.
+
+**ELL** Και προσηυχήθη ο Ελισσαιέ και είπε, Κύριε, Άνοιξον, δέομαι, τους οφθαλμούς αυτού, διά να ίδη. Και ήνοιξεν ο Κύριος τους οφθαλμούς του υπηρέτου, και είδε· και ιδού, το όρος ήτο πλήρες ίππων και αμαξών πυρός περί τον Ελισσαιέ.
+
+**KJV** And Elisha prayed, and said, Lord, I pray thee, open his eyes, that he may see. And the Lord opened the eyes of the young man; and he saw: and, behold, the mountain was full of horses and chariots of fire round about Elisha.
+
+**HEB** וַיִּתְפַּלֵּ֤ל אֱלִישָׁע֙ וַיֹּאמַ֔ר יְהוָ֕ה פְּקַח־נָ֥א אֶת־עֵינָ֖יו וְיִרְאֶ֑ה וַיִּפְקַ֤ח יְהוָה֙ אֶת־עֵינֵ֣י הַנַּ֔עַר וַיַּ֗רְא וְהִנֵּ֨ה הָהָ֜ר מָלֵ֨א סוּסִ֥ים וְרֶ֛כֶב אֵ֖שׁ סְבִיבֹ֥ת אֱלִישָֽׁע׃
+
+**JPS** And Elisha prayed, and said: `HaShem, I pray Thee, open his eyes, that he may see.' And HaShem opened the eyes of the young man; and he saw; and, behold, the mountain was full of horses and chariots of fire round about Elisha.
+
+## 18
+
+**GRC** καὶ κατέβησαν πρὸς αὐτόν· καὶ προσηύξατο πρὸς Κύριον καὶ εἶπεν Πάταξον δὴ τοῦτο τὸ ἔθνος ἀορασίᾳ· καὶ ἐπάταξεν αὐτοὺς ἀορασίᾳ κατὰ τὸ ῥῆμα Ἐλεισαῖε.
+
+**ELL** Και ότε κατέβησαν προς αυτόν οι Σύριοι, προσηυχήθη ο Ελισσαιέ προς τον Κύριον και είπε, Πάταξον, δέομαι, τον λαόν τούτον με αορασίαν. Και επάταξεν αυτούς με αορασίαν, κατά τον λόγον του Ελισσαιέ.
+
+**KJV** And when they came down to him, Elisha prayed unto the Lord, and said, Smite this people, I pray thee, with blindness. And he smote them with blindness according to the word of Elisha.
+
+**HEB** וַיֵּרְדוּ֮ אֵלָיו֒ וַיִּתְפַּלֵּ֨ל אֱלִישָׁ֤ע אֶל־יְהוָה֙ וַיֹּאמַ֔ר הַךְ־נָ֥א אֶת־הַגּוֹי־הַזֶּ֖ה בַּסַּנְוֵרִ֑ים וַיַּכֵּ֥ם בַּסַּנְוֵרִ֖ים כִּדְבַ֥ר אֱלִישָֽׁע׃
+
+**JPS** And when they came down to him, Elisha prayed unto HaShem, and said: 'Smite this people, I pray Thee, with blindness.' And He smote them with blindness according to the word of Elisha.
+
+## 19
+
+**GRC** καὶ εἶπεν πρὸς αὐτοὺς Ἐλεισαῖε Οὐχ αὕτη ἡ πόλις καὶ αὕτη ἡ ὁδός· δεῦτε ὀπίσω μου, καὶ ἄξω ὑμᾶς πρὸς τὸν ἄνδρα ὃν ζητεῖτε· καὶ ἀπήγαγεν αὐτοὺς πρὸς Σαμάρειαν.
+
+**ELL** Και είπε προς αυτούς ο Ελισσαιέ, Δεν είναι αύτη η οδός ουδέ αύτη η πόλις· έλθετε κατόπιν μου, και θέλω σας φέρει προς τον άνθρωπον, τον οποίον ζητείτε. Και έφερεν αυτούς εις την Σαμάρειαν.
+
+**KJV** And Elisha said unto them, This is not the way, neither is this the city: follow me, and I will bring you to the man whom ye seek. But he led them to Samaria.
+
+**HEB** וַיֹּ֨אמֶר אֲלֵהֶ֜ם אֱלִישָׁ֗ע לֹ֣א זֶ֣ה הַדֶּרֶךְ֮ וְלֹ֣א זֹ֣ה הָעִיר֒ לְכ֣וּ אַחֲרַ֔י וְאוֹלִ֣יכָה אֶתְכֶ֔ם אֶל־הָאִ֖ישׁ אֲשֶׁ֣ר תְּבַקֵּשׁ֑וּן וַיֹּ֥לֶךְ אוֹתָ֖ם שֹׁמְרֽוֹנָה׃
+
+**JPS** And Elisha said unto them: 'This is not the way, neither is this the city; follow me, and I will bring you to the man whom ye seek.' And he led them to Samaria.
+
+## 20
+
+**GRC** καὶ ἐγένετο ὡς εἰσῆλθον εἰς Σαμάρειαν, καὶ εἶπεν Ἐλεισαῖε Ἄνοιξον δή, Κύριε, τοὺς ὀφθαλμοὺς αὐτῶν καὶ ἰδέτωσαν· καὶ διήνοιξεν τοὺς ὀφθαλμοὺς αὐτῶν, καὶ εἶδον· καὶ ἰδοὺ ἦσαν ἐν μέσῳ Σαμαρείας.
+
+**ELL** Και ότε ήλθον εις την Σαμάρειαν, είπεν ο Ελισσαιέ, Άνοιξον, Κύριε, τους οφθαλμούς τούτων, διά να βλέπωσι. Και ήνοιξεν ο Κύριος τους οφθαλμούς αυτών, και είδον· και ιδού, ήσαν εκ τω μέσω της Σαμαρείας.
+
+**KJV** And it came to pass, when they were come into Samaria, that Elisha said, Lord, open the eyes of these men, that they may see. And the Lord opened their eyes, and they saw; and, behold, they were in the midst of Samaria.
+
+**HEB** וַיְהִי֮ כְּבֹאָ֣ם שֹׁמְרוֹן֒ וַיֹּ֣אמֶר אֱלִישָׁ֔ע יְהוָ֕ה פְּקַ֥ח אֶת־עֵינֵֽי־אֵ֖לֶּה וְיִרְא֑וּ וַיִּפְקַ֤ח יְהוָה֙ אֶת־עֵ֣ינֵיהֶ֔ם וַיִּרְא֕וּ וְהִנֵּ֖ה בְּת֥וֹךְ שֹׁמְרֽוֹן׃
+
+**JPS** And it came to pass, when they were come into Samaria, that Elisha said: 'HaShem, open the eyes of these men, that they may see.' And HaShem opened their eyes, and they saw; and, behold, they were in the midst of Samaria.
+
+## 21
+
+**GRC** καὶ εἶπεν ὁ βασιλεὺς Ἰσραήλ, ὡς εἶδεν αὐτούς Εἰ πατάξας πατάξω, πάτερ;
+
+**ELL** Και ως είδεν αυτούς ο βασιλεύς του Ισραήλ, είπε προς τον Ελισσαιέ, Να πατάξω, να πατάξω, πάτερ μου;
+
+**KJV** And the king of Israel said unto Elisha, when he saw them, My father, shall I smite them? shall I smite them?
+
+**HEB** וַיֹּ֤אמֶר מֶֽלֶךְ־יִשְׂרָאֵל֙ אֶל־אֱלִישָׁ֔ע כִּרְאֹת֖וֹ אוֹתָ֑ם הַאַכֶּ֥ה אַכֶּ֖ה אָבִֽי׃
+
+**JPS** And the king of Israel said unto Elisha, when he saw them: 'My father, shall I smite them? shall I smite them?'
+
+## 22
+
+**GRC** καὶ εἶπεν Οὐ πατάξεις, εἰ μὴ οὓς ᾐχμαλώτευσας ἐν ῥομφαίᾳ σου καὶ τόξῳ σου σὺ τύπτεις· παράθες ἄρτους καὶ ὕδωρ ἐνώπιον αὐτῶν, καὶ φαγέτωσαν καὶ πιέτωσαν, καὶ ἀπελθέτωσαν πρὸς τὸν κύριον αὐτῶν.
+
+**ELL** Ο δε είπε, Μη πατάξης· ήθελες πατάξει εκείνους, τους οποίους ηχμαλώτευσας διά της ρομφαίας σου και διά του τόξου σου; θες άρτον και ύδωρ έμπροσθεν αυτών, και ας φάγωσι και ας πίωσι και ας απέλθωσι προς τον κύριον αυτών.
+
+**KJV** And he answered, Thou shalt not smite them: wouldest thou smite those whom thou hast taken captive with thy sword and with thy bow? set bread and water before them, that they may eat and drink, and go to their master.
+
+**HEB** וַיֹּ֙אמֶר֙ לֹ֣א תַכֶּ֔ה הַאֲשֶׁ֥ר שָׁבִ֛יתָ בְּחַרְבְּךָ֥ וּֽבְקַשְׁתְּךָ֖ אַתָּ֣ה מַכֶּ֑ה שִׂים֩ לֶ֨חֶם וָמַ֜יִם לִפְנֵיהֶ֗ם וְיֹֽאכְלוּ֙ וְיִשְׁתּ֔וּ וְיֵלְכ֖וּ אֶל־אֲדֹנֵיהֶֽם׃
+
+**JPS** And he answered: 'Thou shalt not smite them; hast thou taken captive with thy sword and with thy bow those whom thou wouldest smite? set bread and water before them, that they may eat and drink, and go to their master.'
+
+## 23
+
+**GRC** καὶ παρέθηκεν αὐτοῖς παράθεσιν μεγάλην, καὶ ἔφαγον καὶ ἔπιον· καὶ ἀπέστειλεν αὐτοὺς πρὸς τὸν κύριον αὐτῶν· καὶ οὐ προσέθεντο ἔτι μονόζωνοι Συρίας τοῦ ἐλθεῖν εἰς γῆν Ἰσραήλ.
+
+**ELL** Και έθεσεν έμπροσθεν αυτών άφθονον τροφήν· και αφού έφαγον και έπιον, απέστειλεν αυτούς, και ανεχώρησαν προς τον κύριον αυτών. Και δεν ήλθον πλέον τα τάγματα της Συρίας εις την γην του Ισραήλ.
+
+**KJV** And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.
+
+**HEB** וַיִּכְרֶ֨ה לָהֶ֜ם כֵּרָ֣ה גְדוֹלָ֗ה וַיֹּֽאכְלוּ֙ וַיִּשְׁתּ֔וּ וַֽיְשַׁלְּחֵ֔ם וַיֵּלְכ֖וּ אֶל־אֲדֹֽנֵיהֶ֑ם וְלֹֽא־יָ֤סְפוּ עוֹד֙ גְּדוּדֵ֣י אֲרָ֔ם לָב֖וֹא בְּאֶ֥רֶץ יִשְׂרָאֵֽל׃
+
+**JPS** And he prepared great provision for them; and when they had eaten and drunk, he sent them away, and they went to their master. And the bands of Aram came no more into the land of Israel.
+
+## 24
+
+**GRC** Καὶ ἐγένετο μετὰ ταῦτα καὶ ἤθροισεν υἱὸς Ἁδὲρ βασιλεὺς Συρίας πᾶσαν τὴν παρεμβολὴν αὐτοῦ καὶ ἀνέβη, καὶ περιεκάθισαν Σαμάρειαν.
+
+**ELL** Μετά δε ταύτα ο Βεν-αδάδ βασιλεύς της Συρίας συνήθροισεν άπαν το στράτευμα αυτού, και ανέβη και επολιόρκησε την Σαμάρειαν.
+
+**KJV** And it came to pass after this, that Ben–hadad king of Syria gathered all his host, and went up, and besieged Samaria.
+
+**HEB** וַֽיְהִי֙ אַחֲרֵי־כֵ֔ן וַיִּקְבֹּ֛ץ בֶּן־הֲדַ֥ד מֶֽלֶךְ־אֲרָ֖ם אֶת־כָּל־מַחֲנֵ֑הוּ וַיַּ֕עַל וַיָּ֖צַר עַל־שֹׁמְרֽוֹן׃
+
+**JPS** And it came to pass after this, that Ben-hadad king of Aram gathered all his host, and went up, and besieged Samaria.
+
+## 25
+
+**GRC** καὶ ἐγένετο λιμὸς μέγας ἐν Σαμαρείᾳ, καὶ ἰδοὺ περιεκάθηντο ἐπ᾽ αὐτὴν ἕως οὗ ἐγενήθη κεφαλὴ ὄνου πεντήκοντα ἀργυρίου καὶ τέταρτον τοῦ κάβου κόπρου περιστερῶν πέντε ἀργυρίου.
+
+**ELL** Έγεινε δε πείνα μεγάλη εν Σαμαρεία· και ιδού, επολιόρκουν αυτήν, εωσού κεφαλή όνου επωλήθη δι' ογδοήκοντα αργύρια και το τέταρτον ενός κάβου κόπρου περιστερών διά πέντε αργύρια.
+
+**KJV** And there was a great famine in Samaria: and, behold, they besieged it, until an ass’s head was sold for fourscore pieces of silver, and the fourth part of a cab of dove’s dung for five pieces of silver.
+
+**HEB** וַיְהִ֨י רָעָ֤ב גָּדוֹל֙ בְּשֹׁ֣מְר֔וֹן וְהִנֵּ֖ה צָרִ֣ים עָלֶ֑יהָ עַ֣ד הֱי֤וֹת רֹאשׁ־חֲמוֹר֙ בִּשְׁמֹנִ֣ים כֶּ֔סֶף וְרֹ֛בַע הַקַּ֥ב חרייונים דִּבְיוֹנִ֖ים בַּחֲמִשָּׁה־כָֽסֶף׃
+
+**JPS** And there was a great famine in Samaria; and, behold, they besieged it, until an ass's head was sold for fourscore pieces of silver, and the fourth part of a kab of dove's dung for five pieces of silver.
+
+## 26
+
+**GRC** καὶ ἦν ὁ βασιλεὺς Ἰσραὴλ διαπορευόμενος ἐπὶ τοῦ τείχους, καὶ γυνὴ ἐβόησεν πρὸς αὐτὸν λέγουσα Σῶσον, κύριε βασιλεῦ.
+
+**ELL** Και ενώ διέβαινεν ο βασιλεύς του Ισραήλ επί του τείχους, γυνή τις εβόησε προς αυτόν, λέγουσα, Σώσον, κύριέ μου βασιλεύ.
+
+**KJV** And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying, Help, my lord, O king.
+
+**HEB** וַֽיְהִי֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל עֹבֵ֖ר עַל־הַחֹמָ֑ה וְאִשָּׁ֗ה צָעֲקָ֤ה אֵלָיו֙ לֵאמֹ֔ר הוֹשִׁ֖יעָה אֲדֹנִ֥י הַמֶּֽלֶךְ׃
+
+**JPS** And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying: 'Help, my lord, O king.'
+
+## 27
+
+**GRC** καὶ εἶπεν αὐτῇ Μή σε σώσαι Κύριος· πόθεν σώσω σε; μὴ ἀπὸ ἅλωνος ἢ ἀπὸ ληνοῦ;
+
+**ELL** Ο δε είπεν, Εάν ο Κύριος δεν σε σώση, πόθεν θέλω σε σώσει εγώ; μη εκ του αλωνίου ή εκ του ληνού;
+
+**KJV** And he said, If the Lord do not help thee, whence shall I help thee? out of the barnfloor, or out of the winepress?
+
+**HEB** וַיֹּ֙אמֶר֙ אַל־יוֹשִׁעֵ֣ךְ יְהוָ֔ה מֵאַ֖יִן אֽוֹשִׁיעֵ֑ךְ הֲמִן־הַגֹּ֖רֶן א֥וֹ מִן־הַיָּֽקֶב׃
+
+**JPS** And he said: 'If HaShem do not help thee, whence shall I help thee? out of the threshingfloor, or out of the winepress?'
+
+## 28
+
+**GRC** καὶ εἶπεν αὐτῇ ὁ βασιλεύς Τί ἔστιν σοι; καὶ εἶπεν ἡ γυνή Αὕτη εἶπεν πρὸς μέ Δὸς τὸν υἱόν σου, καὶ φαγόμεθα αὐτὸν σήμερον· καὶ τὸν υἱόν μου, καὶ φαγόμεθα αὐτὸν αὔριον.
+
+**ELL** Και είπε προς αυτήν ο βασιλεύς, Τι έχεις; Η δε είπε, Η γυνή αύτη μοι είπε, Δος τον υιόν σου, διά να φάγωμεν αυτόν σήμερον, και αύριον θέλομεν φάγει τον υιόν μου·
+
+**KJV** And the king said unto her, What aileth thee? And she answered, This woman said unto me, Give thy son, that we may eat him to day, and we will eat my son to morrow.
+
+**HEB** וַיֹּֽאמֶר־לָ֥הּ הַמֶּ֖לֶךְ מַה־לָּ֑ךְ וַתֹּ֗אמֶר הָאִשָּׁ֨ה הַזֹּ֜את אָמְרָ֣ה אֵלַ֗י תְּנִ֤י אֶת־בְּנֵךְ֙ וְנֹאכְלֶ֣נּוּ הַיּ֔וֹם וְאֶת־בְּנִ֖י נֹאכַ֥ל מָחָֽר׃
+
+**JPS** And the king said unto her: 'What aileth thee?' And she answered: 'This woman said unto me: Give thy son, that we may eat him to-day, and we will eat my son to-morrow.
+
+## 29
+
+**GRC** καὶ ἡψήσαμεν τὸν υἱόν μου καὶ ἐφάγομεν αὐτόν, καὶ εἶπον πρός αὐτὴν τῇ ἡμέρᾳ τῇ δευτέρᾳ Δὸς τὸν υἱόν σου καὶ φάγωμεν αὐτόν· καὶ ἔκρυψεν τὸν υἱὸν αὐτῆς.
+
+**ELL** και εβράσαμεν τον υιόν μου και εφάγομεν αυτόν· είπον δε προς αυτήν την ακόλουθον ημέραν, Δος τον υιόν σου, διά να φάγωμεν αυτόν· η δε έκρυψε τον υιόν αυτής.
+
+**KJV** So we boiled my son, and did eat him: and I said unto her on the next day, Give thy son, that we may eat him: and she hath hid her son.
+
+**HEB** וַנְּבַשֵּׁ֥ל אֶת־בְּנִ֖י וַנֹּֽאכְלֵ֑הוּ וָאֹמַ֨ר אֵלֶ֜יהָ בַּיּ֣וֹם הָאַחֵ֗ר תְּנִ֤י אֶת־בְּנֵךְ֙ וְנֹ֣אכְלֶ֔נּוּ וַתַּחְבִּ֖א אֶת־בְּנָֽהּ׃
+
+**JPS** So we boiled my son, and did eat him; and I said unto her on the next day: Give thy son, that we may eat him; and she hath hid her son.'
+
+## 30
+
+**GRC** καὶ ἐγένετο ὡς ἤκουσεν ὁ βασιλεὺς τοὺς λόγους τῆς γυναικός, διέρρηξεν τὰ ἱμάτια αὐτοῦ, καὶ αὐτὸς διεπορεύετο ἐπὶ τοῦ τείχους, καὶ εἶδεν ὁ λαὸς τὸν σάκκον ἐπὶ τῆς σαρκὸς αὐτοῦ ἔσωθεν.
+
+**ELL** Και ως ήκουσεν ο βασιλεύς τους λόγους της γυναικός, διέρρηξε τα ιμάτια αυτού· και ενώ διέβαινεν επί του τείχους, ο λαός είδε, και ιδού, σάκκος έσωθεν επί της σαρκός αυτού.
+
+**KJV** And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold, he had sackcloth within upon his flesh.
+
+**HEB** וַיְהִי֩ כִשְׁמֹ֨עַ הַמֶּ֜לֶךְ אֶת־דִּבְרֵ֤י הָֽאִשָּׁה֙ וַיִּקְרַ֣ע אֶת־בְּגָדָ֔יו וְה֖וּא עֹבֵ֣ר עַל־הַחֹמָ֑ה וַיַּ֣רְא הָעָ֔ם וְהִנֵּ֥ה הַשַּׂ֛ק עַל־בְּשָׂר֖וֹ מִבָּֽיִת׃
+
+**JPS** And it came to pass, when the king heard the words of the woman, that he rent his clothes--now he was passing by upon the wall--and the people looked, and, behold, he had sackcloth within upon his flesh.
+
+## 31
+
+**GRC** καὶ εἶπεν Τάδε ποιήσαι μοι ὁ θεὸς καὶ τάδε προσθείη, εἰ στήσεται ἡ κεφαλὴ Ἐλεισαῖε ἐπ᾽ αὐτῷ σήμερον.
+
+**ELL** Και είπεν, Ούτω να κάμη εις εμέ ο Θεός και ούτω να προσθέση, εάν η κεφαλή του Ελισσαιέ υιού του Σαφάτ σταθή επάνω αυτού σήμερον.
+
+**KJV** Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat shall stand on him this day.
+
+**HEB** וַיֹּ֕אמֶר כֹּֽה־יַעֲשֶׂה־לִּ֥י אֱלֹהִ֖ים וְכֹ֣ה יוֹסִ֑ף אִֽם־יַעֲמֹ֞ד רֹ֣אשׁ אֱלִישָׁ֧ע בֶּן־שָׁפָ֛ט עָלָ֖יו הַיּֽוֹם׃
+
+**JPS** Then he said: 'G-d do so to me, and more also, if the head of Elisha the son of Shaphat shall stand on him this day.'
+
+## 32
+
+**GRC** καὶ Ἐλεισαῖε ἐκάθητο ἐν τῷ οἴκῳ αὐτοῦ, καὶ οἱ πρεσβύτεροι ἐκάθηντο μετ᾽ αὐτοῦ· καὶ ἀπέστειλεν ἄνδρα πρὸ προσώπου αὐτοῦ πρὶν ἐλθεῖν τὸν ἄγγελον πρὸς αὐτόν· καὶ εἶπεν πρὸς τοὺς πρεσβυτέρους Εἰ ᾔδειτε ὅτι ἀπέστειλεν ὁ υἱὸς τοῦ φονευτοῦ ἀφελεῖν τὴν κεφαλήν μου; ἴδετε ὡς ἂν ἔλθῃ ὁ ἄγγελος, ἀποκλείσατε τὴν θύραν καὶ παραθλίψατε αὐτὸν ἐν τῇ θύρᾳ· οὐχὶ φωνὴ τῶν ποδῶν τοῦ κυρίου αὐτοῦ κατόπισθεν αὐτοῦ;
+
+**ELL** Ο δε Ελισσαιέ εκάθητο εν τω οίκω αυτού, και οι πρεσβύτεροι εκάθηντο μετ' αυτού· και απέστειλεν ο βασιλεύς άνδρα απ' έμπροσθεν αυτού· πριν δε έλθη προς αυτόν ο μηνυτής, αυτός είπε προς τους πρεσβυτέρους, Δεν βλέπετε ότι ούτος ο υιός του φονευτού έστειλε να αφαιρέση την κεφαλήν μου; βλέπετε, καθώς έλθη ο μηνυτής, κλείσατε την θύραν και εμποδίσατε αυτόν προς την θύραν· η φωνή των ποδών του κυρίου αυτού δεν είναι εξόπισθεν αυτού;
+
+**KJV** But Elisha sat in his house, and the elders sat with him; and the king sent a man from before him: but ere the messenger came to him, he said to the elders, See ye how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door: is not the sound of his master’s feet behind him?
+
+**HEB** וֶאֱלִישָׁע֙ יֹשֵׁ֣ב בְּבֵית֔וֹ וְהַזְּקֵנִ֖ים יֹשְׁבִ֣ים אִתּ֑וֹ וַיִּשְׁלַ֨ח אִ֜ישׁ מִלְּפָנָ֗יו בְּטֶ֣רֶם יָבֹא֩ הַמַּלְאָ֨ךְ אֵלָ֜יו וְה֣וּא ׀ אָמַ֣ר אֶל־הַזְּקֵנִ֗ים הַרְּאִיתֶם֙ כִּֽי־שָׁלַ֞ח בֶּן־הַֽמְרַצֵּ֤חַ הַזֶּה֙ לְהָסִ֣יר אֶת־רֹאשִׁ֔י רְא֣וּ ׀ כְּבֹ֣א הַמַּלְאָ֗ךְ סִגְר֤וּ הַדֶּ֙לֶת֙ וּלְחַצְתֶּ֤ם אֹתוֹ֙ בַּדֶּ֔לֶת הֲל֗וֹא ק֛וֹל רַגְלֵ֥י אֲדֹנָ֖יו אַחֲרָֽיו׃
+
+**JPS** But Elisha sat in his house, and the elders sat with him; and the king sent a man from before him; but ere the messenger came to him, he said to the elders: 'See ye how this son of a murderer hath sent to take away my head? look, when the messenger cometh, shut the door, and hold the door fast against him; is not the sound of his master's feet behind him?'
+
+## 33
+
+**GRC** ἔτι αὐτοῦ λαλοῦντος μετ᾽ αὐτῶν, καὶ ἰδοὺ ἄγγελος κατέβη πρὸς αὐτὸν καὶ εἶπεν Ἰδοὺ αὕτη ἡ κακία παρὰ Κυρίου· τί ὑπομείνω τῷ κυρίῳ ἔτι;
+
+**ELL** Και ενώ έτι ελάλει μετ' αυτών, ιδού, κατέβη προς αυτόν ο μηνυτής· και είπεν, Ιδού, παρά Κυρίου είναι το κακόν τούτο· τι πλέον να ελπίσω εις τον Κύριον;
+
+**KJV** And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the Lord; what should I wait for the Lord any longer?
+
+**HEB** עוֹדֶ֙נּוּ֙ מְדַבֵּ֣ר עִמָּ֔ם וְהִנֵּ֥ה הַמַּלְאָ֖ךְ יֹרֵ֣ד אֵלָ֑יו וַיֹּ֗אמֶר הִנֵּֽה־זֹ֤את הָֽרָעָה֙ מֵאֵ֣ת יְהוָ֔ה מָֽה־אוֹחִ֥יל לַיהוָ֖ה עֽוֹד׃
+
+**JPS** And while he yet talked with them, behold, the messenger came down unto him; and the king said: 'Behold, this evil is of HaShem; why should I wait for HaShem any longer?'
+
+## Notes
+
