@@ -144,3 +144,19 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .
 }
 .verse-row .txt[lang="he"] .lbl { margin: 0 0 0 6px; }
 .toggle[hidden] { display: none; }
+
+/* Your own translation column */
+.verse-row .txt.own .cell-edit {
+  border: none; background: none; padding: 0 2px; color: var(--muted); font-family: var(--sans); font-size: .9rem;
+  opacity: 0; vertical-align: baseline;
+}
+.verse-row:hover .txt.own .cell-edit, .verse-row .txt.own .cell-edit:focus-visible { opacity: 1; }
+.verse-row .txt.own .cell-edit.add {
+  opacity: .55; border: 1px dashed var(--border); border-radius: 6px; padding: 2px 8px;
+}
+.verse-row .txt.own .cell-edit.add span { font-size: .8rem; }
+.verse-row:hover .txt.own .cell-edit.add { opacity: 1; border-color: var(--accent); color: var(--accent); }
+@media (hover: none) { .verse-row .txt.own .cell-edit { opacity: .7; } }
+.verse-row .txt.own textarea { font-size: 1.05rem; }
+.cell-actions { margin-top: 6px; }
+.cell-actions { display: flex; gap: 8px; justify-content: flex-end; flex-wrap: wrap; }

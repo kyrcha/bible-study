@@ -12,6 +12,8 @@
   const COLS = [
     { tag: "GRC", label: "Αρχαία Ελληνικά", lang: "grc", def: "1" },
     { tag: "ELL", label: "Νέα Ελληνικά", lang: "el", def: "1" },
+    // Your own translation: exists in every book, edited cell by cell.
+    { tag: "MOD", label: "Η μετάφρασή μου", sub: "σύγχρονα ελληνικά", lang: "el", def: "1", own: true },
     { tag: "KJV", label: "English", lang: "en", def: "1" },
     { tag: "HEB", label: "עברית · Hebrew", lang: "he", def: "0" },
     { tag: "JPS", label: "Jewish English", lang: "en", def: "0" },
@@ -151,12 +153,27 @@
     if (start < 0) throw new Error(`Verse ${n} not found in file`);
     let end = start + 1;
     while (end < lines.length && !/^##\s/.test(lines[end])) end++;
+    const lineOf = (tag) => {
+      const i = lines.slice(start + 1, end).findIndex((l) => l.startsWith(`**${tag}**`));
+      return i < 0 ? -1 : start + 1 + i;
+    };
     for (const [tag, text] of Object.entries(values)) {
       const clean = text.replace(/\s*\n\s*/g, " ").trim();
-      const idx = lines.slice(start + 1, end).findIndex((l) => l.startsWith(`**${tag}**`));
+      const at = lineOf(tag);
       const newLine = `**${tag}** ${clean}`.trimEnd();
-      if (idx >= 0) lines[start + 1 + idx] = newLine;
-      else { lines.splice(end, 0, newLine, ""); end += 2; }
+      const own = COLS.find((c) => c.tag === tag)?.own;
+      if (at >= 0 && !clean && own) {
+        // Clearing your own translation removes its line (and the blank line before it).
+        const from = lines[at - 1] === "" ? at - 1 : at;
+        lines.splice(from, at - from + 1); end -= at - from + 1;
+      } else if (at >= 0) {
+        lines[at] = newLine;
+      } else if (clean || !own) {
+        // Insert after the nearest earlier column that is present, so the file keeps column order.
+        const earlier = COLS.slice(0, COLS.findIndex((c) => c.tag === tag)).map((c) => lineOf(c.tag)).filter((i) => i >= 0);
+        const after = earlier.length ? Math.max(...earlier) : start;
+        lines.splice(after + 1, 0, "", newLine); end += 2;
+      }
     }
     return lines.join("\n");
   }
@@ -210,7 +227,7 @@
 
   /** Columns the current testament has (the Hebrew and JPS exist only for the Old Testament). */
   function bookCols() {
-    return COLS.filter((c) => !state.book || state.book.testament.sources[c.tag]);
+    return COLS.filter((c) => c.own || !state.book || state.book.testament.sources[c.tag]);
   }
   function visibleCols() {
     return bookCols().filter((c) => store.get("col." + c.tag, c.def) === "1");
@@ -346,7 +363,7 @@
           <button type="button" id="rawBtn" ${canEdit ? "" : "disabled title='Connect GitHub (⚙) to edit here'"}>Edit markdown</button>
         </div>
       </div>
-      <div class="colheads"><span></span>${cols.map((c) => `<span>${c.label} <span class="muted">· ${esc(state.book.testament.sources[c.tag] || "")}</span></span>`).join("")}<span></span></div>
+      <div class="colheads"><span></span>${cols.map((c) => `<span>${c.label} <span class="muted">· ${esc(state.book.testament.sources[c.tag] || c.sub || "")}</span></span>`).join("")}<span></span></div>
       <div id="verses">
         ${ch.verses.map((v) => verseRow(v, cols, canEdit)).join("")}
       </div>
@@ -364,6 +381,7 @@
     $("#rawBtn").onclick = () => editRaw();
     $("#notesBtn").onclick = () => editNotes(ch.notes);
     view.querySelectorAll(".edit-btn").forEach((b) => (b.onclick = () => editVerse(+b.dataset.v)));
+    view.querySelectorAll(".cell-edit").forEach((b) => (b.onclick = () => editCell(+b.dataset.v, b.dataset.tag)));
 
     if (state.verse) {
       const el = document.getElementById("v" + state.verse);
@@ -375,10 +393,45 @@
     return `
       <div class="verse-row" id="v${v.n}">
         <a class="num" href="#/${state.book.slug}/${state.chapter}/${v.n}">${v.n}</a>
-        ${cols.map((c) => `<div class="txt ${v[c.tag] ? "" : "empty"}" lang="${c.lang}"${c.lang === "he" ? ' dir="rtl"' : ""}><span class="lbl">${c.tag}</span>${mdInline(v[c.tag])}</div>`).join("")}
+        ${cols.map((c) => (c.own ? ownCell(v, c) : `<div class="txt ${v[c.tag] ? "" : "empty"}" lang="${c.lang}"${c.lang === "he" ? ' dir="rtl"' : ""}><span class="lbl">${c.tag}</span>${mdInline(v[c.tag])}</div>`)).join("")}
         ${canEdit ? `<button class="edit-btn" data-v="${v.n}" title="Edit verse ${v.n}" aria-label="Edit verse ${v.n}">✎</button>` : "<span></span>"}
         ${v.extra ? `<div class="extra">${md(v.extra)}</div>` : ""}
       </div>`;
+  }
+
+  /** A cell of your own translation: the text plus a ✎ icon, or just the icon while it is empty. */
+  function ownCell(v, c) {
+    const text = v[c.tag];
+    const btn = `<button type="button" class="cell-edit${text ? "" : " add"}" data-v="${v.n}" data-tag="${c.tag}"
+      title="${text ? "Επεξεργασία" : "Γράψε τη μετάφρασή σου"} (${v.n})" aria-label="${text ? "Edit" : "Add"} your translation of verse ${v.n}">✎${text ? "" : " <span>Μετάφραση…</span>"}</button>`;
+    return `<div class="txt own" id="own-${v.n}" lang="${c.lang}"><span class="lbl">${c.tag}</span>${text ? mdInline(text) + " " : ""}${btn}</div>`;
+  }
+
+  /** Edit one column of one verse in place (used for your own translation). */
+  function editCell(n, tag) {
+    if (!cfg.token) { openSettings(); return; }
+    const col = COLS.find((c) => c.tag === tag);
+    const v = parseChapter(state.text).verses.find((x) => x.n === n);
+    const cell = document.getElementById("own-" + n);
+    state.editing = true;
+    cell.innerHTML = `
+      <textarea rows="4" lang="${col.lang}" placeholder="Η μετάφρασή σου για το εδάφιο ${n}…">${esc(v[tag])}</textarea>
+      <div class="row cell-actions"><button type="button" data-a="cancel">Άκυρο</button><button type="button" class="primary" data-a="save">Αποθήκευση</button></div>`;
+    const ta = cell.querySelector("textarea");
+    ta.focus(); ta.setSelectionRange(ta.value.length, ta.value.length);
+    const cancel = () => { state.editing = false; renderChapter(); };
+    const save = async () => {
+      const btn = cell.querySelector('[data-a="save"]');
+      btn.disabled = true;
+      await commit((text) => patchVerse(text, n, { [tag]: ta.value }), `Translate ${state.book.name} ${state.chapter}:${n}`, true);
+      if (btn.isConnected) btn.disabled = false;
+    };
+    cell.querySelector('[data-a="cancel"]').onclick = cancel;
+    cell.querySelector('[data-a="save"]').onclick = save;
+    ta.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") cancel();
+      if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) save();
+    });
   }
 
   // ---------- editing ----------
