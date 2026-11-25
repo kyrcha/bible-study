@@ -52,8 +52,22 @@ A note about this verse — any other text under a verse heading is shown as a v
 Free‑form markdown study notes for the whole chapter.
 ```
 
+### Your own translation
+
+The **Η μετάφρασή μου** column (tag `MOD`), next to Vamvas, is for your own translation into today's Greek.
+On the site, click ✎ in that column, write the verse and press *Αποθήκευση* (or Ctrl/⌘+Enter). It is committed to
+GitHub as a line right after the Vamvas line:
+
+```markdown
+**ELL** Διότι τόσον ηγάπησεν ο Θεός τον κόσμον, …
+
+**MOD** Γιατί ο Θεός αγάπησε τόσο πολύ τον κόσμο, …
+```
+
+You can also type these lines directly on GitHub. Clearing the text on the site removes the line.
+
 Rules the website relies on: a verse starts with `## <number>`, each version is a line starting with
-`**GRC**`, `**ELL**`, `**KJV**`, `**HEB**` or `**JPS**`, and `## Notes` (if present) is the last section. Everything else is up to you.
+`**GRC**`, `**ELL**`, `**MOD**`, `**KJV**`, `**HEB**` or `**JPS**`, and `## Notes` (if present) is the last section. Everything else is up to you.
 
 Where the editions number verses differently (e.g. Romans 16:25‑27, which the Byzantine text places after 14:23,
 or verses such as Luke 17:36 and Acts 24:7 that it does not contain), the missing version is simply left empty.
