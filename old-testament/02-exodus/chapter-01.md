@@ -17,6 +17,8 @@ Anything under '## Notes' is free-form markdown for your own study notes.
 
 **ELL** Και ταύτα είναι τα ονόματα των υιών Ισραήλ, των εισελθόντων εις Αίγυπτον μετά του Ιακώβ· έκαστος μετά της οικογένειας αυτού εισήλθον.
 
+**MOD** Μία μετάφραση
+
 **KJV** Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 
 **HEB** וְאֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל הַבָּאִ֖ים מִצְרָ֑יְמָה אֵ֣ת יַעֲקֹ֔ב אִ֥ישׁ וּבֵית֖וֹ בָּֽאוּ׃
